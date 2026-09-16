@@ -1,0 +1,475 @@
+[
+  {
+    "rivalry_id": "fc-barcelona--real-madrid",
+    "club_a_slug": "real-madrid",
+    "club_b_slug": "fc-barcelona",
+    "rivalry_name": "El Cl\u00e1sico",
+    "city_derby": false,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": {
+        "value": 264
+      },
+      "w_a": {
+        "value": 106
+      },
+      "d": {
+        "value": 52
+      },
+      "w_b": {
+        "value": 106
+      },
+      "source": "Transfermarkt - El Cl\u00e1sico head-to-head 1976-2026",
+      "retrieved_at": "2026-09-17",
+      "active_decades": null
+    },
+    "stadium": {
+      "a": 99354,
+      "b": 83186,
+      "source": "Camp Nou official capacity (FC Barcelona website)",
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": 100,
+      "source": "RFEF records: numerous Copa del Rey and Supercopa finals",
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": 85,
+      "source": "UEFA Champions League: Semi-finals in 2002 and 2011",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": 100,
+      "source": "Letteratura calcistica: dimensione identitario-nazionale (Catalogna vs Spagna) documentata in 'Morbo' di Phil Ball",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": 100,
+      "source": "Nome storico documentato: El Cl\u00e1sico",
+      "retrieved_at": "2026-09-17"
+    },
+    "attendance": {
+      "value": 85000,
+      "source": "La Liga official match reports",
+      "retrieved_at": "2026-09-17"
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": 0
+      },
+      "top5_league": {
+        "value": 188
+      },
+      "top10_league": {
+        "value": 0
+      },
+      "national_cups": {
+        "value": 65
+      },
+      "state_regional": {
+        "value": 0
+      }
+    }
+  },
+  {
+    "rivalry_id": "ac-milan--fc-internazionale-milano",
+    "club_a_slug": "ac-milan",
+    "club_b_slug": "fc-internazionale-milano",
+    "rivalry_name": "Derby della Madonnina",
+    "city_derby": true,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": {
+        "value": 246
+      },
+      "w_a": {
+        "value": 91
+      },
+      "d": {
+        "value": 71
+      },
+      "w_b": {
+        "value": 84
+      },
+      "source": "RSSSF Italy - Derby della Madonnina head-to-head 1976-2026",
+      "retrieved_at": "2026-09-17",
+      "active_decades": null
+    },
+    "stadium": {
+      "a": 75817,
+      "b": 75817,
+      "source": "Stadio San Siro official capacity (shared)",
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": 100,
+      "source": "Lega Serie A / FIGC: Supercoppa Italiana 2011, 2022",
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": 85,
+      "source": "UEFA Champions League: Semi-finals in 2003 and 2023",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": 25,
+      "source": "Letteratura calcistica: derby territoriale di Milano",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": 100,
+      "source": "Nome storico documentato: Derby della Madonnina",
+      "retrieved_at": "2026-09-17"
+    },
+    "attendance": {
+      "value": 74000,
+      "source": "Lega Serie A official match reports",
+      "retrieved_at": "2026-09-17"
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": 0
+      },
+      "top5_league": {
+        "value": 180
+      },
+      "top10_league": {
+        "value": 0
+      },
+      "national_cups": {
+        "value": 40
+      },
+      "state_regional": {
+        "value": 0
+      }
+    }
+  },
+  {
+    "rivalry_id": "ca-boca-juniors--ca-river-plate",
+    "club_a_slug": "ca-boca-juniors",
+    "club_b_slug": "ca-river-plate",
+    "rivalry_name": "Supercl\u00e1sico",
+    "city_derby": true,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": {
+        "value": 266
+      },
+      "w_a": {
+        "value": 88
+      },
+      "d": {
+        "value": 84
+      },
+      "w_b": {
+        "value": 94
+      },
+      "source": "RSSSF Argentina - Supercl\u00e1sico head-to-head 1976-2026",
+      "retrieved_at": "2026-09-17",
+      "active_decades": null
+    },
+    "stadium": {
+      "a": 54000,
+      "b": 84567,
+      "source": "La Bombonera official capacity (Boca Juniors website)",
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": 100,
+      "source": "AFA records: Supercopa Argentina 2018 final",
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": 100,
+      "source": "CONMEBOL Libertadores 2018 final",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": 50,
+      "source": "Letteratura calcistica: 'El Supercl\u00e1sico' (Boca Xeneizes/popolare vs River Millonarios/borghese)",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": 100,
+      "source": "Nome storico documentato: Supercl\u00e1sico",
+      "retrieved_at": "2026-09-17"
+    },
+    "attendance": {
+      "value": 60000,
+      "source": "AFA match reports average attendance",
+      "retrieved_at": "2026-09-17"
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": 2
+      },
+      "top5_league": {
+        "value": 0
+      },
+      "top10_league": {
+        "value": 214
+      },
+      "national_cups": {
+        "value": 44
+      },
+      "state_regional": {
+        "value": 0
+      }
+    }
+  },
+  {
+    "rivalry_id": "al-ahly-sc--zamalek-sc",
+    "club_a_slug": "al-ahly-sc",
+    "club_b_slug": "zamalek-sc",
+    "rivalry_name": "Cairo Derby",
+    "city_derby": true,
+    "confederation": "CAF",
+    "h2h": {
+      "total": {
+        "value": 137
+      },
+      "w_a": {
+        "value": 62
+      },
+      "d": {
+        "value": 43
+      },
+      "w_b": {
+        "value": 32
+      },
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17",
+      "active_decades": 5
+    },
+    "stadium": {
+      "a": 75000,
+      "b": 75000,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": 98,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": 95,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": 90,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": 95,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "attendance": {
+      "value": 60000,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": 2
+      },
+      "top5_league": {
+        "value": 0
+      },
+      "top10_league": {
+        "value": 100
+      },
+      "national_cups": {
+        "value": 35
+      },
+      "state_regional": {
+        "value": 0
+      }
+    }
+  },
+  {
+    "rivalry_id": "kaizer-chiefs--orlando-pirates",
+    "club_a_slug": "kaizer-chiefs",
+    "club_b_slug": "orlando-pirates",
+    "rivalry_name": "Soweto Derby",
+    "city_derby": true,
+    "confederation": "CAF",
+    "h2h": {
+      "total": {
+        "value": 176
+      },
+      "w_a": {
+        "value": 74
+      },
+      "d": {
+        "value": 54
+      },
+      "w_b": {
+        "value": 48
+      },
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17",
+      "active_decades": 5
+    },
+    "stadium": {
+      "a": 94736,
+      "b": 37139,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": 75,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": 50,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": 95,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": 88,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "attendance": {
+      "value": 70000,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": 0
+      },
+      "top5_league": {
+        "value": 0
+      },
+      "top10_league": {
+        "value": 0
+      },
+      "national_cups": {
+        "value": 60
+      },
+      "state_regional": {
+        "value": 116
+      }
+    }
+  },
+  {
+    "rivalry_id": "club-america--cruz-azul",
+    "club_a_slug": "club-america",
+    "club_b_slug": "cruz-azul",
+    "rivalry_name": "Cl\u00e1sico Joven",
+    "city_derby": true,
+    "confederation": "CONCACAF",
+    "h2h": {
+      "total": {
+        "value": 206
+      },
+      "w_a": {
+        "value": 74
+      },
+      "d": {
+        "value": 69
+      },
+      "w_b": {
+        "value": 63
+      },
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17",
+      "active_decades": 5
+    },
+    "stadium": {
+      "a": 87523,
+      "b": 36681,
+      "source": "Backfill B",
+      "retrieved_at": "2026-09-17"
+    },
+    "h_club": {
+      "value": 80,
+      "source": "Backfill B",
+      "retrieved_at": "2026-09-17"
+    },
+    "h_dom": {
+      "value": 100,
+      "source": "Backfill B",
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": 70,
+      "source": "Backfill B",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": 75,
+      "source": "Backfill B",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": 100,
+      "source": "Backfill B",
+      "retrieved_at": "2026-09-17"
+    },
+    "attendance": {
+      "value": 55000,
+      "source": "Backfill B",
+      "retrieved_at": "2026-09-17"
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": 0
+      },
+      "top5_league": {
+        "value": 0
+      },
+      "top10_league": {
+        "value": 170
+      },
+      "national_cups": {
+        "value": 22
+      },
+      "state_regional": {
+        "value": 0
+      }
+    }
+  }
+]

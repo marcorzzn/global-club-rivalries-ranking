@@ -1,0 +1,25 @@
+Compila SOLO il campo `match_context` per queste 15 rivalità.
+Per ogni rivalità, suddividi il totale nei 5 livelli competitivi:
+- continental_finals: match in finali di coppe continentali
+- top5_league: match in campionati top 5 europei
+- top10_league: match in campionati top 10 (Brasileirão, Liga MX, ecc.)
+- national_cups: match in coppe nazionali
+- state_regional: match in campionati statali/regionali
+
+Rispondi SOLO con un JSON array identico al template fornito. Zero amichevoli.
+RIVALITA:
+- al-ahly-sc--zamalek-sc
+- afc-ajax--feyenoord-rotterdam
+- as-roma--ss-lazio
+- ca-boca-juniors--ca-independiente
+- borussia-dortmund--fc-schalke-04
+- ec-bahia--ec-vitoria
+- clube-atletico-mineiro--cruzeiro-ec
+- club-bolivar--the-strongest
+- club-cerro-porteno--club-olimpia
+- deportivo-saprissa--ld-alajuelense
+- csd-comunicaciones--csd-municipal
+- cr-flamengo--cr-vasco-da-gama
+- heart-of-midlothian--hibernian-fc
+- sc-corinthians--se-palmeiras
+- botafogo-fr--cr-flamengo

@@ -1,0 +1,417 @@
+[
+  {
+    "rivalry_id": "juventus-fc--ssc-napoli",
+    "club_a": "juventus-fc",
+    "club_b": "ssc-napoli",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": "..."
+      },
+      "w_a": {
+        "value": null,
+        "source": "..."
+      },
+      "d": {
+        "value": null,
+        "source": "..."
+      },
+      "w_b": {
+        "value": null,
+        "source": "..."
+      },
+      "active_decades": {
+        "value": null,
+        "source": "..."
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": "..."
+    },
+    "h_cont": {
+      "value": null,
+      "source": "..."
+    },
+    "h_club": {
+      "value": null,
+      "source": "..."
+    },
+    "i_soc": {
+      "value": null,
+      "source": "..."
+    },
+    "i_name": {
+      "value": null,
+      "source": "..."
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": "..."
+      },
+      "b": {
+        "value": null,
+        "source": "..."
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": "..."
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": "..."
+      },
+      "top5_league": {
+        "value": null,
+        "source": "..."
+      },
+      "top10_league": {
+        "value": null,
+        "source": "..."
+      },
+      "national_cups": {
+        "value": null,
+        "source": "..."
+      },
+      "state_regional": {
+        "value": null,
+        "source": "..."
+      }
+    }
+  },
+  {
+    "rivalry_id": "ca-independiente--racing-club",
+    "club_a": "ca-independiente",
+    "club_b": "racing-club",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": "..."
+      },
+      "w_a": {
+        "value": null,
+        "source": "..."
+      },
+      "d": {
+        "value": null,
+        "source": "..."
+      },
+      "w_b": {
+        "value": null,
+        "source": "..."
+      },
+      "active_decades": {
+        "value": null,
+        "source": "..."
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": "..."
+    },
+    "h_cont": {
+      "value": null,
+      "source": "..."
+    },
+    "h_club": {
+      "value": null,
+      "source": "..."
+    },
+    "i_soc": {
+      "value": null,
+      "source": "..."
+    },
+    "i_name": {
+      "value": null,
+      "source": "..."
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": "..."
+      },
+      "b": {
+        "value": null,
+        "source": "..."
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": "..."
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": "..."
+      },
+      "top5_league": {
+        "value": null,
+        "source": "..."
+      },
+      "top10_league": {
+        "value": null,
+        "source": "..."
+      },
+      "national_cups": {
+        "value": null,
+        "source": "..."
+      },
+      "state_regional": {
+        "value": null,
+        "source": "..."
+      }
+    }
+  },
+  {
+    "rivalry_id": "club-universidad-nacional-pumas--cruz-azul",
+    "club_a": "cruz-azul",
+    "club_b": "club-universidad-nacional-pumas",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": "..."
+      },
+      "w_a": {
+        "value": null,
+        "source": "..."
+      },
+      "d": {
+        "value": null,
+        "source": "..."
+      },
+      "w_b": {
+        "value": null,
+        "source": "..."
+      },
+      "active_decades": {
+        "value": null,
+        "source": "..."
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": "..."
+    },
+    "h_cont": {
+      "value": null,
+      "source": "..."
+    },
+    "h_club": {
+      "value": null,
+      "source": "..."
+    },
+    "i_soc": {
+      "value": null,
+      "source": "..."
+    },
+    "i_name": {
+      "value": null,
+      "source": "..."
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": "..."
+      },
+      "b": {
+        "value": null,
+        "source": "..."
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": "..."
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": "..."
+      },
+      "top5_league": {
+        "value": null,
+        "source": "..."
+      },
+      "top10_league": {
+        "value": null,
+        "source": "..."
+      },
+      "national_cups": {
+        "value": null,
+        "source": "..."
+      },
+      "state_regional": {
+        "value": null,
+        "source": "..."
+      }
+    }
+  },
+  {
+    "rivalry_id": "al-ahli-sfc--al-ittihad-fc",
+    "club_a": "al-ahli-sfc",
+    "club_b": "al-ittihad-fc",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": "..."
+      },
+      "w_a": {
+        "value": null,
+        "source": "..."
+      },
+      "d": {
+        "value": null,
+        "source": "..."
+      },
+      "w_b": {
+        "value": null,
+        "source": "..."
+      },
+      "active_decades": {
+        "value": null,
+        "source": "..."
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": "..."
+    },
+    "h_cont": {
+      "value": null,
+      "source": "..."
+    },
+    "h_club": {
+      "value": null,
+      "source": "..."
+    },
+    "i_soc": {
+      "value": null,
+      "source": "..."
+    },
+    "i_name": {
+      "value": null,
+      "source": "..."
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": "..."
+      },
+      "b": {
+        "value": null,
+        "source": "..."
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": "..."
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": "..."
+      },
+      "top5_league": {
+        "value": null,
+        "source": "..."
+      },
+      "top10_league": {
+        "value": null,
+        "source": "..."
+      },
+      "national_cups": {
+        "value": null,
+        "source": "..."
+      },
+      "state_regional": {
+        "value": null,
+        "source": "..."
+      }
+    }
+  },
+  {
+    "rivalry_id": "dc-united--new-york-red-bulls",
+    "club_a": "new-york-red-bulls",
+    "club_b": "dc-united",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": "..."
+      },
+      "w_a": {
+        "value": null,
+        "source": "..."
+      },
+      "d": {
+        "value": null,
+        "source": "..."
+      },
+      "w_b": {
+        "value": null,
+        "source": "..."
+      },
+      "active_decades": {
+        "value": null,
+        "source": "..."
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": "..."
+    },
+    "h_cont": {
+      "value": null,
+      "source": "..."
+    },
+    "h_club": {
+      "value": null,
+      "source": "..."
+    },
+    "i_soc": {
+      "value": null,
+      "source": "..."
+    },
+    "i_name": {
+      "value": null,
+      "source": "..."
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": "..."
+      },
+      "b": {
+        "value": null,
+        "source": "..."
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": "..."
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": "..."
+      },
+      "top5_league": {
+        "value": null,
+        "source": "..."
+      },
+      "top10_league": {
+        "value": null,
+        "source": "..."
+      },
+      "national_cups": {
+        "value": null,
+        "source": "..."
+      },
+      "state_regional": {
+        "value": null,
+        "source": "..."
+      }
+    }
+  }
+]

@@ -3,60 +3,181 @@
   "title": "MWI-50 Ultra Rivalry Schema (V2 Strict + AllOf)",
   "type": "object",
   "required": [
-    "rivalry_id", "club_a_slug", "club_b_slug", "confederation", "city_derby",
-    "h2h", "stadium", "h_dom", "h_cont", "h_club", "i_soc", "i_name"
+    "rivalry_id",
+    "club_a_slug",
+    "club_b_slug",
+    "confederation",
+    "city_derby",
+    "h2h",
+    "stadium",
+    "h_dom",
+    "h_cont",
+    "h_club",
+    "i_soc",
+    "i_name"
   ],
   "definitions": {
     "sourced_metric_integer": {
       "type": "object",
       "properties": {
-        "value": { "type": ["integer", "null"] },
-        "source": { "type": ["string", "null"] },
-        "retrieved_at": { "type": ["string", "null"] }
+        "value": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "source": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "retrieved_at": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
       },
       "allOf": [
         {
-          "if": { "properties": { "value": { "type": "integer" } }, "required": ["value"] },
+          "if": {
+            "properties": {
+              "value": {
+                "type": "integer"
+              }
+            },
+            "required": [
+              "value"
+            ]
+          },
           "then": {
             "properties": {
-              "source": { "type": "string", "minLength": 5 },
-              "retrieved_at": { "type": "string", "format": "date" }
+              "source": {
+                "type": "string",
+                "minLength": 5
+              },
+              "retrieved_at": {
+                "type": "string",
+                "format": "date"
+              }
             },
-            "required": ["source", "retrieved_at"]
+            "required": [
+              "source",
+              "retrieved_at"
+            ]
           }
         }
       ]
     }
   },
   "properties": {
-    "rivalry_id": { "type": "string", "pattern": "^[a-z0-9-]+--[a-z0-9-]+$" },
-    "club_a_slug": { "type": "string" },
-    "club_b_slug": { "type": "string" },
-    "rivalry_name": { "type": ["string", "null"] },
-    "city_derby": { "type": "boolean" },
+    "rivalry_id": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+--[a-z0-9-]+$"
+    },
+    "club_a_slug": {
+      "type": "string"
+    },
+    "club_b_slug": {
+      "type": "string"
+    },
+    "rivalry_name": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "city_derby": {
+      "type": "boolean"
+    },
     "confederation": {
       "type": "string",
-      "enum": ["UEFA", "CONMEBOL", "CONCACAF", "CAF", "AFC", "OFC"]
+      "enum": [
+        "UEFA",
+        "CONMEBOL",
+        "CONCACAF",
+        "CAF",
+        "AFC",
+        "OFC"
+      ]
     },
     "h2h": {
       "type": "object",
       "properties": {
-        "total": { "type": ["integer", "null"], "minimum": 25 },
-        "w_a": { "type": ["integer", "null"] },
-        "d": { "type": ["integer", "null"] },
-        "w_b": { "type": ["integer", "null"] },
-        "source": { "type": ["string", "null"] },
-        "retrieved_at": { "type": ["string", "null"] }
+        "total": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 25
+        },
+        "w_a": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "d": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "w_b": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "source": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "retrieved_at": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "active_decades": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 1,
+          "maximum": 5
+        }
       },
       "allOf": [
         {
-          "if": { "properties": { "total": { "type": "integer" } }, "required": ["total"] },
+          "if": {
+            "properties": {
+              "total": {
+                "type": "integer"
+              }
+            },
+            "required": [
+              "total"
+            ]
+          },
           "then": {
             "properties": {
-              "source": { "type": "string", "minLength": 5 },
-              "retrieved_at": { "type": "string", "format": "date" }
+              "source": {
+                "type": "string",
+                "minLength": 5
+              },
+              "retrieved_at": {
+                "type": "string",
+                "format": "date"
+              }
             },
-            "required": ["source", "retrieved_at"]
+            "required": [
+              "source",
+              "retrieved_at"
+            ]
           }
         }
       ]
@@ -64,36 +185,125 @@
     "stadium": {
       "type": "object",
       "properties": {
-        "a": { "type": ["integer", "null"] },
-        "b": { "type": ["integer", "null"] },
-        "source": { "type": ["string", "null"] },
-        "retrieved_at": { "type": ["string", "null"] }
+        "a": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "b": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "source": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "retrieved_at": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
       },
       "allOf": [
         {
-          "if": { "properties": { "a": { "type": "integer" } }, "required": ["a"] },
+          "if": {
+            "properties": {
+              "a": {
+                "type": "integer"
+              }
+            },
+            "required": [
+              "a"
+            ]
+          },
           "then": {
             "properties": {
-              "source": { "type": "string", "minLength": 5 },
-              "retrieved_at": { "type": "string", "format": "date" }
+              "source": {
+                "type": "string",
+                "minLength": 5
+              },
+              "retrieved_at": {
+                "type": "string",
+                "format": "date"
+              }
             },
-            "required": ["source", "retrieved_at"]
+            "required": [
+              "source",
+              "retrieved_at"
+            ]
           }
         }
       ]
     },
-    "h_dom": { "$ref": "#/definitions/sourced_metric_integer" },
-    "h_cont": { "$ref": "#/definitions/sourced_metric_integer" },
+    "h_dom": {
+      "$ref": "#/definitions/sourced_metric_integer"
+    },
+    "h_cont": {
+      "$ref": "#/definitions/sourced_metric_integer"
+    },
     "h_club": {
       "type": "object",
       "properties": {
-        "a": { "type": ["integer", "null"] },
-        "b": { "type": ["integer", "null"] },
-        "source": { "type": ["string", "null"] },
-        "retrieved_at": { "type": ["string", "null"] }
+        "a": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "b": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "source": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "retrieved_at": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
       }
     },
-    "i_soc": { "$ref": "#/definitions/sourced_metric_integer" },
-    "i_name": { "$ref": "#/definitions/sourced_metric_integer" }
+    "i_soc": {
+      "$ref": "#/definitions/sourced_metric_integer"
+    },
+    "i_name": {
+      "$ref": "#/definitions/sourced_metric_integer"
+    },
+    "attendance": {
+      "": "#/definitions/sourced_metric_integer"
+    },
+    "match_context": {
+      "type": "object",
+      "properties": {
+        "continental_finals": {
+          "$ref": "#/definitions/sourced_metric_integer"
+        },
+        "top5_league": {
+          "$ref": "#/definitions/sourced_metric_integer"
+        },
+        "top10_league": {
+          "$ref": "#/definitions/sourced_metric_integer"
+        },
+        "national_cups": {
+          "$ref": "#/definitions/sourced_metric_integer"
+        },
+        "state_regional": {
+          "$ref": "#/definitions/sourced_metric_integer"
+        }
+      }
+    }
   }
 }

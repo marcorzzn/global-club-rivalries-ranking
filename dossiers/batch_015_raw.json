@@ -1,0 +1,137 @@
+[
+  {
+    "rivalry_id": "fc-seoul--suwon-samsung-bluewings",
+    "h2h": {
+      "total": 38,
+      "w_a": 22,
+      "d": 10,
+      "w_b": 6,
+      "active_decades": null
+    },
+    "h_dom": null,
+    "h_cont": null,
+    "h_club": null,
+    "i_soc": null,
+    "i_name": null,
+    "stadium": {
+      "a": 66704,
+      "b": 43959
+    },
+    "attendance": null,
+    "match_context": {
+      "continental_finals": 0,
+      "top5_league": 0,
+      "top10_league": null,
+      "national_cups": null,
+      "state_regional": null
+    }
+  },
+  {
+    "rivalry_id": "as-roma--juventus-fc",
+    "h2h": {
+      "total": 179,
+      "w_a": 42,
+      "d": 51,
+      "w_b": 86,
+      "active_decades": null
+    },
+    "h_dom": null,
+    "h_cont": null,
+    "h_club": null,
+    "i_soc": null,
+    "i_name": null,
+    "stadium": {
+      "a": 72698,
+      "b": 41507
+    },
+    "attendance": null,
+    "match_context": {
+      "continental_finals": 0,
+      "top5_league": 179,
+      "top10_league": 0,
+      "national_cups": null,
+      "state_regional": null
+    }
+  },
+  {
+    "rivalry_id": "chelsea-fc--manchester-city",
+    "h2h": {
+      "total": 183,
+      "w_a": 71,
+      "d": 42,
+      "w_b": 70,
+      "active_decades": null
+    },
+    "h_dom": null,
+    "h_cont": null,
+    "h_club": null,
+    "i_soc": null,
+    "i_name": null,
+    "stadium": {
+      "a": 40341,
+      "b": 53400
+    },
+    "attendance": null,
+    "match_context": {
+      "continental_finals": 1,
+      "top5_league": null,
+      "top10_league": 0,
+      "national_cups": null,
+      "state_regional": null
+    }
+  },
+  {
+    "rivalry_id": "as-roma--ssc-napoli",
+    "h2h": {
+      "total": 181,
+      "w_a": 66,
+      "d": 59,
+      "w_b": 56,
+      "active_decades": null
+    },
+    "h_dom": null,
+    "h_cont": null,
+    "h_club": null,
+    "i_soc": null,
+    "i_name": null,
+    "stadium": {
+      "a": 72698,
+      "b": 54726
+    },
+    "attendance": null,
+    "match_context": {
+      "continental_finals": 0,
+      "top5_league": 162,
+      "top10_league": 0,
+      "national_cups": 17,
+      "state_regional": null
+    }
+  },
+  {
+    "rivalry_id": "juventus-fc--torino-fc",
+    "h2h": {
+      "total": 214,
+      "w_a": 96,
+      "d": 62,
+      "w_b": 56,
+      "active_decades": null
+    },
+    "h_dom": null,
+    "h_cont": null,
+    "h_club": null,
+    "i_soc": null,
+    "i_name": null,
+    "stadium": {
+      "a": 41507,
+      "b": 28140
+    },
+    "attendance": null,
+    "match_context": {
+      "continental_finals": 0,
+      "top5_league": null,
+      "top10_league": 0,
+      "national_cups": null,
+      "state_regional": null
+    }
+  }
+]

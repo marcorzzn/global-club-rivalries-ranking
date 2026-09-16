@@ -1,0 +1,7867 @@
+[
+  {
+    "rivalry_id": "celtic-fc--rangers-fc",
+    "club_a_slug": "celtic-fc",
+    "club_b_slug": "rangers-fc",
+    "rivalry_name": "Old Firm Derby",
+    "city_derby": true,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 1,
+    "priority": true
+  },
+  {
+    "rivalry_id": "ca-penarol--club-nacional-de-football",
+    "club_a_slug": "club-nacional-de-football",
+    "club_b_slug": "ca-penarol",
+    "rivalry_name": "Cl\u00e1sico Uruguayo",
+    "city_derby": true,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 1,
+    "priority": true
+  },
+  {
+    "rivalry_id": "gremio-fbpa--sc-internacional",
+    "club_a_slug": "gremio-fbpa",
+    "club_b_slug": "sc-internacional",
+    "rivalry_name": "Grenal",
+    "city_derby": true,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 1,
+    "priority": true
+  },
+  {
+    "rivalry_id": "cr-flamengo--fluminense-fc",
+    "club_a_slug": "cr-flamengo",
+    "club_b_slug": "fluminense-fc",
+    "rivalry_name": "Fla-Flu (Cl\u00e1ssico das Multid\u00f5es)",
+    "city_derby": true,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 1,
+    "priority": true
+  },
+  {
+    "rivalry_id": "fc-barcelona--real-madrid",
+    "club_a_slug": "real-madrid",
+    "club_b_slug": "fc-barcelona",
+    "rivalry_name": "El Cl\u00e1sico",
+    "city_derby": false,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 1,
+    "priority": true
+  },
+  {
+    "rivalry_id": "ca-boca-juniors--ca-river-plate",
+    "club_a_slug": "ca-boca-juniors",
+    "club_b_slug": "ca-river-plate",
+    "rivalry_name": "Supercl\u00e1sico",
+    "city_derby": true,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 1,
+    "priority": true
+  },
+  {
+    "rivalry_id": "atletico-madrid--real-madrid",
+    "club_a_slug": "real-madrid",
+    "club_b_slug": "atletico-madrid",
+    "rivalry_name": "El Derbi Madrile\u00f1o",
+    "city_derby": true,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 1,
+    "priority": true
+  },
+  {
+    "rivalry_id": "ac-milan--fc-internazionale-milano",
+    "club_a_slug": "ac-milan",
+    "club_b_slug": "fc-internazionale-milano",
+    "rivalry_name": "Derby della Madonnina",
+    "city_derby": true,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 1,
+    "priority": true
+  },
+  {
+    "rivalry_id": "fc-internazionale-milano--juventus-fc",
+    "club_a_slug": "juventus-fc",
+    "club_b_slug": "fc-internazionale-milano",
+    "rivalry_name": "Derby d'Italia",
+    "city_derby": false,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 1,
+    "priority": true
+  },
+  {
+    "rivalry_id": "fenerbahce-sk--galatasaray-sk",
+    "club_a_slug": "galatasaray-sk",
+    "club_b_slug": "fenerbahce-sk",
+    "rivalry_name": "K\u0131talararas\u0131 Derbi (Intercontinental Derby)",
+    "city_derby": true,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 1,
+    "priority": true
+  },
+  {
+    "rivalry_id": "cd-guadalajara-chivas--club-america",
+    "club_a_slug": "club-america",
+    "club_b_slug": "cd-guadalajara-chivas",
+    "rivalry_name": "El S\u00faper Cl\u00e1sico / Cl\u00e1sico Nacional",
+    "city_derby": false,
+    "confederation": "CONCACAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 1,
+    "priority": true
+  },
+  {
+    "rivalry_id": "olympiacos-fc--panathinaikos-fc",
+    "club_a_slug": "olympiacos-fc",
+    "club_b_slug": "panathinaikos-fc",
+    "rivalry_name": "Derby of the Eternal Enemies",
+    "city_derby": true,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 1,
+    "priority": true
+  },
+  {
+    "rivalry_id": "sl-benfica--sporting-cp",
+    "club_a_slug": "sl-benfica",
+    "club_b_slug": "sporting-cp",
+    "rivalry_name": "D\u00e9rbi de Lisboa / D\u00e9rbi Eterno",
+    "city_derby": true,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 1,
+    "priority": true
+  },
+  {
+    "rivalry_id": "arsenal-fc--tottenham-hotspur",
+    "club_a_slug": "arsenal-fc",
+    "club_b_slug": "tottenham-hotspur",
+    "rivalry_name": "North London Derby",
+    "city_derby": true,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 1,
+    "priority": true
+  },
+  {
+    "rivalry_id": "liverpool-fc--manchester-united",
+    "club_a_slug": "liverpool-fc",
+    "club_b_slug": "manchester-united",
+    "rivalry_name": "North West Derby",
+    "city_derby": false,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 1,
+    "priority": true
+  },
+  {
+    "rivalry_id": "al-ahly-sc--zamalek-sc",
+    "club_a_slug": "al-ahly-sc",
+    "club_b_slug": "zamalek-sc",
+    "rivalry_name": "Cairo Derby",
+    "city_derby": true,
+    "confederation": "CAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 1,
+    "priority": true
+  },
+  {
+    "rivalry_id": "afc-ajax--feyenoord-rotterdam",
+    "club_a_slug": "afc-ajax",
+    "club_b_slug": "feyenoord-rotterdam",
+    "rivalry_name": "De Klassieker",
+    "city_derby": false,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 1,
+    "priority": true
+  },
+  {
+    "rivalry_id": "as-roma--ss-lazio",
+    "club_a_slug": "ss-lazio",
+    "club_b_slug": "as-roma",
+    "rivalry_name": "Derby della Capitale",
+    "city_derby": true,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 1,
+    "priority": true
+  },
+  {
+    "rivalry_id": "ca-boca-juniors--ca-independiente",
+    "club_a_slug": "ca-boca-juniors",
+    "club_b_slug": "ca-independiente",
+    "rivalry_name": "Cl\u00e1sico de Grandes",
+    "city_derby": true,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 1,
+    "priority": true
+  },
+  {
+    "rivalry_id": "borussia-dortmund--fc-schalke-04",
+    "club_a_slug": "borussia-dortmund",
+    "club_b_slug": "fc-schalke-04",
+    "rivalry_name": "Revierderby",
+    "city_derby": false,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 1,
+    "priority": true
+  },
+  {
+    "rivalry_id": "ec-bahia--ec-vitoria",
+    "club_a_slug": "ec-bahia",
+    "club_b_slug": "ec-vitoria",
+    "rivalry_name": "Ba-Vi",
+    "city_derby": true,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "clube-atletico-mineiro--cruzeiro-ec",
+    "club_a_slug": "clube-atletico-mineiro",
+    "club_b_slug": "cruzeiro-ec",
+    "rivalry_name": "Cl\u00e1ssico Mineiro",
+    "city_derby": true,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "club-bolivar--the-strongest",
+    "club_a_slug": "club-bolivar",
+    "club_b_slug": "the-strongest",
+    "rivalry_name": "Cl\u00e1sico Pace\u00f1o",
+    "city_derby": true,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "club-cerro-porteno--club-olimpia",
+    "club_a_slug": "club-olimpia",
+    "club_b_slug": "club-cerro-porteno",
+    "rivalry_name": "Supercl\u00e1sico Paraguayo",
+    "city_derby": true,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "deportivo-saprissa--ld-alajuelense",
+    "club_a_slug": "deportivo-saprissa",
+    "club_b_slug": "ld-alajuelense",
+    "rivalry_name": "Cl\u00e1sico Nacional de Costa Rica",
+    "city_derby": true,
+    "confederation": "CONCACAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "csd-comunicaciones--csd-municipal",
+    "club_a_slug": "csd-municipal",
+    "club_b_slug": "csd-comunicaciones",
+    "rivalry_name": "El Cl\u00e1sico Chap\u00edn",
+    "city_derby": true,
+    "confederation": "CONCACAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "cr-flamengo--cr-vasco-da-gama",
+    "club_a_slug": "cr-flamengo",
+    "club_b_slug": "cr-vasco-da-gama",
+    "rivalry_name": "Cl\u00e1ssico dos Milh\u00f5es",
+    "city_derby": true,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "heart-of-midlothian--hibernian-fc",
+    "club_a_slug": "heart-of-midlothian",
+    "club_b_slug": "hibernian-fc",
+    "rivalry_name": "Edinburgh Derby",
+    "city_derby": true,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "sc-corinthians--se-palmeiras",
+    "club_a_slug": "sc-corinthians",
+    "club_b_slug": "se-palmeiras",
+    "rivalry_name": "Derby Paulista",
+    "city_derby": true,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "botafogo-fr--cr-flamengo",
+    "club_a_slug": "cr-flamengo",
+    "club_b_slug": "botafogo-fr",
+    "rivalry_name": "Cl\u00e1ssico da Rivalidade",
+    "city_derby": true,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "club-athletico-paranaense--coritiba-fbc",
+    "club_a_slug": "coritiba-fbc",
+    "club_b_slug": "club-athletico-paranaense",
+    "rivalry_name": "Atle-Tiba",
+    "city_derby": true,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "sao-paulo-fc--sc-corinthians",
+    "club_a_slug": "sao-paulo-fc",
+    "club_b_slug": "sc-corinthians",
+    "rivalry_name": "Majestoso",
+    "city_derby": true,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "sao-paulo-fc--se-palmeiras",
+    "club_a_slug": "sao-paulo-fc",
+    "club_b_slug": "se-palmeiras",
+    "rivalry_name": "Choque-Rei",
+    "city_derby": true,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "al-faisaly-sc--al-wehdat-sc",
+    "club_a_slug": "al-wehdat-sc",
+    "club_b_slug": "al-faisaly-sc",
+    "rivalry_name": "Derby of Jordan / Amman Derby",
+    "city_derby": true,
+    "confederation": "AFC",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "barcelona-sc--cs-emelec",
+    "club_a_slug": "barcelona-sc",
+    "club_b_slug": "cs-emelec",
+    "rivalry_name": "Cl\u00e1sico del Astillero",
+    "city_derby": true,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "cr-vasco-da-gama--fluminense-fc",
+    "club_a_slug": "cr-vasco-da-gama",
+    "club_b_slug": "fluminense-fc",
+    "rivalry_name": "Cl\u00e1ssico dos Gigantes",
+    "city_derby": true,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "atletico-nacional--independiente-medellin",
+    "club_a_slug": "atletico-nacional",
+    "club_b_slug": "independiente-medellin",
+    "rivalry_name": "Cl\u00e1sico Paisa",
+    "city_derby": true,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "club-alianza-lima--club-universitario",
+    "club_a_slug": "club-universitario",
+    "club_b_slug": "club-alianza-lima",
+    "rivalry_name": "El Cl\u00e1sico Peruano",
+    "city_derby": true,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "america-de-cali--deportivo-cali",
+    "club_a_slug": "america-de-cali",
+    "club_b_slug": "deportivo-cali",
+    "rivalry_name": "Cl\u00e1sico Vallecaucano",
+    "city_derby": true,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "independiente-santa-fe--millonarios-fc",
+    "club_a_slug": "millonarios-fc",
+    "club_b_slug": "independiente-santa-fe",
+    "rivalry_name": "Cl\u00e1sico Capitalino",
+    "city_derby": true,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "pohang-steelers--ulsan-hd-fc",
+    "club_a_slug": "pohang-steelers",
+    "club_b_slug": "ulsan-hd-fc",
+    "rivalry_name": "Donghaean Derby (East Coast Derby)",
+    "city_derby": false,
+    "confederation": "AFC",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "santos-fc--se-palmeiras",
+    "club_a_slug": "santos-fc",
+    "club_b_slug": "se-palmeiras",
+    "rivalry_name": "Cl\u00e1ssico da Saudade",
+    "city_derby": false,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "club-america--cruz-azul",
+    "club_a_slug": "club-america",
+    "club_b_slug": "cruz-azul",
+    "rivalry_name": "Cl\u00e1sico Joven",
+    "city_derby": true,
+    "confederation": "CONCACAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "ac-milan--juventus-fc",
+    "club_a_slug": "ac-milan",
+    "club_b_slug": "juventus-fc",
+    "rivalry_name": "N/A (Italian classic)",
+    "city_derby": false,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "cf-monterrey--tigres-uanl",
+    "club_a_slug": "cf-monterrey",
+    "club_b_slug": "tigres-uanl",
+    "rivalry_name": "Cl\u00e1sico Regiomontano (Cl\u00e1sico Regio)",
+    "city_derby": true,
+    "confederation": "CONCACAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "club-america--club-universidad-nacional-pumas",
+    "club_a_slug": "club-america",
+    "club_b_slug": "club-universidad-nacional-pumas",
+    "rivalry_name": "Cl\u00e1sico Capitalino",
+    "city_derby": true,
+    "confederation": "CONCACAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "fc-porto--sl-benfica",
+    "club_a_slug": "sl-benfica",
+    "club_b_slug": "fc-porto",
+    "rivalry_name": "O Cl\u00e1ssico",
+    "city_derby": false,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "club-universidad-de-chile--csd-colo-colo",
+    "club_a_slug": "csd-colo-colo",
+    "club_b_slug": "club-universidad-de-chile",
+    "rivalry_name": "Supercl\u00e1sico Chileno",
+    "city_derby": true,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "everton-fc--liverpool-fc",
+    "club_a_slug": "liverpool-fc",
+    "club_b_slug": "everton-fc",
+    "rivalry_name": "Merseyside Derby",
+    "city_derby": true,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "arsenal-fc--chelsea-fc",
+    "club_a_slug": "chelsea-fc",
+    "club_b_slug": "arsenal-fc",
+    "rivalry_name": "North West London Derby",
+    "city_derby": true,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "chelsea-fc--manchester-united",
+    "club_a_slug": "manchester-united",
+    "club_b_slug": "chelsea-fc",
+    "rivalry_name": "N/A (Premier League rivalry)",
+    "city_derby": false,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "universidad-catolica--universidad-de-chile",
+    "club_a_slug": "universidad-catolica",
+    "club_b_slug": "universidad-de-chile",
+    "rivalry_name": "Cl\u00e1sico Universitario",
+    "city_derby": true,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "kaizer-chiefs--orlando-pirates",
+    "club_a_slug": "kaizer-chiefs",
+    "club_b_slug": "orlando-pirates",
+    "rivalry_name": "Soweto Derby",
+    "city_derby": true,
+    "confederation": "CAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "cd-guadalajara--club-atlas",
+    "club_a_slug": "cd-guadalajara",
+    "club_b_slug": "club-atlas",
+    "rivalry_name": "Cl\u00e1sico Tapat\u00edo",
+    "city_derby": true,
+    "confederation": "CONCACAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "liverpool-fc--tottenham-hotspur",
+    "club_a_slug": "liverpool-fc",
+    "club_b_slug": "tottenham-hotspur",
+    "rivalry_name": "N/A (Top-flight clash)",
+    "city_derby": false,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "afc-ajax--psv-eindhoven",
+    "club_a_slug": "afc-ajax",
+    "club_b_slug": "psv-eindhoven",
+    "rivalry_name": "De Topper",
+    "city_derby": false,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "borussia-dortmund--fc-bayern-munich",
+    "club_a_slug": "fc-bayern-munich",
+    "club_b_slug": "borussia-dortmund",
+    "rivalry_name": "Der Klassiker",
+    "city_derby": false,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "atletico-nacional--millonarios-fc",
+    "club_a_slug": "atletico-nacional",
+    "club_b_slug": "millonarios-fc",
+    "rivalry_name": "El Supercl\u00e1sico Colombiano",
+    "city_derby": false,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "esperance-de-tunis--etoile-du-sahel",
+    "club_a_slug": "esperance-de-tunis",
+    "club_b_slug": "etoile-du-sahel",
+    "rivalry_name": "Classico Tunisien",
+    "city_derby": false,
+    "confederation": "CAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "al-hilal-sfc--al-ittihad-fc",
+    "club_a_slug": "al-hilal-sfc",
+    "club_b_slug": "al-ittihad-fc",
+    "rivalry_name": "Saudi El Cl\u00e1sico",
+    "city_derby": false,
+    "confederation": "AFC",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "fc-barcelona--rcd-espanyol",
+    "club_a_slug": "fc-barcelona",
+    "club_b_slug": "rcd-espanyol",
+    "rivalry_name": "Derbi Barcelon\u00ed",
+    "city_derby": true,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "raja-club-athletic--wydad-ac",
+    "club_a_slug": "raja-club-athletic",
+    "club_b_slug": "wydad-ac",
+    "rivalry_name": "Casablanca Derby",
+    "city_derby": true,
+    "confederation": "CAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "club-africain--esperance-de-tunis",
+    "club_a_slug": "esperance-de-tunis",
+    "club_b_slug": "club-africain",
+    "rivalry_name": "Tunis Derby",
+    "city_derby": true,
+    "confederation": "CAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "al-hilal-sfc--al-nassr-fc",
+    "club_a_slug": "al-hilal-sfc",
+    "club_b_slug": "al-nassr-fc",
+    "rivalry_name": "Riyadh Derby",
+    "city_derby": true,
+    "confederation": "AFC",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "athletic-club--real-sociedad",
+    "club_a_slug": "athletic-club",
+    "club_b_slug": "real-sociedad",
+    "rivalry_name": "Euskal Derbia (Basque Derby)",
+    "city_derby": false,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "al-hilal-club--al-merrikh-sc",
+    "club_a_slug": "al-hilal-club",
+    "club_b_slug": "al-merrikh-sc",
+    "rivalry_name": "Omdurman Derby / Sudanese Cl\u00e1sico",
+    "city_derby": true,
+    "confederation": "CAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "jeonbuk-hyundai-motors--ulsan-hd-fc",
+    "club_a_slug": "jeonbuk-hyundai-motors",
+    "club_b_slug": "ulsan-hd-fc",
+    "rivalry_name": "Hyundai Derby",
+    "city_derby": false,
+    "confederation": "AFC",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "fc-internazionale-milano--ss-lazio",
+    "club_a_slug": "fc-internazionale-milano",
+    "club_b_slug": "ss-lazio",
+    "rivalry_name": "N/A (Top-flight clash)",
+    "city_derby": false,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "olympique-de-marseille--paris-saint-germain",
+    "club_a_slug": "paris-saint-germain",
+    "club_b_slug": "olympique-de-marseille",
+    "rivalry_name": "Le Classique",
+    "city_derby": false,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "manchester-city--manchester-united",
+    "club_a_slug": "manchester-united",
+    "club_b_slug": "manchester-city",
+    "rivalry_name": "Manchester Derby",
+    "city_derby": true,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "juventus-fc--ssc-napoli",
+    "club_a_slug": "juventus-fc",
+    "club_b_slug": "ssc-napoli",
+    "rivalry_name": "Rivalit\u00e0 Juventus-Napoli",
+    "city_derby": false,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "ca-independiente--racing-club",
+    "club_a_slug": "ca-independiente",
+    "club_b_slug": "racing-club",
+    "rivalry_name": "Cl\u00e1sico de Avellaneda",
+    "city_derby": true,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "club-universidad-nacional-pumas--cruz-azul",
+    "club_a_slug": "cruz-azul",
+    "club_b_slug": "club-universidad-nacional-pumas",
+    "rivalry_name": "Cl\u00e1sico Chilango",
+    "city_derby": true,
+    "confederation": "CONCACAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "al-ahli-sfc--al-ittihad-fc",
+    "club_a_slug": "al-ahli-sfc",
+    "club_b_slug": "al-ittihad-fc",
+    "rivalry_name": "Jeddah Derby",
+    "city_derby": true,
+    "confederation": "AFC",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "dc-united--new-york-red-bulls",
+    "club_a_slug": "new-york-red-bulls",
+    "club_b_slug": "dc-united",
+    "rivalry_name": "Atlantic Cup",
+    "city_derby": false,
+    "confederation": "CONCACAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "fc-seoul--suwon-samsung-bluewings",
+    "club_a_slug": "fc-seoul",
+    "club_b_slug": "suwon-samsung-bluewings",
+    "rivalry_name": "Super Match",
+    "city_derby": true,
+    "confederation": "AFC",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "as-roma--juventus-fc",
+    "club_a_slug": "as-roma",
+    "club_b_slug": "juventus-fc",
+    "rivalry_name": "Rivalit\u00e0 Roma-Juventus",
+    "city_derby": false,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "chelsea-fc--manchester-city",
+    "club_a_slug": "chelsea-fc",
+    "club_b_slug": "manchester-city",
+    "rivalry_name": "N/A (Modern English clash)",
+    "city_derby": false,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 2,
+    "priority": true
+  },
+  {
+    "rivalry_id": "as-roma--ssc-napoli",
+    "club_a_slug": "as-roma",
+    "club_b_slug": "ssc-napoli",
+    "rivalry_name": "Derby del Sole",
+    "city_derby": false,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 3,
+    "priority": true
+  },
+  {
+    "rivalry_id": "juventus-fc--torino-fc",
+    "club_a_slug": "juventus-fc",
+    "club_b_slug": "torino-fc",
+    "rivalry_name": "Derby della Mole",
+    "city_derby": true,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 3,
+    "priority": true
+  },
+  {
+    "rivalry_id": "ca-rosario-central--newells-old-boys",
+    "club_a_slug": "ca-rosario-central",
+    "club_b_slug": "newells-old-boys",
+    "rivalry_name": "Cl\u00e1sico Rosarino",
+    "city_derby": true,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 3,
+    "priority": false
+  },
+  {
+    "rivalry_id": "hamburger-sv--sv-werder-bremen",
+    "club_a_slug": "hamburger-sv",
+    "club_b_slug": "sv-werder-bremen",
+    "rivalry_name": "Nordderby",
+    "city_derby": false,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 3,
+    "priority": false
+  },
+  {
+    "rivalry_id": "acf-fiorentina--juventus-fc",
+    "club_a_slug": "acf-fiorentina",
+    "club_b_slug": "juventus-fc",
+    "rivalry_name": "Rivalit\u00e0 Fiorentina-Juventus",
+    "city_derby": false,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 3,
+    "priority": false
+  },
+  {
+    "rivalry_id": "cr-flamengo--se-palmeiras",
+    "club_a_slug": "se-palmeiras",
+    "club_b_slug": "cr-flamengo",
+    "rivalry_name": "Cl\u00e1ssico Interestadual / Duelo dos Tit\u00e3s",
+    "city_derby": false,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 3,
+    "priority": false
+  },
+  {
+    "rivalry_id": "real-betis--sevilla-fc",
+    "club_a_slug": "sevilla-fc",
+    "club_b_slug": "real-betis",
+    "rivalry_name": "El Gran Derbi / Derbi Sevillano",
+    "city_derby": true,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 3,
+    "priority": false
+  },
+  {
+    "rivalry_id": "ca-huracan--ca-san-lorenzo",
+    "club_a_slug": "ca-san-lorenzo",
+    "club_b_slug": "ca-huracan",
+    "rivalry_name": "Cl\u00e1sico Porte\u00f1o",
+    "city_derby": true,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 3,
+    "priority": false
+  },
+  {
+    "rivalry_id": "estudiantes-de-la-plata--gimnasia-lp",
+    "club_a_slug": "estudiantes-de-la-plata",
+    "club_b_slug": "gimnasia-lp",
+    "rivalry_name": "Cl\u00e1sico Platense",
+    "city_derby": true,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 3,
+    "priority": false
+  },
+  {
+    "rivalry_id": "botafogo-fr--clube-atletico-mineiro",
+    "club_a_slug": "clube-atletico-mineiro",
+    "club_b_slug": "botafogo-fr",
+    "rivalry_name": "N/A (National clash)",
+    "city_derby": false,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 3,
+    "priority": false
+  },
+  {
+    "rivalry_id": "as-saint-etienne--olympique-lyonnais",
+    "club_a_slug": "olympique-lyonnais",
+    "club_b_slug": "as-saint-etienne",
+    "rivalry_name": "Le Derby (Derby Rh\u00f4ne-Alpes)",
+    "city_derby": false,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 3,
+    "priority": false
+  },
+  {
+    "rivalry_id": "sao-paulo-fc--sc-internacional",
+    "club_a_slug": "sc-internacional",
+    "club_b_slug": "sao-paulo-fc",
+    "rivalry_name": "N/A (National clash)",
+    "city_derby": false,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 3,
+    "priority": false
+  },
+  {
+    "rivalry_id": "athletico-paranaense--sao-paulo-fc",
+    "club_a_slug": "sao-paulo-fc",
+    "club_b_slug": "athletico-paranaense",
+    "rivalry_name": "N/A (National clash)",
+    "city_derby": false,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 3,
+    "priority": false
+  },
+  {
+    "rivalry_id": "genoa-cfc--uc-sampdoria",
+    "club_a_slug": "genoa-cfc",
+    "club_b_slug": "uc-sampdoria",
+    "rivalry_name": "Derby della Lanterna",
+    "city_derby": true,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 3,
+    "priority": false
+  },
+  {
+    "rivalry_id": "leeds-united--manchester-united",
+    "club_a_slug": "leeds-united",
+    "club_b_slug": "manchester-united",
+    "rivalry_name": "Roses Rivalry",
+    "city_derby": false,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 3,
+    "priority": false
+  },
+  {
+    "rivalry_id": "newcastle-united--sunderland-afc",
+    "club_a_slug": "newcastle-united",
+    "club_b_slug": "sunderland-afc",
+    "rivalry_name": "Tyne-Wear Derby",
+    "city_derby": false,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 3,
+    "priority": false
+  },
+  {
+    "rivalry_id": "aston-villa--birmingham-city",
+    "club_a_slug": "aston-villa",
+    "club_b_slug": "birmingham-city",
+    "rivalry_name": "Second City Derby",
+    "city_derby": true,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 3,
+    "priority": false
+  },
+  {
+    "rivalry_id": "fc-bayern-munich--real-madrid",
+    "club_a_slug": "real-madrid",
+    "club_b_slug": "fc-bayern-munich",
+    "rivalry_name": "European Cl\u00e1sico",
+    "city_derby": false,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 3,
+    "priority": false
+  },
+  {
+    "rivalry_id": "fluminense-fc--ldu-quito",
+    "club_a_slug": "ldu-quito",
+    "club_b_slug": "fluminense-fc",
+    "rivalry_name": "N/A (Continental rivals)",
+    "city_derby": false,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 3,
+    "priority": false
+  },
+  {
+    "rivalry_id": "la-galaxy--san-jose-earthquakes",
+    "club_a_slug": "la-galaxy",
+    "club_b_slug": "san-jose-earthquakes",
+    "rivalry_name": "California Cl\u00e1sico",
+    "city_derby": false,
+    "confederation": "CONCACAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "africa-sports--asec-mimosas",
+    "club_a_slug": "asec-mimosas",
+    "club_b_slug": "africa-sports",
+    "rivalry_name": "Derby Abidjanais",
+    "city_derby": true,
+    "confederation": "CAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "js-kabylie--mc-alger",
+    "club_a_slug": "js-kabylie",
+    "club_b_slug": "mc-alger",
+    "rivalry_name": "Le Classico Alg\u00e9rien",
+    "city_derby": false,
+    "confederation": "CAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "al-ittihad-fc--al-nassr-fc",
+    "club_a_slug": "al-nassr-fc",
+    "club_b_slug": "al-ittihad-fc",
+    "rivalry_name": "Saudi Cl\u00e1sico",
+    "city_derby": false,
+    "confederation": "AFC",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "esteghlal-fc--persepolis-fc",
+    "club_a_slug": "persepolis-fc",
+    "club_b_slug": "esteghlal-fc",
+    "rivalry_name": "Tehran Derby / Red vs Blue",
+    "city_derby": true,
+    "confederation": "AFC",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "mc-alger--usm-alger",
+    "club_a_slug": "mc-alger",
+    "club_b_slug": "usm-alger",
+    "rivalry_name": "Algiers Derby",
+    "city_derby": true,
+    "confederation": "CAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "kaizer-chiefs--mamelodi-sundowns",
+    "club_a_slug": "kaizer-chiefs",
+    "club_b_slug": "mamelodi-sundowns",
+    "rivalry_name": "N/A (Gauteng rivalry)",
+    "city_derby": false,
+    "confederation": "CAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "cr-belouizdad--mc-alger",
+    "club_a_slug": "cr-belouizdad",
+    "club_b_slug": "mc-alger",
+    "rivalry_name": "Grand Derby Alg\u00e9rois",
+    "city_derby": true,
+    "confederation": "CAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "simba-sc--young-africans-sc-yanga",
+    "club_a_slug": "simba-sc",
+    "club_b_slug": "young-africans-sc-yanga",
+    "rivalry_name": "Kariakoo Derby",
+    "city_derby": true,
+    "confederation": "CAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "cf-monterrey--club-america",
+    "club_a_slug": "cf-monterrey",
+    "club_b_slug": "club-america",
+    "rivalry_name": "CF Monterrey vs Club Am\u00e9rica",
+    "city_derby": false,
+    "confederation": "CONCACAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "asante-kotoko--hearts-of-oak",
+    "club_a_slug": "asante-kotoko",
+    "club_b_slug": "hearts-of-oak",
+    "rivalry_name": "Ghana Super Clash",
+    "city_derby": false,
+    "confederation": "CAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "as-vita-club--dc-motema-pembe",
+    "club_a_slug": "dc-motema-pembe",
+    "club_b_slug": "as-vita-club",
+    "rivalry_name": "Derby de Kinshasa",
+    "city_derby": true,
+    "confederation": "CAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "afc-leopards--gor-mahia-fc",
+    "club_a_slug": "gor-mahia-fc",
+    "club_b_slug": "afc-leopards",
+    "rivalry_name": "Mashemeji Derby",
+    "city_derby": true,
+    "confederation": "CAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "al-quwa-al-jawiya--al-zawraa-sc",
+    "club_a_slug": "al-zawraa-sc",
+    "club_b_slug": "al-quwa-al-jawiya",
+    "rivalry_name": "Iraqi Cl\u00e1sico / Baghdad Derby",
+    "city_derby": true,
+    "confederation": "AFC",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "cf-monterrey--santos-laguna",
+    "club_a_slug": "cf-monterrey",
+    "club_b_slug": "santos-laguna",
+    "rivalry_name": "Duelo del Norte",
+    "city_derby": false,
+    "confederation": "CONCACAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "club-america--tigres-uanl",
+    "club_a_slug": "club-america",
+    "club_b_slug": "tigres-uanl",
+    "rivalry_name": "N/A (Modern heavyweight clash)",
+    "city_derby": false,
+    "confederation": "CONCACAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "mamelodi-sundowns--supersport-united",
+    "club_a_slug": "mamelodi-sundowns",
+    "club_b_slug": "supersport-united",
+    "rivalry_name": "Tshwane Derby",
+    "city_derby": true,
+    "confederation": "CAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "gamba-osaka--urawa-red-diamonds",
+    "club_a_slug": "urawa-red-diamonds",
+    "club_b_slug": "gamba-osaka",
+    "rivalry_name": "National Derby of Japan",
+    "city_derby": false,
+    "confederation": "AFC",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "cf-pachuca--tigres-uanl",
+    "club_a_slug": "cf-pachuca",
+    "club_b_slug": "tigres-uanl",
+    "rivalry_name": "CF Pachuca vs Tigres UANL",
+    "city_derby": false,
+    "confederation": "CONCACAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "cf-pachuca--cruz-azul",
+    "club_a_slug": "cf-pachuca",
+    "club_b_slug": "cruz-azul",
+    "rivalry_name": "Cl\u00e1sico Hidalguense",
+    "city_derby": false,
+    "confederation": "CONCACAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "melbourne-victory--sydney-fc",
+    "club_a_slug": "sydney-fc",
+    "club_b_slug": "melbourne-victory",
+    "rivalry_name": "The Big Blue",
+    "city_derby": false,
+    "confederation": "AFC",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "beijing-guoan--shanghai-shenhua",
+    "club_a_slug": "beijing-guoan",
+    "club_b_slug": "shanghai-shenhua",
+    "rivalry_name": "Jing-Hu Derby",
+    "city_derby": false,
+    "confederation": "AFC",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "adelaide-united--melbourne-victory",
+    "club_a_slug": "adelaide-united",
+    "club_b_slug": "melbourne-victory",
+    "rivalry_name": "The Original Rivalry",
+    "city_derby": false,
+    "confederation": "AFC",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "persepolis-fc--sepahan-sc",
+    "club_a_slug": "sepahan-sc",
+    "club_b_slug": "persepolis-fc",
+    "rivalry_name": "El Guilico / Iranian Derby",
+    "city_derby": false,
+    "confederation": "AFC",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "jubilo-iwata--kashima-antlers",
+    "club_a_slug": "kashima-antlers",
+    "club_b_slug": "jubilo-iwata",
+    "rivalry_name": "N/A (1990s/2000s J.League rivalry)",
+    "city_derby": false,
+    "confederation": "AFC",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "esteghlal-fc--sepahan-sc",
+    "club_a_slug": "sepahan-sc",
+    "club_b_slug": "esteghlal-fc",
+    "rivalry_name": "N/A (Major Iranian clash)",
+    "city_derby": false,
+    "confederation": "AFC",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "cerezo-osaka--gamba-osaka",
+    "club_a_slug": "gamba-osaka",
+    "club_b_slug": "cerezo-osaka",
+    "rivalry_name": "Osaka Derby",
+    "city_derby": true,
+    "confederation": "AFC",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "auckland-city-fc--waitakere-united",
+    "club_a_slug": "auckland-city-fc",
+    "club_b_slug": "waitakere-united",
+    "rivalry_name": "Super City Derby / Auckland Derby",
+    "city_derby": true,
+    "confederation": "OFC",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "sepahan-sc--zob-ahan-sc",
+    "club_a_slug": "sepahan-sc",
+    "club_b_slug": "zob-ahan-sc",
+    "rivalry_name": "Isfahan Derby",
+    "city_derby": true,
+    "confederation": "AFC",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "kawasaki-frontale--yokohama-f-marinos",
+    "club_a_slug": "yokohama-f-marinos",
+    "club_b_slug": "kawasaki-frontale",
+    "rivalry_name": "Kanagawa Derby",
+    "city_derby": true,
+    "confederation": "AFC",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "melbourne-city-fc--melbourne-victory",
+    "club_a_slug": "melbourne-victory",
+    "club_b_slug": "melbourne-city-fc",
+    "rivalry_name": "Melbourne Derby",
+    "city_derby": true,
+    "confederation": "AFC",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "auckland-city-fc--team-wellington",
+    "club_a_slug": "auckland-city-fc",
+    "club_b_slug": "team-wellington",
+    "rivalry_name": "Capital vs City / NZ Derby",
+    "city_derby": false,
+    "confederation": "OFC",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "as-vita-club--tp-mazembe",
+    "club_a_slug": "tp-mazembe",
+    "club_b_slug": "as-vita-club",
+    "rivalry_name": "Cl\u00e1sico Congolais",
+    "city_derby": false,
+    "confederation": "CAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "sydney-fc--western-sydney-wanderers",
+    "club_a_slug": "sydney-fc",
+    "club_b_slug": "western-sydney-wanderers",
+    "rivalry_name": "Sydney Derby",
+    "city_derby": true,
+    "confederation": "AFC",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "new-york-city-fc--new-york-red-bulls",
+    "club_a_slug": "new-york-red-bulls",
+    "club_b_slug": "new-york-city-fc",
+    "rivalry_name": "Hudson River Derby",
+    "city_derby": true,
+    "confederation": "CONCACAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "shanghai-port-fc--shanghai-shenhua",
+    "club_a_slug": "shanghai-shenhua",
+    "club_b_slug": "shanghai-port-fc",
+    "rivalry_name": "Shanghai Derby",
+    "city_derby": true,
+    "confederation": "AFC",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "la-galaxy--los-angeles-fc-lafc",
+    "club_a_slug": "la-galaxy",
+    "club_b_slug": "los-angeles-fc-lafc",
+    "rivalry_name": "El Tr\u00e1fico",
+    "city_derby": true,
+    "confederation": "CONCACAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "al-ahly-sc--esperance-de-tunis",
+    "club_a_slug": "al-ahly-sc",
+    "club_b_slug": "esperance-de-tunis",
+    "rivalry_name": "N/A (African continental super-clash)",
+    "city_derby": false,
+    "confederation": "CAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "east-bengal-fc--mohun-bagan-sg",
+    "club_a_slug": "mohun-bagan-sg",
+    "club_b_slug": "east-bengal-fc",
+    "rivalry_name": "Kolkata Derby / Boro Match",
+    "city_derby": true,
+    "confederation": "AFC",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "portland-timbers--seattle-sounders-fc",
+    "club_a_slug": "seattle-sounders-fc",
+    "club_b_slug": "portland-timbers",
+    "rivalry_name": "Cascadia Derby / Cascadia Cup",
+    "city_derby": false,
+    "confederation": "CONCACAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "ba-fc--lautoka-fc",
+    "club_a_slug": "ba-fc",
+    "club_b_slug": "lautoka-fc",
+    "rivalry_name": "Western Derby / Battle of the Giants",
+    "city_derby": false,
+    "confederation": "OFC",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "as-pirae--as-venus",
+    "club_a_slug": "as-pirae",
+    "club_b_slug": "as-venus",
+    "rivalry_name": "Le Choc Tahitien / Tahiti Cl\u00e1sico",
+    "city_derby": true,
+    "confederation": "OFC",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "as-magenta--as-mont-dore",
+    "club_a_slug": "as-magenta",
+    "club_b_slug": "as-mont-dore",
+    "rivalry_name": "Grand Noum\u00e9a Derby",
+    "city_derby": true,
+    "confederation": "OFC",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "al-ahly-sc--wydad-ac",
+    "club_a_slug": "al-ahly-sc",
+    "club_b_slug": "wydad-ac",
+    "rivalry_name": "N/A (Pan-African rivalry)",
+    "city_derby": false,
+    "confederation": "CAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "esperance-de-tunis--wydad-ac",
+    "club_a_slug": "esperance-de-tunis",
+    "club_b_slug": "wydad-ac",
+    "rivalry_name": "N/A (North African rivalry)",
+    "city_derby": false,
+    "confederation": "CAF",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  },
+  {
+    "rivalry_id": "as-pirae--auckland-city-fc",
+    "club_a_slug": "auckland-city-fc",
+    "club_b_slug": "as-pirae",
+    "rivalry_name": "Auckland City FC vs AS Pirae",
+    "city_derby": false,
+    "confederation": "OFC",
+    "h2h": {
+      "total": null,
+      "w_a": null,
+      "d": null,
+      "w_b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "stadium": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_club": {
+      "a": null,
+      "b": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": null
+    },
+    "priority_tier": 4,
+    "priority": false
+  }
+]

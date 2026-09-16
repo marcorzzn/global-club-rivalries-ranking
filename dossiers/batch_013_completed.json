@@ -1,0 +1,507 @@
+[
+  {
+    "rivalry_id": "al-hilal-club--al-merrikh-sc",
+    "club_a": "al-hilal-club",
+    "club_b": "al-merrikh-sc",
+    "h2h": {
+      "total": {
+        "value": 350,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "w_a": {
+        "value": 150,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "d": {
+        "value": 100,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "w_b": {
+        "value": 100,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "active_decades": {
+        "value": 5,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "h_dom": {
+      "value": 90,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": 40,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "h_club": {
+      "value": 85,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": 95,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": 90,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "stadium": {
+      "a": {
+        "value": 65000,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "b": {
+        "value": 43000,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": 0,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "top5_league": {
+        "value": 0,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "top10_league": {
+        "value": 0,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "national_cups": {
+        "value": 80,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "state_regional": {
+        "value": 60,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    }
+  },
+  {
+    "rivalry_id": "jeonbuk-hyundai-motors--ulsan-hd-fc",
+    "club_a": "jeonbuk-hyundai-motors",
+    "club_b": "ulsan-hd-fc",
+    "h2h": {
+      "total": {
+        "value": 113,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "w_a": {
+        "value": 46,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "d": {
+        "value": 30,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "w_b": {
+        "value": 37,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "active_decades": {
+        "value": 4,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "h_dom": {
+      "value": 85,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": 70,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "h_club": {
+      "value": 80,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": 60,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": 75,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "stadium": {
+      "a": {
+        "value": 42477,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "b": {
+        "value": 37897,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": 0,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "top5_league": {
+        "value": 0,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "top10_league": {
+        "value": 0,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "national_cups": {
+        "value": 15,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "state_regional": {
+        "value": 0,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    }
+  },
+  {
+    "rivalry_id": "fc-internazionale-milano--ss-lazio",
+    "club_a": "fc-internazionale-milano",
+    "club_b": "ss-lazio",
+    "h2h": {
+      "total": {
+        "value": 174,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "w_a": {
+        "value": 72,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "d": {
+        "value": 56,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "w_b": {
+        "value": 46,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "active_decades": {
+        "value": 5,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "h_dom": {
+      "value": 85,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": 75,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "h_club": {
+      "value": 90,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": 75,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": 85,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "stadium": {
+      "a": {
+        "value": 75817,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "b": {
+        "value": 70634,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": 1,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "top5_league": {
+        "value": 162,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "top10_league": {
+        "value": 0,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "national_cups": {
+        "value": 11,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "state_regional": {
+        "value": 0,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "attendance": {
+      "value": 55000,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    }
+  },
+  {
+    "rivalry_id": "olympique-de-marseille--paris-saint-germain",
+    "club_a": "paris-saint-germain",
+    "club_b": "olympique-de-marseille",
+    "h2h": {
+      "total": {
+        "value": 107,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "w_a": {
+        "value": 35,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "d": {
+        "value": 23,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "w_b": {
+        "value": 49,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "active_decades": {
+        "value": 5,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "h_dom": {
+      "value": 95,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": 70,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "h_club": {
+      "value": 95,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": 90,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": 100,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "stadium": {
+      "a": {
+        "value": 67394,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "b": {
+        "value": 47929,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": 0,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "top5_league": {
+        "value": 89,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "top10_league": {
+        "value": 0,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "national_cups": {
+        "value": 18,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "state_regional": {
+        "value": 0,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "attendance": {
+      "value": 55000,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    }
+  },
+  {
+    "rivalry_id": "manchester-city--manchester-united",
+    "club_a": "manchester-united",
+    "club_b": "manchester-city",
+    "h2h": {
+      "total": {
+        "value": 192,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "w_a": {
+        "value": 61,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "d": {
+        "value": 53,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "w_b": {
+        "value": 78,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "active_decades": {
+        "value": 5,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "h_dom": {
+      "value": 100,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": 80,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "h_club": {
+      "value": 100,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": 95,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": 100,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "stadium": {
+      "a": {
+        "value": 53400,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "b": {
+        "value": 74310,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": 0,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "top5_league": {
+        "value": 170,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "top10_league": {
+        "value": 0,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "national_cups": {
+        "value": 22,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "state_regional": {
+        "value": 0,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "attendance": {
+      "value": 65000,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    }
+  }
+]

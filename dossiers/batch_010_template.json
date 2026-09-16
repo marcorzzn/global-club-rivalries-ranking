@@ -1,0 +1,417 @@
+[
+  {
+    "rivalry_id": "chelsea-fc--manchester-united",
+    "club_a": "manchester-united",
+    "club_b": "chelsea-fc",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": "..."
+      },
+      "w_a": {
+        "value": null,
+        "source": "..."
+      },
+      "d": {
+        "value": null,
+        "source": "..."
+      },
+      "w_b": {
+        "value": null,
+        "source": "..."
+      },
+      "active_decades": {
+        "value": null,
+        "source": "..."
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": "..."
+    },
+    "h_cont": {
+      "value": null,
+      "source": "..."
+    },
+    "h_club": {
+      "value": null,
+      "source": "..."
+    },
+    "i_soc": {
+      "value": null,
+      "source": "..."
+    },
+    "i_name": {
+      "value": null,
+      "source": "..."
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": "..."
+      },
+      "b": {
+        "value": null,
+        "source": "..."
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": "..."
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": "..."
+      },
+      "top5_league": {
+        "value": null,
+        "source": "..."
+      },
+      "top10_league": {
+        "value": null,
+        "source": "..."
+      },
+      "national_cups": {
+        "value": null,
+        "source": "..."
+      },
+      "state_regional": {
+        "value": null,
+        "source": "..."
+      }
+    }
+  },
+  {
+    "rivalry_id": "universidad-catolica--universidad-de-chile",
+    "club_a": "universidad-catolica",
+    "club_b": "universidad-de-chile",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": "..."
+      },
+      "w_a": {
+        "value": null,
+        "source": "..."
+      },
+      "d": {
+        "value": null,
+        "source": "..."
+      },
+      "w_b": {
+        "value": null,
+        "source": "..."
+      },
+      "active_decades": {
+        "value": null,
+        "source": "..."
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": "..."
+    },
+    "h_cont": {
+      "value": null,
+      "source": "..."
+    },
+    "h_club": {
+      "value": null,
+      "source": "..."
+    },
+    "i_soc": {
+      "value": null,
+      "source": "..."
+    },
+    "i_name": {
+      "value": null,
+      "source": "..."
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": "..."
+      },
+      "b": {
+        "value": null,
+        "source": "..."
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": "..."
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": "..."
+      },
+      "top5_league": {
+        "value": null,
+        "source": "..."
+      },
+      "top10_league": {
+        "value": null,
+        "source": "..."
+      },
+      "national_cups": {
+        "value": null,
+        "source": "..."
+      },
+      "state_regional": {
+        "value": null,
+        "source": "..."
+      }
+    }
+  },
+  {
+    "rivalry_id": "kaizer-chiefs--orlando-pirates",
+    "club_a": "kaizer-chiefs",
+    "club_b": "orlando-pirates",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": "..."
+      },
+      "w_a": {
+        "value": null,
+        "source": "..."
+      },
+      "d": {
+        "value": null,
+        "source": "..."
+      },
+      "w_b": {
+        "value": null,
+        "source": "..."
+      },
+      "active_decades": {
+        "value": null,
+        "source": "..."
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": "..."
+    },
+    "h_cont": {
+      "value": null,
+      "source": "..."
+    },
+    "h_club": {
+      "value": null,
+      "source": "..."
+    },
+    "i_soc": {
+      "value": null,
+      "source": "..."
+    },
+    "i_name": {
+      "value": null,
+      "source": "..."
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": "..."
+      },
+      "b": {
+        "value": null,
+        "source": "..."
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": "..."
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": "..."
+      },
+      "top5_league": {
+        "value": null,
+        "source": "..."
+      },
+      "top10_league": {
+        "value": null,
+        "source": "..."
+      },
+      "national_cups": {
+        "value": null,
+        "source": "..."
+      },
+      "state_regional": {
+        "value": null,
+        "source": "..."
+      }
+    }
+  },
+  {
+    "rivalry_id": "cd-guadalajara--club-atlas",
+    "club_a": "cd-guadalajara",
+    "club_b": "club-atlas",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": "..."
+      },
+      "w_a": {
+        "value": null,
+        "source": "..."
+      },
+      "d": {
+        "value": null,
+        "source": "..."
+      },
+      "w_b": {
+        "value": null,
+        "source": "..."
+      },
+      "active_decades": {
+        "value": null,
+        "source": "..."
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": "..."
+    },
+    "h_cont": {
+      "value": null,
+      "source": "..."
+    },
+    "h_club": {
+      "value": null,
+      "source": "..."
+    },
+    "i_soc": {
+      "value": null,
+      "source": "..."
+    },
+    "i_name": {
+      "value": null,
+      "source": "..."
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": "..."
+      },
+      "b": {
+        "value": null,
+        "source": "..."
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": "..."
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": "..."
+      },
+      "top5_league": {
+        "value": null,
+        "source": "..."
+      },
+      "top10_league": {
+        "value": null,
+        "source": "..."
+      },
+      "national_cups": {
+        "value": null,
+        "source": "..."
+      },
+      "state_regional": {
+        "value": null,
+        "source": "..."
+      }
+    }
+  },
+  {
+    "rivalry_id": "liverpool-fc--tottenham-hotspur",
+    "club_a": "liverpool-fc",
+    "club_b": "tottenham-hotspur",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": "..."
+      },
+      "w_a": {
+        "value": null,
+        "source": "..."
+      },
+      "d": {
+        "value": null,
+        "source": "..."
+      },
+      "w_b": {
+        "value": null,
+        "source": "..."
+      },
+      "active_decades": {
+        "value": null,
+        "source": "..."
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": "..."
+    },
+    "h_cont": {
+      "value": null,
+      "source": "..."
+    },
+    "h_club": {
+      "value": null,
+      "source": "..."
+    },
+    "i_soc": {
+      "value": null,
+      "source": "..."
+    },
+    "i_name": {
+      "value": null,
+      "source": "..."
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": "..."
+      },
+      "b": {
+        "value": null,
+        "source": "..."
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": "..."
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": "..."
+      },
+      "top5_league": {
+        "value": null,
+        "source": "..."
+      },
+      "top10_league": {
+        "value": null,
+        "source": "..."
+      },
+      "national_cups": {
+        "value": null,
+        "source": "..."
+      },
+      "state_regional": {
+        "value": null,
+        "source": "..."
+      }
+    }
+  }
+]

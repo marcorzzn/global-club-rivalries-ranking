@@ -1,0 +1,1766 @@
+[
+  {
+    "rivalry_id": "fc-barcelona--real-madrid",
+    "club_a": null,
+    "club_b": null,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null
+      },
+      "w_a": {
+        "value": null,
+        "source": null
+      },
+      "d": {
+        "value": null,
+        "source": null
+      },
+      "w_b": {
+        "value": null,
+        "source": null
+      },
+      "active_decades": {
+        "value": null,
+        "source": null
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null
+    },
+    "h_club": {
+      "value": null,
+      "source": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null
+      },
+      "b": {
+        "value": null,
+        "source": null
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": null
+      },
+      "top5_league": {
+        "value": null,
+        "source": null
+      },
+      "top10_league": {
+        "value": null,
+        "source": null
+      },
+      "national_cups": {
+        "value": null,
+        "source": null
+      },
+      "state_regional": {
+        "value": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "rivalry_id": "atletico-madrid--real-madrid",
+    "club_a": null,
+    "club_b": null,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null
+      },
+      "w_a": {
+        "value": null,
+        "source": null
+      },
+      "d": {
+        "value": null,
+        "source": null
+      },
+      "w_b": {
+        "value": null,
+        "source": null
+      },
+      "active_decades": {
+        "value": null,
+        "source": null
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null
+    },
+    "h_club": {
+      "value": null,
+      "source": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null
+      },
+      "b": {
+        "value": null,
+        "source": null
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": null
+      },
+      "top5_league": {
+        "value": null,
+        "source": null
+      },
+      "top10_league": {
+        "value": null,
+        "source": null
+      },
+      "national_cups": {
+        "value": null,
+        "source": null
+      },
+      "state_regional": {
+        "value": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "rivalry_id": "liverpool-fc--manchester-united",
+    "club_a": null,
+    "club_b": null,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null
+      },
+      "w_a": {
+        "value": null,
+        "source": null
+      },
+      "d": {
+        "value": null,
+        "source": null
+      },
+      "w_b": {
+        "value": null,
+        "source": null
+      },
+      "active_decades": {
+        "value": null,
+        "source": null
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null
+    },
+    "h_club": {
+      "value": null,
+      "source": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null
+      },
+      "b": {
+        "value": null,
+        "source": null
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": null
+      },
+      "top5_league": {
+        "value": null,
+        "source": null
+      },
+      "top10_league": {
+        "value": null,
+        "source": null
+      },
+      "national_cups": {
+        "value": null,
+        "source": null
+      },
+      "state_regional": {
+        "value": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "rivalry_id": "arsenal-fc--tottenham-hotspur",
+    "club_a": null,
+    "club_b": null,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null
+      },
+      "w_a": {
+        "value": null,
+        "source": null
+      },
+      "d": {
+        "value": null,
+        "source": null
+      },
+      "w_b": {
+        "value": null,
+        "source": null
+      },
+      "active_decades": {
+        "value": null,
+        "source": null
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null
+    },
+    "h_club": {
+      "value": null,
+      "source": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null
+      },
+      "b": {
+        "value": null,
+        "source": null
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": null
+      },
+      "top5_league": {
+        "value": null,
+        "source": null
+      },
+      "top10_league": {
+        "value": null,
+        "source": null
+      },
+      "national_cups": {
+        "value": null,
+        "source": null
+      },
+      "state_regional": {
+        "value": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "rivalry_id": "celtic-fc--rangers-fc",
+    "club_a": null,
+    "club_b": null,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null
+      },
+      "w_a": {
+        "value": null,
+        "source": null
+      },
+      "d": {
+        "value": null,
+        "source": null
+      },
+      "w_b": {
+        "value": null,
+        "source": null
+      },
+      "active_decades": {
+        "value": null,
+        "source": null
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null
+    },
+    "h_club": {
+      "value": null,
+      "source": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null
+      },
+      "b": {
+        "value": null,
+        "source": null
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": null
+      },
+      "top5_league": {
+        "value": null,
+        "source": null
+      },
+      "top10_league": {
+        "value": null,
+        "source": null
+      },
+      "national_cups": {
+        "value": null,
+        "source": null
+      },
+      "state_regional": {
+        "value": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "rivalry_id": "ac-milan--fc-internazionale-milano",
+    "club_a": null,
+    "club_b": null,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null
+      },
+      "w_a": {
+        "value": null,
+        "source": null
+      },
+      "d": {
+        "value": null,
+        "source": null
+      },
+      "w_b": {
+        "value": null,
+        "source": null
+      },
+      "active_decades": {
+        "value": null,
+        "source": null
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null
+    },
+    "h_club": {
+      "value": null,
+      "source": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null
+      },
+      "b": {
+        "value": null,
+        "source": null
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": null
+      },
+      "top5_league": {
+        "value": null,
+        "source": null
+      },
+      "top10_league": {
+        "value": null,
+        "source": null
+      },
+      "national_cups": {
+        "value": null,
+        "source": null
+      },
+      "state_regional": {
+        "value": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "rivalry_id": "fc-internazionale-milano--juventus-fc",
+    "club_a": null,
+    "club_b": null,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null
+      },
+      "w_a": {
+        "value": null,
+        "source": null
+      },
+      "d": {
+        "value": null,
+        "source": null
+      },
+      "w_b": {
+        "value": null,
+        "source": null
+      },
+      "active_decades": {
+        "value": null,
+        "source": null
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null
+    },
+    "h_club": {
+      "value": null,
+      "source": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null
+      },
+      "b": {
+        "value": null,
+        "source": null
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": null
+      },
+      "top5_league": {
+        "value": null,
+        "source": null
+      },
+      "top10_league": {
+        "value": null,
+        "source": null
+      },
+      "national_cups": {
+        "value": null,
+        "source": null
+      },
+      "state_regional": {
+        "value": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "rivalry_id": "as-roma--ss-lazio",
+    "club_a": null,
+    "club_b": null,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null
+      },
+      "w_a": {
+        "value": null,
+        "source": null
+      },
+      "d": {
+        "value": null,
+        "source": null
+      },
+      "w_b": {
+        "value": null,
+        "source": null
+      },
+      "active_decades": {
+        "value": null,
+        "source": null
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null
+    },
+    "h_club": {
+      "value": null,
+      "source": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null
+      },
+      "b": {
+        "value": null,
+        "source": null
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": null
+      },
+      "top5_league": {
+        "value": null,
+        "source": null
+      },
+      "top10_league": {
+        "value": null,
+        "source": null
+      },
+      "national_cups": {
+        "value": null,
+        "source": null
+      },
+      "state_regional": {
+        "value": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "rivalry_id": "ac-milan--juventus-fc",
+    "club_a": null,
+    "club_b": null,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null
+      },
+      "w_a": {
+        "value": null,
+        "source": null
+      },
+      "d": {
+        "value": null,
+        "source": null
+      },
+      "w_b": {
+        "value": null,
+        "source": null
+      },
+      "active_decades": {
+        "value": null,
+        "source": null
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null
+    },
+    "h_club": {
+      "value": null,
+      "source": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null
+      },
+      "b": {
+        "value": null,
+        "source": null
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": null
+      },
+      "top5_league": {
+        "value": null,
+        "source": null
+      },
+      "top10_league": {
+        "value": null,
+        "source": null
+      },
+      "national_cups": {
+        "value": null,
+        "source": null
+      },
+      "state_regional": {
+        "value": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "rivalry_id": "borussia-dortmund--fc-bayern-munich",
+    "club_a": null,
+    "club_b": null,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null
+      },
+      "w_a": {
+        "value": null,
+        "source": null
+      },
+      "d": {
+        "value": null,
+        "source": null
+      },
+      "w_b": {
+        "value": null,
+        "source": null
+      },
+      "active_decades": {
+        "value": null,
+        "source": null
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null
+    },
+    "h_club": {
+      "value": null,
+      "source": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null
+      },
+      "b": {
+        "value": null,
+        "source": null
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": null
+      },
+      "top5_league": {
+        "value": null,
+        "source": null
+      },
+      "top10_league": {
+        "value": null,
+        "source": null
+      },
+      "national_cups": {
+        "value": null,
+        "source": null
+      },
+      "state_regional": {
+        "value": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "rivalry_id": "afc-ajax--feyenoord-rotterdam",
+    "club_a": null,
+    "club_b": null,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null
+      },
+      "w_a": {
+        "value": null,
+        "source": null
+      },
+      "d": {
+        "value": null,
+        "source": null
+      },
+      "w_b": {
+        "value": null,
+        "source": null
+      },
+      "active_decades": {
+        "value": null,
+        "source": null
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null
+    },
+    "h_club": {
+      "value": null,
+      "source": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null
+      },
+      "b": {
+        "value": null,
+        "source": null
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": null
+      },
+      "top5_league": {
+        "value": null,
+        "source": null
+      },
+      "top10_league": {
+        "value": null,
+        "source": null
+      },
+      "national_cups": {
+        "value": null,
+        "source": null
+      },
+      "state_regional": {
+        "value": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "rivalry_id": "fc-porto--sl-benfica",
+    "club_a": null,
+    "club_b": null,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null
+      },
+      "w_a": {
+        "value": null,
+        "source": null
+      },
+      "d": {
+        "value": null,
+        "source": null
+      },
+      "w_b": {
+        "value": null,
+        "source": null
+      },
+      "active_decades": {
+        "value": null,
+        "source": null
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null
+    },
+    "h_club": {
+      "value": null,
+      "source": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null
+      },
+      "b": {
+        "value": null,
+        "source": null
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": null
+      },
+      "top5_league": {
+        "value": null,
+        "source": null
+      },
+      "top10_league": {
+        "value": null,
+        "source": null
+      },
+      "national_cups": {
+        "value": null,
+        "source": null
+      },
+      "state_regional": {
+        "value": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "rivalry_id": "sl-benfica--sporting-cp",
+    "club_a": null,
+    "club_b": null,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null
+      },
+      "w_a": {
+        "value": null,
+        "source": null
+      },
+      "d": {
+        "value": null,
+        "source": null
+      },
+      "w_b": {
+        "value": null,
+        "source": null
+      },
+      "active_decades": {
+        "value": null,
+        "source": null
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null
+    },
+    "h_club": {
+      "value": null,
+      "source": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null
+      },
+      "b": {
+        "value": null,
+        "source": null
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": null
+      },
+      "top5_league": {
+        "value": null,
+        "source": null
+      },
+      "top10_league": {
+        "value": null,
+        "source": null
+      },
+      "national_cups": {
+        "value": null,
+        "source": null
+      },
+      "state_regional": {
+        "value": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "rivalry_id": "olympiacos-fc--panathinaikos-fc",
+    "club_a": null,
+    "club_b": null,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null
+      },
+      "w_a": {
+        "value": null,
+        "source": null
+      },
+      "d": {
+        "value": null,
+        "source": null
+      },
+      "w_b": {
+        "value": null,
+        "source": null
+      },
+      "active_decades": {
+        "value": null,
+        "source": null
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null
+    },
+    "h_club": {
+      "value": null,
+      "source": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null
+      },
+      "b": {
+        "value": null,
+        "source": null
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": null
+      },
+      "top5_league": {
+        "value": null,
+        "source": null
+      },
+      "top10_league": {
+        "value": null,
+        "source": null
+      },
+      "national_cups": {
+        "value": null,
+        "source": null
+      },
+      "state_regional": {
+        "value": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "rivalry_id": "fenerbahce-sk--galatasaray-sk",
+    "club_a": null,
+    "club_b": null,
+    "confederation": "UEFA",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null
+      },
+      "w_a": {
+        "value": null,
+        "source": null
+      },
+      "d": {
+        "value": null,
+        "source": null
+      },
+      "w_b": {
+        "value": null,
+        "source": null
+      },
+      "active_decades": {
+        "value": null,
+        "source": null
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null
+    },
+    "h_club": {
+      "value": null,
+      "source": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null
+      },
+      "b": {
+        "value": null,
+        "source": null
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": null
+      },
+      "top5_league": {
+        "value": null,
+        "source": null
+      },
+      "top10_league": {
+        "value": null,
+        "source": null
+      },
+      "national_cups": {
+        "value": null,
+        "source": null
+      },
+      "state_regional": {
+        "value": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "rivalry_id": "ca-boca-juniors--ca-river-plate",
+    "club_a": null,
+    "club_b": null,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null
+      },
+      "w_a": {
+        "value": null,
+        "source": null
+      },
+      "d": {
+        "value": null,
+        "source": null
+      },
+      "w_b": {
+        "value": null,
+        "source": null
+      },
+      "active_decades": {
+        "value": null,
+        "source": null
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null
+    },
+    "h_club": {
+      "value": null,
+      "source": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null
+      },
+      "b": {
+        "value": null,
+        "source": null
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": null
+      },
+      "top5_league": {
+        "value": null,
+        "source": null
+      },
+      "top10_league": {
+        "value": null,
+        "source": null
+      },
+      "national_cups": {
+        "value": null,
+        "source": null
+      },
+      "state_regional": {
+        "value": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "rivalry_id": "cr-flamengo--fluminense-fc",
+    "club_a": null,
+    "club_b": null,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null
+      },
+      "w_a": {
+        "value": null,
+        "source": null
+      },
+      "d": {
+        "value": null,
+        "source": null
+      },
+      "w_b": {
+        "value": null,
+        "source": null
+      },
+      "active_decades": {
+        "value": null,
+        "source": null
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null
+    },
+    "h_club": {
+      "value": null,
+      "source": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null
+      },
+      "b": {
+        "value": null,
+        "source": null
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": null
+      },
+      "top5_league": {
+        "value": null,
+        "source": null
+      },
+      "top10_league": {
+        "value": null,
+        "source": null
+      },
+      "national_cups": {
+        "value": null,
+        "source": null
+      },
+      "state_regional": {
+        "value": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "rivalry_id": "sc-corinthians--se-palmeiras",
+    "club_a": null,
+    "club_b": null,
+    "confederation": "CONMEBOL",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null
+      },
+      "w_a": {
+        "value": null,
+        "source": null
+      },
+      "d": {
+        "value": null,
+        "source": null
+      },
+      "w_b": {
+        "value": null,
+        "source": null
+      },
+      "active_decades": {
+        "value": null,
+        "source": null
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null
+    },
+    "h_club": {
+      "value": null,
+      "source": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null
+      },
+      "b": {
+        "value": null,
+        "source": null
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": null
+      },
+      "top5_league": {
+        "value": null,
+        "source": null
+      },
+      "top10_league": {
+        "value": null,
+        "source": null
+      },
+      "national_cups": {
+        "value": null,
+        "source": null
+      },
+      "state_regional": {
+        "value": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "rivalry_id": "al-ahly-sc--zamalek-sc",
+    "club_a": null,
+    "club_b": null,
+    "confederation": "CAF",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null
+      },
+      "w_a": {
+        "value": null,
+        "source": null
+      },
+      "d": {
+        "value": null,
+        "source": null
+      },
+      "w_b": {
+        "value": null,
+        "source": null
+      },
+      "active_decades": {
+        "value": null,
+        "source": null
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null
+    },
+    "h_club": {
+      "value": null,
+      "source": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null
+      },
+      "b": {
+        "value": null,
+        "source": null
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": null
+      },
+      "top5_league": {
+        "value": null,
+        "source": null
+      },
+      "top10_league": {
+        "value": null,
+        "source": null
+      },
+      "national_cups": {
+        "value": null,
+        "source": null
+      },
+      "state_regional": {
+        "value": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "rivalry_id": "kaizer-chiefs--orlando-pirates",
+    "club_a": null,
+    "club_b": null,
+    "confederation": "CAF",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null
+      },
+      "w_a": {
+        "value": null,
+        "source": null
+      },
+      "d": {
+        "value": null,
+        "source": null
+      },
+      "w_b": {
+        "value": null,
+        "source": null
+      },
+      "active_decades": {
+        "value": null,
+        "source": null
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null
+    },
+    "h_club": {
+      "value": null,
+      "source": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null
+      },
+      "b": {
+        "value": null,
+        "source": null
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": null
+      },
+      "top5_league": {
+        "value": null,
+        "source": null
+      },
+      "top10_league": {
+        "value": null,
+        "source": null
+      },
+      "national_cups": {
+        "value": null,
+        "source": null
+      },
+      "state_regional": {
+        "value": null,
+        "source": null
+      }
+    }
+  },
+  {
+    "rivalry_id": "club-america--cruz-azul",
+    "club_a": null,
+    "club_b": null,
+    "confederation": "CONCACAF",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null
+      },
+      "w_a": {
+        "value": null,
+        "source": null
+      },
+      "d": {
+        "value": null,
+        "source": null
+      },
+      "w_b": {
+        "value": null,
+        "source": null
+      },
+      "active_decades": {
+        "value": null,
+        "source": null
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null
+    },
+    "h_cont": {
+      "value": null,
+      "source": null
+    },
+    "h_club": {
+      "value": null,
+      "source": null
+    },
+    "i_soc": {
+      "value": null,
+      "source": null
+    },
+    "i_name": {
+      "value": null,
+      "source": null
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null
+      },
+      "b": {
+        "value": null,
+        "source": null
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": null
+      },
+      "top5_league": {
+        "value": null,
+        "source": null
+      },
+      "top10_league": {
+        "value": null,
+        "source": null
+      },
+      "national_cups": {
+        "value": null,
+        "source": null
+      },
+      "state_regional": {
+        "value": null,
+        "source": null
+      }
+    }
+  }
+]

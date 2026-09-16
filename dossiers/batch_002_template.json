@@ -1,0 +1,372 @@
+[
+  {
+    "rivalry_id": "cd-guadalajara-chivas--club-america",
+    "club_a": "club-america",
+    "club_b": "cd-guadalajara-chivas",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "w_a": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "d": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "w_b": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "active_decades": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "h_club": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "b": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    }
+  },
+  {
+    "rivalry_id": "olympiacos-fc--panathinaikos-fc",
+    "club_a": "olympiacos-fc",
+    "club_b": "panathinaikos-fc",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "w_a": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "d": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "w_b": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "active_decades": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "h_club": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "b": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    }
+  },
+  {
+    "rivalry_id": "sl-benfica--sporting-cp",
+    "club_a": "sl-benfica",
+    "club_b": "sporting-cp",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "w_a": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "d": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "w_b": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "active_decades": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "h_club": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "b": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    }
+  },
+  {
+    "rivalry_id": "arsenal-fc--tottenham-hotspur",
+    "club_a": "arsenal-fc",
+    "club_b": "tottenham-hotspur",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "w_a": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "d": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "w_b": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "active_decades": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "h_club": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "b": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    }
+  },
+  {
+    "rivalry_id": "liverpool-fc--manchester-united",
+    "club_a": "liverpool-fc",
+    "club_b": "manchester-united",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "w_a": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "d": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "w_b": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "active_decades": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "h_club": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "b": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    }
+  }
+]

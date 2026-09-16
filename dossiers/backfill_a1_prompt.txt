@@ -1,0 +1,25 @@
+Compila SOLO il campo `match_context` per queste 15 rivalità.
+Per ogni rivalità, suddividi il totale nei 5 livelli competitivi:
+- continental_finals: match in finali di coppe continentali
+- top5_league: match in campionati top 5 europei
+- top10_league: match in campionati top 10 (Brasileirão, Liga MX, ecc.)
+- national_cups: match in coppe nazionali
+- state_regional: match in campionati statali/regionali
+
+Rispondi SOLO con un JSON array identico al template fornito. Zero amichevoli.
+RIVALITA:
+- celtic-fc--rangers-fc
+- ca-penarol--club-nacional-de-football
+- gremio-fbpa--sc-internacional
+- cr-flamengo--fluminense-fc
+- fc-barcelona--real-madrid
+- ca-boca-juniors--ca-river-plate
+- atletico-madrid--real-madrid
+- ac-milan--fc-internazionale-milano
+- fc-internazionale-milano--juventus-fc
+- fenerbahce-sk--galatasaray-sk
+- cd-guadalajara-chivas--club-america
+- olympiacos-fc--panathinaikos-fc
+- sl-benfica--sporting-cp
+- arsenal-fc--tottenham-hotspur
+- liverpool-fc--manchester-united

@@ -1,0 +1,372 @@
+[
+  {
+    "rivalry_id": "csd-comunicaciones--csd-municipal",
+    "club_a": "csd-municipal",
+    "club_b": "csd-comunicaciones",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "w_a": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "d": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "w_b": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "active_decades": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "h_club": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "b": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    }
+  },
+  {
+    "rivalry_id": "cr-flamengo--cr-vasco-da-gama",
+    "club_a": "cr-flamengo",
+    "club_b": "cr-vasco-da-gama",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "w_a": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "d": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "w_b": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "active_decades": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "h_club": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "b": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    }
+  },
+  {
+    "rivalry_id": "heart-of-midlothian--hibernian-fc",
+    "club_a": "heart-of-midlothian",
+    "club_b": "hibernian-fc",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "w_a": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "d": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "w_b": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "active_decades": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "h_club": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "b": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    }
+  },
+  {
+    "rivalry_id": "sc-corinthians--se-palmeiras",
+    "club_a": "sc-corinthians",
+    "club_b": "se-palmeiras",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "w_a": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "d": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "w_b": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "active_decades": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "h_club": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "b": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    }
+  },
+  {
+    "rivalry_id": "botafogo-fr--cr-flamengo",
+    "club_a": "cr-flamengo",
+    "club_b": "botafogo-fr",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "w_a": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "d": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "w_b": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "active_decades": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "h_club": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "b": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    }
+  }
+]

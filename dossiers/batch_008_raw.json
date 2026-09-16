@@ -1,0 +1,111 @@
+[
+  {
+    "id": "pohang-steelers--ulsan-hd-fc",
+    "rivalry_name": "Donghaean Derby",
+    "total": 177,
+    "w_a": 64,
+    "d": 52,
+    "w_b": 61,
+    "active_decades": [
+      "1990s",
+      "2000s",
+      "2010s",
+      "2020s"
+    ],
+    "match_context": {
+      "continental_finals": 0,
+      "top5_league": 0,
+      "top10_league": 150,
+      "national_cups": 27,
+      "state_regional": 0
+    }
+  },
+  {
+    "id": "santos-fc--se-palmeiras",
+    "rivalry_name": "Clássico da Saudade",
+    "total": 350,
+    "w_a": 107,
+    "d": 93,
+    "w_b": 150,
+    "active_decades": [
+      "1960s",
+      "1990s",
+      "2000s",
+      "2010s",
+      "2020s"
+    ],
+    "match_context": {
+      "continental_finals": 1,
+      "top5_league": 0,
+      "top10_league": 89,
+      "national_cups": 6,
+      "state_regional": 254
+    }
+  },
+  {
+    "id": "club-america--cruz-azul",
+    "rivalry_name": "Clásico Joven",
+    "total": 192,
+    "w_a": 69,
+    "d": 66,
+    "w_b": 57,
+    "active_decades": [
+      "1980s",
+      "1990s",
+      "2000s",
+      "2010s",
+      "2020s"
+    ],
+    "match_context": {
+      "continental_finals": 0,
+      "top5_league": 0,
+      "top10_league": 170,
+      "national_cups": 22,
+      "state_regional": 0
+    }
+  },
+  {
+    "id": "ac-milan--juventus-fc",
+    "rivalry_name": "Juventus-Milan",
+    "total": 247,
+    "w_a": 71,
+    "d": 82,
+    "w_b": 94,
+    "active_decades": [
+      "1980s",
+      "1990s",
+      "2000s",
+      "2010s",
+      "2020s"
+    ],
+    "match_context": {
+      "continental_finals": 1,
+      "top5_league": 215,
+      "top10_league": 0,
+      "national_cups": 31,
+      "state_regional": 0
+    }
+  },
+  {
+    "id": "cf-monterrey--tigres-uanl",
+    "rivalry_name": "Clásico Regiomontano",
+    "total": 142,
+    "w_a": 47,
+    "d": 44,
+    "w_b": 51,
+    "active_decades": [
+      "1980s",
+      "1990s",
+      "2000s",
+      "2010s",
+      "2020s"
+    ],
+    "match_context": {
+      "continental_finals": 2,
+      "top5_league": 0,
+      "top10_league": 130,
+      "national_cups": 10,
+      "state_regional": 0
+    }
+  }
+]

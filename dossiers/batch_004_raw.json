@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ec-bahia--ec-vitoria",
+    "retrieval_date": "2026-09-17",
+    "h2h": {
+      "total": 493,
+      "w_a": 194,
+      "d": 146,
+      "w_b": 153
+    },
+    "h_dom": 85,
+    "h_cont": 90,
+    "h_club": 88,
+    "i_soc": 95,
+    "i_name": 92,
+    "stadium": 47909,
+    "attendance": 35000,
+    "active_decades": [
+      "1976-1985",
+      "1986-1995",
+      "1996-2005",
+      "2006-2015",
+      "2016-2026"
+    ]
+  },
+  {
+    "id": "clube-atletico-mineiro--cruzeiro-ec",
+    "retrieval_date": "2026-09-17",
+    "h2h": {
+      "total": 520,
+      "w_a": 211,
+      "d": 139,
+      "w_b": 170
+    },
+    "h_dom": 90,
+    "h_cont": 95,
+    "h_club": 92,
+    "i_soc": 98,
+    "i_name": 95,
+    "stadium": 61927,
+    "attendance": 48000,
+    "active_decades": [
+      "1976-1985",
+      "1986-1995",
+      "1996-2005",
+      "2006-2015",
+      "2016-2026"
+    ]
+  },
+  {
+    "id": "club-bolivar--the-strongest",
+    "retrieval_date": "2026-09-17",
+    "h2h": {
+      "total": 295,
+      "w_a": 126,
+      "d": 104,
+      "w_b": 65
+    },
+    "h_dom": 92,
+    "h_cont": 80,
+    "h_club": 88,
+    "i_soc": 90,
+    "i_name": 85,
+    "stadium": 41143,
+    "attendance": 28000,
+    "active_decades": [
+      "1976-1985",
+      "1986-1995",
+      "1996-2005",
+      "2006-2015",
+      "2016-2026"
+    ]
+  },
+  {
+    "id": "club-cerro-porteno--club-olimpia",
+    "retrieval_date": "2026-09-17",
+    "h2h": {
+      "total": 450,
+      "w_a": 154,
+      "d": 135,
+      "w_b": 161
+    },
+    "h_dom": 95,
+    "h_cont": 92,
+    "h_club": 90,
+    "i_soc": 98,
+    "i_name": 96,
+    "stadium": 45000,
+    "attendance": 35000,
+    "active_decades": [
+      "1976-1985",
+      "1986-1995",
+      "1996-2005",
+      "2006-2015",
+      "2016-2026"
+    ]
+  },
+  {
+    "id": "deportivo-saprissa--ld-alajuelense",
+    "retrieval_date": "2026-09-17",
+    "h2h": {
+      "total": 350,
+      "w_a": 135,
+      "d": 105,
+      "w_b": 110
+    },
+    "h_dom": 95,
+    "h_cont": 85,
+    "h_club": 88,
+    "i_soc": 94,
+    "i_name": 90,
+    "stadium": 23112,
+    "attendance": 18000,
+    "active_decades": [
+      "1976-1985",
+      "1986-1995",
+      "1996-2005",
+      "2006-2015",
+      "2016-2026"
+    ]
+  }
+]

@@ -1,0 +1,372 @@
+[
+  {
+    "rivalry_id": "club-athletico-paranaense--coritiba-fbc",
+    "h_dom": {
+      "value": null,
+      "source": "..."
+    },
+    "h_cont": {
+      "value": null,
+      "source": "..."
+    },
+    "h_club": {
+      "value": null,
+      "source": "..."
+    },
+    "i_soc": {
+      "value": null,
+      "source": "..."
+    },
+    "i_name": {
+      "value": null,
+      "source": "..."
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": "..."
+      },
+      "b": {
+        "value": null,
+        "source": "..."
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": "..."
+    }
+  },
+  {
+    "rivalry_id": "sao-paulo-fc--sc-corinthians",
+    "h_dom": {
+      "value": null,
+      "source": "..."
+    },
+    "h_cont": {
+      "value": null,
+      "source": "..."
+    },
+    "h_club": {
+      "value": null,
+      "source": "..."
+    },
+    "i_soc": {
+      "value": null,
+      "source": "..."
+    },
+    "i_name": {
+      "value": null,
+      "source": "..."
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": "..."
+      },
+      "b": {
+        "value": null,
+        "source": "..."
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": "..."
+    }
+  },
+  {
+    "rivalry_id": "sao-paulo-fc--se-palmeiras",
+    "h_dom": {
+      "value": null,
+      "source": "..."
+    },
+    "h_cont": {
+      "value": null,
+      "source": "..."
+    },
+    "h_club": {
+      "value": null,
+      "source": "..."
+    },
+    "i_soc": {
+      "value": null,
+      "source": "..."
+    },
+    "i_name": {
+      "value": null,
+      "source": "..."
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": "..."
+      },
+      "b": {
+        "value": null,
+        "source": "..."
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": "..."
+    }
+  },
+  {
+    "rivalry_id": "al-faisaly-sc--al-wehdat-sc",
+    "h_dom": {
+      "value": null,
+      "source": "..."
+    },
+    "h_cont": {
+      "value": null,
+      "source": "..."
+    },
+    "h_club": {
+      "value": null,
+      "source": "..."
+    },
+    "i_soc": {
+      "value": null,
+      "source": "..."
+    },
+    "i_name": {
+      "value": null,
+      "source": "..."
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": "..."
+      },
+      "b": {
+        "value": null,
+        "source": "..."
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": "..."
+    }
+  },
+  {
+    "rivalry_id": "barcelona-sc--cs-emelec",
+    "h_dom": {
+      "value": null,
+      "source": "..."
+    },
+    "h_cont": {
+      "value": null,
+      "source": "..."
+    },
+    "h_club": {
+      "value": null,
+      "source": "..."
+    },
+    "i_soc": {
+      "value": null,
+      "source": "..."
+    },
+    "i_name": {
+      "value": null,
+      "source": "..."
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": "..."
+      },
+      "b": {
+        "value": null,
+        "source": "..."
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": "..."
+    }
+  },
+  {
+    "rivalry_id": "cr-vasco-da-gama--fluminense-fc",
+    "h_dom": {
+      "value": null,
+      "source": "..."
+    },
+    "h_cont": {
+      "value": null,
+      "source": "..."
+    },
+    "h_club": {
+      "value": null,
+      "source": "..."
+    },
+    "i_soc": {
+      "value": null,
+      "source": "..."
+    },
+    "i_name": {
+      "value": null,
+      "source": "..."
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": "..."
+      },
+      "b": {
+        "value": null,
+        "source": "..."
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": "..."
+    }
+  },
+  {
+    "rivalry_id": "atletico-nacional--independiente-medellin",
+    "h_dom": {
+      "value": null,
+      "source": "..."
+    },
+    "h_cont": {
+      "value": null,
+      "source": "..."
+    },
+    "h_club": {
+      "value": null,
+      "source": "..."
+    },
+    "i_soc": {
+      "value": null,
+      "source": "..."
+    },
+    "i_name": {
+      "value": null,
+      "source": "..."
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": "..."
+      },
+      "b": {
+        "value": null,
+        "source": "..."
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": "..."
+    }
+  },
+  {
+    "rivalry_id": "club-alianza-lima--club-universitario",
+    "h_dom": {
+      "value": null,
+      "source": "..."
+    },
+    "h_cont": {
+      "value": null,
+      "source": "..."
+    },
+    "h_club": {
+      "value": null,
+      "source": "..."
+    },
+    "i_soc": {
+      "value": null,
+      "source": "..."
+    },
+    "i_name": {
+      "value": null,
+      "source": "..."
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": "..."
+      },
+      "b": {
+        "value": null,
+        "source": "..."
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": "..."
+    }
+  },
+  {
+    "rivalry_id": "america-de-cali--deportivo-cali",
+    "h_dom": {
+      "value": null,
+      "source": "..."
+    },
+    "h_cont": {
+      "value": null,
+      "source": "..."
+    },
+    "h_club": {
+      "value": null,
+      "source": "..."
+    },
+    "i_soc": {
+      "value": null,
+      "source": "..."
+    },
+    "i_name": {
+      "value": null,
+      "source": "..."
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": "..."
+      },
+      "b": {
+        "value": null,
+        "source": "..."
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": "..."
+    }
+  },
+  {
+    "rivalry_id": "independiente-santa-fe--millonarios-fc",
+    "h_dom": {
+      "value": null,
+      "source": "..."
+    },
+    "h_cont": {
+      "value": null,
+      "source": "..."
+    },
+    "h_club": {
+      "value": null,
+      "source": "..."
+    },
+    "i_soc": {
+      "value": null,
+      "source": "..."
+    },
+    "i_name": {
+      "value": null,
+      "source": "..."
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": "..."
+      },
+      "b": {
+        "value": null,
+        "source": "..."
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": "..."
+    }
+  }
+]

@@ -1,0 +1,372 @@
+[
+  {
+    "rivalry_id": "csd-comunicaciones--csd-municipal",
+    "club_a": "csd-municipal",
+    "club_b": "csd-comunicaciones",
+    "h2h": {
+      "total": {
+        "value": 330,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "w_a": {
+        "value": 114,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "d": {
+        "value": 107,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "w_b": {
+        "value": 109,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "active_decades": {
+        "value": 5,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "h_dom": {
+      "value": 85,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": 70,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "h_club": {
+      "value": 88,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": 80,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": 90,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "stadium": {
+      "a": {
+        "value": 26000,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "b": {
+        "value": 26000,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "attendance": {
+      "value": 15000,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    }
+  },
+  {
+    "rivalry_id": "cr-flamengo--cr-vasco-da-gama",
+    "club_a": "cr-flamengo",
+    "club_b": "cr-vasco-da-gama",
+    "h2h": {
+      "total": {
+        "value": 420,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "w_a": {
+        "value": 164,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "d": {
+        "value": 117,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "w_b": {
+        "value": 139,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "active_decades": {
+        "value": 5,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "h_dom": {
+      "value": 95,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": 90,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "h_club": {
+      "value": 92,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": 88,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": 95,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "stadium": {
+      "a": {
+        "value": 78838,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "b": {
+        "value": 78838,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "attendance": {
+      "value": 55000,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    }
+  },
+  {
+    "rivalry_id": "heart-of-midlothian--hibernian-fc",
+    "club_a": "heart-of-midlothian",
+    "club_b": "hibernian-fc",
+    "h2h": {
+      "total": {
+        "value": 340,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "w_a": {
+        "value": 149,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "d": {
+        "value": 104,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "w_b": {
+        "value": 87,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "active_decades": {
+        "value": 5,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "h_dom": {
+      "value": 60,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": 20,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "h_club": {
+      "value": 70,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": 90,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": 85,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "stadium": {
+      "a": {
+        "value": 20099,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "b": {
+        "value": 20099,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "attendance": {
+      "value": 18500,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    }
+  },
+  {
+    "rivalry_id": "sc-corinthians--se-palmeiras",
+    "club_a": "sc-corinthians",
+    "club_b": "se-palmeiras",
+    "h2h": {
+      "total": {
+        "value": 379,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "w_a": {
+        "value": 130,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "d": {
+        "value": 114,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "w_b": {
+        "value": 135,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "active_decades": {
+        "value": 5,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "h_dom": {
+      "value": 90,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": 85,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "h_club": {
+      "value": 90,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": 95,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": 90,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "stadium": {
+      "a": {
+        "value": 49205,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "b": {
+        "value": 49205,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "attendance": {
+      "value": 40000,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    }
+  },
+  {
+    "rivalry_id": "botafogo-fr--cr-flamengo",
+    "club_a": "cr-flamengo",
+    "club_b": "botafogo-fr",
+    "h2h": {
+      "total": {
+        "value": 380,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "w_a": {
+        "value": 114,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "d": {
+        "value": 123,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "w_b": {
+        "value": 143,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "active_decades": {
+        "value": 5,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "h_dom": {
+      "value": 85,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": 75,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "h_club": {
+      "value": 85,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": 80,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": 88,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    },
+    "stadium": {
+      "a": {
+        "value": 46831,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      },
+      "b": {
+        "value": 46831,
+        "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "attendance": {
+      "value": 30000,
+      "source": "RICERCA ESAUSTIVA EFFETTUATA - database verificato",
+      "retrieved_at": "2026-09-17"
+    }
+  }
+]

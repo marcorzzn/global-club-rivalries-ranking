@@ -1,0 +1,507 @@
+[
+  {
+    "rivalry_id": "cr-vasco-da-gama--fluminense-fc",
+    "club_a": "cr-vasco-da-gama",
+    "club_b": "fluminense-fc",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "w_a": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "d": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "w_b": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "active_decades": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "h_club": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "b": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "top5_league": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "top10_league": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "national_cups": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "state_regional": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    }
+  },
+  {
+    "rivalry_id": "atletico-nacional--independiente-medellin",
+    "club_a": "atletico-nacional",
+    "club_b": "independiente-medellin",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "w_a": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "d": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "w_b": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "active_decades": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "h_club": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "b": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "top5_league": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "top10_league": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "national_cups": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "state_regional": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    }
+  },
+  {
+    "rivalry_id": "club-alianza-lima--club-universitario",
+    "club_a": "club-universitario",
+    "club_b": "club-alianza-lima",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "w_a": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "d": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "w_b": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "active_decades": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "h_club": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "b": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "top5_league": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "top10_league": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "national_cups": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "state_regional": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    }
+  },
+  {
+    "rivalry_id": "america-de-cali--deportivo-cali",
+    "club_a": "america-de-cali",
+    "club_b": "deportivo-cali",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "w_a": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "d": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "w_b": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "active_decades": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "h_club": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "b": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "top5_league": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "top10_league": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "national_cups": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "state_regional": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    }
+  },
+  {
+    "rivalry_id": "independiente-santa-fe--millonarios-fc",
+    "club_a": "millonarios-fc",
+    "club_b": "independiente-santa-fe",
+    "h2h": {
+      "total": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "w_a": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "d": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "w_b": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "active_decades": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "h_dom": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "h_cont": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "h_club": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "i_soc": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "i_name": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    },
+    "stadium": {
+      "a": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "b": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "match_context": {
+      "continental_finals": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "top5_league": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "top10_league": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "national_cups": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      },
+      "state_regional": {
+        "value": null,
+        "source": null,
+        "retrieved_at": "2026-09-17"
+      }
+    },
+    "attendance": {
+      "value": null,
+      "source": null,
+      "retrieved_at": "2026-09-17"
+    }
+  }
+]

@@ -1,24 +1,41 @@
-# MWI-50 Ultra
+# MWI Framework: Global Club Football Rivalry Index
 
-**Global Club Football Rivalry Index (1976–2026)**
+## TL;DR
+A composite index methodology for ranking football rivalries,
+released as a reusable Python framework. The algorithm works;
+automated data extraction does not (see Case Study below).
 
-Welcome to the MWI-50 Ultra repository. This project aims to mathematically and objectively rank the top 100 football (soccer) club rivalries worldwide, using 50 years of verified historical data.
+## What's Inside
+- `tools/` — Complete pipeline: validators, scoring engines (V1 and V2), integrators
+- `data/rivalries_verified_template.json` — Empty template for manual data entry
+- `methodology_en.md` / `methodology_it.md` — Algorithm documentation
+- `walkthrough.md` — Project narrative including the LLM audit
 
-## Repository Contents
+## Case Study: LLMs Cannot Do Historical Research (Yet)
+During development, we built a rigorous pipeline and fed it
+data extracted by LLM subagents. An independent manual audit
+of 12 rivalries revealed:
+- 75% of extracted data was wrong (30% to 1500% error)
+- The LLM produced "mimetic coherence": plausible-looking
+  numbers that satisfied mathematical constraints (w_a + d + w_b = total)
+  but were fabricated
+- Pattern: round numbers for obscure rivalries (150-100-100)
 
-- `index.html`: The core application. A fully self-contained, single-file HTML app. Open it in any modern web browser to view the interactive ranking, tweak parameter weights via sliders, and explore the Top 138 candidates.
-- `methodology_en.md`: The official mathematical and methodological guide (English).
-- `methodology_it.md`: The official mathematical and methodological guide (Italian).
-- `thread_en.md` / `thread_it.md`: Drafted X (Twitter) threads explaining the project release.
+**Takeaway**: LLMs can structure research, not perform it.
+Historical data must come from verified primary sources,
+not model outputs validated only for structural coherence.
 
-## Principles
+## Running the Algorithm
+1. Fill `data/rivalries_verified_template.json` with your own verified data
+2. `python tools/partial_ranking_v2.py`
+3. View results in `rankings.json`
 
-1. **Zero Fabrication:** No data points (matches, attendances, capacities) were estimated out of thin air.
-2. **Transparency:** Every metric and calculation is exposed in the detail view for each rivalry.
-3. **Parametric Scaling:** Don't agree with the default weights? Use the web app's sliders to see how the ranking shifts if you prioritize "Stadium Factor" or "Historical Importance".
+## Algorithm V2: Context-Aware Scoring
+Corrects the volume bias that plagued V1 by weighting matches:
+- Continental finals: 1.5x
+- Top-5 leagues: 1.3x  
+- Top-10 leagues: 1.2x
+- National cups: 1.1x
+- State/regional: 0.7x
 
-## Author
-
-Marco
-
-*(Generated as part of the MWI-50 Ultra project)*
+Final weights: R=22%, I=40%, H=28%, S=10%

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "al-ahly-sc--zamalek-sc",
+    "retrieval_date": "2026-09-17",
+    "h2h": {
+      "total": 246,
+      "w_a": 108,
+      "d": 80,
+      "w_b": 58
+    },
+    "metrics": {
+      "h_dom": 98,
+      "h_cont": 95,
+      "h_club": 99,
+      "i_soc": 90,
+      "i_name": 95
+    },
+    "venues": {
+      "stadium": 75000,
+      "attendance": 60000
+    },
+    "active_decades": [
+      "1976-1985",
+      "1986-1995",
+      "1996-2005",
+      "2006-2015",
+      "2016-2026"
+    ]
+  },
+  {
+    "id": "afc-ajax--feyenoord-rotterdam",
+    "retrieval_date": "2026-09-17",
+    "h2h": {
+      "total": 205,
+      "w_a": 93,
+      "d": 49,
+      "w_b": 63
+    },
+    "metrics": {
+      "h_dom": 92,
+      "h_cont": 85,
+      "h_club": 90,
+      "i_soc": 88,
+      "i_name": 90
+    },
+    "venues": {
+      "stadium": 55000,
+      "attendance": 50000
+    },
+    "active_decades": [
+      "1976-1985",
+      "1986-1995",
+      "1996-2005",
+      "2006-2015",
+      "2016-2026"
+    ]
+  },
+  {
+    "id": "as-roma--ss-lazio",
+    "retrieval_date": "2026-09-17",
+    "h2h": {
+      "total": 197,
+      "w_a": 73,
+      "d": 67,
+      "w_b": 57
+    },
+    "metrics": {
+      "h_dom": 85,
+      "h_cont": 70,
+      "h_club": 82,
+      "i_soc": 95,
+      "i_name": 88
+    },
+    "venues": {
+      "stadium": 70634,
+      "attendance": 62000
+    },
+    "active_decades": [
+      "1976-1985",
+      "1986-1995",
+      "1996-2005",
+      "2006-2015",
+      "2016-2026"
+    ]
+  },
+  {
+    "id": "ca-boca-juniors--ca-independiente",
+    "retrieval_date": "2026-09-17",
+    "h2h": {
+      "total": 196,
+      "w_a": 73,
+      "d": 58,
+      "w_b": 65
+    },
+    "metrics": {
+      "h_dom": 90,
+      "h_cont": 92,
+      "h_club": 94,
+      "i_soc": 80,
+      "i_name": 85
+    },
+    "venues": {
+      "stadium": 54000,
+      "attendance": 48000
+    },
+    "active_decades": [
+      "1976-1985",
+      "1986-1995",
+      "1996-2005",
+      "2006-2015",
+      "2016-2026"
+    ]
+  },
+  {
+    "id": "borussia-dortmund--fc-schalke-04",
+    "retrieval_date": "2026-09-17",
+    "h2h": {
+      "total": 160,
+      "w_a": 59,
+      "d": 43,
+      "w_b": 58
+    },
+    "metrics": {
+      "h_dom": 88,
+      "h_cont": 80,
+      "h_club": 85,
+      "i_soc": 92,
+      "i_name": 86
+    },
+    "venues": {
+      "stadium": 81365,
+      "attendance": 81000
+    },
+    "active_decades": [
+      "1976-1985",
+      "1986-1995",
+      "1996-2005",
+      "2006-2015",
+      "2016-2026"
+    ]
+  }
+]

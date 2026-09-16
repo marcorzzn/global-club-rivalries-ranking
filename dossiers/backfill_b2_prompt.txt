@@ -1,0 +1,22 @@
+Compila SOLO le metriche semantiche per queste 10 rivalità.
+Campi da compilare:
+- h_dom (0-100): finali di coppa nazionale / spareggi-scudetto documentati
+- h_cont (0-100): stadio massimo raggiunto in coppe continentali
+- h_club (0-100): trofei combinati 1976-2026
+- i_soc (0-100): frattura sociale/politica documentata
+- i_name (0-100): nome storico documentato
+- stadium.a e stadium.b: capienza ufficiale
+- attendance: affluenza media
+
+Rispondi SOLO con un JSON array identico al template fornito.
+RIVALITA:
+- pohang-steelers--ulsan-hd-fc
+- santos-fc--se-palmeiras
+- club-america--cruz-azul
+- ac-milan--juventus-fc
+- cf-monterrey--tigres-uanl
+- club-america--club-universidad-nacional-pumas
+- fc-porto--sl-benfica
+- club-universidad-de-chile--csd-colo-colo
+- everton-fc--liverpool-fc
+- arsenal-fc--chelsea-fc

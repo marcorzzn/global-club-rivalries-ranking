@@ -1,3 +1,19 @@
+"""
+MWI Framework - Rivalry Index Calculator
+=========================================
+A reusable framework for calculating composite rivalry indices
+with context-aware weighting and entropy-based balance scoring.
+
+USAGE:
+    1. Popola data/rivalries_verified_template.json con dati verificati manualmente
+    2. python tools/partial_ranking_v2.py
+    3. Output: rankings.json + audit_report.csv
+
+LICENSE: MIT
+CASE STUDY: See walkthrough.md for the audit that exposed
+           LLM hallucination risks in historical data extraction.
+"""
+
 import json
 import jsonschema
 import sys

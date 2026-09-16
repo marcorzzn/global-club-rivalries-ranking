@@ -1,0 +1,137 @@
+[
+  {
+    "rivalry_id": "juventus-fc--ssc-napoli",
+    "h2h": {
+      "total": 184,
+      "w_a": 85,
+      "d": 50,
+      "w_b": 49,
+      "active_decades": 5
+    },
+    "h_dom": 85,
+    "h_cont": 70,
+    "h_club": 85,
+    "i_soc": 90,
+    "i_name": 80,
+    "stadium": {
+      "a": 41507,
+      "b": 54726
+    },
+    "attendance": 45000,
+    "match_context": {
+      "continental_finals": 0,
+      "top5_league": 156,
+      "top10_league": 0,
+      "national_cups": 28,
+      "state_regional": 0
+    }
+  },
+  {
+    "rivalry_id": "ca-independiente--racing-club",
+    "h2h": {
+      "total": 234,
+      "w_a": 89,
+      "d": 75,
+      "w_b": 70,
+      "active_decades": 5
+    },
+    "h_dom": 90,
+    "h_cont": 80,
+    "h_club": 95,
+    "i_soc": 85,
+    "i_name": 90,
+    "stadium": {
+      "a": 42069,
+      "b": 61000
+    },
+    "attendance": 48000,
+    "match_context": {
+      "continental_finals": 0,
+      "top5_league": 0,
+      "top10_league": 215,
+      "national_cups": 19,
+      "state_regional": 0
+    }
+  },
+  {
+    "rivalry_id": "club-universidad-nacional-pumas--cruz-azul",
+    "h2h": {
+      "total": 125,
+      "w_a": 35,
+      "d": 40,
+      "w_b": 50,
+      "active_decades": 5
+    },
+    "h_dom": 80,
+    "h_cont": 75,
+    "h_club": 85,
+    "i_soc": 70,
+    "i_name": 75,
+    "stadium": {
+      "a": 72000,
+      "b": 36000
+    },
+    "attendance": 40000,
+    "match_context": {
+      "continental_finals": 1,
+      "top5_league": 0,
+      "top10_league": 115,
+      "national_cups": 9,
+      "state_regional": 0
+    }
+  },
+  {
+    "rivalry_id": "al-ahli-sfc--al-ittihad-fc",
+    "h2h": {
+      "total": 210,
+      "w_a": 75,
+      "d": 60,
+      "w_b": 75,
+      "active_decades": 5
+    },
+    "h_dom": 85,
+    "h_cont": 75,
+    "h_club": 85,
+    "i_soc": 80,
+    "i_name": 90,
+    "stadium": {
+      "a": 62345,
+      "b": 62345
+    },
+    "attendance": 50000,
+    "match_context": {
+      "continental_finals": 0,
+      "top5_league": 0,
+      "top10_league": 180,
+      "national_cups": 30,
+      "state_regional": 0
+    }
+  },
+  {
+    "rivalry_id": "dc-united--new-york-red-bulls",
+    "h2h": {
+      "total": 105,
+      "w_a": 47,
+      "d": 20,
+      "w_b": 38,
+      "active_decades": 3
+    },
+    "h_dom": 75,
+    "h_cont": 50,
+    "h_club": 80,
+    "i_soc": 60,
+    "i_name": 85,
+    "stadium": {
+      "a": 20000,
+      "b": 25000
+    },
+    "attendance": 18000,
+    "match_context": {
+      "continental_finals": 0,
+      "top5_league": 0,
+      "top10_league": 0,
+      "national_cups": 15,
+      "state_regional": 90
+    }
+  }
+]

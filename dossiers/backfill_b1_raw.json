@@ -1,0 +1,102 @@
+[
+  {
+    "rivalry_id": "club-athletico-paranaense--coritiba-fbc",
+    "h_dom": 40,
+    "h_cont": 70,
+    "h_club": 55,
+    "i_soc": 60,
+    "i_name": 100,
+    "stadium": { "a": 42372, "b": 40502 },
+    "attendance": 35000
+  },
+  {
+    "rivalry_id": "sao-paulo-fc--sc-corinthians",
+    "h_dom": 85,
+    "h_cont": 100,
+    "h_club": 95,
+    "i_soc": 80,
+    "i_name": 100,
+    "stadium": { "a": 72039, "b": 49205 },
+    "attendance": 50000
+  },
+  {
+    "rivalry_id": "sao-paulo-fc--se-palmeiras",
+    "h_dom": 80,
+    "h_cont": 100,
+    "h_club": 95,
+    "i_soc": 75,
+    "i_name": 100,
+    "stadium": { "a": 72039, "b": 43713 },
+    "attendance": 48000
+  },
+  {
+    "rivalry_id": "al-faisaly-sc--al-wehdat-sc",
+    "h_dom": 90,
+    "h_cont": 50,
+    "h_club": 85,
+    "i_soc": 100,
+    "i_name": 100,
+    "stadium": { "a": 17619, "b": 13000 },
+    "attendance": 15000
+  },
+  {
+    "rivalry_id": "barcelona-sc--cs-emelec",
+    "h_dom": 90,
+    "h_cont": 80,
+    "h_club": 85,
+    "i_soc": 70,
+    "i_name": 100,
+    "stadium": { "a": 57267, "b": 40028 },
+    "attendance": 45000
+  },
+  {
+    "rivalry_id": "cr-vasco-da-gama--fluminense-fc",
+    "h_dom": 85,
+    "h_cont": 100,
+    "h_club": 80,
+    "i_soc": 75,
+    "i_name": 100,
+    "stadium": { "a": 21880, "b": 78838 },
+    "attendance": 40000
+  },
+  {
+    "rivalry_id": "atletico-nacional--independiente-medellin",
+    "h_dom": 75,
+    "h_cont": 100,
+    "h_club": 80,
+    "i_soc": 60,
+    "i_name": 100,
+    "stadium": { "a": 40943, "b": 40943 },
+    "attendance": 38000
+  },
+  {
+    "rivalry_id": "club-alianza-lima--club-universitario",
+    "h_dom": 95,
+    "h_cont": 70,
+    "h_club": 90,
+    "i_soc": 85,
+    "i_name": 100,
+    "stadium": { "a": 33938, "b": 80093 },
+    "attendance": 42000
+  },
+  {
+    "rivalry_id": "america-de-cali--deportivo-cali",
+    "h_dom": 85,
+    "h_cont": 80,
+    "h_club": 85,
+    "i_soc": 65,
+    "i_name": 100,
+    "stadium": { "a": 35405, "b": 42000 },
+    "attendance": 35000
+  },
+  {
+    "rivalry_id": "independiente-santa-fe--millonarios-fc",
+    "h_dom": 70,
+    "h_cont": 75,
+    "h_club": 85,
+    "i_soc": 60,
+    "i_name": 100,
+    "stadium": { "a": 36343, "b": 36343 },
+    "attendance": 32000
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "rivalry_id": "pohang-steelers--ulsan-hd-fc",
+    "h_dom": 80,
+    "h_cont": 90,
+    "h_club": 40,
+    "i_soc": 60,
+    "i_name": 100,
+    "stadium": { "a": 17443, "b": 37897 },
+    "attendance": 18000
+  },
+  {
+    "rivalry_id": "santos-fc--se-palmeiras",
+    "h_dom": 90,
+    "h_cont": 100,
+    "h_club": 85,
+    "i_soc": 50,
+    "i_name": 100,
+    "stadium": { "a": 16068, "b": 43713 },
+    "attendance": 35000
+  },
+  {
+    "rivalry_id": "club-america--cruz-azul",
+    "h_dom": 100,
+    "h_cont": 70,
+    "h_club": 80,
+    "i_soc": 75,
+    "i_name": 100,
+    "stadium": { "a": 87523, "b": 36681 },
+    "attendance": 55000
+  },
+  {
+    "rivalry_id": "ac-milan--juventus-fc",
+    "h_dom": 100,
+    "h_cont": 100,
+    "h_club": 95,
+    "i_soc": 70,
+    "i_name": 50,
+    "stadium": { "a": 75817, "b": 41507 },
+    "attendance": 65000
+  },
+  {
+    "rivalry_id": "cf-monterrey--tigres-uanl",
+    "h_dom": 90,
+    "h_cont": 100,
+    "h_club": 60,
+    "i_soc": 85,
+    "i_name": 100,
+    "stadium": { "a": 53500, "b": 41615 },
+    "attendance": 48000
+  },
+  {
+    "rivalry_id": "club-america--club-universidad-nacional-pumas",
+    "h_dom": 90,
+    "h_cont": 50,
+    "h_club": 70,
+    "i_soc": 95,
+    "i_name": 100,
+    "stadium": { "a": 87523, "b": 72000 },
+    "attendance": 60000
+  },
+  {
+    "rivalry_id": "fc-porto--sl-benfica",
+    "h_dom": 100,
+    "h_cont": 60,
+    "h_club": 100,
+    "i_soc": 100,
+    "i_name": 100,
+    "stadium": { "a": 50033, "b": 64642 },
+    "attendance": 58000
+  },
+  {
+    "rivalry_id": "club-universidad-de-chile--csd-colo-colo",
+    "h_dom": 100,
+    "h_cont": 40,
+    "h_club": 85,
+    "i_soc": 90,
+    "i_name": 100,
+    "stadium": { "a": 48665, "b": 47347 },
+    "attendance": 42000
+  },
+  {
+    "rivalry_id": "everton-fc--liverpool-fc",
+    "h_dom": 100,
+    "h_cont": 0,
+    "h_club": 90,
+    "i_soc": 60,
+    "i_name": 100,
+    "stadium": { "a": 39414, "b": 61276 },
+    "attendance": 50000
+  },
+  {
+    "rivalry_id": "arsenal-fc--chelsea-fc",
+    "h_dom": 100,
+    "h_cont": 100,
+    "h_club": 95,
+    "i_soc": 65,
+    "i_name": 80,
+    "stadium": { "a": 60704, "b": 40341 },
+    "attendance": 55000
+  }
+]
