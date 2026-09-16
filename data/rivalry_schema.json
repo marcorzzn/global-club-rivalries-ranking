@@ -1,0 +1,79 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "MWI-50 Ultra Rivalry Schema",
+  "type": "object",
+  "required": [
+    "rivalry_id", "club_a_slug", "club_b_slug", "confederation", "city_derby",
+    "h2h", "continuity_blocks", "h_dom", "h_cont", "h_club", "i_soc", "i_name"
+  ],
+  "properties": {
+    "rivalry_id": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+--[a-z0-9-]+$"
+    },
+    "club_a_slug": { "type": "string" },
+    "club_b_slug": { "type": "string" },
+    "rivalry_name": { "type": ["string", "null"] },
+    "city_derby": { "type": "boolean" },
+    "confederation": {
+      "type": "string",
+      "enum": ["UEFA", "CONMEBOL", "CONCACAF", "CAF", "AFC", "OFC"]
+    },
+    "h2h": {
+      "type": "object",
+      "required": ["total"],
+      "properties": {
+        "total": { "type": "integer", "minimum": 25 },
+        "w_a": { "type": ["integer", "null"] },
+        "d": { "type": ["integer", "null"] },
+        "w_b": { "type": ["integer", "null"] }
+      }
+    },
+    "continuity_blocks": {
+      "type": "array",
+      "items": { "type": "boolean" },
+      "minItems": 5,
+      "maxItems": 5
+    },
+    "h_dom": {
+      "type": "object",
+      "required": ["score", "source"],
+      "properties": {
+        "score": { "type": ["integer", "null"], "minimum": 0, "maximum": 100 },
+        "source": { "type": ["string", "null"] }
+      }
+    },
+    "h_cont": {
+      "type": "object",
+      "required": ["score", "source"],
+      "properties": {
+        "score": { "type": ["integer", "null"], "enum": [0, 40, 55, 70, 85, 100, null] },
+        "source": { "type": ["string", "null"] }
+      }
+    },
+    "h_club": {
+      "type": "object",
+      "required": ["a", "b"],
+      "properties": {
+        "a": { "type": "integer", "minimum": 0, "maximum": 100 },
+        "b": { "type": "integer", "minimum": 0, "maximum": 100 }
+      }
+    },
+    "i_soc": {
+      "type": "object",
+      "required": ["score", "source"],
+      "properties": {
+        "score": { "type": ["integer", "null"], "enum": [0, 25, 50, 75, 100, null] },
+        "source": { "type": ["string", "null"] }
+      }
+    },
+    "i_name": {
+      "type": "object",
+      "required": ["score"],
+      "properties": {
+        "score": { "type": ["integer", "null"], "enum": [0, 50, 100, null] },
+        "source": { "type": ["string", "null"] }
+      }
+    }
+  }
+}

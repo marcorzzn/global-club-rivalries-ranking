@@ -1,0 +1,1367 @@
+[
+  {
+    "slug": "ac-milan",
+    "official_name": "AC Milan",
+    "search_name": "MILAN",
+    "color": "#000000",
+    "code": "MIL"
+  },
+  {
+    "slug": "acf-fiorentina",
+    "official_name": "ACF Fiorentina",
+    "search_name": "ACF FIORENTINA",
+    "color": "#4B0082",
+    "code": "ACF"
+  },
+  {
+    "slug": "adelaide-united",
+    "official_name": "Adelaide United",
+    "search_name": "ADELAIDE UNITED",
+    "color": "#000000",
+    "code": "ADE"
+  },
+  {
+    "slug": "afc-ajax",
+    "official_name": "AFC Ajax",
+    "search_name": "AAJAX",
+    "color": "#000000",
+    "code": "AAJ"
+  },
+  {
+    "slug": "afc-leopards",
+    "official_name": "AFC Leopards",
+    "search_name": "ALEOPARDS",
+    "color": "#FFFFFF",
+    "code": "ALE"
+  },
+  {
+    "slug": "africa-sports",
+    "official_name": "Africa Sports",
+    "search_name": "AFRISPORTS",
+    "color": "#FFFFFF",
+    "code": "ARI"
+  },
+  {
+    "slug": "al-ahli-sfc",
+    "official_name": "Al Ahli SFC",
+    "search_name": "AL AHLI SFC",
+    "color": "#000000",
+    "code": "AAH"
+  },
+  {
+    "slug": "al-ahly-sc",
+    "official_name": "Al Ahly SC",
+    "search_name": "AL AHLY SC",
+    "color": "#000000",
+    "code": "ALA"
+  },
+  {
+    "slug": "al-faisaly-sc",
+    "official_name": "Al-Faisaly SC",
+    "search_name": "AL-FAISALY SC",
+    "color": "#FFFFFF",
+    "code": "ALF"
+  },
+  {
+    "slug": "al-hilal-club",
+    "official_name": "Al-Hilal Club",
+    "search_name": "AL-HILAL CLUB",
+    "color": "#000000",
+    "code": "ALH"
+  },
+  {
+    "slug": "al-hilal-sfc",
+    "official_name": "Al Hilal SFC",
+    "search_name": "AL HILAL SFC",
+    "color": "#000000",
+    "code": "AHI"
+  },
+  {
+    "slug": "al-ittihad-fc",
+    "official_name": "Al Ittihad FC",
+    "search_name": "AL ITTIHAD",
+    "color": "#FFFFFF",
+    "code": "AIT"
+  },
+  {
+    "slug": "al-merrikh-sc",
+    "official_name": "Al-Merrikh SC",
+    "search_name": "AL-MERRIKH SC",
+    "color": "#FFFFFF",
+    "code": "ALM"
+  },
+  {
+    "slug": "al-nassr-fc",
+    "official_name": "Al Nassr FC",
+    "search_name": "AL NASSR",
+    "color": "#FFFFFF",
+    "code": "ALN"
+  },
+  {
+    "slug": "al-quwa-al-jawiya",
+    "official_name": "Al-Quwa Al-Jawiya",
+    "search_name": "AL-QUWA AL-JAWIYA",
+    "color": "#FFFFFF",
+    "code": "ALQ"
+  },
+  {
+    "slug": "al-wehdat-sc",
+    "official_name": "Al-Wehdat SC",
+    "search_name": "AL-WEHDAT SC",
+    "color": "#000000",
+    "code": "ALW"
+  },
+  {
+    "slug": "al-zawraa-sc",
+    "official_name": "Al-Zawraa SC",
+    "search_name": "AL-ZAWRAA SC",
+    "color": "#000000",
+    "code": "ALZ"
+  },
+  {
+    "slug": "amarica-de-cali",
+    "official_name": "Am\u00c3\u00a9rica de Cali",
+    "search_name": "AM\u00c3\u00a9RIDE CALI",
+    "color": "#000000",
+    "code": "AMR"
+  },
+  {
+    "slug": "arsenal-fc",
+    "official_name": "Arsenal FC",
+    "search_name": "ARSENAL",
+    "color": "#000000",
+    "code": "ARS"
+  },
+  {
+    "slug": "as-magenta",
+    "official_name": "AS Magenta",
+    "search_name": "AS MAGENTA",
+    "color": "#000000",
+    "code": "ASM"
+  },
+  {
+    "slug": "as-mont-dore",
+    "official_name": "AS Mont-Dore",
+    "search_name": "AS MONT-DORE",
+    "color": "#FFFFFF",
+    "code": "AMO"
+  },
+  {
+    "slug": "as-pirae",
+    "official_name": "AS Pirae",
+    "search_name": "AS PIRAE",
+    "color": "#000000",
+    "code": "ASP"
+  },
+  {
+    "slug": "as-roma",
+    "official_name": "AS Roma",
+    "search_name": "AS ROMA",
+    "color": "#8B0000",
+    "code": "ASR"
+  },
+  {
+    "slug": "as-saint-atienne",
+    "official_name": "AS Saint-\u00c3\u2030tienne",
+    "search_name": "AS SAINT-\u00c3\u2030TIENNE",
+    "color": "#FFFFFF",
+    "code": "ASA"
+  },
+  {
+    "slug": "as-saint-etienne",
+    "official_name": "AS Saint-Etienne",
+    "search_name": "AS SAINT-ETIENNE",
+    "color": "#008000",
+    "code": "ASS"
+  },
+  {
+    "slug": "as-vanus",
+    "official_name": "AS V\u00c3\u00a9nus",
+    "search_name": "AS V\u00c3\u00a9NUS",
+    "color": "#FFFFFF",
+    "code": "AVN"
+  },
+  {
+    "slug": "as-vita-club",
+    "official_name": "AS Vita Club",
+    "search_name": "AS VITA CLUB",
+    "color": "#FFFFFF",
+    "code": "ASV"
+  },
+  {
+    "slug": "asante-kotoko",
+    "official_name": "Asante Kotoko",
+    "search_name": "ASANTE KOTOKO",
+    "color": "#000000",
+    "code": "AAN"
+  },
+  {
+    "slug": "asec-mimosas",
+    "official_name": "ASEC Mimosas",
+    "search_name": "ASEC MIMOSAS",
+    "color": "#000000",
+    "code": "ASE"
+  },
+  {
+    "slug": "aston-villa",
+    "official_name": "Aston Villa",
+    "search_name": "ASTON VILLA",
+    "color": "#000000",
+    "code": "AST"
+  },
+  {
+    "slug": "athletic-club",
+    "official_name": "Athletic Club",
+    "search_name": "ATHLETIC CLUB",
+    "color": "#000000",
+    "code": "ATH"
+  },
+  {
+    "slug": "athletico-paranaense",
+    "official_name": "Athletico Paranaense",
+    "search_name": "ATHLETICO PARANAENSE",
+    "color": "#FFFFFF",
+    "code": "A01"
+  },
+  {
+    "slug": "atlatico-madrid",
+    "official_name": "Atl\u00c3\u00a9tico Madrid",
+    "search_name": "ATL\u00c3\u00a9TICO MADRID",
+    "color": "#FFFFFF",
+    "code": "ATL"
+  },
+  {
+    "slug": "atlatico-nacional",
+    "official_name": "Atl\u00c3\u00a9tico Nacional",
+    "search_name": "ATL\u00c3\u00a9TICO NACIONAL",
+    "color": "#000000",
+    "code": "ALT"
+  },
+  {
+    "slug": "atoile-du-sahel",
+    "official_name": "\u00c3\u2030toile du Sahel",
+    "search_name": "\u00c3\u2030TOILE DU SAHEL",
+    "color": "#FFFFFF",
+    "code": "TOI"
+  },
+  {
+    "slug": "auckland-city-fc",
+    "official_name": "Auckland City FC",
+    "search_name": "AUCKLAND CITY",
+    "color": "#000000",
+    "code": "AUC"
+  },
+  {
+    "slug": "ba-fc",
+    "official_name": "Ba FC",
+    "search_name": "BA",
+    "color": "#000000",
+    "code": "BAA"
+  },
+  {
+    "slug": "barcelona-sc",
+    "official_name": "Barcelona SC",
+    "search_name": "BARCELONA SC",
+    "color": "#000000",
+    "code": "BRC"
+  },
+  {
+    "slug": "beijing-guoan",
+    "official_name": "Beijing Guoan",
+    "search_name": "BEIJING GUOAN",
+    "color": "#000000",
+    "code": "BEI"
+  },
+  {
+    "slug": "birmingham-city",
+    "official_name": "Birmingham City",
+    "search_name": "BIRMINGHAM CITY",
+    "color": "#FFFFFF",
+    "code": "BIR"
+  },
+  {
+    "slug": "borussia-dortmund",
+    "official_name": "Borussia Dortmund",
+    "search_name": "BORUSSIA DORTMUND",
+    "color": "#FFFFFF",
+    "code": "BOR"
+  },
+  {
+    "slug": "botafogo-fr",
+    "official_name": "Botafogo FR",
+    "search_name": "BOTAFOGO FR",
+    "color": "#FFFFFF",
+    "code": "BOT"
+  },
+  {
+    "slug": "ca-boca-juniors",
+    "official_name": "CA Boca Juniors",
+    "search_name": "BOJUNIORS",
+    "color": "#000000",
+    "code": "BOJ"
+  },
+  {
+    "slug": "ca-huracan",
+    "official_name": "CA Hurac\u00c3\u00a1n",
+    "search_name": "HURAC\u00c3\u00a1N",
+    "color": "#FFFFFF",
+    "code": "HUR"
+  },
+  {
+    "slug": "ca-independiente",
+    "official_name": "CA Independiente",
+    "search_name": "INDEPENDIENTE",
+    "color": "#000000",
+    "code": "IND"
+  },
+  {
+    "slug": "ca-peaarol",
+    "official_name": "CA Pe\u00c3\u00b1arol",
+    "search_name": "PE\u00c3\u00b1AROL",
+    "color": "#FFFFFF",
+    "code": "PEA"
+  },
+  {
+    "slug": "ca-river-plate",
+    "official_name": "CA River Plate",
+    "search_name": "RIVER PLATE",
+    "color": "#FFFFFF",
+    "code": "RIV"
+  },
+  {
+    "slug": "ca-rosario-central",
+    "official_name": "CA Rosario Central",
+    "search_name": "ROSARIO CENTRAL",
+    "color": "#000000",
+    "code": "ROS"
+  },
+  {
+    "slug": "ca-san-lorenzo",
+    "official_name": "CA San Lorenzo",
+    "search_name": "SAN LORENZO",
+    "color": "#000000",
+    "code": "SAN"
+  },
+  {
+    "slug": "cd-guadalajara",
+    "official_name": "CD Guadalajara",
+    "search_name": "CD GUADALAJARA",
+    "color": "#000000",
+    "code": "CGU"
+  },
+  {
+    "slug": "cd-guadalajara-chivas",
+    "official_name": "CD Guadalajara (Chivas)",
+    "search_name": "CD GUADALAJARA (CHIVAS)",
+    "color": "#FFFFFF",
+    "code": "CDG"
+  },
+  {
+    "slug": "celtic-fc",
+    "official_name": "Celtic FC",
+    "search_name": "CELTIC",
+    "color": "#000000",
+    "code": "CEL"
+  },
+  {
+    "slug": "cerezo-osaka",
+    "official_name": "Cerezo Osaka",
+    "search_name": "CEREZO OSAKA",
+    "color": "#FFFFFF",
+    "code": "CRE"
+  },
+  {
+    "slug": "cf-monterrey",
+    "official_name": "CF Monterrey",
+    "search_name": "CF MONTERREY",
+    "color": "#000000",
+    "code": "CFM"
+  },
+  {
+    "slug": "cf-pachuca",
+    "official_name": "CF Pachuca",
+    "search_name": "CF PACHUCA",
+    "color": "#000000",
+    "code": "CFP"
+  },
+  {
+    "slug": "chelsea-fc",
+    "official_name": "Chelsea FC",
+    "search_name": "CHELSEA",
+    "color": "#000000",
+    "code": "CHE"
+  },
+  {
+    "slug": "club-africain",
+    "official_name": "Club Africain",
+    "search_name": "AFRICAIN",
+    "color": "#FFFFFF",
+    "code": "AFR"
+  },
+  {
+    "slug": "club-alianza-lima",
+    "official_name": "Club Alianza Lima",
+    "search_name": "ALIANZA LIMA",
+    "color": "#FFFFFF",
+    "code": "ALI"
+  },
+  {
+    "slug": "club-amarica",
+    "official_name": "Club Am\u00c3\u00a9rica",
+    "search_name": "AM\u00c3\u00a9RICA",
+    "color": "#000000",
+    "code": "A02"
+  },
+  {
+    "slug": "club-athletico-paranaense",
+    "official_name": "Club Athletico Paranaense",
+    "search_name": "ATHLETICO PARANAENSE",
+    "color": "#FFFFFF",
+    "code": "AHL"
+  },
+  {
+    "slug": "club-atlas",
+    "official_name": "Club Atlas",
+    "search_name": "ATLAS",
+    "color": "#FFFFFF",
+    "code": "A03"
+  },
+  {
+    "slug": "club-bolavar",
+    "official_name": "Club Bol\u00c3\u00advar",
+    "search_name": "BOL\u00c3\u00adVAR",
+    "color": "#000000",
+    "code": "BOL"
+  },
+  {
+    "slug": "club-cerro-porteao",
+    "official_name": "Club Cerro Porte\u00c3\u00b1o",
+    "search_name": "CERRO PORTE\u00c3\u00b1O",
+    "color": "#FFFFFF",
+    "code": "CER"
+  },
+  {
+    "slug": "club-nacional-de-football",
+    "official_name": "Club Nacional de Football",
+    "search_name": "NACIONAL DE FOOTBALL",
+    "color": "#000000",
+    "code": "NAC"
+  },
+  {
+    "slug": "club-olimpia",
+    "official_name": "Club Olimpia",
+    "search_name": "OLIMPIA",
+    "color": "#000000",
+    "code": "OLI"
+  },
+  {
+    "slug": "club-universidad-de-chile",
+    "official_name": "Club Universidad de Chile",
+    "search_name": "UNIVERSIDAD DE CHILE",
+    "color": "#FFFFFF",
+    "code": "UNI"
+  },
+  {
+    "slug": "club-universidad-nacional-pumas",
+    "official_name": "Club Universidad Nacional (Pumas)",
+    "search_name": "UNIVERSIDAD NACIONAL (PUMAS)",
+    "color": "#FFFFFF",
+    "code": "U03"
+  },
+  {
+    "slug": "club-universitario",
+    "official_name": "Club Universitario",
+    "search_name": "UNIVERSITARIO",
+    "color": "#000000",
+    "code": "U02"
+  },
+  {
+    "slug": "clube-atlatico-mineiro",
+    "official_name": "Clube Atl\u00c3\u00a9tico Mineiro",
+    "search_name": "CLUBE ATL\u00c3\u00a9TICO MINEIRO",
+    "color": "#000000",
+    "code": "CLU"
+  },
+  {
+    "slug": "coritiba-fbc",
+    "official_name": "Coritiba FBC",
+    "search_name": "CORITIBA FBC",
+    "color": "#000000",
+    "code": "COR"
+  },
+  {
+    "slug": "cr-belouizdad",
+    "official_name": "CR Belouizdad",
+    "search_name": "CR BELOUIZDAD",
+    "color": "#000000",
+    "code": "CRB"
+  },
+  {
+    "slug": "cr-flamengo",
+    "official_name": "CR Flamengo",
+    "search_name": "CR FLAMENGO",
+    "color": "#000000",
+    "code": "CRF"
+  },
+  {
+    "slug": "cr-vasco-da-gama",
+    "official_name": "CR Vasco da Gama",
+    "search_name": "CR VASCO DA GAMA",
+    "color": "#FFFFFF",
+    "code": "CRV"
+  },
+  {
+    "slug": "cruz-azul",
+    "official_name": "Cruz Azul",
+    "search_name": "CRUZ AZUL",
+    "color": "#FFFFFF",
+    "code": "CUZ"
+  },
+  {
+    "slug": "cruzeiro-ec",
+    "official_name": "Cruzeiro EC",
+    "search_name": "CRUZEIRO EC",
+    "color": "#FFFFFF",
+    "code": "CRU"
+  },
+  {
+    "slug": "cs-emelec",
+    "official_name": "CS Emelec",
+    "search_name": "CS EMELEC",
+    "color": "#FFFFFF",
+    "code": "CSE"
+  },
+  {
+    "slug": "csd-colo-colo",
+    "official_name": "CSD Colo-Colo",
+    "search_name": "CSD COLO-COLO",
+    "color": "#000000",
+    "code": "CSD"
+  },
+  {
+    "slug": "csd-comunicaciones",
+    "official_name": "CSD Comunicaciones",
+    "search_name": "CSD COMUNICACIONES",
+    "color": "#FFFFFF",
+    "code": "CDC"
+  },
+  {
+    "slug": "csd-municipal",
+    "official_name": "CSD Municipal",
+    "search_name": "CSD MUNICIPAL",
+    "color": "#000000",
+    "code": "CDM"
+  },
+  {
+    "slug": "dc-motema-pembe",
+    "official_name": "DC Motema Pembe",
+    "search_name": "DC MOTEMA PEMBE",
+    "color": "#000000",
+    "code": "DCM"
+  },
+  {
+    "slug": "dc-united",
+    "official_name": "D.C. United",
+    "search_name": "D.C. UNITED",
+    "color": "#FFFFFF",
+    "code": "DCU"
+  },
+  {
+    "slug": "deportivo-cali",
+    "official_name": "Deportivo Cali",
+    "search_name": "DEPORTIVO CALI",
+    "color": "#FFFFFF",
+    "code": "DEP"
+  },
+  {
+    "slug": "deportivo-saprissa",
+    "official_name": "Deportivo Saprissa",
+    "search_name": "DEPORTIVO SAPRISSA",
+    "color": "#000000",
+    "code": "DPO"
+  },
+  {
+    "slug": "east-bengal-fc",
+    "official_name": "East Bengal FC",
+    "search_name": "EAST BENGAL",
+    "color": "#FFFFFF",
+    "code": "EAS"
+  },
+  {
+    "slug": "ec-bahia",
+    "official_name": "EC Bahia",
+    "search_name": "EC BAHIA",
+    "color": "#000000",
+    "code": "ECB"
+  },
+  {
+    "slug": "ec-vita3ria",
+    "official_name": "EC Vit\u00c3\u00b3ria",
+    "search_name": "EC VIT\u00c3\u00b3RIA",
+    "color": "#FFFFFF",
+    "code": "ECV"
+  },
+  {
+    "slug": "esparance-de-tunis",
+    "official_name": "Esp\u00c3\u00a9rance de Tunis",
+    "search_name": "ESP\u00c3\u00a9RANCE DE TUNIS",
+    "color": "#000000",
+    "code": "ESP"
+  },
+  {
+    "slug": "esteghlal-fc",
+    "official_name": "Esteghlal FC",
+    "search_name": "ESTEGHLAL",
+    "color": "#FFFFFF",
+    "code": "ETE"
+  },
+  {
+    "slug": "estudiantes-de-la-plata",
+    "official_name": "Estudiantes de La Plata",
+    "search_name": "ESTUDIANTES DE LA PLATA",
+    "color": "#000000",
+    "code": "EST"
+  },
+  {
+    "slug": "everton-fc",
+    "official_name": "Everton FC",
+    "search_name": "EVERTON",
+    "color": "#FFFFFF",
+    "code": "EVE"
+  },
+  {
+    "slug": "fc-barcelona",
+    "official_name": "FC Barcelona",
+    "search_name": "BARCELONA",
+    "color": "#FFFFFF",
+    "code": "BAR"
+  },
+  {
+    "slug": "fc-bayern-munich",
+    "official_name": "FC Bayern Munich",
+    "search_name": "BAYERN MUNICH",
+    "color": "#000000",
+    "code": "BAY"
+  },
+  {
+    "slug": "fc-internazionale-milano",
+    "official_name": "FC Internazionale Milano",
+    "search_name": "INTERNAZIONALE MILANO",
+    "color": "#FFFFFF",
+    "code": "INT"
+  },
+  {
+    "slug": "fc-porto",
+    "official_name": "FC Porto",
+    "search_name": "PORTO",
+    "color": "#FFFFFF",
+    "code": "POR"
+  },
+  {
+    "slug": "fc-schalke-04",
+    "official_name": "FC Schalke 04",
+    "search_name": "SCHALKE 04",
+    "color": "#FFFFFF",
+    "code": "SCH"
+  },
+  {
+    "slug": "fc-seoul",
+    "official_name": "FC Seoul",
+    "search_name": "SEOUL",
+    "color": "#000000",
+    "code": "SEO"
+  },
+  {
+    "slug": "fenerbahae-sk",
+    "official_name": "Fenerbah\u00c3\u00a7e SK",
+    "search_name": "FENERBAH\u00c3\u00a7E SK",
+    "color": "#FFFFFF",
+    "code": "FEN"
+  },
+  {
+    "slug": "feyenoord-rotterdam",
+    "official_name": "Feyenoord Rotterdam",
+    "search_name": "FEYENOORD ROTTERDAM",
+    "color": "#FFFFFF",
+    "code": "FEY"
+  },
+  {
+    "slug": "fluminense-fc",
+    "official_name": "Fluminense FC",
+    "search_name": "FLUMINENSE",
+    "color": "#FFFFFF",
+    "code": "FLU"
+  },
+  {
+    "slug": "galatasaray-sk",
+    "official_name": "Galatasaray SK",
+    "search_name": "GALATASARAY SK",
+    "color": "#000000",
+    "code": "GAL"
+  },
+  {
+    "slug": "gamba-osaka",
+    "official_name": "Gamba Osaka",
+    "search_name": "GAMBA OSAKA",
+    "color": "#000000",
+    "code": "GAM"
+  },
+  {
+    "slug": "genoa-cfc",
+    "official_name": "Genoa CFC",
+    "search_name": "GENOA CFC",
+    "color": "#000000",
+    "code": "GEN"
+  },
+  {
+    "slug": "gimnasia-lp",
+    "official_name": "Gimnasia LP",
+    "search_name": "GIMNASIA LP",
+    "color": "#FFFFFF",
+    "code": "GIM"
+  },
+  {
+    "slug": "gor-mahia-fc",
+    "official_name": "Gor Mahia FC",
+    "search_name": "GOR MAHIA",
+    "color": "#000000",
+    "code": "GOR"
+  },
+  {
+    "slug": "graamio-fbpa",
+    "official_name": "Gr\u00c3\u00aamio FBPA",
+    "search_name": "GR\u00c3\u00aaMIO FBPA",
+    "color": "#000000",
+    "code": "GRM"
+  },
+  {
+    "slug": "hamburger-sv",
+    "official_name": "Hamburger SV",
+    "search_name": "HAMBURGER SV",
+    "color": "#000000",
+    "code": "HAM"
+  },
+  {
+    "slug": "heart-of-midlothian",
+    "official_name": "Heart of Midlothian",
+    "search_name": "HEART OF MIDLOTHIAN",
+    "color": "#000000",
+    "code": "HEA"
+  },
+  {
+    "slug": "hearts-of-oak",
+    "official_name": "Hearts of Oak",
+    "search_name": "HEARTS OF OAK",
+    "color": "#FFFFFF",
+    "code": "HAR"
+  },
+  {
+    "slug": "hibernian-fc",
+    "official_name": "Hibernian FC",
+    "search_name": "HIBERNIAN",
+    "color": "#FFFFFF",
+    "code": "HIB"
+  },
+  {
+    "slug": "independiente-medellan",
+    "official_name": "Independiente Medell\u00c3\u00adn",
+    "search_name": "INDEPENDIENTE MEDELL\u00c3\u00adN",
+    "color": "#FFFFFF",
+    "code": "I01"
+  },
+  {
+    "slug": "independiente-santa-fe",
+    "official_name": "Independiente Santa Fe",
+    "search_name": "INDEPENDIENTE SANTA FE",
+    "color": "#FFFFFF",
+    "code": "IDE"
+  },
+  {
+    "slug": "jaobilo-iwata",
+    "official_name": "J\u00c3\u00babilo Iwata",
+    "search_name": "J\u00c3\u00baBILO IWATA",
+    "color": "#FFFFFF",
+    "code": "JBI"
+  },
+  {
+    "slug": "jeonbuk-hyundai-motors",
+    "official_name": "Jeonbuk Hyundai Motors",
+    "search_name": "JEONBUK HYUNDAI MOTORS",
+    "color": "#000000",
+    "code": "JEO"
+  },
+  {
+    "slug": "js-kabylie",
+    "official_name": "JS Kabylie",
+    "search_name": "JS KABYLIE",
+    "color": "#000000",
+    "code": "JSK"
+  },
+  {
+    "slug": "juventus-fc",
+    "official_name": "Juventus FC",
+    "search_name": "JUVENTUS",
+    "color": "#000000",
+    "code": "JUV"
+  },
+  {
+    "slug": "kaizer-chiefs",
+    "official_name": "Kaizer Chiefs",
+    "search_name": "KAIZER CHIEFS",
+    "color": "#000000",
+    "code": "KAI"
+  },
+  {
+    "slug": "kashima-antlers",
+    "official_name": "Kashima Antlers",
+    "search_name": "KASHIMA ANTLERS",
+    "color": "#000000",
+    "code": "KAS"
+  },
+  {
+    "slug": "kawasaki-frontale",
+    "official_name": "Kawasaki Frontale",
+    "search_name": "KAWASAKI FRONTALE",
+    "color": "#FFFFFF",
+    "code": "KAW"
+  },
+  {
+    "slug": "la-galaxy",
+    "official_name": "LA Galaxy",
+    "search_name": "LA GALAXY",
+    "color": "#000000",
+    "code": "LAG"
+  },
+  {
+    "slug": "lautoka-fc",
+    "official_name": "Lautoka FC",
+    "search_name": "LAUTOKA",
+    "color": "#FFFFFF",
+    "code": "LAU"
+  },
+  {
+    "slug": "ld-alajuelense",
+    "official_name": "LD Alajuelense",
+    "search_name": "LD ALAJUELENSE",
+    "color": "#FFFFFF",
+    "code": "LDA"
+  },
+  {
+    "slug": "ldu-quito",
+    "official_name": "LDU Quito",
+    "search_name": "LDU QUITO",
+    "color": "#000000",
+    "code": "LDU"
+  },
+  {
+    "slug": "leeds-united",
+    "official_name": "Leeds United",
+    "search_name": "LEEDS UNITED",
+    "color": "#FFFFFF",
+    "code": "LEE"
+  },
+  {
+    "slug": "liverpool-fc",
+    "official_name": "Liverpool FC",
+    "search_name": "LIVERPOOL",
+    "color": "#000000",
+    "code": "LIV"
+  },
+  {
+    "slug": "los-angeles-fc-lafc",
+    "official_name": "Los Angeles FC (LAFC)",
+    "search_name": "LOS ANGELES (LAFC)",
+    "color": "#FFFFFF",
+    "code": "LOS"
+  },
+  {
+    "slug": "mamelodi-sundowns",
+    "official_name": "Mamelodi Sundowns",
+    "search_name": "MAMELODI SUNDOWNS",
+    "color": "#000000",
+    "code": "MAM"
+  },
+  {
+    "slug": "manchester-city",
+    "official_name": "Manchester City",
+    "search_name": "MANCHESTER CITY",
+    "color": "#FFFFFF",
+    "code": "MNC"
+  },
+  {
+    "slug": "manchester-united",
+    "official_name": "Manchester United",
+    "search_name": "MANCHESTER UNITED",
+    "color": "#DA291C",
+    "code": "MAN"
+  },
+  {
+    "slug": "mc-alger",
+    "official_name": "MC Alger",
+    "search_name": "MC ALGER",
+    "color": "#000000",
+    "code": "MCA"
+  },
+  {
+    "slug": "melbourne-city-fc",
+    "official_name": "Melbourne City FC",
+    "search_name": "MELBOURNE CITY",
+    "color": "#FFFFFF",
+    "code": "MLB"
+  },
+  {
+    "slug": "melbourne-victory",
+    "official_name": "Melbourne Victory",
+    "search_name": "MELBOURNE VICTORY",
+    "color": "#000000",
+    "code": "MEL"
+  },
+  {
+    "slug": "millonarios-fc",
+    "official_name": "Millonarios FC",
+    "search_name": "MILLONARIOS",
+    "color": "#FFFFFF",
+    "code": "MLL"
+  },
+  {
+    "slug": "mohun-bagan-sg",
+    "official_name": "Mohun Bagan SG",
+    "search_name": "MOHUN BAGAN SG",
+    "color": "#000000",
+    "code": "MOH"
+  },
+  {
+    "slug": "new-york-city-fc",
+    "official_name": "New York City FC",
+    "search_name": "NEW YORK CITY",
+    "color": "#FFFFFF",
+    "code": "N01"
+  },
+  {
+    "slug": "new-york-red-bulls",
+    "official_name": "New York Red Bulls",
+    "search_name": "NEW YORK RED BULLS",
+    "color": "#000000",
+    "code": "NWY"
+  },
+  {
+    "slug": "newcastle-united",
+    "official_name": "Newcastle United",
+    "search_name": "NEWCASTLE UNITED",
+    "color": "#000000",
+    "code": "NEW"
+  },
+  {
+    "slug": "newells-old-boys",
+    "official_name": "Newell's Old Boys",
+    "search_name": "NEWELL'S OLD BOYS",
+    "color": "#FFFFFF",
+    "code": "NWE"
+  },
+  {
+    "slug": "olympiacos-fc",
+    "official_name": "Olympiacos FC",
+    "search_name": "OLYMPIACOS",
+    "color": "#000000",
+    "code": "O01"
+  },
+  {
+    "slug": "olympique-de-marseille",
+    "official_name": "Olympique de Marseille",
+    "search_name": "OLYMPIQUE DE MARSEILLE",
+    "color": "#FFFFFF",
+    "code": "OYM"
+  },
+  {
+    "slug": "olympique-lyonnais",
+    "official_name": "Olympique Lyonnais",
+    "search_name": "OLYMPIQUE LYONNAIS",
+    "color": "#FFFFFF",
+    "code": "OLY"
+  },
+  {
+    "slug": "orlando-pirates",
+    "official_name": "Orlando Pirates",
+    "search_name": "ORLANDO PIRATES",
+    "color": "#FFFFFF",
+    "code": "ORL"
+  },
+  {
+    "slug": "panathinaikos-fc",
+    "official_name": "Panathinaikos FC",
+    "search_name": "PANATHINAIKOS",
+    "color": "#FFFFFF",
+    "code": "PAN"
+  },
+  {
+    "slug": "paris-saint-germain",
+    "official_name": "Paris Saint-Germain",
+    "search_name": "PARIS SAINT-GERMAIN",
+    "color": "#000000",
+    "code": "PAR"
+  },
+  {
+    "slug": "persepolis-fc",
+    "official_name": "Persepolis FC",
+    "search_name": "PERSEPOLIS",
+    "color": "#000000",
+    "code": "PER"
+  },
+  {
+    "slug": "pohang-steelers",
+    "official_name": "Pohang Steelers",
+    "search_name": "POHANG STEELERS",
+    "color": "#000000",
+    "code": "POH"
+  },
+  {
+    "slug": "portland-timbers",
+    "official_name": "Portland Timbers",
+    "search_name": "PORTLAND TIMBERS",
+    "color": "#FFFFFF",
+    "code": "PRT"
+  },
+  {
+    "slug": "psv-eindhoven",
+    "official_name": "PSV Eindhoven",
+    "search_name": "PSV EINDHOVEN",
+    "color": "#FFFFFF",
+    "code": "PSV"
+  },
+  {
+    "slug": "racing-club",
+    "official_name": "Racing Club",
+    "search_name": "RACING CLUB",
+    "color": "#FFFFFF",
+    "code": "RAC"
+  },
+  {
+    "slug": "raja-club-athletic",
+    "official_name": "Raja Club Athletic",
+    "search_name": "RAJA ATHLETIC",
+    "color": "#000000",
+    "code": "RAJ"
+  },
+  {
+    "slug": "rangers-fc",
+    "official_name": "Rangers FC",
+    "search_name": "RANGERS",
+    "color": "#FFFFFF",
+    "code": "RAN"
+  },
+  {
+    "slug": "rcd-espanyol",
+    "official_name": "RCD Espanyol",
+    "search_name": "RCD ESPANYOL",
+    "color": "#FFFFFF",
+    "code": "RCD"
+  },
+  {
+    "slug": "real-betis",
+    "official_name": "Real Betis",
+    "search_name": "REAL BETIS",
+    "color": "#FFFFFF",
+    "code": "RAL"
+  },
+  {
+    "slug": "real-madrid",
+    "official_name": "Real Madrid",
+    "search_name": "REAL MADRID",
+    "color": "#000000",
+    "code": "REA"
+  },
+  {
+    "slug": "real-sociedad",
+    "official_name": "Real Sociedad",
+    "search_name": "REAL SOCIEDAD",
+    "color": "#FFFFFF",
+    "code": "R01"
+  },
+  {
+    "slug": "san-jose-earthquakes",
+    "official_name": "San Jose Earthquakes",
+    "search_name": "SAN JOSE EARTHQUAKES",
+    "color": "#FFFFFF",
+    "code": "SNJ"
+  },
+  {
+    "slug": "santos-fc",
+    "official_name": "Santos FC",
+    "search_name": "SANTOS",
+    "color": "#000000",
+    "code": "SNT"
+  },
+  {
+    "slug": "santos-laguna",
+    "official_name": "Santos Laguna",
+    "search_name": "SANTOS LAGUNA",
+    "color": "#FFFFFF",
+    "code": "S02"
+  },
+  {
+    "slug": "sao-paulo-fc",
+    "official_name": "S\u00c3\u00a3o Paulo FC",
+    "search_name": "S\u00c3\u00a3O PAULO",
+    "color": "#000000",
+    "code": "SOP"
+  },
+  {
+    "slug": "sc-corinthians",
+    "official_name": "SC Corinthians",
+    "search_name": "SC CORINTHIANS",
+    "color": "#000000",
+    "code": "SCC"
+  },
+  {
+    "slug": "sc-internacional",
+    "official_name": "SC Internacional",
+    "search_name": "SC INTERNACIONAL",
+    "color": "#FFFFFF",
+    "code": "SCI"
+  },
+  {
+    "slug": "se-palmeiras",
+    "official_name": "SE Palmeiras",
+    "search_name": "SE PALMEIRAS",
+    "color": "#FFFFFF",
+    "code": "SEP"
+  },
+  {
+    "slug": "seattle-sounders-fc",
+    "official_name": "Seattle Sounders FC",
+    "search_name": "SEATTLE SOUNDERS",
+    "color": "#000000",
+    "code": "SEA"
+  },
+  {
+    "slug": "sepahan-sc",
+    "official_name": "Sepahan SC",
+    "search_name": "SEPAHAN SC",
+    "color": "#000000",
+    "code": "SPA"
+  },
+  {
+    "slug": "sevilla-fc",
+    "official_name": "Sevilla FC",
+    "search_name": "SEVILLA",
+    "color": "#000000",
+    "code": "SEV"
+  },
+  {
+    "slug": "shanghai-port-fc",
+    "official_name": "Shanghai Port FC",
+    "search_name": "SHANGHAI PORT",
+    "color": "#FFFFFF",
+    "code": "S01"
+  },
+  {
+    "slug": "shanghai-shenhua",
+    "official_name": "Shanghai Shenhua",
+    "search_name": "SHANGHAI SHENHUA",
+    "color": "#000000",
+    "code": "SHA"
+  },
+  {
+    "slug": "simba-sc",
+    "official_name": "Simba SC",
+    "search_name": "SIMBA SC",
+    "color": "#000000",
+    "code": "SIM"
+  },
+  {
+    "slug": "sl-benfica",
+    "official_name": "SL Benfica",
+    "search_name": "SL BENFICA",
+    "color": "#000000",
+    "code": "SLB"
+  },
+  {
+    "slug": "sporting-cp",
+    "official_name": "Sporting CP",
+    "search_name": "SPORTING CP",
+    "color": "#FFFFFF",
+    "code": "SPO"
+  },
+  {
+    "slug": "ss-lazio",
+    "official_name": "SS Lazio",
+    "search_name": "SS LAZIO",
+    "color": "#000000",
+    "code": "SSL"
+  },
+  {
+    "slug": "ssc-napoli",
+    "official_name": "SSC Napoli",
+    "search_name": "SSC NAPOLI",
+    "color": "#1FA4D0",
+    "code": "SSC"
+  },
+  {
+    "slug": "sunderland-afc",
+    "official_name": "Sunderland AFC",
+    "search_name": "SUNDERLAND AFC",
+    "color": "#FFFFFF",
+    "code": "SUN"
+  },
+  {
+    "slug": "supersport-united",
+    "official_name": "SuperSport United",
+    "search_name": "SUPERSPORT UNITED",
+    "color": "#FFFFFF",
+    "code": "SUP"
+  },
+  {
+    "slug": "suwon-samsung-bluewings",
+    "official_name": "Suwon Samsung Bluewings",
+    "search_name": "SUWON SAMSUNG BLUEWINGS",
+    "color": "#FFFFFF",
+    "code": "SUW"
+  },
+  {
+    "slug": "sv-werder-bremen",
+    "official_name": "SV Werder Bremen",
+    "search_name": "SV WERDER BREMEN",
+    "color": "#FFFFFF",
+    "code": "SVW"
+  },
+  {
+    "slug": "sydney-fc",
+    "official_name": "Sydney FC",
+    "search_name": "SYDNEY",
+    "color": "#000000",
+    "code": "SYD"
+  },
+  {
+    "slug": "team-wellington",
+    "official_name": "Team Wellington",
+    "search_name": "TEAM WELLINGTON",
+    "color": "#FFFFFF",
+    "code": "TEA"
+  },
+  {
+    "slug": "the-strongest",
+    "official_name": "The Strongest",
+    "search_name": "THE STRONGEST",
+    "color": "#FFFFFF",
+    "code": "THE"
+  },
+  {
+    "slug": "tigres-uanl",
+    "official_name": "Tigres UANL",
+    "search_name": "TIGRES UANL",
+    "color": "#FFFFFF",
+    "code": "TIG"
+  },
+  {
+    "slug": "torino-fc",
+    "official_name": "Torino FC",
+    "search_name": "TORINO",
+    "color": "#FFFFFF",
+    "code": "TOR"
+  },
+  {
+    "slug": "tottenham-hotspur",
+    "official_name": "Tottenham Hotspur",
+    "search_name": "TOTTENHAM HOTSPUR",
+    "color": "#FFFFFF",
+    "code": "TOT"
+  },
+  {
+    "slug": "tp-mazembe",
+    "official_name": "TP Mazembe",
+    "search_name": "TP MAZEMBE",
+    "color": "#000000",
+    "code": "TPM"
+  },
+  {
+    "slug": "uc-sampdoria",
+    "official_name": "UC Sampdoria",
+    "search_name": "UC SAMPDORIA",
+    "color": "#FFFFFF",
+    "code": "UCS"
+  },
+  {
+    "slug": "ulsan-hd-fc",
+    "official_name": "Ulsan HD FC",
+    "search_name": "ULSAN HD",
+    "color": "#FFFFFF",
+    "code": "ULS"
+  },
+  {
+    "slug": "universidad-cata3lica",
+    "official_name": "Universidad Cat\u00c3\u00b3lica",
+    "search_name": "UNIVERSIDAD CAT\u00c3\u00b3LICA",
+    "color": "#000000",
+    "code": "UIV"
+  },
+  {
+    "slug": "universidad-de-chile",
+    "official_name": "Universidad de Chile",
+    "search_name": "UNIVERSIDAD DE CHILE",
+    "color": "#FFFFFF",
+    "code": "U01"
+  },
+  {
+    "slug": "urawa-red-diamonds",
+    "official_name": "Urawa Red Diamonds",
+    "search_name": "URAWA RED DIAMONDS",
+    "color": "#000000",
+    "code": "URA"
+  },
+  {
+    "slug": "usm-alger",
+    "official_name": "USM Alger",
+    "search_name": "USM ALGER",
+    "color": "#FFFFFF",
+    "code": "USM"
+  },
+  {
+    "slug": "waitakere-united",
+    "official_name": "Waitakere United",
+    "search_name": "WAITAKERE UNITED",
+    "color": "#FFFFFF",
+    "code": "WAI"
+  },
+  {
+    "slug": "western-sydney-wanderers",
+    "official_name": "Western Sydney Wanderers",
+    "search_name": "WESTERN SYDNEY WANDERERS",
+    "color": "#FFFFFF",
+    "code": "WES"
+  },
+  {
+    "slug": "wydad-ac",
+    "official_name": "Wydad AC",
+    "search_name": "WYDAD AC",
+    "color": "#FFFFFF",
+    "code": "WYD"
+  },
+  {
+    "slug": "yokohama-f-marinos",
+    "official_name": "Yokohama F. Marinos",
+    "search_name": "YOKOHAMA F. MARINOS",
+    "color": "#000000",
+    "code": "YOK"
+  },
+  {
+    "slug": "young-africans-sc-yanga",
+    "official_name": "Young Africans SC (Yanga)",
+    "search_name": "YOUNG AFRICANS SC (YANGA)",
+    "color": "#FFFFFF",
+    "code": "YOU"
+  },
+  {
+    "slug": "zamalek-sc",
+    "official_name": "Zamalek SC",
+    "search_name": "ZAMALEK SC",
+    "color": "#FFFFFF",
+    "code": "ZAM"
+  },
+  {
+    "slug": "zob-ahan-sc",
+    "official_name": "Zob Ahan SC",
+    "search_name": "ZOB AHAN SC",
+    "color": "#FFFFFF",
+    "code": "ZOB"
+  }
+]
