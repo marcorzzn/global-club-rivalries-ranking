@@ -299,6 +299,12 @@
     display: inline-block;
     border: 1px solid rgba(255,255,255,0.2);
   }
+  
+  .club-logo {
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+  }
 
   .score-cell {
     font-variant-numeric: tabular-nums;
@@ -1821,8 +1827,8 @@ function renderTable() {
         <td class="score-cell">${idx + 1}</td>
         <td>
           <div class="club-colors">
-            <div class="color-dot" style="background-color: ${r.club_a.color}"></div>
-            <div class="color-dot" style="background-color: ${r.club_b.color}"></div>
+            <img src="logos/${r.club_a.short}.png" alt="${r.club_a.short}" class="club-logo" onerror="this.onerror=null; this.outerHTML='<div class=\\'color-dot\\' style=\\'background-color: ${r.club_a.color}\\'></div>';">
+            <img src="logos/${r.club_b.short}.png" alt="${r.club_b.short}" class="club-logo" onerror="this.onerror=null; this.outerHTML='<div class=\\'color-dot\\' style=\\'background-color: ${r.club_b.color}\\'></div>';">
           </div>
           ${r.club_a.short} vs ${r.club_b.short}
         </td>
