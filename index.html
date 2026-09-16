@@ -1602,6 +1602,87 @@ const RIVALRIES = [
 ];
 // === RIVALRY DATA END ===
 
+// --- I18N & INFO LOGIC ---
+let currentLang = 'en';
+const translations = {
+  en: {
+    title: "MWI-50 Ultra",
+    subtitle: "Global Club Football Rivalry Index · 1976–2026",
+    infoBtn: "📖 Methodology & Criteria",
+    langBtn: "EN 🇬🇧",
+    wR: "R - Recurrence (Volume & Continuity)",
+    wH: "H - Historical (Trophies & Stakes)",
+    wI: "I - Intensity (Social & Balance)",
+    wS: "S - Stadium (Mass Appeal)",
+    search: "Search club or rivalry...",
+    confAll: "All",
+    cityAll: "All Types",
+    cityOnly: "City Derbies",
+    cityNone: "Non-city Rivalries",
+    tableRank: "Rank",
+    tableMatch: "Matchup",
+    tableScore: "Score",
+    sourcesTitle: "Verified Sources:"
+  },
+  it: {
+    title: "MWI-50 Ultra",
+    subtitle: "Indice Globale Rivalità Calcistiche · 1976–2026",
+    infoBtn: "📖 Metodologia e Criteri",
+    langBtn: "IT 🇮🇹",
+    wR: "R - Ricorrenza (Volume e Continuità)",
+    wH: "H - Storicità (Trofei vinti)",
+    wI: "I - Intensità (Sociale ed Equilibrio)",
+    wS: "S - Stadio (Capienza e Tifo)",
+    search: "Cerca club o rivalità...",
+    confAll: "Tutte",
+    cityAll: "Tutti i tipi",
+    cityOnly: "Solo Derby Cittadini",
+    cityNone: "Solo Extra-cittadine",
+    tableRank: "Pos",
+    tableMatch: "Incontro",
+    tableScore: "Punti",
+    sourcesTitle: "Fonti Verificate:"
+  }
+};
+
+function toggleLang() {
+  currentLang = currentLang === 'en' ? 'it' : 'en';
+  applyTranslations();
+  renderTable();
+}
+
+function applyTranslations() {
+  const t = translations[currentLang];
+  document.getElementById('main-title').innerText = t.title;
+  document.getElementById('main-subtitle').innerText = t.subtitle;
+  document.getElementById('info-btn').innerText = t.infoBtn;
+  document.getElementById('langBtn').innerText = t.langBtn;
+  document.querySelector('#group-R .slider-label span').innerText = t.wR;
+  document.querySelector('#group-H .slider-label span').innerText = t.wH;
+  document.querySelector('#group-I .slider-label span').innerText = t.wI;
+  document.querySelector('#group-S .slider-label span').innerText = t.wS;
+  document.getElementById('search-input').placeholder = t.search;
+}
+
+function showInfo() {
+  const modalHtml = `
+    <div id="infoModal" style="position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:9999; display:flex; justify-content:center; align-items:center;">
+      <div style="background:#1E293B; padding:30px; border-radius:15px; max-width:600px; color:white; border: 1px solid #3B82F6; max-height:80vh; overflow-y:auto;">
+        <h2>${currentLang === 'it' ? 'I Criteri Definitivi (V2.0)' : 'Definitive Criteria (V2.0)'}</h2>
+        <p><b>R (25%) - ${currentLang === 'it' ? 'Ricorrenza' : 'Recurrence'}:</b> ${currentLang === 'it' ? 'Volume totale di incontri ufficiali 1976-2026.' : 'Total volume of official matches 1976-2026.'}</p>
+        <p><b>H (10%) - ${currentLang === 'it' ? 'Trofei (Depotenziato)' : 'Trophies (Nerfed)'}:</b> ${currentLang === 'it' ? 'Peso storico dei trofei vinti. Drasticamente ridotto per non favorire solo le squadre ricche, ma esaltare la pura tensione.' : 'Historical weight of trophies won. Drastically reduced to avoid favoring rich clubs over raw tension.'}</p>
+        <p><b>I (40%) - ${currentLang === 'it' ? 'Intensità (Potenziato)' : 'Intensity (Buffed)'}:</b> ${currentLang === 'it' ? 'Il cuore del sistema. Basato sull\'equilibrio sportivo (Indice di Entropia) e sul feroce fattore sociale/territoriale documentato.' : 'The heart of the system. Based on sporting balance (Entropy Index) and documented fierce social/territorial factors.'}</p>
+        <p><b>S (25%) - ${currentLang === 'it' ? 'Stadio' : 'Stadium'}:</b> ${currentLang === 'it' ? 'Valuta le arene. (Futuro aggiornamento: Fill Rate al posto della sola capienza).' : 'Evaluates the arenas. (Future update: Fill Rate instead of raw capacity).'}</p>
+        <hr style="border-color:#334155; margin: 20px 0;">
+        <p style="font-size:0.9em; color:#94A3B8;"><i>${currentLang === 'it' ? 'Fonti 100% verificabili: Referti Ufficiali, RSSSF, Transfermarkt. Nessun dato inventato.' : '100% verifiable sources: Official Match Reports, RSSSF, Transfermarkt. Zero fabricated data.'}</i></p>
+        <button onclick="document.getElementById('infoModal').remove()" style="margin-top:20px; background:#3B82F6; color:white; border:none; padding:10px 20px; border-radius:8px; cursor:pointer; width:100%;">Close</button>
+      </div>
+    </div>
+  `;
+  document.body.insertAdjacentHTML('beforeend', modalHtml);
+}
+
+
 // App State
 let weights = { w_R: 25, w_H: 25, w_I: 20, w_S: 15, w_G: 15 };
 let scoredData = [];
