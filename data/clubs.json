@@ -3,1365 +3,2522 @@
     "slug": "ac-milan",
     "official_name": "AC Milan",
     "search_name": "MILAN",
+    "country": "Italy",
     "color": "#000000",
-    "code": "MIL"
+    "code": "MLA",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/31vu4p1705226276.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "147946"
   },
   {
     "slug": "acf-fiorentina",
     "official_name": "ACF Fiorentina",
     "search_name": "ACF FIORENTINA",
-    "color": "#4B0082",
-    "code": "ACF"
+    "country": "Italy",
+    "color": "#000000",
+    "code": "ACF",
+    "logo_url": "http://commons.wikimedia.org/wiki/Special:FilePath/ACF%20Fiorentina%20-%20logo%20%28Italy%2C%202022%29.svg",
+    "logo_license": "CC-BY-SA or Public Domain (Wikimedia Commons)",
+    "attribution": "Badge from Wikimedia Commons via Wikidata Q2052",
+    "logo_source": "wikidata",
+    "remote_id": "Q2052"
   },
   {
     "slug": "adelaide-united",
     "official_name": "Adelaide United",
     "search_name": "ADELAIDE UNITED",
+    "country": "Australia",
     "color": "#000000",
-    "code": "ADE"
+    "code": "ADE",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/wpyuwv1473454602.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134472"
   },
   {
     "slug": "afc-ajax",
     "official_name": "AFC Ajax",
     "search_name": "AAJAX",
+    "country": "Netherlands",
     "color": "#000000",
-    "code": "AAJ"
+    "code": "AAJ",
+    "logo_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20AFC%20Ajax%20%281928-1991%2C%202025-%29.svg",
+    "logo_license": "CC-BY-SA or Public Domain (Wikimedia Commons)",
+    "attribution": "Badge from Wikimedia Commons via Wikidata Q81888",
+    "logo_source": "wikidata",
+    "remote_id": "Q81888"
   },
   {
     "slug": "afc-leopards",
     "official_name": "AFC Leopards",
     "search_name": "ALEOPARDS",
-    "color": "#FFFFFF",
-    "code": "ALE"
+    "country": "Kenya",
+    "color": "#000000",
+    "code": "ALE",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+    "logo_license": "Public Domain",
+    "attribution": "Placeholder",
+    "logo_source": "placeholder",
+    "remote_id": "none"
   },
   {
     "slug": "africa-sports",
     "official_name": "Africa Sports",
     "search_name": "AFRISPORTS",
-    "color": "#FFFFFF",
-    "code": "ARI"
+    "country": "Ivory Coast",
+    "color": "#000000",
+    "code": "AFR",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+    "logo_license": "Public Domain",
+    "attribution": "Placeholder",
+    "logo_source": "placeholder",
+    "remote_id": "none"
   },
   {
     "slug": "al-ahli-sfc",
     "official_name": "Al Ahli SFC",
     "search_name": "AL AHLI SFC",
+    "country": "Saudi Arabia",
     "color": "#000000",
-    "code": "AAH"
+    "code": "ALA",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/1bbtgb1755192301.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "137721"
   },
   {
     "slug": "al-ahly-sc",
     "official_name": "Al Ahly SC",
     "search_name": "AL AHLY SC",
+    "country": "Egypt / Morocco",
     "color": "#000000",
-    "code": "ALA"
+    "code": "AAH",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/x8753q1751421890.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "138995"
   },
   {
     "slug": "al-faisaly-sc",
     "official_name": "Al-Faisaly SC",
     "search_name": "AL-FAISALY SC",
-    "color": "#FFFFFF",
-    "code": "ALF"
+    "country": "Jordan",
+    "color": "#000000",
+    "code": "ALF",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+    "logo_license": "Public Domain",
+    "attribution": "Placeholder",
+    "logo_source": "placeholder",
+    "remote_id": "none"
   },
   {
     "slug": "al-hilal-club",
     "official_name": "Al-Hilal Club",
     "search_name": "AL-HILAL CLUB",
+    "country": "Sudan",
     "color": "#000000",
-    "code": "ALH"
+    "code": "AHI",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+    "logo_license": "Public Domain",
+    "attribution": "Placeholder",
+    "logo_source": "placeholder",
+    "remote_id": "none"
   },
   {
     "slug": "al-hilal-sfc",
     "official_name": "Al Hilal SFC",
     "search_name": "AL HILAL SFC",
+    "country": "Saudi Arabia",
     "color": "#000000",
-    "code": "AHI"
+    "code": "ALH",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/w0b80d1661656916.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "136013"
   },
   {
     "slug": "al-ittihad-fc",
     "official_name": "Al Ittihad FC",
     "search_name": "AL ITTIHAD",
-    "color": "#FFFFFF",
-    "code": "AIT"
+    "country": "Saudi Arabia",
+    "color": "#000000",
+    "code": "AIT",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/e5q6lh1745436268.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "151922"
   },
   {
     "slug": "al-merrikh-sc",
     "official_name": "Al-Merrikh SC",
     "search_name": "AL-MERRIKH SC",
-    "color": "#FFFFFF",
-    "code": "ALM"
+    "country": "Sudan",
+    "color": "#000000",
+    "code": "ALM",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+    "logo_license": "Public Domain",
+    "attribution": "Placeholder",
+    "logo_source": "placeholder",
+    "remote_id": "none"
   },
   {
     "slug": "al-nassr-fc",
     "official_name": "Al Nassr FC",
     "search_name": "AL NASSR",
-    "color": "#FFFFFF",
-    "code": "ALN"
+    "country": "Saudi Arabia",
+    "color": "#000000",
+    "code": "ALN",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/84yvqi1748524565.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "136022"
   },
   {
     "slug": "al-quwa-al-jawiya",
     "official_name": "Al-Quwa Al-Jawiya",
     "search_name": "AL-QUWA AL-JAWIYA",
-    "color": "#FFFFFF",
-    "code": "ALQ"
+    "country": "Iraq",
+    "color": "#000000",
+    "code": "ALQ",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+    "logo_license": "Public Domain",
+    "attribution": "Placeholder",
+    "logo_source": "placeholder",
+    "remote_id": "none"
   },
   {
     "slug": "al-wehdat-sc",
     "official_name": "Al-Wehdat SC",
     "search_name": "AL-WEHDAT SC",
+    "country": "Jordan",
     "color": "#000000",
-    "code": "ALW"
+    "code": "ALW",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+    "logo_license": "Public Domain",
+    "attribution": "Placeholder",
+    "logo_source": "placeholder",
+    "remote_id": "none"
   },
   {
     "slug": "al-zawraa-sc",
     "official_name": "Al-Zawraa SC",
     "search_name": "AL-ZAWRAA SC",
+    "country": "Iraq",
     "color": "#000000",
-    "code": "ALZ"
+    "code": "ALZ",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+    "logo_license": "Public Domain",
+    "attribution": "Placeholder",
+    "logo_source": "placeholder",
+    "remote_id": "none"
   },
   {
-    "slug": "amarica-de-cali",
-    "official_name": "Am\u00c3\u00a9rica de Cali",
-    "search_name": "AM\u00c3\u00a9RIDE CALI",
+    "slug": "america-de-cali",
+    "official_name": "Am\u00e9rica de Cali",
+    "search_name": "AM\u00c9RIDE CALI",
+    "country": "Colombia",
     "color": "#000000",
-    "code": "AMR"
+    "code": "A01",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+    "logo_license": "Public Domain",
+    "attribution": "Placeholder",
+    "logo_source": "placeholder",
+    "remote_id": "none"
   },
   {
     "slug": "arsenal-fc",
     "official_name": "Arsenal FC",
     "search_name": "ARSENAL",
+    "country": "England",
     "color": "#000000",
-    "code": "ARS"
+    "code": "ARS",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133604"
   },
   {
     "slug": "as-magenta",
     "official_name": "AS Magenta",
     "search_name": "AS MAGENTA",
+    "country": "New Caledonia",
     "color": "#000000",
-    "code": "ASM"
+    "code": "ASM",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/z3onqc1762297112.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "153851"
   },
   {
     "slug": "as-mont-dore",
     "official_name": "AS Mont-Dore",
     "search_name": "AS MONT-DORE",
-    "color": "#FFFFFF",
-    "code": "AMO"
+    "country": "New Caledonia",
+    "color": "#000000",
+    "code": "AMO",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+    "logo_license": "Public Domain",
+    "attribution": "Placeholder",
+    "logo_source": "placeholder",
+    "remote_id": "none"
   },
   {
     "slug": "as-pirae",
     "official_name": "AS Pirae",
     "search_name": "AS PIRAE",
+    "country": "New Zealand / Tahiti",
     "color": "#000000",
-    "code": "ASP"
+    "code": "ASP",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/yrnatm1642634134.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "144956"
   },
   {
     "slug": "as-roma",
     "official_name": "AS Roma",
     "search_name": "AS ROMA",
-    "color": "#8B0000",
-    "code": "ASR"
-  },
-  {
-    "slug": "as-saint-atienne",
-    "official_name": "AS Saint-\u00c3\u2030tienne",
-    "search_name": "AS SAINT-\u00c3\u2030TIENNE",
-    "color": "#FFFFFF",
-    "code": "ASA"
+    "country": "Italy",
+    "color": "#000000",
+    "code": "ASR",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133682"
   },
   {
     "slug": "as-saint-etienne",
-    "official_name": "AS Saint-Etienne",
+    "official_name": "AS Saint-\u00c9tienne",
     "search_name": "AS SAINT-ETIENNE",
-    "color": "#008000",
-    "code": "ASS"
+    "country": "France",
+    "color": "#000000",
+    "code": "ASS",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+    "logo_license": "Public Domain",
+    "attribution": "Placeholder",
+    "logo_source": "placeholder",
+    "remote_id": "none"
   },
   {
-    "slug": "as-vanus",
-    "official_name": "AS V\u00c3\u00a9nus",
-    "search_name": "AS V\u00c3\u00a9NUS",
-    "color": "#FFFFFF",
-    "code": "AVN"
+    "slug": "as-venus",
+    "official_name": "AS V\u00e9nus",
+    "search_name": "AS V\u00c9NUS",
+    "country": "Tahiti (French Polynesia)",
+    "color": "#000000",
+    "code": "ASV",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+    "logo_license": "Public Domain",
+    "attribution": "Placeholder",
+    "logo_source": "placeholder",
+    "remote_id": "none"
   },
   {
     "slug": "as-vita-club",
     "official_name": "AS Vita Club",
     "search_name": "AS VITA CLUB",
-    "color": "#FFFFFF",
-    "code": "ASV"
+    "country": "DR Congo",
+    "color": "#000000",
+    "code": "AVI",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/6f35xk1759446285.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "145488"
   },
   {
     "slug": "asante-kotoko",
     "official_name": "Asante Kotoko",
     "search_name": "ASANTE KOTOKO",
+    "country": "Ghana",
     "color": "#000000",
-    "code": "AAN"
+    "code": "AAN",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/u1mppc1578401554.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "137741"
   },
   {
     "slug": "asec-mimosas",
     "official_name": "ASEC Mimosas",
     "search_name": "ASEC MIMOSAS",
+    "country": "Ivory Coast",
     "color": "#000000",
-    "code": "ASE"
+    "code": "ASE",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/b9e1cr1589312301.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "139744"
   },
   {
     "slug": "aston-villa",
     "official_name": "Aston Villa",
     "search_name": "ASTON VILLA",
+    "country": "England",
     "color": "#000000",
-    "code": "AST"
+    "code": "AST",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/uwzw561787679026.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133601"
   },
   {
     "slug": "athletic-club",
     "official_name": "Athletic Club",
     "search_name": "ATHLETIC CLUB",
+    "country": "Spain",
     "color": "#000000",
-    "code": "ATH"
+    "code": "AHL",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/myl7c31677056352.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "147142"
   },
   {
     "slug": "athletico-paranaense",
     "official_name": "Athletico Paranaense",
     "search_name": "ATHLETICO PARANAENSE",
-    "color": "#FFFFFF",
-    "code": "A01"
-  },
-  {
-    "slug": "atlatico-madrid",
-    "official_name": "Atl\u00c3\u00a9tico Madrid",
-    "search_name": "ATL\u00c3\u00a9TICO MADRID",
-    "color": "#FFFFFF",
-    "code": "ATL"
-  },
-  {
-    "slug": "atlatico-nacional",
-    "official_name": "Atl\u00c3\u00a9tico Nacional",
-    "search_name": "ATL\u00c3\u00a9TICO NACIONAL",
+    "country": "Brazil",
     "color": "#000000",
-    "code": "ALT"
+    "code": "A02",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/irzu1u1554237406.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134297"
   },
   {
-    "slug": "atoile-du-sahel",
-    "official_name": "\u00c3\u2030toile du Sahel",
-    "search_name": "\u00c3\u2030TOILE DU SAHEL",
-    "color": "#FFFFFF",
-    "code": "TOI"
+    "slug": "atletico-madrid",
+    "official_name": "Atl\u00e9tico Madrid",
+    "search_name": "ATL\u00c9TICO MADRID",
+    "country": "Spain",
+    "color": "#000000",
+    "code": "ALT",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+    "logo_license": "Public Domain",
+    "attribution": "Placeholder",
+    "logo_source": "placeholder",
+    "remote_id": "none"
+  },
+  {
+    "slug": "atletico-nacional",
+    "official_name": "Atl\u00e9tico Nacional",
+    "search_name": "ATL\u00c9TICO NACIONAL",
+    "country": "Colombia",
+    "color": "#000000",
+    "code": "A03",
+    "logo_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Club%20Atletico%20Nacional%20Potosi.svg",
+    "logo_license": "CC-BY-SA or Public Domain (Wikimedia Commons)",
+    "attribution": "Badge from Wikimedia Commons via Wikidata Q676897",
+    "logo_source": "wikidata",
+    "remote_id": "Q676897"
   },
   {
     "slug": "auckland-city-fc",
     "official_name": "Auckland City FC",
     "search_name": "AUCKLAND CITY",
+    "country": "New Zealand / Tahiti",
     "color": "#000000",
-    "code": "AUC"
+    "code": "AUC",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/9714m51650631899.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "139100"
   },
   {
     "slug": "ba-fc",
     "official_name": "Ba FC",
     "search_name": "BA",
+    "country": "Fiji",
     "color": "#000000",
-    "code": "BAA"
+    "code": "BAA",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/10nv2n1615830376.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "141037"
   },
   {
     "slug": "barcelona-sc",
     "official_name": "Barcelona SC",
     "search_name": "BARCELONA SC",
+    "country": "Ecuador",
     "color": "#000000",
-    "code": "BRC"
+    "code": "BRC",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/c5yr001653075296.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "138159"
   },
   {
     "slug": "beijing-guoan",
     "official_name": "Beijing Guoan",
     "search_name": "BEIJING GUOAN",
+    "country": "China",
     "color": "#000000",
-    "code": "BEI"
+    "code": "BEI",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/cdkguq1652626854.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134635"
   },
   {
     "slug": "birmingham-city",
     "official_name": "Birmingham City",
     "search_name": "BIRMINGHAM CITY",
-    "color": "#FFFFFF",
-    "code": "BIR"
+    "country": "England",
+    "color": "#000000",
+    "code": "BIR",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/wufs551672950865.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133597"
   },
   {
     "slug": "borussia-dortmund",
     "official_name": "Borussia Dortmund",
     "search_name": "BORUSSIA DORTMUND",
-    "color": "#FFFFFF",
-    "code": "BOR"
+    "country": "Germany",
+    "color": "#000000",
+    "code": "BOR",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/tqo8ge1716960353.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133650"
   },
   {
     "slug": "botafogo-fr",
     "official_name": "Botafogo FR",
     "search_name": "BOTAFOGO FR",
-    "color": "#FFFFFF",
-    "code": "BOT"
+    "country": "Brazil",
+    "color": "#000000",
+    "code": "BOT",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/bs5mbw1733004596.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134285"
   },
   {
     "slug": "ca-boca-juniors",
     "official_name": "CA Boca Juniors",
     "search_name": "BOJUNIORS",
+    "country": "Argentina",
     "color": "#000000",
-    "code": "BOJ"
+    "code": "BOJ",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+    "logo_license": "Public Domain",
+    "attribution": "Placeholder",
+    "logo_source": "placeholder",
+    "remote_id": "none"
   },
   {
     "slug": "ca-huracan",
-    "official_name": "CA Hurac\u00c3\u00a1n",
-    "search_name": "HURAC\u00c3\u00a1N",
-    "color": "#FFFFFF",
-    "code": "HUR"
+    "official_name": "CA Hurac\u00e1n",
+    "search_name": "HURAC\u00c1N",
+    "country": "Argentina",
+    "color": "#000000",
+    "code": "HUR",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/kppi2b1775776550.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "135163"
   },
   {
     "slug": "ca-independiente",
     "official_name": "CA Independiente",
     "search_name": "INDEPENDIENTE",
+    "country": "Argentina",
     "color": "#000000",
-    "code": "IND"
+    "code": "IDE",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/eki4nd1580842605.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "135164"
   },
   {
-    "slug": "ca-peaarol",
-    "official_name": "CA Pe\u00c3\u00b1arol",
-    "search_name": "PE\u00c3\u00b1AROL",
-    "color": "#FFFFFF",
-    "code": "PEA"
+    "slug": "ca-penarol",
+    "official_name": "CA Pe\u00f1arol",
+    "search_name": "PE\u00d1AROL",
+    "country": "Uruguay",
+    "color": "#000000",
+    "code": "PEA",
+    "logo_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Escudo%20del%20Club%20Atl%C3%A9tico%20Pe%C3%B1arol.svg",
+    "logo_license": "CC-BY-SA or Public Domain (Wikimedia Commons)",
+    "attribution": "Badge from Wikimedia Commons via Wikidata Q16320",
+    "logo_source": "wikidata",
+    "remote_id": "Q16320"
   },
   {
     "slug": "ca-river-plate",
     "official_name": "CA River Plate",
     "search_name": "RIVER PLATE",
-    "color": "#FFFFFF",
-    "code": "RIV"
+    "country": "Argentina",
+    "color": "#000000",
+    "code": "RIV",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "135171"
   },
   {
     "slug": "ca-rosario-central",
     "official_name": "CA Rosario Central",
     "search_name": "ROSARIO CENTRAL",
+    "country": "Argentina",
     "color": "#000000",
-    "code": "ROS"
+    "code": "ROS",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/y6q1ds1769660256.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "135172"
   },
   {
     "slug": "ca-san-lorenzo",
     "official_name": "CA San Lorenzo",
     "search_name": "SAN LORENZO",
+    "country": "Argentina",
     "color": "#000000",
-    "code": "SAN"
+    "code": "SNL",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/jih7hv1582229717.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "139152"
   },
   {
     "slug": "cd-guadalajara",
     "official_name": "CD Guadalajara",
     "search_name": "CD GUADALAJARA",
+    "country": "Mexico",
     "color": "#000000",
-    "code": "CGU"
+    "code": "CGU",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/mp1box1593452087.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134206"
   },
   {
     "slug": "cd-guadalajara-chivas",
     "official_name": "CD Guadalajara (Chivas)",
     "search_name": "CD GUADALAJARA (CHIVAS)",
-    "color": "#FFFFFF",
-    "code": "CDG"
+    "country": "Mexico",
+    "color": "#000000",
+    "code": "CDG",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/mp1box1593452087.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134206"
   },
   {
     "slug": "celtic-fc",
     "official_name": "Celtic FC",
     "search_name": "CELTIC",
+    "country": "Scotland",
     "color": "#000000",
-    "code": "CEL"
+    "code": "CEL",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/3uv1641758780002.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133647"
   },
   {
     "slug": "cerezo-osaka",
     "official_name": "Cerezo Osaka",
     "search_name": "CEREZO OSAKA",
-    "color": "#FFFFFF",
-    "code": "CRE"
+    "country": "Japan",
+    "color": "#000000",
+    "code": "CER",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/a7oyde1706245108.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "137703"
   },
   {
     "slug": "cf-monterrey",
     "official_name": "CF Monterrey",
     "search_name": "CF MONTERREY",
+    "country": "Mexico",
     "color": "#000000",
-    "code": "CFM"
+    "code": "CFM",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/yglj911721542561.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134198"
   },
   {
     "slug": "cf-pachuca",
     "official_name": "CF Pachuca",
     "search_name": "CF PACHUCA",
+    "country": "Mexico",
     "color": "#000000",
-    "code": "CFP"
+    "code": "CFP",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/k9duyw1747334895.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134191"
   },
   {
     "slug": "chelsea-fc",
     "official_name": "Chelsea FC",
     "search_name": "CHELSEA",
+    "country": "England",
     "color": "#000000",
-    "code": "CHE"
+    "code": "CHE",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/pbf4ul1782638263.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133610"
   },
   {
     "slug": "club-africain",
     "official_name": "Club Africain",
     "search_name": "AFRICAIN",
-    "color": "#FFFFFF",
-    "code": "AFR"
+    "country": "Tunisia",
+    "color": "#000000",
+    "code": "ARI",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/2gijg71753933998.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "139862"
   },
   {
     "slug": "club-alianza-lima",
     "official_name": "Club Alianza Lima",
     "search_name": "ALIANZA LIMA",
-    "color": "#FFFFFF",
-    "code": "ALI"
+    "country": "Peru",
+    "color": "#000000",
+    "code": "ALI",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/y5wov41580040189.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "138311"
   },
   {
-    "slug": "club-amarica",
-    "official_name": "Club Am\u00c3\u00a9rica",
-    "search_name": "AM\u00c3\u00a9RICA",
+    "slug": "club-america",
+    "official_name": "Club Am\u00e9rica",
+    "search_name": "AM\u00c9RICA",
+    "country": "Mexico",
     "color": "#000000",
-    "code": "A02"
+    "code": "AMR",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+    "logo_license": "Public Domain",
+    "attribution": "Placeholder",
+    "logo_source": "placeholder",
+    "remote_id": "none"
   },
   {
     "slug": "club-athletico-paranaense",
     "official_name": "Club Athletico Paranaense",
     "search_name": "ATHLETICO PARANAENSE",
-    "color": "#FFFFFF",
-    "code": "AHL"
+    "country": "Brazil",
+    "color": "#000000",
+    "code": "ATH",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/irzu1u1554237406.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134297"
   },
   {
     "slug": "club-atlas",
     "official_name": "Club Atlas",
     "search_name": "ATLAS",
-    "color": "#FFFFFF",
-    "code": "A03"
-  },
-  {
-    "slug": "club-bolavar",
-    "official_name": "Club Bol\u00c3\u00advar",
-    "search_name": "BOL\u00c3\u00adVAR",
+    "country": "Mexico",
     "color": "#000000",
-    "code": "BOL"
+    "code": "ATL",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/svvyvw1473541813.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134195"
   },
   {
-    "slug": "club-cerro-porteao",
-    "official_name": "Club Cerro Porte\u00c3\u00b1o",
-    "search_name": "CERRO PORTE\u00c3\u00b1O",
-    "color": "#FFFFFF",
-    "code": "CER"
+    "slug": "club-bolivar",
+    "official_name": "Club Bol\u00edvar",
+    "search_name": "BOL\u00cdVAR",
+    "country": "Bolivia",
+    "color": "#000000",
+    "code": "BOL",
+    "logo_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20bolivar.png",
+    "logo_license": "CC-BY-SA or Public Domain (Wikimedia Commons)",
+    "attribution": "Badge from Wikimedia Commons via Wikidata Q128024",
+    "logo_source": "wikidata",
+    "remote_id": "Q128024"
+  },
+  {
+    "slug": "club-cerro-porteno",
+    "official_name": "Club Cerro Porte\u00f1o",
+    "search_name": "CERRO PORTE\u00d1O",
+    "country": "Paraguay",
+    "color": "#000000",
+    "code": "CRR",
+    "logo_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Escudo%20del%20Club%20Cerro%20Porte%C3%B1o.svg",
+    "logo_license": "CC-BY-SA or Public Domain (Wikimedia Commons)",
+    "attribution": "Badge from Wikimedia Commons via Wikidata Q914086",
+    "logo_source": "wikidata",
+    "remote_id": "Q914086"
   },
   {
     "slug": "club-nacional-de-football",
     "official_name": "Club Nacional de Football",
     "search_name": "NACIONAL DE FOOTBALL",
+    "country": "Uruguay",
     "color": "#000000",
-    "code": "NAC"
+    "code": "NAC",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/yxi2wi1736387630.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "135364"
   },
   {
     "slug": "club-olimpia",
     "official_name": "Club Olimpia",
     "search_name": "OLIMPIA",
+    "country": "Paraguay",
     "color": "#000000",
-    "code": "OLI"
+    "code": "OLI",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/387so51673691928.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "147051"
   },
   {
     "slug": "club-universidad-de-chile",
     "official_name": "Club Universidad de Chile",
     "search_name": "UNIVERSIDAD DE CHILE",
-    "color": "#FFFFFF",
-    "code": "UNI"
+    "country": "Chile",
+    "color": "#000000",
+    "code": "U02",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/po0o3c1578347873.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "137736"
   },
   {
     "slug": "club-universidad-nacional-pumas",
     "official_name": "Club Universidad Nacional (Pumas)",
     "search_name": "UNIVERSIDAD NACIONAL (PUMAS)",
-    "color": "#FFFFFF",
-    "code": "U03"
+    "country": "Mexico",
+    "color": "#000000",
+    "code": "UIV",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/o01nvl1695734937.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134201"
   },
   {
     "slug": "club-universitario",
     "official_name": "Club Universitario",
     "search_name": "UNIVERSITARIO",
+    "country": "Peru",
     "color": "#000000",
-    "code": "U02"
+    "code": "U01",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/xt290m1603137966.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "138329"
   },
   {
-    "slug": "clube-atlatico-mineiro",
-    "official_name": "Clube Atl\u00c3\u00a9tico Mineiro",
-    "search_name": "CLUBE ATL\u00c3\u00a9TICO MINEIRO",
+    "slug": "clube-atletico-mineiro",
+    "official_name": "Clube Atl\u00e9tico Mineiro",
+    "search_name": "CLUBE ATL\u00c9TICO MINEIRO",
+    "country": "Brazil",
     "color": "#000000",
-    "code": "CLU"
+    "code": "CLU",
+    "logo_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clube%20Atl%C3%A9tico%20Mineiro%20logo.svg",
+    "logo_license": "CC-BY-SA or Public Domain (Wikimedia Commons)",
+    "attribution": "Badge from Wikimedia Commons via Wikidata Q270995",
+    "logo_source": "wikidata",
+    "remote_id": "Q270995"
   },
   {
     "slug": "coritiba-fbc",
     "official_name": "Coritiba FBC",
     "search_name": "CORITIBA FBC",
+    "country": "Brazil",
     "color": "#000000",
-    "code": "COR"
+    "code": "COR",
+    "logo_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Coritiba%20Foot%20Ball%20Club%20logo.svg",
+    "logo_license": "CC-BY-SA or Public Domain (Wikimedia Commons)",
+    "attribution": "Badge from Wikimedia Commons via Wikidata Q478317",
+    "logo_source": "wikidata",
+    "remote_id": "Q478317"
   },
   {
     "slug": "cr-belouizdad",
     "official_name": "CR Belouizdad",
     "search_name": "CR BELOUIZDAD",
+    "country": "Algeria",
     "color": "#000000",
-    "code": "CRB"
+    "code": "CRB",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/88vcd41695448814.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "139278"
   },
   {
     "slug": "cr-flamengo",
     "official_name": "CR Flamengo",
     "search_name": "CR FLAMENGO",
+    "country": "Brazil",
     "color": "#000000",
-    "code": "CRF"
+    "code": "CRF",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134287"
   },
   {
     "slug": "cr-vasco-da-gama",
     "official_name": "CR Vasco da Gama",
     "search_name": "CR VASCO DA GAMA",
-    "color": "#FFFFFF",
-    "code": "CRV"
+    "country": "Brazil",
+    "color": "#000000",
+    "code": "CRV",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/ynqlxo1630521109.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134282"
   },
   {
     "slug": "cruz-azul",
     "official_name": "Cruz Azul",
     "search_name": "CRUZ AZUL",
-    "color": "#FFFFFF",
-    "code": "CUZ"
+    "country": "Mexico",
+    "color": "#000000",
+    "code": "CRU",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/wcd2yi1781543370.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134196"
   },
   {
     "slug": "cruzeiro-ec",
     "official_name": "Cruzeiro EC",
     "search_name": "CRUZEIRO EC",
-    "color": "#FFFFFF",
-    "code": "CRU"
+    "country": "Brazil",
+    "color": "#000000",
+    "code": "CUZ",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/w6sm8l1767199303.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "154127"
   },
   {
     "slug": "cs-emelec",
     "official_name": "CS Emelec",
     "search_name": "CS EMELEC",
-    "color": "#FFFFFF",
-    "code": "CSE"
+    "country": "Ecuador",
+    "color": "#000000",
+    "code": "CSE",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/15ovlq1579959696.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "138223"
   },
   {
     "slug": "csd-colo-colo",
     "official_name": "CSD Colo-Colo",
     "search_name": "CSD COLO-COLO",
+    "country": "Chile",
     "color": "#000000",
-    "code": "CSD"
+    "code": "CDC",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+    "logo_license": "Public Domain",
+    "attribution": "Placeholder",
+    "logo_source": "placeholder",
+    "remote_id": "none"
   },
   {
     "slug": "csd-comunicaciones",
     "official_name": "CSD Comunicaciones",
     "search_name": "CSD COMUNICACIONES",
-    "color": "#FFFFFF",
-    "code": "CDC"
+    "country": "Guatemala",
+    "color": "#000000",
+    "code": "CSD",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+    "logo_license": "Public Domain",
+    "attribution": "Placeholder",
+    "logo_source": "placeholder",
+    "remote_id": "none"
   },
   {
     "slug": "csd-municipal",
     "official_name": "CSD Municipal",
     "search_name": "CSD MUNICIPAL",
+    "country": "Guatemala",
     "color": "#000000",
-    "code": "CDM"
+    "code": "CDM",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+    "logo_license": "Public Domain",
+    "attribution": "Placeholder",
+    "logo_source": "placeholder",
+    "remote_id": "none"
   },
   {
     "slug": "dc-motema-pembe",
     "official_name": "DC Motema Pembe",
     "search_name": "DC MOTEMA PEMBE",
+    "country": "DR Congo",
     "color": "#000000",
-    "code": "DCM"
+    "code": "DCM",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/m9g4s11724570584.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "141052"
   },
   {
     "slug": "dc-united",
     "official_name": "D.C. United",
     "search_name": "D.C. UNITED",
-    "color": "#FFFFFF",
-    "code": "DCU"
+    "country": "USA",
+    "color": "#000000",
+    "code": "DCU",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/uwvsyt1467462609.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134145"
   },
   {
     "slug": "deportivo-cali",
     "official_name": "Deportivo Cali",
     "search_name": "DEPORTIVO CALI",
-    "color": "#FFFFFF",
-    "code": "DEP"
+    "country": "Colombia",
+    "color": "#000000",
+    "code": "DPO",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/isc2yu1580833286.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "137610"
   },
   {
     "slug": "deportivo-saprissa",
     "official_name": "Deportivo Saprissa",
     "search_name": "DEPORTIVO SAPRISSA",
+    "country": "Costa Rica",
     "color": "#000000",
-    "code": "DPO"
+    "code": "DEP",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/tvj33z1707630611.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "139011"
   },
   {
     "slug": "east-bengal-fc",
     "official_name": "East Bengal FC",
     "search_name": "EAST BENGAL",
-    "color": "#FFFFFF",
-    "code": "EAS"
+    "country": "India",
+    "color": "#000000",
+    "code": "EAS",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/2dcje31694990604.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "139439"
   },
   {
     "slug": "ec-bahia",
     "official_name": "EC Bahia",
     "search_name": "EC BAHIA",
+    "country": "Brazil",
     "color": "#000000",
-    "code": "ECB"
+    "code": "ECB",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134293"
   },
   {
-    "slug": "ec-vita3ria",
-    "official_name": "EC Vit\u00c3\u00b3ria",
-    "search_name": "EC VIT\u00c3\u00b3RIA",
-    "color": "#FFFFFF",
-    "code": "ECV"
+    "slug": "ec-vitoria",
+    "official_name": "EC Vit\u00f3ria",
+    "search_name": "EC VIT\u00d3RIA",
+    "country": "Brazil",
+    "color": "#000000",
+    "code": "ECV",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+    "logo_license": "Public Domain",
+    "attribution": "Placeholder",
+    "logo_source": "placeholder",
+    "remote_id": "none"
   },
   {
-    "slug": "esparance-de-tunis",
-    "official_name": "Esp\u00c3\u00a9rance de Tunis",
-    "search_name": "ESP\u00c3\u00a9RANCE DE TUNIS",
+    "slug": "esperance-de-tunis",
+    "official_name": "Esp\u00e9rance de Tunis",
+    "search_name": "ESP\u00c9RANCE DE TUNIS",
+    "country": "Tunisia / Morocco",
     "color": "#000000",
-    "code": "ESP"
+    "code": "ESP",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+    "logo_license": "Public Domain",
+    "attribution": "Placeholder",
+    "logo_source": "placeholder",
+    "remote_id": "none"
   },
   {
     "slug": "esteghlal-fc",
     "official_name": "Esteghlal FC",
     "search_name": "ESTEGHLAL",
-    "color": "#FFFFFF",
-    "code": "ETE"
+    "country": "Iran",
+    "color": "#000000",
+    "code": "ETE",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/tu1o951756536150.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "139012"
   },
   {
     "slug": "estudiantes-de-la-plata",
     "official_name": "Estudiantes de La Plata",
     "search_name": "ESTUDIANTES DE LA PLATA",
+    "country": "Argentina",
     "color": "#000000",
-    "code": "EST"
+    "code": "EST",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/pf08dq1760634366.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "135160"
+  },
+  {
+    "slug": "etoile-du-sahel",
+    "official_name": "\u00c9toile du Sahel",
+    "search_name": "\u00c9TOILE DU SAHEL",
+    "country": "Tunisia",
+    "color": "#000000",
+    "code": "TOI",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+    "logo_license": "Public Domain",
+    "attribution": "Placeholder",
+    "logo_source": "placeholder",
+    "remote_id": "none"
   },
   {
     "slug": "everton-fc",
     "official_name": "Everton FC",
     "search_name": "EVERTON",
-    "color": "#FFFFFF",
-    "code": "EVE"
+    "country": "England",
+    "color": "#000000",
+    "code": "EVE",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133615"
   },
   {
     "slug": "fc-barcelona",
     "official_name": "FC Barcelona",
     "search_name": "BARCELONA",
-    "color": "#FFFFFF",
-    "code": "BAR"
+    "country": "Spain",
+    "color": "#000000",
+    "code": "BAR",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133739"
   },
   {
     "slug": "fc-bayern-munich",
     "official_name": "FC Bayern Munich",
     "search_name": "BAYERN MUNICH",
+    "country": "Spain / Germany",
     "color": "#000000",
-    "code": "BAY"
+    "code": "BAY",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133664"
   },
   {
     "slug": "fc-internazionale-milano",
     "official_name": "FC Internazionale Milano",
     "search_name": "INTERNAZIONALE MILANO",
-    "color": "#FFFFFF",
-    "code": "INT"
+    "country": "Italy",
+    "color": "#000000",
+    "code": "INT",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133681"
   },
   {
     "slug": "fc-porto",
     "official_name": "FC Porto",
     "search_name": "PORTO",
-    "color": "#FFFFFF",
-    "code": "POR"
+    "country": "Portugal",
+    "color": "#000000",
+    "code": "PRT",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/xu47rb1628855600.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134114"
   },
   {
     "slug": "fc-schalke-04",
     "official_name": "FC Schalke 04",
     "search_name": "SCHALKE 04",
-    "color": "#FFFFFF",
-    "code": "SCH"
+    "country": "Germany",
+    "color": "#000000",
+    "code": "SCH",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/hnci291621593978.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133661"
   },
   {
     "slug": "fc-seoul",
     "official_name": "FC Seoul",
     "search_name": "SEOUL",
+    "country": "South Korea",
     "color": "#000000",
-    "code": "SEO"
+    "code": "SEO",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/arwcqk1589559335.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "139788"
   },
   {
-    "slug": "fenerbahae-sk",
-    "official_name": "Fenerbah\u00c3\u00a7e SK",
-    "search_name": "FENERBAH\u00c3\u00a7E SK",
-    "color": "#FFFFFF",
-    "code": "FEN"
+    "slug": "fenerbahce-sk",
+    "official_name": "Fenerbah\u00e7e SK",
+    "search_name": "FENERBAH\u00c7E SK",
+    "country": "Turkey",
+    "color": "#000000",
+    "code": "FEN",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+    "logo_license": "Public Domain",
+    "attribution": "Placeholder",
+    "logo_source": "placeholder",
+    "remote_id": "none"
   },
   {
     "slug": "feyenoord-rotterdam",
     "official_name": "Feyenoord Rotterdam",
     "search_name": "FEYENOORD ROTTERDAM",
-    "color": "#FFFFFF",
-    "code": "FEY"
+    "country": "Netherlands",
+    "color": "#000000",
+    "code": "FEY",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/uturtx1473534803.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133758"
   },
   {
     "slug": "fluminense-fc",
     "official_name": "Fluminense FC",
     "search_name": "FLUMINENSE",
-    "color": "#FFFFFF",
-    "code": "FLU"
+    "country": "Ecuador / Brazil",
+    "color": "#000000",
+    "code": "FLU",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134296"
   },
   {
     "slug": "galatasaray-sk",
     "official_name": "Galatasaray SK",
     "search_name": "GALATASARAY SK",
+    "country": "Turkey",
     "color": "#000000",
-    "code": "GAL"
+    "code": "GAL",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/s0648j1688557537.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "136072"
   },
   {
     "slug": "gamba-osaka",
     "official_name": "Gamba Osaka",
     "search_name": "GAMBA OSAKA",
+    "country": "Japan",
     "color": "#000000",
-    "code": "GAM"
+    "code": "GAM",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/tq9edk1638813311.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "137705"
   },
   {
     "slug": "genoa-cfc",
     "official_name": "Genoa CFC",
     "search_name": "GENOA CFC",
+    "country": "Italy",
     "color": "#000000",
-    "code": "GEN"
+    "code": "GEN",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/52s8dn1655553600.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133675"
   },
   {
     "slug": "gimnasia-lp",
     "official_name": "Gimnasia LP",
     "search_name": "GIMNASIA LP",
-    "color": "#FFFFFF",
-    "code": "GIM"
+    "country": "Argentina",
+    "color": "#000000",
+    "code": "GIM",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/epmttr1678849271.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "144738"
   },
   {
     "slug": "gor-mahia-fc",
     "official_name": "Gor Mahia FC",
     "search_name": "GOR MAHIA",
+    "country": "Kenya",
     "color": "#000000",
-    "code": "GOR"
+    "code": "GOR",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/8hqogn1583765598.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "139253"
   },
   {
-    "slug": "graamio-fbpa",
-    "official_name": "Gr\u00c3\u00aamio FBPA",
-    "search_name": "GR\u00c3\u00aaMIO FBPA",
+    "slug": "gremio-fbpa",
+    "official_name": "Gr\u00eamio FBPA",
+    "search_name": "GR\u00caMIO FBPA",
+    "country": "Brazil",
     "color": "#000000",
-    "code": "GRM"
+    "code": "GRM",
+    "logo_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gremio%20logo.svg",
+    "logo_license": "CC-BY-SA or Public Domain (Wikimedia Commons)",
+    "attribution": "Badge from Wikimedia Commons via Wikidata Q221695",
+    "logo_source": "wikidata",
+    "remote_id": "Q221695"
   },
   {
     "slug": "hamburger-sv",
     "official_name": "Hamburger SV",
     "search_name": "HAMBURGER SV",
+    "country": "Germany",
     "color": "#000000",
-    "code": "HAM"
+    "code": "HAM",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/ctbdo11778868225.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "155605"
   },
   {
     "slug": "heart-of-midlothian",
     "official_name": "Heart of Midlothian",
     "search_name": "HEART OF MIDLOTHIAN",
+    "country": "Scotland",
     "color": "#000000",
-    "code": "HEA"
+    "code": "HEA",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/twqvyt1447597939.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133643"
   },
   {
     "slug": "hearts-of-oak",
     "official_name": "Hearts of Oak",
     "search_name": "HEARTS OF OAK",
-    "color": "#FFFFFF",
-    "code": "HAR"
+    "country": "Ghana",
+    "color": "#000000",
+    "code": "HAR",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/v3eyvw1617287212.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "141199"
   },
   {
     "slug": "hibernian-fc",
     "official_name": "Hibernian FC",
     "search_name": "HIBERNIAN",
-    "color": "#FFFFFF",
-    "code": "HIB"
+    "country": "Scotland",
+    "color": "#000000",
+    "code": "HIB",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/qjys3z1684928969.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133646"
   },
   {
-    "slug": "independiente-medellan",
-    "official_name": "Independiente Medell\u00c3\u00adn",
-    "search_name": "INDEPENDIENTE MEDELL\u00c3\u00adN",
-    "color": "#FFFFFF",
-    "code": "I01"
+    "slug": "independiente-medellin",
+    "official_name": "Independiente Medell\u00edn",
+    "search_name": "INDEPENDIENTE MEDELL\u00cdN",
+    "country": "Colombia",
+    "color": "#000000",
+    "code": "IND",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+    "logo_license": "Public Domain",
+    "attribution": "Placeholder",
+    "logo_source": "placeholder",
+    "remote_id": "none"
   },
   {
     "slug": "independiente-santa-fe",
     "official_name": "Independiente Santa Fe",
     "search_name": "INDEPENDIENTE SANTA FE",
-    "color": "#FFFFFF",
-    "code": "IDE"
-  },
-  {
-    "slug": "jaobilo-iwata",
-    "official_name": "J\u00c3\u00babilo Iwata",
-    "search_name": "J\u00c3\u00baBILO IWATA",
-    "color": "#FFFFFF",
-    "code": "JBI"
+    "country": "Colombia",
+    "color": "#000000",
+    "code": "I01",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/16vs771629122765.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "137621"
   },
   {
     "slug": "jeonbuk-hyundai-motors",
     "official_name": "Jeonbuk Hyundai Motors",
     "search_name": "JEONBUK HYUNDAI MOTORS",
+    "country": "South Korea",
     "color": "#000000",
-    "code": "JEO"
+    "code": "JEO",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/8jif3b1747853225.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "138111"
   },
   {
     "slug": "js-kabylie",
     "official_name": "JS Kabylie",
     "search_name": "JS KABYLIE",
+    "country": "Algeria",
     "color": "#000000",
-    "code": "JSK"
+    "code": "JSK",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/h3w0w71581543584.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "139092"
+  },
+  {
+    "slug": "jubilo-iwata",
+    "official_name": "J\u00fabilo Iwata",
+    "search_name": "J\u00daBILO IWATA",
+    "country": "Japan",
+    "color": "#000000",
+    "code": "JBI",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+    "logo_license": "Public Domain",
+    "attribution": "Placeholder",
+    "logo_source": "placeholder",
+    "remote_id": "none"
   },
   {
     "slug": "juventus-fc",
     "official_name": "Juventus FC",
     "search_name": "JUVENTUS",
+    "country": "Italy",
     "color": "#000000",
-    "code": "JUV"
+    "code": "JUV",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/uxf0gr1742983727.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133676"
   },
   {
     "slug": "kaizer-chiefs",
     "official_name": "Kaizer Chiefs",
     "search_name": "KAIZER CHIEFS",
+    "country": "South Africa",
     "color": "#000000",
-    "code": "KAI"
+    "code": "KAI",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/akwtlr1583614121.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "139474"
   },
   {
     "slug": "kashima-antlers",
     "official_name": "Kashima Antlers",
     "search_name": "KASHIMA ANTLERS",
+    "country": "Japan",
     "color": "#000000",
-    "code": "KAS"
+    "code": "KAS",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/2s8ady1578238881.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "137707"
   },
   {
     "slug": "kawasaki-frontale",
     "official_name": "Kawasaki Frontale",
     "search_name": "KAWASAKI FRONTALE",
-    "color": "#FFFFFF",
-    "code": "KAW"
+    "country": "Japan",
+    "color": "#000000",
+    "code": "KAW",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/c6pot51578239112.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "137709"
   },
   {
     "slug": "la-galaxy",
     "official_name": "LA Galaxy",
     "search_name": "LA GALAXY",
+    "country": "USA",
     "color": "#000000",
-    "code": "LAG"
+    "code": "LAG",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/ysyysr1420227188.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134153"
   },
   {
     "slug": "lautoka-fc",
     "official_name": "Lautoka FC",
     "search_name": "LAUTOKA",
-    "color": "#FFFFFF",
-    "code": "LAU"
+    "country": "Fiji",
+    "color": "#000000",
+    "code": "LAU",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/soizut1615830387.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "141039"
   },
   {
     "slug": "ld-alajuelense",
     "official_name": "LD Alajuelense",
     "search_name": "LD ALAJUELENSE",
-    "color": "#FFFFFF",
-    "code": "LDA"
+    "country": "Costa Rica",
+    "color": "#000000",
+    "code": "LDA",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/zi9ft21707630526.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "139703"
   },
   {
     "slug": "ldu-quito",
     "official_name": "LDU Quito",
     "search_name": "LDU QUITO",
+    "country": "Ecuador / Brazil",
     "color": "#000000",
-    "code": "LDU"
+    "code": "LDU",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/5tf5ch1736404372.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "138227"
   },
   {
     "slug": "leeds-united",
     "official_name": "Leeds United",
     "search_name": "LEEDS UNITED",
-    "color": "#FFFFFF",
-    "code": "LEE"
+    "country": "England",
+    "color": "#000000",
+    "code": "LEE",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133635"
   },
   {
     "slug": "liverpool-fc",
     "official_name": "Liverpool FC",
     "search_name": "LIVERPOOL",
+    "country": "England",
     "color": "#000000",
-    "code": "LIV"
+    "code": "LIV",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133602"
   },
   {
     "slug": "los-angeles-fc-lafc",
     "official_name": "Los Angeles FC (LAFC)",
     "search_name": "LOS ANGELES (LAFC)",
-    "color": "#FFFFFF",
-    "code": "LOS"
+    "country": "USA",
+    "color": "#000000",
+    "code": "LOS",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/7nbj2a1602103638.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "136050"
   },
   {
     "slug": "mamelodi-sundowns",
     "official_name": "Mamelodi Sundowns",
     "search_name": "MAMELODI SUNDOWNS",
+    "country": "South Africa",
     "color": "#000000",
-    "code": "MAM"
+    "code": "MAM",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/u3md311784744590.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134491"
   },
   {
     "slug": "manchester-city",
     "official_name": "Manchester City",
     "search_name": "MANCHESTER CITY",
-    "color": "#FFFFFF",
-    "code": "MNC"
+    "country": "England",
+    "color": "#000000",
+    "code": "MAN",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133613"
   },
   {
     "slug": "manchester-united",
     "official_name": "Manchester United",
     "search_name": "MANCHESTER UNITED",
-    "color": "#DA291C",
-    "code": "MAN"
+    "country": "England",
+    "color": "#000000",
+    "code": "MNC",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133612"
   },
   {
     "slug": "mc-alger",
     "official_name": "MC Alger",
     "search_name": "MC ALGER",
+    "country": "Algeria",
     "color": "#000000",
-    "code": "MCA"
+    "code": "MCA",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/xxr6gc1776382874.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "139283"
   },
   {
     "slug": "melbourne-city-fc",
     "official_name": "Melbourne City FC",
     "search_name": "MELBOURNE CITY",
-    "color": "#FFFFFF",
-    "code": "MLB"
+    "country": "Australia",
+    "color": "#000000",
+    "code": "MEL",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/rkeqme1603301840.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134634"
   },
   {
     "slug": "melbourne-victory",
     "official_name": "Melbourne Victory",
     "search_name": "MELBOURNE VICTORY",
+    "country": "Australia",
     "color": "#000000",
-    "code": "MEL"
+    "code": "MLB",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/wwvsqx1473454564.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134477"
   },
   {
     "slug": "millonarios-fc",
     "official_name": "Millonarios FC",
     "search_name": "MILLONARIOS",
-    "color": "#FFFFFF",
-    "code": "MLL"
+    "country": "Colombia",
+    "color": "#000000",
+    "code": "MIL",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/mc73ix1629122587.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "137617"
   },
   {
     "slug": "mohun-bagan-sg",
     "official_name": "Mohun Bagan SG",
     "search_name": "MOHUN BAGAN SG",
+    "country": "India",
     "color": "#000000",
-    "code": "MOH"
+    "code": "MOH",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/g3zmfx1694438403.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "139432"
   },
   {
     "slug": "new-york-city-fc",
     "official_name": "New York City FC",
     "search_name": "NEW YORK CITY",
-    "color": "#FFFFFF",
-    "code": "N01"
+    "country": "USA",
+    "color": "#000000",
+    "code": "NEW",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/m9vis71735140655.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134630"
   },
   {
     "slug": "new-york-red-bulls",
     "official_name": "New York Red Bulls",
     "search_name": "NEW YORK RED BULLS",
+    "country": "USA",
     "color": "#000000",
-    "code": "NWY"
+    "code": "NWY",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/suytvy1473536462.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134156"
   },
   {
     "slug": "newcastle-united",
     "official_name": "Newcastle United",
     "search_name": "NEWCASTLE UNITED",
+    "country": "England",
     "color": "#000000",
-    "code": "NEW"
+    "code": "NWC",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134777"
   },
   {
     "slug": "newells-old-boys",
     "official_name": "Newell's Old Boys",
     "search_name": "NEWELL'S OLD BOYS",
-    "color": "#FFFFFF",
-    "code": "NWE"
+    "country": "Argentina",
+    "color": "#000000",
+    "code": "NWE",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/23aftf1580842633.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "135166"
   },
   {
     "slug": "olympiacos-fc",
     "official_name": "Olympiacos FC",
     "search_name": "OLYMPIACOS",
+    "country": "Greece",
     "color": "#000000",
-    "code": "O01"
+    "code": "O01",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/xckasq1721291508.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133754"
   },
   {
     "slug": "olympique-de-marseille",
     "official_name": "Olympique de Marseille",
     "search_name": "OLYMPIQUE DE MARSEILLE",
-    "color": "#FFFFFF",
-    "code": "OYM"
+    "country": "France",
+    "color": "#000000",
+    "code": "OYM",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/c9p11e1779212305.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "153230"
   },
   {
     "slug": "olympique-lyonnais",
     "official_name": "Olympique Lyonnais",
     "search_name": "OLYMPIQUE LYONNAIS",
-    "color": "#FFFFFF",
-    "code": "OLY"
+    "country": "France",
+    "color": "#000000",
+    "code": "OLY",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/blk9771656932845.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133713"
   },
   {
     "slug": "orlando-pirates",
     "official_name": "Orlando Pirates",
     "search_name": "ORLANDO PIRATES",
-    "color": "#FFFFFF",
-    "code": "ORL"
+    "country": "South Africa",
+    "color": "#000000",
+    "code": "ORL",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/y6dbv61583616330.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "139483"
   },
   {
     "slug": "panathinaikos-fc",
     "official_name": "Panathinaikos FC",
     "search_name": "PANATHINAIKOS",
-    "color": "#FFFFFF",
-    "code": "PAN"
+    "country": "Greece",
+    "color": "#000000",
+    "code": "PAN",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/vtpwwt1448208397.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133746"
   },
   {
     "slug": "paris-saint-germain",
     "official_name": "Paris Saint-Germain",
     "search_name": "PARIS SAINT-GERMAIN",
+    "country": "France",
     "color": "#000000",
-    "code": "PAR"
+    "code": "PAR",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+    "logo_license": "Public Domain",
+    "attribution": "Placeholder",
+    "logo_source": "placeholder",
+    "remote_id": "none"
   },
   {
     "slug": "persepolis-fc",
     "official_name": "Persepolis FC",
     "search_name": "PERSEPOLIS",
+    "country": "Iran",
     "color": "#000000",
-    "code": "PER"
+    "code": "PER",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/tzqvmg1725936631.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "139013"
   },
   {
     "slug": "pohang-steelers",
     "official_name": "Pohang Steelers",
     "search_name": "POHANG STEELERS",
+    "country": "South Korea",
     "color": "#000000",
-    "code": "POH"
+    "code": "POH",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/63jst01769097748.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "138112"
   },
   {
     "slug": "portland-timbers",
     "official_name": "Portland Timbers",
     "search_name": "PORTLAND TIMBERS",
-    "color": "#FFFFFF",
-    "code": "PRT"
+    "country": "USA",
+    "color": "#000000",
+    "code": "POR",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/skm30j1557953559.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134155"
   },
   {
     "slug": "psv-eindhoven",
     "official_name": "PSV Eindhoven",
     "search_name": "PSV EINDHOVEN",
-    "color": "#FFFFFF",
-    "code": "PSV"
+    "country": "Netherlands",
+    "color": "#000000",
+    "code": "PSV",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/xfsz6i1721297428.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133768"
   },
   {
     "slug": "racing-club",
     "official_name": "Racing Club",
     "search_name": "RACING CLUB",
-    "color": "#FFFFFF",
-    "code": "RAC"
+    "country": "Argentina",
+    "color": "#000000",
+    "code": "RAC",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "135170"
   },
   {
     "slug": "raja-club-athletic",
     "official_name": "Raja Club Athletic",
     "search_name": "RAJA ATHLETIC",
+    "country": "Morocco",
     "color": "#000000",
-    "code": "RAJ"
+    "code": "RAJ",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+    "logo_license": "Public Domain",
+    "attribution": "Placeholder",
+    "logo_source": "placeholder",
+    "remote_id": "none"
   },
   {
     "slug": "rangers-fc",
     "official_name": "Rangers FC",
     "search_name": "RANGERS",
-    "color": "#FFFFFF",
-    "code": "RAN"
+    "country": "Scotland",
+    "color": "#000000",
+    "code": "RAN",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/zgrbl21788969413.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133642"
   },
   {
     "slug": "rcd-espanyol",
     "official_name": "RCD Espanyol",
     "search_name": "RCD ESPANYOL",
-    "color": "#FFFFFF",
-    "code": "RCD"
+    "country": "Spain",
+    "color": "#000000",
+    "code": "RCD",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/867nzz1681703222.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133734"
   },
   {
     "slug": "real-betis",
     "official_name": "Real Betis",
     "search_name": "REAL BETIS",
-    "color": "#FFFFFF",
-    "code": "RAL"
+    "country": "Spain",
+    "color": "#000000",
+    "code": "RAL",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/2oqulv1663245386.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133722"
   },
   {
     "slug": "real-madrid",
     "official_name": "Real Madrid",
     "search_name": "REAL MADRID",
+    "country": "Spain / Germany",
     "color": "#000000",
-    "code": "REA"
+    "code": "R01",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133738"
   },
   {
     "slug": "real-sociedad",
     "official_name": "Real Sociedad",
     "search_name": "REAL SOCIEDAD",
-    "color": "#FFFFFF",
-    "code": "R01"
+    "country": "Spain",
+    "color": "#000000",
+    "code": "REA",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/vptvpr1473502986.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133724"
   },
   {
     "slug": "san-jose-earthquakes",
     "official_name": "San Jose Earthquakes",
     "search_name": "SAN JOSE EARTHQUAKES",
-    "color": "#FFFFFF",
-    "code": "SNJ"
+    "country": "USA",
+    "color": "#000000",
+    "code": "SAN",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/xyrqqt1420781048.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134157"
   },
   {
     "slug": "santos-fc",
     "official_name": "Santos FC",
     "search_name": "SANTOS",
+    "country": "Brazil",
     "color": "#000000",
-    "code": "SNT"
+    "code": "SNT",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134286"
   },
   {
     "slug": "santos-laguna",
     "official_name": "Santos Laguna",
     "search_name": "SANTOS LAGUNA",
-    "color": "#FFFFFF",
-    "code": "S02"
+    "country": "Mexico",
+    "color": "#000000",
+    "code": "S01",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/kg9gzh1779771734.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134192"
   },
   {
     "slug": "sao-paulo-fc",
-    "official_name": "S\u00c3\u00a3o Paulo FC",
-    "search_name": "S\u00c3\u00a3O PAULO",
+    "official_name": "S\u00e3o Paulo FC",
+    "search_name": "S\u00c3O PAULO",
+    "country": "Brazil",
     "color": "#000000",
-    "code": "SOP"
+    "code": "SOP",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134291"
   },
   {
     "slug": "sc-corinthians",
     "official_name": "SC Corinthians",
     "search_name": "SC CORINTHIANS",
+    "country": "Brazil",
     "color": "#000000",
-    "code": "SCC"
+    "code": "SCC",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134284"
   },
   {
     "slug": "sc-internacional",
     "official_name": "SC Internacional",
     "search_name": "SC INTERNACIONAL",
-    "color": "#FFFFFF",
-    "code": "SCI"
+    "country": "Brazil",
+    "color": "#000000",
+    "code": "SCI",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/bkx7d71786424470.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "156585"
   },
   {
     "slug": "se-palmeiras",
     "official_name": "SE Palmeiras",
     "search_name": "SE PALMEIRAS",
-    "color": "#FFFFFF",
-    "code": "SEP"
+    "country": "Brazil",
+    "color": "#000000",
+    "code": "SEP",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134465"
   },
   {
     "slug": "seattle-sounders-fc",
     "official_name": "Seattle Sounders FC",
     "search_name": "SEATTLE SOUNDERS",
+    "country": "USA",
     "color": "#000000",
-    "code": "SEA"
+    "code": "SEA",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/2dy5cx1706711036.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134149"
   },
   {
     "slug": "sepahan-sc",
     "official_name": "Sepahan SC",
     "search_name": "SEPAHAN SC",
+    "country": "Iran",
     "color": "#000000",
-    "code": "SPA"
+    "code": "SPA",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/ehx9kf1580934615.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "139014"
   },
   {
     "slug": "sevilla-fc",
     "official_name": "Sevilla FC",
     "search_name": "SEVILLA",
+    "country": "Spain",
     "color": "#000000",
-    "code": "SEV"
+    "code": "SEV",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/vpsqqx1473502977.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133735"
   },
   {
     "slug": "shanghai-port-fc",
     "official_name": "Shanghai Port FC",
     "search_name": "SHANGHAI PORT",
-    "color": "#FFFFFF",
-    "code": "S01"
+    "country": "China",
+    "color": "#000000",
+    "code": "SHA",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/d9evs91776534441.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134640"
   },
   {
     "slug": "shanghai-shenhua",
     "official_name": "Shanghai Shenhua",
     "search_name": "SHANGHAI SHENHUA",
+    "country": "China",
     "color": "#000000",
-    "code": "SHA"
+    "code": "S02",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/p0r1bj1654266974.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134644"
   },
   {
     "slug": "simba-sc",
     "official_name": "Simba SC",
     "search_name": "SIMBA SC",
+    "country": "Tanzania",
     "color": "#000000",
-    "code": "SIM"
+    "code": "SIM",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/9y8t6g1673938603.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "139753"
   },
   {
     "slug": "sl-benfica",
     "official_name": "SL Benfica",
     "search_name": "SL BENFICA",
+    "country": "Portugal",
     "color": "#000000",
-    "code": "SLB"
+    "code": "SLB",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/hj4kyc1781152436.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134108"
   },
   {
     "slug": "sporting-cp",
     "official_name": "Sporting CP",
     "search_name": "SPORTING CP",
-    "color": "#FFFFFF",
-    "code": "SPO"
+    "country": "Portugal",
+    "color": "#000000",
+    "code": "SPO",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/5hiuk71783137875.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "135708"
   },
   {
     "slug": "ss-lazio",
     "official_name": "SS Lazio",
     "search_name": "SS LAZIO",
+    "country": "Italy",
     "color": "#000000",
-    "code": "SSL"
+    "code": "SSL",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/rwqyvs1448806608.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133668"
   },
   {
     "slug": "ssc-napoli",
     "official_name": "SSC Napoli",
     "search_name": "SSC NAPOLI",
-    "color": "#1FA4D0",
-    "code": "SSC"
+    "country": "Italy",
+    "color": "#000000",
+    "code": "SSC",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/l8qyxv1742982541.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133670"
   },
   {
     "slug": "sunderland-afc",
     "official_name": "Sunderland AFC",
     "search_name": "SUNDERLAND AFC",
-    "color": "#FFFFFF",
-    "code": "SUN"
+    "country": "England",
+    "color": "#000000",
+    "code": "SUN",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+    "logo_license": "Public Domain",
+    "attribution": "Placeholder",
+    "logo_source": "placeholder",
+    "remote_id": "none"
   },
   {
     "slug": "supersport-united",
     "official_name": "SuperSport United",
     "search_name": "SUPERSPORT UNITED",
-    "color": "#FFFFFF",
-    "code": "SUP"
+    "country": "South Africa",
+    "color": "#000000",
+    "code": "SUP",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/abtgn31754525186.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "139479"
   },
   {
     "slug": "suwon-samsung-bluewings",
     "official_name": "Suwon Samsung Bluewings",
     "search_name": "SUWON SAMSUNG BLUEWINGS",
-    "color": "#FFFFFF",
-    "code": "SUW"
+    "country": "South Korea",
+    "color": "#000000",
+    "code": "SUW",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/ym5u611579473171.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "138116"
   },
   {
     "slug": "sv-werder-bremen",
     "official_name": "SV Werder Bremen",
     "search_name": "SV WERDER BREMEN",
-    "color": "#FFFFFF",
-    "code": "SVW"
+    "country": "Germany",
+    "color": "#000000",
+    "code": "SVW",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/tkvqan1716960454.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133662"
   },
   {
     "slug": "sydney-fc",
     "official_name": "Sydney FC",
     "search_name": "SYDNEY",
+    "country": "Australia",
     "color": "#000000",
-    "code": "SYD"
+    "code": "SYD",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/utgq8z1546110747.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134473"
   },
   {
     "slug": "team-wellington",
     "official_name": "Team Wellington",
     "search_name": "TEAM WELLINGTON",
-    "color": "#FFFFFF",
-    "code": "TEA"
+    "country": "New Zealand",
+    "color": "#000000",
+    "code": "TEA",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/fkjmqu1581776532.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "139103"
   },
   {
     "slug": "the-strongest",
     "official_name": "The Strongest",
     "search_name": "THE STRONGEST",
-    "color": "#FFFFFF",
-    "code": "THE"
+    "country": "Bolivia",
+    "color": "#000000",
+    "code": "THE",
+    "logo_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Escudo%20the%20strongest%20white.jpg",
+    "logo_license": "CC-BY-SA or Public Domain (Wikimedia Commons)",
+    "attribution": "Badge from Wikimedia Commons via Wikidata Q128020",
+    "logo_source": "wikidata",
+    "remote_id": "Q128020"
   },
   {
     "slug": "tigres-uanl",
     "official_name": "Tigres UANL",
     "search_name": "TIGRES UANL",
-    "color": "#FFFFFF",
-    "code": "TIG"
+    "country": "Mexico",
+    "color": "#000000",
+    "code": "TIG",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/lh80fx1701423708.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134197"
   },
   {
     "slug": "torino-fc",
     "official_name": "Torino FC",
     "search_name": "TORINO",
-    "color": "#FFFFFF",
-    "code": "TOR"
+    "country": "Italy",
+    "color": "#000000",
+    "code": "TOR",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/xxprty1448806802.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133687"
   },
   {
     "slug": "tottenham-hotspur",
     "official_name": "Tottenham Hotspur",
     "search_name": "TOTTENHAM HOTSPUR",
-    "color": "#FFFFFF",
-    "code": "TOT"
+    "country": "England",
+    "color": "#000000",
+    "code": "TOT",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133616"
   },
   {
     "slug": "tp-mazembe",
     "official_name": "TP Mazembe",
     "search_name": "TP MAZEMBE",
+    "country": "DR Congo",
     "color": "#000000",
-    "code": "TPM"
+    "code": "TPM",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/niib4k1761259428.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "138139"
   },
   {
     "slug": "uc-sampdoria",
     "official_name": "UC Sampdoria",
     "search_name": "UC SAMPDORIA",
-    "color": "#FFFFFF",
-    "code": "UCS"
+    "country": "Italy",
+    "color": "#000000",
+    "code": "UCS",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/pr6co21655592769.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "133683"
   },
   {
     "slug": "ulsan-hd-fc",
     "official_name": "Ulsan HD FC",
     "search_name": "ULSAN HD",
-    "color": "#FFFFFF",
-    "code": "ULS"
+    "country": "South Korea",
+    "color": "#000000",
+    "code": "ULS",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/0wooic1706533767.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "138117"
   },
   {
-    "slug": "universidad-cata3lica",
-    "official_name": "Universidad Cat\u00c3\u00b3lica",
-    "search_name": "UNIVERSIDAD CAT\u00c3\u00b3LICA",
+    "slug": "universidad-catolica",
+    "official_name": "Universidad Cat\u00f3lica",
+    "search_name": "UNIVERSIDAD CAT\u00d3LICA",
+    "country": "Chile",
     "color": "#000000",
-    "code": "UIV"
+    "code": "UNI",
+    "logo_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Escudo-universidad-catolica-chile.png",
+    "logo_license": "CC-BY-SA or Public Domain (Wikimedia Commons)",
+    "attribution": "Badge from Wikimedia Commons via Wikidata Q427446",
+    "logo_source": "wikidata",
+    "remote_id": "Q427446"
   },
   {
     "slug": "universidad-de-chile",
     "official_name": "Universidad de Chile",
     "search_name": "UNIVERSIDAD DE CHILE",
-    "color": "#FFFFFF",
-    "code": "U01"
+    "country": "Chile",
+    "color": "#000000",
+    "code": "U03",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/po0o3c1578347873.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "137736"
   },
   {
     "slug": "urawa-red-diamonds",
     "official_name": "Urawa Red Diamonds",
     "search_name": "URAWA RED DIAMONDS",
+    "country": "Japan",
     "color": "#000000",
-    "code": "URA"
+    "code": "URA",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/ce3lhk1578239741.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "137716"
   },
   {
     "slug": "usm-alger",
     "official_name": "USM Alger",
     "search_name": "USM ALGER",
-    "color": "#FFFFFF",
-    "code": "USM"
+    "country": "Algeria",
+    "color": "#000000",
+    "code": "USM",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/8tf8my1776275531.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "139096"
   },
   {
     "slug": "waitakere-united",
     "official_name": "Waitakere United",
     "search_name": "WAITAKERE UNITED",
-    "color": "#FFFFFF",
-    "code": "WAI"
+    "country": "New Zealand",
+    "color": "#000000",
+    "code": "WAI",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/4zoe8v1581776546.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "139101"
   },
   {
     "slug": "western-sydney-wanderers",
     "official_name": "Western Sydney Wanderers",
     "search_name": "WESTERN SYDNEY WANDERERS",
-    "color": "#FFFFFF",
-    "code": "WES"
+    "country": "Australia",
+    "color": "#000000",
+    "code": "WES",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/yotugj1759632879.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "134480"
   },
   {
     "slug": "wydad-ac",
     "official_name": "Wydad AC",
     "search_name": "WYDAD AC",
-    "color": "#FFFFFF",
-    "code": "WYD"
+    "country": "Tunisia / Morocco",
+    "color": "#000000",
+    "code": "WYD",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/t2xqqm1674614389.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "138840"
   },
   {
     "slug": "yokohama-f-marinos",
     "official_name": "Yokohama F. Marinos",
     "search_name": "YOKOHAMA F. MARINOS",
+    "country": "Japan",
     "color": "#000000",
-    "code": "YOK"
+    "code": "YOK",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/rgeshm1578240000.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "137719"
   },
   {
     "slug": "young-africans-sc-yanga",
     "official_name": "Young Africans SC (Yanga)",
     "search_name": "YOUNG AFRICANS SC (YANGA)",
-    "color": "#FFFFFF",
-    "code": "YOU"
+    "country": "Tanzania",
+    "color": "#000000",
+    "code": "YOU",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+    "logo_license": "Public Domain",
+    "attribution": "Placeholder",
+    "logo_source": "placeholder",
+    "remote_id": "none"
   },
   {
     "slug": "zamalek-sc",
     "official_name": "Zamalek SC",
     "search_name": "ZAMALEK SC",
-    "color": "#FFFFFF",
-    "code": "ZAM"
+    "country": "Egypt",
+    "color": "#000000",
+    "code": "ZAM",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/xw3hhp1649793258.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "145983"
   },
   {
     "slug": "zob-ahan-sc",
     "official_name": "Zob Ahan SC",
     "search_name": "ZOB AHAN SC",
-    "color": "#FFFFFF",
-    "code": "ZOB"
+    "country": "Iran",
+    "color": "#000000",
+    "code": "ZOB",
+    "logo_url": "https://r2.thesportsdb.com/images/media/team/badge/oubfpy1725936745.png",
+    "logo_license": "\u00a9 club / TheSportsDB community",
+    "attribution": "Badge via TheSportsDB",
+    "logo_source": "thesportsdb",
+    "remote_id": "139159"
   }
 ]

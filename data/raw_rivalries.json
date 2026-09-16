@@ -13,7 +13,7 @@
     },
     "country": "Italy",
     "confederation": "UEFA",
-    "rivalry_name": "Rivalit\u00c3\u00a0 Fiorentina-Juventus",
+    "rivalry_name": "Rivalit\u00e0 Fiorentina-Juventus",
     "city_derby": false,
     "h2h": {
       "total": 95,
@@ -60,7 +60,7 @@
     },
     "country": "Italy",
     "confederation": "UEFA",
-    "rivalry_name": "Rivalit\u00c3\u00a0 Roma-Juventus",
+    "rivalry_name": "Rivalit\u00e0 Roma-Juventus",
     "city_derby": false,
     "h2h": {
       "total": 102,
@@ -148,13 +148,13 @@
       "color": "#FFFFFF"
     },
     "club_b": {
-      "name": "AS Saint-Etienne",
+      "name": "AS Saint-\u00c9tienne",
       "short": "STE",
       "color": "#008000"
     },
     "country": "France",
     "confederation": "UEFA",
-    "rivalry_name": "Derby Rh\u00c3\u00b4ne-Alpes",
+    "rivalry_name": "Derby Rh\u00f4ne-Alpes",
     "city_derby": false,
     "h2h": {
       "total": 92,
@@ -248,7 +248,7 @@
     },
     "country": "Italy",
     "confederation": "UEFA",
-    "rivalry_name": "Rivalit\u00c3\u00a0 Juventus-Napoli",
+    "rivalry_name": "Rivalit\u00e0 Juventus-Napoli",
     "city_derby": false,
     "h2h": {
       "total": 105,
@@ -295,7 +295,7 @@
     },
     "country": "Spain",
     "confederation": "UEFA",
-    "rivalry_name": "El Cl\u00c3\u00a1sico",
+    "rivalry_name": "El Cl\u00e1sico",
     "city_derby": false,
     "h2h": {
       "total": 182,
@@ -336,13 +336,13 @@
       "color": "#000000"
     },
     "club_b": {
-      "name": "Atl\u00c3\u00a9tico Madrid",
+      "name": "Atl\u00e9tico Madrid",
       "short": "ATL",
       "color": "#FFFFFF"
     },
     "country": "Spain",
     "confederation": "UEFA",
-    "rivalry_name": "El Derbi Madrile\u00c3\u00b1o",
+    "rivalry_name": "El Derbi Madrile\u00f1o",
     "city_derby": true,
     "h2h": {
       "total": 146,
@@ -389,7 +389,7 @@
     },
     "country": "Spain",
     "confederation": "UEFA",
-    "rivalry_name": "Derbi Barcelon\u00c3\u00ad",
+    "rivalry_name": "Derbi Barcelon\u00ed",
     "city_derby": true,
     "h2h": {
       "total": 116,
@@ -1605,13 +1605,13 @@
       "color": "#000000"
     },
     "club_b": {
-      "name": "AS Saint-\u00c3\u2030tienne",
+      "name": "AS Saint-\u00c9tienne",
       "short": "AS ",
       "color": "#FFFFFF"
     },
     "country": "France",
     "confederation": "UEFA",
-    "rivalry_name": "Le Derby (Derby Rh\u00c3\u00b4ne-Alpes)",
+    "rivalry_name": "Le Derby (Derby Rh\u00f4ne-Alpes)",
     "city_derby": false,
     "h2h": {
       "total": 76,
@@ -1752,7 +1752,7 @@
     },
     "country": "Portugal",
     "confederation": "UEFA",
-    "rivalry_name": "O Cl\u00c3\u00a1ssico",
+    "rivalry_name": "O Cl\u00e1ssico",
     "city_derby": false,
     "h2h": {
       "total": 128,
@@ -1799,7 +1799,7 @@
     },
     "country": "Portugal",
     "confederation": "UEFA",
-    "rivalry_name": "D\u00c3\u00a9rbi de Lisboa / D\u00c3\u00a9rbi Eterno",
+    "rivalry_name": "D\u00e9rbi de Lisboa / D\u00e9rbi Eterno",
     "city_derby": true,
     "h2h": {
       "total": 132,
@@ -1887,13 +1887,13 @@
       "color": "#000000"
     },
     "club_b": {
-      "name": "Fenerbah\u00c3\u00a7e SK",
+      "name": "Fenerbah\u00e7e SK",
       "short": "FEN",
       "color": "#FFFFFF"
     },
     "country": "Turkey",
     "confederation": "UEFA",
-    "rivalry_name": "K\u00c4\u00b1talararas\u00c4\u00b1 Derbi (Intercontinental Derby)",
+    "rivalry_name": "K\u0131talararas\u0131 Derbi (Intercontinental Derby)",
     "city_derby": true,
     "h2h": {
       "total": 135,
@@ -1940,7 +1940,7 @@
     },
     "country": "Spain / Germany",
     "confederation": "UEFA",
-    "rivalry_name": "European Cl\u00c3\u00a1sico",
+    "rivalry_name": "European Cl\u00e1sico",
     "city_derby": false,
     "h2h": {
       "total": 28,
@@ -1987,7 +1987,7 @@
     },
     "country": "Argentina",
     "confederation": "CONMEBOL",
-    "rivalry_name": "Supercl\u00c3\u00a1sico",
+    "rivalry_name": "Supercl\u00e1sico",
     "city_derby": true,
     "h2h": {
       "total": 150,
@@ -2034,7 +2034,7 @@
     },
     "country": "Argentina",
     "confederation": "CONMEBOL",
-    "rivalry_name": "Cl\u00c3\u00a1sico de Avellaneda",
+    "rivalry_name": "Cl\u00e1sico de Avellaneda",
     "city_derby": true,
     "h2h": {
       "total": 105,
@@ -2075,13 +2075,13 @@
       "color": "#000000"
     },
     "club_b": {
-      "name": "CA Hurac\u00c3\u00a1n",
+      "name": "CA Hurac\u00e1n",
       "short": "CA ",
       "color": "#FFFFFF"
     },
     "country": "Argentina",
     "confederation": "CONMEBOL",
-    "rivalry_name": "Cl\u00c3\u00a1sico Porte\u00c3\u00b1o",
+    "rivalry_name": "Cl\u00e1sico Porte\u00f1o",
     "city_derby": true,
     "h2h": {
       "total": 88,
@@ -2128,7 +2128,7 @@
     },
     "country": "Argentina",
     "confederation": "CONMEBOL",
-    "rivalry_name": "Cl\u00c3\u00a1sico Rosarino",
+    "rivalry_name": "Cl\u00e1sico Rosarino",
     "city_derby": true,
     "h2h": {
       "total": 98,
@@ -2175,7 +2175,7 @@
     },
     "country": "Argentina",
     "confederation": "CONMEBOL",
-    "rivalry_name": "Cl\u00c3\u00a1sico Platense",
+    "rivalry_name": "Cl\u00e1sico Platense",
     "city_derby": true,
     "h2h": {
       "total": 86,
@@ -2222,7 +2222,7 @@
     },
     "country": "Argentina",
     "confederation": "CONMEBOL",
-    "rivalry_name": "Cl\u00c3\u00a1sico de Grandes",
+    "rivalry_name": "Cl\u00e1sico de Grandes",
     "city_derby": true,
     "h2h": {
       "total": 105,
@@ -2269,7 +2269,7 @@
     },
     "country": "Brazil",
     "confederation": "CONMEBOL",
-    "rivalry_name": "Fla-Flu (Cl\u00c3\u00a1ssico das Multid\u00c3\u00b5es)",
+    "rivalry_name": "Fla-Flu (Cl\u00e1ssico das Multid\u00f5es)",
     "city_derby": true,
     "h2h": {
       "total": 185,
@@ -2316,7 +2316,7 @@
     },
     "country": "Brazil",
     "confederation": "CONMEBOL",
-    "rivalry_name": "Cl\u00c3\u00a1ssico dos Milh\u00c3\u00b5es",
+    "rivalry_name": "Cl\u00e1ssico dos Milh\u00f5es",
     "city_derby": true,
     "h2h": {
       "total": 175,
@@ -2363,7 +2363,7 @@
     },
     "country": "Brazil",
     "confederation": "CONMEBOL",
-    "rivalry_name": "Cl\u00c3\u00a1ssico da Rivalidade",
+    "rivalry_name": "Cl\u00e1ssico da Rivalidade",
     "city_derby": true,
     "h2h": {
       "total": 165,
@@ -2410,7 +2410,7 @@
     },
     "country": "Brazil",
     "confederation": "CONMEBOL",
-    "rivalry_name": "Cl\u00c3\u00a1ssico dos Gigantes",
+    "rivalry_name": "Cl\u00e1ssico dos Gigantes",
     "city_derby": true,
     "h2h": {
       "total": 155,
@@ -2493,8 +2493,8 @@
   {
     "id": "CON_048",
     "club_a": {
-      "name": "S\u00c3\u00a3o Paulo FC",
-      "short": "S\u00c3\u0192O",
+      "name": "S\u00e3o Paulo FC",
+      "short": "S\u00c3O",
       "color": "#000000"
     },
     "club_b": {
@@ -2540,8 +2540,8 @@
   {
     "id": "CON_049",
     "club_a": {
-      "name": "S\u00c3\u00a3o Paulo FC",
-      "short": "S\u00c3\u0192O",
+      "name": "S\u00e3o Paulo FC",
+      "short": "S\u00c3O",
       "color": "#000000"
     },
     "club_b": {
@@ -2598,7 +2598,7 @@
     },
     "country": "Brazil",
     "confederation": "CONMEBOL",
-    "rivalry_name": "Cl\u00c3\u00a1ssico da Saudade",
+    "rivalry_name": "Cl\u00e1ssico da Saudade",
     "city_derby": false,
     "h2h": {
       "total": 142,
@@ -2634,8 +2634,8 @@
   {
     "id": "CON_051",
     "club_a": {
-      "name": "Gr\u00c3\u00aamio FBPA",
-      "short": "GR\u00c3\u0160",
+      "name": "Gr\u00eamio FBPA",
+      "short": "GR\u00ca",
       "color": "#000000"
     },
     "club_b": {
@@ -2681,7 +2681,7 @@
   {
     "id": "CON_052",
     "club_a": {
-      "name": "Clube Atl\u00c3\u00a9tico Mineiro",
+      "name": "Clube Atl\u00e9tico Mineiro",
       "short": "CLU",
       "color": "#000000"
     },
@@ -2692,7 +2692,7 @@
     },
     "country": "Brazil",
     "confederation": "CONMEBOL",
-    "rivalry_name": "Cl\u00c3\u00a1ssico Mineiro",
+    "rivalry_name": "Cl\u00e1ssico Mineiro",
     "city_derby": true,
     "h2h": {
       "total": 198,
@@ -2780,7 +2780,7 @@
       "color": "#000000"
     },
     "club_b": {
-      "name": "EC Vit\u00c3\u00b3ria",
+      "name": "EC Vit\u00f3ria",
       "short": "EC ",
       "color": "#FFFFFF"
     },
@@ -2833,7 +2833,7 @@
     },
     "country": "Brazil",
     "confederation": "CONMEBOL",
-    "rivalry_name": "Cl\u00c3\u00a1ssico Interestadual / Duelo dos Tit\u00c3\u00a3s",
+    "rivalry_name": "Cl\u00e1ssico Interestadual / Duelo dos Tit\u00e3s",
     "city_derby": false,
     "h2h": {
       "total": 95,
@@ -2869,8 +2869,8 @@
   {
     "id": "CON_056",
     "club_a": {
-      "name": "S\u00c3\u00a3o Paulo FC",
-      "short": "S\u00c3\u0192O",
+      "name": "S\u00e3o Paulo FC",
+      "short": "S\u00c3O",
       "color": "#000000"
     },
     "club_b": {
@@ -2921,8 +2921,8 @@
       "color": "#000000"
     },
     "club_b": {
-      "name": "S\u00c3\u00a3o Paulo FC",
-      "short": "S\u00c3\u0192O",
+      "name": "S\u00e3o Paulo FC",
+      "short": "S\u00c3O",
       "color": "#FFFFFF"
     },
     "country": "Brazil",
@@ -2963,7 +2963,7 @@
   {
     "id": "CON_058",
     "club_a": {
-      "name": "Clube Atl\u00c3\u00a9tico Mineiro",
+      "name": "Clube Atl\u00e9tico Mineiro",
       "short": "CLU",
       "color": "#000000"
     },
@@ -3015,13 +3015,13 @@
       "color": "#000000"
     },
     "club_b": {
-      "name": "CA Pe\u00c3\u00b1arol",
+      "name": "CA Pe\u00f1arol",
       "short": "CA ",
       "color": "#FFFFFF"
     },
     "country": "Uruguay",
     "confederation": "CONMEBOL",
-    "rivalry_name": "Cl\u00c3\u00a1sico Uruguayo",
+    "rivalry_name": "Cl\u00e1sico Uruguayo",
     "city_derby": true,
     "h2h": {
       "total": 210,
@@ -3068,7 +3068,7 @@
     },
     "country": "Chile",
     "confederation": "CONMEBOL",
-    "rivalry_name": "Supercl\u00c3\u00a1sico Chileno",
+    "rivalry_name": "Supercl\u00e1sico Chileno",
     "city_derby": true,
     "h2h": {
       "total": 128,
@@ -3104,7 +3104,7 @@
   {
     "id": "CON_061",
     "club_a": {
-      "name": "Universidad Cat\u00c3\u00b3lica",
+      "name": "Universidad Cat\u00f3lica",
       "short": "UNI",
       "color": "#000000"
     },
@@ -3115,7 +3115,7 @@
     },
     "country": "Chile",
     "confederation": "CONMEBOL",
-    "rivalry_name": "Cl\u00c3\u00a1sico Universitario",
+    "rivalry_name": "Cl\u00e1sico Universitario",
     "city_derby": true,
     "h2h": {
       "total": 126,
@@ -3151,7 +3151,7 @@
   {
     "id": "CON_062",
     "club_a": {
-      "name": "Atl\u00c3\u00a9tico Nacional",
+      "name": "Atl\u00e9tico Nacional",
       "short": "ATL",
       "color": "#000000"
     },
@@ -3162,7 +3162,7 @@
     },
     "country": "Colombia",
     "confederation": "CONMEBOL",
-    "rivalry_name": "El Supercl\u00c3\u00a1sico Colombiano",
+    "rivalry_name": "El Supercl\u00e1sico Colombiano",
     "city_derby": false,
     "h2h": {
       "total": 118,
@@ -3209,7 +3209,7 @@
     },
     "country": "Colombia",
     "confederation": "CONMEBOL",
-    "rivalry_name": "Cl\u00c3\u00a1sico Capitalino",
+    "rivalry_name": "Cl\u00e1sico Capitalino",
     "city_derby": true,
     "h2h": {
       "total": 145,
@@ -3245,18 +3245,18 @@
   {
     "id": "CON_064",
     "club_a": {
-      "name": "Atl\u00c3\u00a9tico Nacional",
+      "name": "Atl\u00e9tico Nacional",
       "short": "ATL",
       "color": "#000000"
     },
     "club_b": {
-      "name": "Independiente Medell\u00c3\u00adn",
+      "name": "Independiente Medell\u00edn",
       "short": "IND",
       "color": "#FFFFFF"
     },
     "country": "Colombia",
     "confederation": "CONMEBOL",
-    "rivalry_name": "Cl\u00c3\u00a1sico Paisa",
+    "rivalry_name": "Cl\u00e1sico Paisa",
     "city_derby": true,
     "h2h": {
       "total": 155,
@@ -3292,8 +3292,8 @@
   {
     "id": "CON_065",
     "club_a": {
-      "name": "Am\u00c3\u00a9rica de Cali",
-      "short": "AM\u00c3\u2030",
+      "name": "Am\u00e9rica de Cali",
+      "short": "AM\u00c9",
       "color": "#000000"
     },
     "club_b": {
@@ -3303,7 +3303,7 @@
     },
     "country": "Colombia",
     "confederation": "CONMEBOL",
-    "rivalry_name": "Cl\u00c3\u00a1sico Vallecaucano",
+    "rivalry_name": "Cl\u00e1sico Vallecaucano",
     "city_derby": true,
     "h2h": {
       "total": 152,
@@ -3350,7 +3350,7 @@
     },
     "country": "Peru",
     "confederation": "CONMEBOL",
-    "rivalry_name": "El Cl\u00c3\u00a1sico Peruano",
+    "rivalry_name": "El Cl\u00e1sico Peruano",
     "city_derby": true,
     "h2h": {
       "total": 155,
@@ -3397,7 +3397,7 @@
     },
     "country": "Ecuador",
     "confederation": "CONMEBOL",
-    "rivalry_name": "Cl\u00c3\u00a1sico del Astillero",
+    "rivalry_name": "Cl\u00e1sico del Astillero",
     "city_derby": true,
     "h2h": {
       "total": 156,
@@ -3438,13 +3438,13 @@
       "color": "#000000"
     },
     "club_b": {
-      "name": "Club Cerro Porte\u00c3\u00b1o",
+      "name": "Club Cerro Porte\u00f1o",
       "short": "CLU",
       "color": "#FFFFFF"
     },
     "country": "Paraguay",
     "confederation": "CONMEBOL",
-    "rivalry_name": "Supercl\u00c3\u00a1sico Paraguayo",
+    "rivalry_name": "Supercl\u00e1sico Paraguayo",
     "city_derby": true,
     "h2h": {
       "total": 185,
@@ -3480,7 +3480,7 @@
   {
     "id": "CON_069",
     "club_a": {
-      "name": "Club Bol\u00c3\u00advar",
+      "name": "Club Bol\u00edvar",
       "short": "CLU",
       "color": "#000000"
     },
@@ -3491,7 +3491,7 @@
     },
     "country": "Bolivia",
     "confederation": "CONMEBOL",
-    "rivalry_name": "Cl\u00c3\u00a1sico Pace\u00c3\u00b1o",
+    "rivalry_name": "Cl\u00e1sico Pace\u00f1o",
     "city_derby": true,
     "h2h": {
       "total": 188,
@@ -3668,7 +3668,7 @@
   {
     "id": "CAF_073",
     "club_a": {
-      "name": "Esp\u00c3\u00a9rance de Tunis",
+      "name": "Esp\u00e9rance de Tunis",
       "short": "ESP",
       "color": "#000000"
     },
@@ -3715,13 +3715,13 @@
   {
     "id": "CAF_074",
     "club_a": {
-      "name": "Esp\u00c3\u00a9rance de Tunis",
+      "name": "Esp\u00e9rance de Tunis",
       "short": "ESP",
       "color": "#000000"
     },
     "club_b": {
-      "name": "\u00c3\u2030toile du Sahel",
-      "short": "\u00c3\u2030TO",
+      "name": "\u00c9toile du Sahel",
+      "short": "\u00c9TO",
       "color": "#FFFFFF"
     },
     "country": "Tunisia",
@@ -3961,7 +3961,7 @@
     },
     "country": "Algeria",
     "confederation": "CAF",
-    "rivalry_name": "Le Classico Alg\u00c3\u00a9rien",
+    "rivalry_name": "Le Classico Alg\u00e9rien",
     "city_derby": false,
     "h2h": {
       "total": 92,
@@ -4008,7 +4008,7 @@
     },
     "country": "Algeria",
     "confederation": "CAF",
-    "rivalry_name": "Grand Derby Alg\u00c3\u00a9rois",
+    "rivalry_name": "Grand Derby Alg\u00e9rois",
     "city_derby": true,
     "h2h": {
       "total": 88,
@@ -4102,7 +4102,7 @@
     },
     "country": "DR Congo",
     "confederation": "CAF",
-    "rivalry_name": "Cl\u00c3\u00a1sico Congolais",
+    "rivalry_name": "Cl\u00e1sico Congolais",
     "city_derby": false,
     "h2h": {
       "total": 48,
@@ -4196,7 +4196,7 @@
     },
     "country": "Sudan",
     "confederation": "CAF",
-    "rivalry_name": "Omdurman Derby / Sudanese Cl\u00c3\u00a1sico",
+    "rivalry_name": "Omdurman Derby / Sudanese Cl\u00e1sico",
     "city_derby": true,
     "h2h": {
       "total": 112,
@@ -4378,7 +4378,7 @@
       "color": "#000000"
     },
     "club_b": {
-      "name": "Esp\u00c3\u00a9rance de Tunis",
+      "name": "Esp\u00e9rance de Tunis",
       "short": "ESP",
       "color": "#FFFFFF"
     },
@@ -4467,7 +4467,7 @@
   {
     "id": "CAF_090",
     "club_a": {
-      "name": "Esp\u00c3\u00a9rance de Tunis",
+      "name": "Esp\u00e9rance de Tunis",
       "short": "ESP",
       "color": "#000000"
     },
@@ -4572,7 +4572,7 @@
     },
     "country": "Saudi Arabia",
     "confederation": "AFC",
-    "rivalry_name": "Saudi El Cl\u00c3\u00a1sico",
+    "rivalry_name": "Saudi El Cl\u00e1sico",
     "city_derby": false,
     "h2h": {
       "total": 118,
@@ -4666,7 +4666,7 @@
     },
     "country": "Saudi Arabia",
     "confederation": "AFC",
-    "rivalry_name": "Saudi Cl\u00c3\u00a1sico",
+    "rivalry_name": "Saudi Cl\u00e1sico",
     "city_derby": false,
     "h2h": {
       "total": 92,
@@ -5036,8 +5036,8 @@
       "color": "#000000"
     },
     "club_b": {
-      "name": "J\u00c3\u00babilo Iwata",
-      "short": "J\u00c3\u0161B",
+      "name": "J\u00fabilo Iwata",
+      "short": "J\u00daB",
       "color": "#FFFFFF"
     },
     "country": "Japan",
@@ -5512,7 +5512,7 @@
     },
     "country": "Iraq",
     "confederation": "AFC",
-    "rivalry_name": "Iraqi Cl\u00c3\u00a1sico / Baghdad Derby",
+    "rivalry_name": "Iraqi Cl\u00e1sico / Baghdad Derby",
     "city_derby": true,
     "h2h": {
       "total": 82,
@@ -5642,7 +5642,7 @@
   {
     "id": "CON_115",
     "club_a": {
-      "name": "Club Am\u00c3\u00a9rica",
+      "name": "Club Am\u00e9rica",
       "short": "CLU",
       "color": "#000000"
     },
@@ -5653,7 +5653,7 @@
     },
     "country": "Mexico",
     "confederation": "CONCACAF",
-    "rivalry_name": "El S\u00c3\u00baper Cl\u00c3\u00a1sico / Cl\u00c3\u00a1sico Nacional",
+    "rivalry_name": "El S\u00faper Cl\u00e1sico / Cl\u00e1sico Nacional",
     "city_derby": false,
     "h2h": {
       "total": 135,
@@ -5689,7 +5689,7 @@
   {
     "id": "CON_116",
     "club_a": {
-      "name": "Club Am\u00c3\u00a9rica",
+      "name": "Club Am\u00e9rica",
       "short": "CLU",
       "color": "#000000"
     },
@@ -5700,7 +5700,7 @@
     },
     "country": "Mexico",
     "confederation": "CONCACAF",
-    "rivalry_name": "Cl\u00c3\u00a1sico Joven",
+    "rivalry_name": "Cl\u00e1sico Joven",
     "city_derby": true,
     "h2h": {
       "total": 142,
@@ -5736,7 +5736,7 @@
   {
     "id": "CON_117",
     "club_a": {
-      "name": "Club Am\u00c3\u00a9rica",
+      "name": "Club Am\u00e9rica",
       "short": "CLU",
       "color": "#000000"
     },
@@ -5747,7 +5747,7 @@
     },
     "country": "Mexico",
     "confederation": "CONCACAF",
-    "rivalry_name": "Cl\u00c3\u00a1sico Capitalino",
+    "rivalry_name": "Cl\u00e1sico Capitalino",
     "city_derby": true,
     "h2h": {
       "total": 132,
@@ -5794,7 +5794,7 @@
     },
     "country": "Mexico",
     "confederation": "CONCACAF",
-    "rivalry_name": "Cl\u00c3\u00a1sico Regiomontano (Cl\u00c3\u00a1sico Regio)",
+    "rivalry_name": "Cl\u00e1sico Regiomontano (Cl\u00e1sico Regio)",
     "city_derby": true,
     "h2h": {
       "total": 136,
@@ -5841,7 +5841,7 @@
     },
     "country": "Mexico",
     "confederation": "CONCACAF",
-    "rivalry_name": "Cl\u00c3\u00a1sico Tapat\u00c3\u00ado",
+    "rivalry_name": "Cl\u00e1sico Tapat\u00edo",
     "city_derby": true,
     "h2h": {
       "total": 124,
@@ -5888,7 +5888,7 @@
     },
     "country": "Mexico",
     "confederation": "CONCACAF",
-    "rivalry_name": "Cl\u00c3\u00a1sico Chilango",
+    "rivalry_name": "Cl\u00e1sico Chilango",
     "city_derby": true,
     "h2h": {
       "total": 105,
@@ -6018,7 +6018,7 @@
   {
     "id": "CON_123",
     "club_a": {
-      "name": "Club Am\u00c3\u00a9rica",
+      "name": "Club Am\u00e9rica",
       "short": "CLU",
       "color": "#000000"
     },
@@ -6070,13 +6070,13 @@
       "color": "#000000"
     },
     "club_b": {
-      "name": "Club Am\u00c3\u00a9rica",
+      "name": "Club Am\u00e9rica",
       "short": "CLU",
       "color": "#FFFFFF"
     },
     "country": "Mexico",
     "confederation": "CONCACAF",
-    "rivalry_name": "CF Monterrey vs Club Am\u00c3\u00a9rica",
+    "rivalry_name": "CF Monterrey vs Club Am\u00e9rica",
     "city_derby": false,
     "h2h": {
       "total": 84,
@@ -6123,7 +6123,7 @@
     },
     "country": "Mexico",
     "confederation": "CONCACAF",
-    "rivalry_name": "Cl\u00c3\u00a1sico Hidalguense",
+    "rivalry_name": "Cl\u00e1sico Hidalguense",
     "city_derby": false,
     "h2h": {
       "total": 68,
@@ -6217,7 +6217,7 @@
     },
     "country": "USA",
     "confederation": "CONCACAF",
-    "rivalry_name": "California Cl\u00c3\u00a1sico",
+    "rivalry_name": "California Cl\u00e1sico",
     "city_derby": false,
     "h2h": {
       "total": 98,
@@ -6264,7 +6264,7 @@
     },
     "country": "USA",
     "confederation": "CONCACAF",
-    "rivalry_name": "El Tr\u00c3\u00a1fico",
+    "rivalry_name": "El Tr\u00e1fico",
     "city_derby": true,
     "h2h": {
       "total": 27,
@@ -6405,7 +6405,7 @@
     },
     "country": "Costa Rica",
     "confederation": "CONCACAF",
-    "rivalry_name": "Cl\u00c3\u00a1sico Nacional de Costa Rica",
+    "rivalry_name": "Cl\u00e1sico Nacional de Costa Rica",
     "city_derby": true,
     "h2h": {
       "total": 185,
@@ -6452,7 +6452,7 @@
     },
     "country": "Guatemala",
     "confederation": "CONCACAF",
-    "rivalry_name": "El Cl\u00c3\u00a1sico Chap\u00c3\u00adn",
+    "rivalry_name": "El Cl\u00e1sico Chap\u00edn",
     "city_derby": true,
     "h2h": {
       "total": 185,
@@ -6634,13 +6634,13 @@
       "color": "#000000"
     },
     "club_b": {
-      "name": "AS V\u00c3\u00a9nus",
+      "name": "AS V\u00e9nus",
       "short": "AS ",
       "color": "#FFFFFF"
     },
     "country": "Tahiti (French Polynesia)",
     "confederation": "OFC",
-    "rivalry_name": "Le Choc Tahitien / Tahiti Cl\u00c3\u00a1sico",
+    "rivalry_name": "Le Choc Tahitien / Tahiti Cl\u00e1sico",
     "city_derby": true,
     "h2h": {
       "total": 25,
@@ -6687,7 +6687,7 @@
     },
     "country": "New Caledonia",
     "confederation": "OFC",
-    "rivalry_name": "Grand Noum\u00c3\u00a9a Derby",
+    "rivalry_name": "Grand Noum\u00e9a Derby",
     "city_derby": true,
     "h2h": {
       "total": 25,
