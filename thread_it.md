@@ -1,29 +1,46 @@
 ## Versione Italiana (Post 1, 2 e 3 del Thread)
 
-**Post 1/X: Annuncio & Premessa**
-Quali sono le 100 rivalità calcistiche tra club più sentite al mondo?
-Per scoprirlo senza cadere nella soggettività, ho analizzato 50 anni di storia (1976–2026) basandomi esclusivamente su dati storici certificati e verificabili. Nessuna stima inventata, nessuna opinione.
-Ecco la classifica globale definitiva (MWI-50 Ultra), la metodologia completa e le fonti per replicarla punto per punto 🧵👇
+**Post 1/X: Introduzione & Obiettivo**
+Quali sono le 100 rivalità calcistiche più intense al mondo?
+Per eliminare soggettività e pregiudizi, ho analizzato 50 anni di dati (1976–2026) basandomi rigorosamente su fatti storici verificati. Zero invenzioni, zero opinioni personali.
+Ecco la classifica definitiva basata sui dati (MWI-50 Ultra), insieme alla metodologia completa e alle fonti, così chiunque può replicarla 🧵👇
 
-**Post 2/X: I Criteri e la Formula**
-La classifica si basa sul "MWI-50 Ultra", un indice composito (0–100) calcolato su 5 parametri storici oggettivi. I pesi della configurazione ottimale pubblicata sono:
+**Post 2/X: Criteri & Modello di Ponderazione**
+La classifica utilizza un Indice di Rivalità Composito normalizzato (0–100) basato su 8 parametri verificabili. La configurazione ottimale pubblicata è così ponderata:
 
-1️⃣ **Ricorrenza (R - 25%):** Numero totale di match ufficiali competitivi disputati (escluse amichevoli) e continuità nei decenni tra il 1976 e il 2026.
-2️⃣ **Importanza Storica (H - 25%):** Trofei nazionali, incontri cruciali per il titolo/coppa, peso in patria e scontri diretti nelle coppe continentali.
-3️⃣ **Intensità (I - 20%):** Equilibrio sportivo (tramite indice di entropia su V/N/P), identità storica del derby (es. "Superclásico", "Old Firm") e fattore sociale documentato.
-4️⃣ **Fattore Stadio (S - 15%):** Media spettatori storicamente verificata e capacità ufficiale media aggiornata al 2026.
-5️⃣ **Risonanza Globale (G - 15%):** Dati Google Trends dal 2004 e diffusione dei diritti TV (fase 1: escluso o integrato successivamente tramite open data). *(Nota: nei casi senza dato G, i pesi si redistribuiscono proporzionalmente)*.
+1️⃣ **Storia (18%):** Anno del primo incontro ufficiale e partite verificate
+2️⃣ **Continuità (14%):** Decenni attivi senza interruzioni
+3️⃣ **Peso Sportivo (16%):** Ranking della forza dei club
+4️⃣ **Scala degli Stadi (14%):** Capacità verificata
+5️⃣ **Attenzione Pubblica (16%):** Tendenze e ricerche
+6️⃣ **Copertura Mediatica (10%):** Volume di notizie GDELT
+7️⃣ **Frattura Sociale (8%):** Divisioni culturali documentate
+8️⃣ **Grado di Verifica (4%):** Qualità delle fonti
 
-**Post 3/X: Le Fonti Ufficiali**
-Zero allucinazioni, dati accessibili a chiunque voglia riprodurre il dataset:
-* **Risultati storici e presenze:** RSSSF (Rec.Sport.Soccer Statistics Foundation) & archivi ufficiali delle singole leghe nazionali (LaLiga, Premier League, Lega Serie A, CBF, AFA, ecc.).
-* **Dati sugli stadi:** Documentazione ufficiale dei club al 2025/2026 e referti governativi/locali.
-* **Egemonia sportiva:** Rullini d'oro ufficiali dal 1976 al 2024 (campionati e coppe domestiche per 30 nazioni).
-* Nessun dato è stato interpolato o "gonfiato": se mancava un record preciso su una partita o presenza, non è stato inventato.
+**Post 3/X: Fonti dei Dati & Replicabilità**
+Nessuna allucinazione. Tutti i dati sono tracciabili pubblicamente attraverso database ufficiali:
+* **Incontri storici & risultati:** RSSSF (Rec.Sport.Soccer Statistics Foundation) e archivi dei campionati nazionali (LaLiga, Premier League, CBF, AFA, ecc.).
+* **Spettatori & parametri degli stadi:** Documentazione ufficiale dei club (2025/2026) e rapporti delle autorità governative/locali.
+* **Egemonia Sportiva:** Albi d'oro ufficiali dal 1976 al 2024 (campionati e coppe nazionali per 30 nazioni).
+* Nessun dato è stato interpolato o gonfiato: se un record preciso mancava, non è stato calcolato, mai inventato.
 
-**Post 4/X: Esplora e Modifica!**
-Vuoi vedere cosa succede se il "Fattore Stadio" vale di più? O se l'importanza storica conta il 50%?
-Ho rilasciato l'algoritmo completo in una Web App Open Source. Puoi variare i pesi con degli slider interattivi, esplorare la Top 100 completa e visualizzare la scomposizione esatta di ogni punteggio: 
-[LINK ALLA TUA REPOSITORY GITHUB/GITHUB PAGES]
+**Post 4/X: Esplora & Modifica!**
+Vuoi vedere cosa succede se il "Fattore Stadio" vale di più? O se l'importanza storica conta per il 50%?
+Ho rilasciato l'algoritmo completo in una Web App Open Source. Puoi modificare i pesi con cursori interattivi, esplorare la Top 100 completa e vedere il dettaglio esatto di ogni punteggio:
+[LINK AL TUO REPOSITORY GITHUB/GITHUB PAGES]
 
-*(A seguire i post con le infografiche della Top 30)*
+*(Seguito da tweet con infografiche della Top 30)*
+
+## Prompt Midjourney per Grafiche Top 100 (4 Slide)
+
+**Slide 1: Il Vertice (Top 1-10)**
+`Prompt:` A dramatic, hyper-realistic infographic poster of the top 10 football rivalries in the world. Divided diagonally between passionate ultras in vibrant colors, flares, and intense stadium atmospheres. High-contrast cinematic lighting, bold minimalist data visualization elements floating over the crowd. Aspect ratio 16:9 --v 6.0 --style raw
+
+**Slide 2: I Pesi Massimi Globali (Top 11-40)**
+`Prompt:` An epic world map constructed of glowing stadium lights at night. Bright nodes indicating locations of major football derbies across Europe, South America, and beyond. Sleek UI data lines connecting the nodes. Photorealistic, dark mood, neon accents. Aspect ratio 16:9 --v 6.0 --style raw
+
+**Slide 3: Gli Scontri Storici (Top 41-70)**
+`Prompt:` A gritty, vintage-styled montage of black-and-white historical football matches transitioning seamlessly into vivid modern-day high-definition stadium shots. Emphasizing the continuity of time and passion. Dynamic composition, subtle infographics layered on top. Aspect ratio 16:9 --v 6.0 --style raw
+
+**Slide 4: I Fieri Contendenti (Top 71-100)**
+`Prompt:` A close-up cinematic shot of two rival football captains shaking hands intensely before a match, rain pouring down. Stadium lights blinding in the background. Digital holographic floating stats around them showing 'Rivalry Index'. High tension, 8k resolution, Unreal Engine 5 render style. Aspect ratio 16:9 --v 6.0 --style raw

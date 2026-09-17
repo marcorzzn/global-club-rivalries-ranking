@@ -6,13 +6,16 @@ To eliminate subjectivity and bias, I analyzed 50 years of data (1976–2026) re
 Here is the definitive data-backed ranking (MWI-50 Ultra), along with the full methodology and sources so anyone can replicate it 🧵👇
 
 **Post 2/X: Criteria & Weighting Model**
-The ranking uses a normalized Composite Rivalry Index (0–100) based on 5 verifiable parameters. The optimal configuration published is weighted as follows:
+The ranking uses a normalized Composite Rivalry Index (0–100) based on 8 verifiable parameters. The optimal configuration published is weighted as follows:
 
-1️⃣ **Recurrence (R - 25%):** Total official competitive fixtures (friendlies excluded) and decade-by-decade continuity between 1976 and 2026.
-2️⃣ **Historical Importance (H - 25%):** Domestic trophies, crucial title/cup race meetings, domestic weight, and direct clashes in continental cups.
-3️⃣ **Intensity (I - 20%):** Sporting balance (via an entropy index on W/D/L records), historical identity of the derby (e.g., "Superclásico", "Old Firm"), and documented social factors.
-4️⃣ **Stadium Factor (S - 15%):** Historically verified average attendances and updated official average capacities as of 2026.
-5️⃣ **Global Resonance (G - 15%):** Google Trends data from 2004 and TV broadcast reach (Phase 1: temporarily excluded or supplemented later; when G is absent, weights redistribute proportionally).
+1️⃣ **History (18%):** First official meeting year & verified matches
+2️⃣ **Continuity (14%):** Active decades without gaps
+3️⃣ **Sporting Weight (16%):** Club strength rankings
+4️⃣ **Stadium Scale (14%):** Verified capacity
+5️⃣ **Public Attention (16%):** Trends & searches
+6️⃣ **Media Coverage (10%):** GDELT news volume
+7️⃣ **Social Fracture (8%):** Documented cultural splits
+8️⃣ **Verification Grade (4%):** Sourcing quality
 
 **Post 3/X: Data Sources & Replicability**
 Zero hallucinations. All data is publicly traceable across official databases:
@@ -27,3 +30,17 @@ I've released the complete algorithm in an Open Source Web App. You can tweak th
 [LINK TO YOUR GITHUB/GITHUB PAGES REPOSITORY]
 
 *(Followed by tweets with Top 30 infographics)*
+
+## Midjourney Prompts for Top 100 Graphics (4 Slides)
+
+**Slide 1: The Apex (Top 1-10)**
+`Prompt:` A dramatic, hyper-realistic infographic poster of the top 10 football rivalries in the world. Divided diagonally between passionate ultras in vibrant colors, flares, and intense stadium atmospheres. High-contrast cinematic lighting, bold minimalist data visualization elements floating over the crowd. Aspect ratio 16:9 --v 6.0 --style raw
+
+**Slide 2: The Global Heavyweights (Top 11-40)**
+`Prompt:` An epic world map constructed of glowing stadium lights at night. Bright nodes indicating locations of major football derbies across Europe, South America, and beyond. Sleek UI data lines connecting the nodes. Photorealistic, dark mood, neon accents. Aspect ratio 16:9 --v 6.0 --style raw
+
+**Slide 3: The Historic Clashes (Top 41-70)**
+`Prompt:` A gritty, vintage-styled montage of black-and-white historical football matches transitioning seamlessly into vivid modern-day high-definition stadium shots. Emphasizing the continuity of time and passion. Dynamic composition, subtle infographics layered on top. Aspect ratio 16:9 --v 6.0 --style raw
+
+**Slide 4: The Fierce Contenders (Top 71-100)**
+`Prompt:` A close-up cinematic shot of two rival football captains shaking hands intensely before a match, rain pouring down. Stadium lights blinding in the background. Digital holographic floating stats around them showing 'Rivalry Index'. High tension, 8k resolution, Unreal Engine 5 render style. Aspect ratio 16:9 --v 6.0 --style raw
