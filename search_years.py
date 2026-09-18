@@ -18,7 +18,7 @@ SISTEMA A FLAG:
 
 WORKFLOW BATCH:
 - Processa 20 record per volta
-- Batch 1: record 11-30 (dopo i primi 10 null)
+- Batch 1: record 0-19 (primi 20 con null)
 - Output: candidates_report_batch.txt
 - STOP per approvazione umana prima di scrivere nel JSON
 """
@@ -29,69 +29,92 @@ import random
 import re
 from typing import Optional, Dict, Any, List, Tuple
 from datetime import datetime
+import requests
 
 # Configurazione
 WIKIPEDIA_API_URL = "https://en.wikipedia.org/w/api.php"
-REQUEST_DELAY = 0.5  # secondi tra le richieste
-MAX_RETRIES = 3
+REQUEST_DELAY = 1.0  # secondi tra le richieste
+MAX_RETRIES = 5
 BATCH_SIZE = 20
-BATCH_START_INDEX = 10  # Inizia dal record 11 (indice 10)
-BATCH_END_INDEX = 30    # Fino al record 30 (indice 29)
+BATCH_START_INDEX = 0  # Inizia dal primo record con null
+BATCH_END_INDEX = 20    # Fino al record 20
 
-def make_wiki_request(params: Dict[str, Any]) -> Optional[Dict]:
+def exponential_backoff(retry_count: int) -> float:
+    """Calcola il delay con exponential backoff + jitter."""
+    base_delay = 2.0
+    max_delay = 60.0
+    delay = min(base_delay * (2 ** retry_count), max_delay)
+    jitter = random.uniform(0, delay * 0.1)  # 10% jitter
+    return delay + jitter
+
+def make_wiki_request(params: Dict[str, Any], retry: int = 0) -> Optional[Dict]:
     """
     Effettua una richiesta alle API di Wikipedia con retry e delay.
     
     Returns:
         JSON response o None se fallisce
     """
-    import requests
-    
     headers = {
         'User-Agent': 'FootballRivalryIndex/1.0 (https://github.com/example/rivalry-index; contact@example.com)',
         'Accept-Encoding': 'gzip',
         'Accept': 'application/json'
     }
     
-    for retry in range(MAX_RETRIES):
-        try:
-            response = requests.get(WIKIPEDIA_API_URL, params=params, headers=headers, timeout=30)
+    try:
+        response = requests.get(WIKIPEDIA_API_URL, params=params, headers=headers, timeout=30)
+        
+        if response.status_code == 200:
+            return response.json()
+        elif response.status_code == 429:  # Rate limited
+            delay = exponential_backoff(retry)
+            print(f"    [WIKI] Rate limited. Retry in {delay:.2f}s...")
+            time.sleep(delay)
+            if retry < MAX_RETRIES:
+                return make_wiki_request(params, retry + 1)
+        elif response.status_code == 403:
+            print(f"    [WIKI] HTTP 403 Forbidden - User-Agent richiesto")
+            return None
+        else:
+            print(f"    [WIKI] HTTP {response.status_code}")
+            return None
             
-            if response.status_code == 200:
-                return response.json()
-            elif response.status_code == 429:  # Rate limited
-                delay = exponential_backoff(retry)
-                print(f"    [WIKI] Rate limited. Retry in {delay:.2f}s...")
-                time.sleep(delay)
-            else:
-                print(f"    [WIKI] HTTP {response.status_code}")
-                return None
-                
-        except requests.exceptions.RequestException as e:
-            if retry < MAX_RETRIES - 1:
-                delay = exponential_backoff(retry)
-                print(f"    [WIKI] Errore: {e}. Retry in {delay:.2f}s...")
-                time.sleep(delay)
-            else:
-                print(f"    [WIKI] Fallito dopo {MAX_RETRIES} tentativi: {e}")
-                return None
+    except requests.exceptions.RequestException as e:
+        if retry < MAX_RETRIES:
+            delay = exponential_backoff(retry)
+            print(f"    [WIKI] Errore: {e}. Retry in {delay:.2f}s...")
+            time.sleep(delay)
+            return make_wiki_request(params, retry + 1)
+        else:
+            print(f"    [WIKI] Fallito dopo {MAX_RETRIES} tentativi: {e}")
+            return None
     
     return None
 
-def exponential_backoff(retry_count: int) -> float:
-    """Calcola il delay con exponential backoff + jitter."""
-    base_delay = 1.0
-    max_delay = 60.0
-    delay = min(base_delay * (2 ** retry_count), max_delay)
-    jitter = random.uniform(0, delay * 0.1)  # 10% jitter
-    return delay + jitter
+def get_page_content(title: str) -> Optional[str]:
+    """Ottiene il contenuto testuale completo di una pagina Wikipedia."""
+    params = {
+        'action': 'query',
+        'format': 'json',
+        'titles': title,
+        'prop': 'extracts',
+        'explaintext': True,
+        'redirects': 1
+    }
+    
+    result = make_wiki_request(params)
+    if result and 'query' in result and 'pages' in result['query']:
+        pages = result['query']['pages']
+        for page_id, page_data in pages.items():
+            if page_id != '-1' and 'extract' in page_data:
+                return page_data['extract']
+    return None
 
-def extract_year_from_text(text: str, club_a: str, club_b: str) -> Optional[Tuple[int, str, bool]]:
+def extract_first_meeting_year(text: str, club_a: str, club_b: str) -> Optional[Tuple[int, str, Optional[int]]]:
     """
     Estrae l'anno del primo incontro ufficiale dal testo di Wikipedia.
     
     Returns:
-        Tuple di (anno, snippet_testo, flag_prose_precedente) o None
+        Tuple di (anno, snippet_testo, earlier_prose_year) o None
     """
     if not text:
         return None
@@ -103,53 +126,108 @@ def extract_year_from_text(text: str, club_a: str, club_b: str) -> Optional[Tupl
     official_keywords = [
         'first meeting', 'first match', 'first game', 'first played',
         'met for the first time', 'inaugural match', 'first competitive',
-        'first league', 'first cup', 'first official'
+        'first league', 'first cup', 'first official', 'first encounter',
+        'first fixture', 'first ever match', 'first history',
+        'prima partita', 'primo incontro', 'first derby',
+        'erste begegnung', 'premier match', 'primer partido'
+    ]
+    
+    # Contesti ufficiali specifici
+    official_contexts = [
+        'league', 'cup', 'fa cup', 'championship', 'premier league',
+        'serie a', 'la liga', 'bundesliga', 'ligue 1',
+        'uefa', 'champions league', 'europa league',
+        'copa del rey', 'dfb-pokal', 'coupe de france',
+        'official competition', 'competitive match'
     ]
     
     # Parole da escludere (amichevoli, non ufficiali)
     exclude_keywords = [
         'friendly', 'exhibition', 'test match', 'benefit match',
-        'charity match', 'testimonial', 'pre-season', 'warm-up'
+        'charity match', 'testimonial', 'pre-season', 'warm-up',
+        'practice match', 'scrimmage', 'unofficial'
     ]
     
     lines = text.split('\n')
     candidate_year = None
     candidate_snippet = None
-    earlier_prose_year = None
+    candidate_line_idx = -1
+    all_mentions = []  # Tutti gli anni menzionati con contesto
     
-    for line in lines:
+    for idx, line in enumerate(lines):
         line_lower = line.lower()
+        
+        # Salta linee troppo corte
+        if len(line) < 20:
+            continue
         
         # Salta linee con parole da escludere
         if any(kw in line_lower for kw in exclude_keywords):
             continue
         
+        # Controlla se la linea menziona entrambi i club
+        mentions_both = club_a.lower() in line_lower or club_b.lower() in line_lower
+        
         # Cerca pattern di primo incontro
-        if any(kw in line_lower for kw in official_keywords):
-            years_in_line = re.findall(year_pattern, line)
-            if years_in_line:
-                year = int(years_in_line[0])
-                if candidate_year is None or year < candidate_year:
-                    candidate_year = year
-                    candidate_snippet = line.strip()[:200]
-    
-    # Cerca menzioni precedenti nel testo "prose"
-    # (questo è un controllo aggiuntivo per il sistema a flag)
-    prose_mentions = []
-    for line in lines:
-        line_lower = line.lower()
-        if club_a.lower() in line_lower and club_b.lower() in line_lower:
+        is_first_mention = any(kw in line_lower for kw in official_keywords)
+        
+        if is_first_mention or mentions_both:
             years_in_line = re.findall(year_pattern, line)
             for year_str in years_in_line:
                 year = int(year_str)
-                if candidate_year and year < candidate_year:
-                    earlier_prose_year = year
+                
+                # Ignora anni di fondazione (tipicamente molto vecchi)
+                if year < 1850:
+                    continue
+                
+                # Verifica se c'è contesto ufficiale
+                has_official_context = any(ctx in line_lower for ctx in official_contexts)
+                
+                all_mentions.append({
+                    'year': year,
+                    'line': line.strip(),
+                    'idx': idx,
+                    'is_first': is_first_mention,
+                    'has_official': has_official_context
+                })
+                
+                # Preferisci incontri esplicitamente descritti come "first"
+                if is_first_mention and has_official_context:
+                    if candidate_year is None or year < candidate_year:
+                        candidate_year = year
+                        candidate_snippet = line.strip()[:300]
+                        candidate_line_idx = idx
+    
+    # Se non troviamo con contesto ufficiale, prendi il primo "first meeting"
+    if candidate_year is None:
+        for mention in all_mentions:
+            if mention['is_first']:
+                candidate_year = mention['year']
+                candidate_snippet = mention['line'][:300]
+                candidate_line_idx = mention['idx']
+                break
+    
+    # Se ancora nulla, cerca il primo anno dove si menzionano entrambi i club
+    if candidate_year is None:
+        for mention in all_mentions:
+            if mention['has_official']:
+                candidate_year = mention['year']
+                candidate_snippet = mention['line'][:300]
+                candidate_line_idx = mention['idx']
+                break
+    
+    # Sistema a FLAG: cerca menzioni precedenti nel testo prose
+    earlier_prose_year = None
+    if candidate_year:
+        for mention in all_mentions:
+            if mention['year'] < candidate_year and not mention['is_first']:
+                # Verifica se è una menzione valida (non fondatazione)
+                if 'founded' not in mention['line'].lower() and 'established' not in mention['line'].lower():
+                    earlier_prose_year = mention['year']
                     break
     
-    has_flag = earlier_prose_year is not None and candidate_year is not None
-    
     if candidate_year:
-        return (candidate_year, candidate_snippet or "", has_flag)
+        return (candidate_year, candidate_snippet or "", earlier_prose_year)
     
     return None
 
@@ -158,16 +236,16 @@ def search_rivalry_year(club_a: str, club_b: str, country: str, sources: List[st
     Cerca l'anno del primo incontro per una rivalità usando Wikipedia.
     
     Returns:
-        Dict con {year, source_url, snippet, flag} o None
+        Dict con {year, source_url, snippet, earlier_prose_year} o None
     """
     print(f"  🔍 Ricerca: {club_a} vs {club_b} ({country})")
     
     # Strategia 1: Cerca pagine di rivalità dirette
     rivalry_queries = [
         f"{club_a} vs {club_b} rivalry",
-        f"{club_a}–{club_b} rivalry",
-        f"{club_a} {club_b} matches",
-        f"{club_a} against {club_b}"
+        f"{club_a}–{club_b} rivalry", 
+        f"{club_a} {club_b} rivalry history",
+        f"{club_a} against {club_b} first match"
     ]
     
     for query in rivalry_queries:
@@ -176,6 +254,37 @@ def search_rivalry_year(club_a: str, club_b: str, country: str, sources: List[st
             'format': 'json',
             'list': 'search',
             'srsearch': query,
+            'srlimit': 5
+        }
+        
+        result = make_wiki_request(params)
+        if result and 'query' in result and 'search' in result['query']:
+            for item in result['query']['search']:
+                title = item['title']
+                
+                # Ottieni il contenuto completo della pagina
+                content = get_page_content(title)
+                if content:
+                    year_result = extract_first_meeting_year(content, club_a, club_b)
+                    if year_result:
+                        year, text_snippet, earlier_year = year_result
+                        has_flag = earlier_year is not None
+                        return {
+                            'year': year,
+                            'source_url': f"https://en.wikipedia.org/wiki/{title.replace(' ', '_')}",
+                            'snippet': text_snippet[:300],
+                            'flag': has_flag,
+                            'earlier_year': earlier_year
+                        }
+    
+    # Strategia 2: Cerca pagine dedicate al derby (es. "Manchester Derby", "El Clásico")
+    derby_terms = ['derby', 'clásico', 'clasico', 'derbi']
+    for term in derby_terms:
+        params = {
+            'action': 'query',
+            'format': 'json',
+            'list': 'search',
+            'srsearch': f"{club_a} {club_b} {term}",
             'srlimit': 3
         }
         
@@ -183,21 +292,21 @@ def search_rivalry_year(club_a: str, club_b: str, country: str, sources: List[st
         if result and 'query' in result and 'search' in result['query']:
             for item in result['query']['search']:
                 title = item['title']
-                snippet = item.get('snippet', '')
-                
-                # Estrai l'anno dalla pagina
-                year_result = extract_year_from_text(snippet, club_a, club_b)
-                if year_result:
-                    year, text_snippet, has_flag = year_result
-                    flag_msg = f" [FLAG: EARLIER PROSE MENTION FOUND: {has_flag}]" if has_flag else ""
-                    return {
-                        'year': year,
-                        'source_url': f"https://en.wikipedia.org/wiki/{title.replace(' ', '_')}",
-                        'snippet': text_snippet,
-                        'flag': has_flag
-                    }
+                content = get_page_content(title)
+                if content:
+                    year_result = extract_first_meeting_year(content, club_a, club_b)
+                    if year_result:
+                        year, text_snippet, earlier_year = year_result
+                        has_flag = earlier_year is not None
+                        return {
+                            'year': year,
+                            'source_url': f"https://en.wikipedia.org/wiki/{title.replace(' ', '_')}",
+                            'snippet': text_snippet[:300],
+                            'flag': has_flag,
+                            'earlier_year': earlier_year
+                        }
     
-    # Strategia 2: Cerca nelle pagine dei singoli club
+    # Strategia 3: Cerca nelle pagine dei singoli club (History section)
     for club in [club_a, club_b]:
         params = {
             'action': 'query',
@@ -205,24 +314,26 @@ def search_rivalry_year(club_a: str, club_b: str, country: str, sources: List[st
             'titles': club,
             'prop': 'extracts',
             'explaintext': True,
-            'exintro': True
+            'exsectionlimit': 5000,
+            'redirects': 1
         }
         
         result = make_wiki_request(params)
         if result and 'query' in result and 'pages' in result['query']:
             pages = result['query']['pages']
             for page_id, page_data in pages.items():
-                if 'extract' in page_data:
+                if page_id != '-1' and 'extract' in page_data:
                     extract = page_data['extract']
-                    year_result = extract_year_from_text(extract, club_a, club_b)
+                    year_result = extract_first_meeting_year(extract, club_a, club_b)
                     if year_result:
-                        year, text_snippet, has_flag = year_result
-                        flag_msg = f" [FLAG: EARLIER PROSE MENTION FOUND: {has_flag}]" if has_flag else ""
+                        year, text_snippet, earlier_year = year_result
+                        has_flag = earlier_year is not None
                         return {
                             'year': year,
                             'source_url': f"https://en.wikipedia.org/wiki/{page_data['title'].replace(' ', '_')}",
-                            'snippet': text_snippet,
-                            'flag': has_flag
+                            'snippet': text_snippet[:300],
+                            'flag': has_flag,
+                            'earlier_year': earlier_year
                         }
     
     return None
