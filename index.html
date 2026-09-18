@@ -610,26 +610,7 @@ const cCap = getPercentile(capArr, 95);
 const attArr = RIVALRIES.map(r => r.attendance.median).filter(x => x);
 const aCap = getPercentile(attArr, 95);
 
-// Scoring Engine
-function calculateEntropy(w, d, l, total) {
-  if (!total) return null;
-  const pw = w / total;
-  const pd = d / total;
-  const pl = l / total;
-  
-  let h_ent = 0;
-  let k = 0;
-  [pw, pd, pl].forEach(p => {
-    if (p > 0) {
-      h_ent -= p * Math.log(p);
-      k++;
-    }
-  });
-  
-  if (k <= 1) return 0;
-  return 100 * h_ent / Math.log(k);
-}
-
+// Scoring Engine - con renormalizzazione per dati mancanti
 function processData() {
   const wHistory = parseInt(document.getElementById('w_History').value) / 100;
   const wContinuity = parseInt(document.getElementById('w_Continuity').value) / 100;
@@ -640,17 +621,83 @@ function processData() {
   const wSocial = parseInt(document.getElementById('w_Social').value) / 100;
   const wVerification = parseInt(document.getElementById('w_Verification').value) / 100;
 
-  scoredData = RIVALRIES.map(r => {
-    let s_h = r.total_matches_verified !== null ? Math.min(100, (r.total_matches_verified/500)*100) : 0;
-    let s_c = r.active_decade_count !== null ? Math.min(100, (r.active_decade_count/14)*100) : 0;
-    let s_sp = r.club_strength_avg !== null ? Math.min(100, (r.club_strength_avg/100)*100) : 0;
-    let s_st = r.stadium_capacity_sum !== null ? Math.min(100, (r.stadium_capacity_sum/200000)*100) : 0;
-    let s_p = r.public_attention_score !== null ? r.public_attention_score : 0;
-    let s_m = r.media_coverage_score !== null ? r.media_coverage_score : 0;
-    let s_so = ((r.social_fracture_score||0)/3)*80 + ((r.documented_name_score||0)*20);
-    let s_v = r.verification_grade === 'A' ? 100 : (r.verification_grade === 'B' ? 50 : 0);
+  // Mappa dei pesi originali
+  const originalWeights = {
+    History: wHistory,
+    Continuity: wContinuity,
+    Sporting: wSporting,
+    Stadium: wStadium,
+    Public: wPublic,
+    Media: wMedia,
+    Social: wSocial,
+    Verification: wVerification
+  };
 
-    let MWI = (wHistory*s_h + wContinuity*s_c + wSporting*s_sp + wStadium*s_st + wPublic*s_p + wMedia*s_m + wSocial*s_so + wVerification*s_v);
+  scoredData = RIVALRIES.map(r => {
+    // Calcola i punteggi grezzi (null se dato mancante)
+    let s_h = r.total_matches_verified !== null ? Math.min(100, (r.total_matches_verified/500)*100) : null;
+    let s_c = r.active_decade_count !== null ? Math.min(100, (r.active_decade_count/14)*100) : null;
+    let s_sp = r.club_strength_avg !== null ? Math.min(100, (r.club_strength_avg/100)*100) : null;
+    let s_st = r.stadium_capacity_sum !== null ? Math.min(100, (r.stadium_capacity_sum/200000)*100) : null;
+    let s_p = r.public_attention_score !== null ? r.public_attention_score : null;
+    let s_m = r.media_coverage_score !== null ? r.media_coverage_score : null;
+    let s_so = (r.social_fracture_score !== null || r.documented_name_score !== null) 
+                ? ((r.social_fracture_score||0)/3)*80 + ((r.documented_name_score||0)*20) 
+                : null;
+    let s_v = r.verification_grade !== null 
+                ? (r.verification_grade === 'A' ? 100 : (r.verification_grade === 'B' ? 50 : 0))
+                : null;
+
+    // Identifica quali parametri sono disponibili (non null)
+    const scores = {
+      History: s_h,
+      Continuity: s_c,
+      Sporting: s_sp,
+      Stadium: s_st,
+      Public: s_p,
+      Media: s_m,
+      Social: s_so,
+      Verification: s_v
+    };
+
+    // Calcola la somma dei pesi dei parametri disponibili
+    let availableWeightSum = 0;
+    for (const [key, score] of Object.entries(scores)) {
+      if (score !== null) {
+        availableWeightSum += originalWeights[key];
+      }
+    }
+
+    // Renormalizza i pesi se alcuni parametri sono mancanti
+    let normalizedWeights = {};
+    if (availableWeightSum > 0 && availableWeightSum < 1) {
+      // Rinormalizza proporzionalmente
+      for (const [key, score] of Object.entries(scores)) {
+        if (score !== null) {
+          normalizedWeights[key] = originalWeights[key] / availableWeightSum;
+        } else {
+          normalizedWeights[key] = 0;
+        }
+      }
+    } else {
+      // Usa i pesi originali
+      normalizedWeights = originalWeights;
+    }
+
+    // Calcola MWI con pesi renormalizzati
+    let MWI = 0;
+    for (const [key, score] of Object.entries(scores)) {
+      if (score !== null) {
+        MWI += normalizedWeights[key] * score;
+      }
+    }
+
+    // Calcola completezza dati (% campi non-null)
+    const dataFields = ['total_matches_verified', 'active_decade_count', 'club_strength_avg', 
+                        'stadium_capacity_sum', 'public_attention_score', 'media_coverage_score',
+                        'social_fracture_score', 'documented_name_score', 'verification_grade'];
+    const nonNullCount = dataFields.filter(f => r[f] !== null).length;
+    const completeness = Math.round((nonNullCount / dataFields.length) * 100);
 
     return {
       ...r,
@@ -663,7 +710,8 @@ function processData() {
       SO_score: s_so,
       V_score: s_v,
       MWI: MWI,
-      confidence: r.verification_grade === 'A' ? 'HIGH' : 'MEDIUM'
+      completeness: completeness,
+      confidence: r.verification_grade === 'A' ? 'HIGH' : (r.verification_grade === 'B' ? 'MEDIUM' : 'LOW')
     };
   });
   
@@ -800,6 +848,22 @@ function renderTable() {
   let html = '';
   
   filteredData.forEach((r, idx) => {
+    // Badge di completezza
+    let completenessBadge = '';
+    if (r.completeness < 50) {
+      completenessBadge = `<span class="badge" style="background-color: rgba(220, 38, 38, 0.2); color: #F87171; margin-left: 8px;">Data completeness: ${r.completeness}%</span>`;
+    } else if (r.completeness < 80) {
+      completenessBadge = `<span class="badge" style="background-color: rgba(234, 179, 8, 0.2); color: #FACC15; margin-left: 8px;">Data completeness: ${r.completeness}%</span>`;
+    } else {
+      completenessBadge = `<span class="badge" style="background-color: rgba(34, 197, 94, 0.2); color: #4ADE80; margin-left: 8px;">Data completeness: ${r.completeness}%</span>`;
+    }
+
+    // Funzione helper per mostrare dati o "Dato mancante"
+    const showOrMissing = (val, suffix = '') => {
+      if (val === null || val === undefined) return '<span style="color: #94A3B8; font-style: italic;">Dato mancante</span>';
+      return val + suffix;
+    };
+
     html += `
       <tr style="cursor:pointer;" onclick="toggleRow('${r.id}')">
         <td class="score-cell">${idx + 1}</td>
@@ -810,13 +874,13 @@ function renderTable() {
           </div>
           ${r.club_a.short} vs ${r.club_b.short}
         </td>
-        <td style="font-weight: 600;">${r.rivalry_name}</td>
+        <td style="font-weight: 600;">${r.rivalry_name}${completenessBadge}</td>
         <td>${r.confederation}</td>
         <td class="score-cell mwi-score">${r.MWI.toFixed(1)}</td>
-        <td class="score-cell">${r.H_score.toFixed(1)}</td>
-        <td class="score-cell">${r.SP_score.toFixed(1)}</td>
-        <td class="score-cell">${r.ST_score.toFixed(1)}</td>
-        <td class="score-cell">${r.P_score.toFixed(1)}</td>
+        <td class="score-cell">${r.H_score !== null ? r.H_score.toFixed(1) : '<span style="color: #94A3B8; font-style: italic;">N/A</span>'}</td>
+        <td class="score-cell">${r.SP_score !== null ? r.SP_score.toFixed(1) : '<span style="color: #94A3B8; font-style: italic;">N/A</span>'}</td>
+        <td class="score-cell">${r.ST_score !== null ? r.ST_score.toFixed(1) : '<span style="color: #94A3B8; font-style: italic;">N/A</span>'}</td>
+        <td class="score-cell">${r.P_score !== null ? r.P_score.toFixed(1) : '<span style="color: #94A3B8; font-style: italic;">N/A</span>'}</td>
 
       </tr>
       <tr class="details-row" id="detail-${r.id}">
@@ -828,18 +892,22 @@ function renderTable() {
               <p><strong>Country:</strong> ${r.country} (${r.confederation})</p>
               <p><strong>City Derby:</strong> ${r.city_derby ? 'Yes' : 'No'}</p>
               <p><strong>Confidence Level:</strong> <span class="badge" style="margin-left: 5px;">${r.confidence}</span></p>
+              <p><strong>Data Completeness:</strong> ${completenessBadge}</p>
             </div>
             <div class="details-section">
               <h4>Head-to-Head</h4>
-              <p><strong>Total Matches:</strong> ${r.total_matches_verified || 'N/A'}</p>
-
-
+              <p><strong>Total Matches:</strong> ${showOrMissing(r.total_matches_verified)}</p>
+              <p><strong>First Meeting:</strong> ${showOrMissing(r.first_official_meeting_year)}</p>
+              <p><strong>Last Verified:</strong> ${showOrMissing(r.last_verified_meeting_year)}</p>
             </div>
             <div class="details-section">
               <h4>Infrastructure & Stakes</h4>
-              <p><strong>Stadium Capacities:</strong> ${r.stadium_capacity_min || 'N/A'} / ${r.stadium_capacity_sum || 'N/A'}</p>
-              <p><strong>Historical Dom.:</strong> ${r.club_strength_avg || 'N/A'}</p>
-              <p><strong>Continental Weight:</strong> ${r.club_strength_avg || 'N/A'}</p>
+              <p><strong>Stadium Capacities:</strong> ${showOrMissing(r.stadium_capacity_min)} / ${showOrMissing(r.stadium_capacity_sum)}</p>
+              <p><strong>Club Strength Avg:</strong> ${showOrMissing(r.club_strength_avg)}</p>
+              <p><strong>Public Attention:</strong> ${showOrMissing(r.public_attention_score)}</p>
+              <p><strong>Media Coverage:</strong> ${showOrMissing(r.media_coverage_score)}</p>
+              <p><strong>Social Fracture:</strong> ${showOrMissing(r.social_fracture_score)}</p>
+              <p><strong>Verification Grade:</strong> ${showOrMissing(r.verification_grade)}</p>
             </div>
           </div>
         </td>

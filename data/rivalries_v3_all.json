@@ -3405,7 +3405,7 @@
     "club_b_strength": null
   },
   {
-    "id": "071",
+    "id": "caf-071",
     "club_a": {
       "name": "Al Ahly SC",
       "short": "AL ",
@@ -3451,7 +3451,7 @@
     "club_b_strength": null
   },
   {
-    "id": "072",
+    "id": "caf-072",
     "club_a": {
       "name": "Raja Club Athletic",
       "short": "RAJ",
@@ -3497,7 +3497,7 @@
     "club_b_strength": null
   },
   {
-    "id": "073",
+    "id": "caf-073",
     "club_a": {
       "name": "Espérance de Tunis",
       "short": "ESP",
@@ -3543,7 +3543,7 @@
     "club_b_strength": null
   },
   {
-    "id": "074",
+    "id": "caf-074",
     "club_a": {
       "name": "Espérance de Tunis",
       "short": "ESP",
@@ -3589,7 +3589,7 @@
     "club_b_strength": null
   },
   {
-    "id": "075",
+    "id": "caf-075",
     "club_a": {
       "name": "Kaizer Chiefs",
       "short": "KAI",
@@ -3635,7 +3635,7 @@
     "club_b_strength": null
   },
   {
-    "id": "076",
+    "id": "caf-076",
     "club_a": {
       "name": "Mamelodi Sundowns",
       "short": "MAM",
@@ -3681,7 +3681,7 @@
     "club_b_strength": null
   },
   {
-    "id": "077",
+    "id": "caf-077",
     "club_a": {
       "name": "Kaizer Chiefs",
       "short": "KAI",
@@ -3727,7 +3727,7 @@
     "club_b_strength": null
   },
   {
-    "id": "078",
+    "id": "caf-078",
     "club_a": {
       "name": "MC Alger",
       "short": "MC ",
@@ -3773,7 +3773,7 @@
     "club_b_strength": null
   },
   {
-    "id": "079",
+    "id": "caf-079",
     "club_a": {
       "name": "JS Kabylie",
       "short": "JS ",
@@ -3819,7 +3819,7 @@
     "club_b_strength": null
   },
   {
-    "id": "080",
+    "id": "caf-080",
     "club_a": {
       "name": "CR Belouizdad",
       "short": "CR ",
@@ -3865,7 +3865,7 @@
     "club_b_strength": null
   },
   {
-    "id": "081",
+    "id": "caf-081",
     "club_a": {
       "name": "Asante Kotoko",
       "short": "ASA",
@@ -3911,7 +3911,7 @@
     "club_b_strength": null
   },
   {
-    "id": "082",
+    "id": "caf-082",
     "club_a": {
       "name": "TP Mazembe",
       "short": "TP ",
@@ -3957,7 +3957,7 @@
     "club_b_strength": null
   },
   {
-    "id": "083",
+    "id": "caf-083",
     "club_a": {
       "name": "DC Motema Pembe",
       "short": "DC ",
@@ -4003,7 +4003,7 @@
     "club_b_strength": null
   },
   {
-    "id": "084",
+    "id": "caf-084",
     "club_a": {
       "name": "Al-Hilal Club",
       "short": "AL-",
@@ -4049,7 +4049,7 @@
     "club_b_strength": null
   },
   {
-    "id": "085",
+    "id": "caf-085",
     "club_a": {
       "name": "Simba SC",
       "short": "SIM",
@@ -4095,7 +4095,7 @@
     "club_b_strength": null
   },
   {
-    "id": "086",
+    "id": "caf-086",
     "club_a": {
       "name": "Gor Mahia FC",
       "short": "GOR",
@@ -4141,7 +4141,7 @@
     "club_b_strength": null
   },
   {
-    "id": "087",
+    "id": "caf-087",
     "club_a": {
       "name": "ASEC Mimosas",
       "short": "ASE",
@@ -4187,7 +4187,7 @@
     "club_b_strength": null
   },
   {
-    "id": "088",
+    "id": "caf-088",
     "club_a": {
       "name": "Al Ahly SC",
       "short": "AL ",
@@ -4233,7 +4233,7 @@
     "club_b_strength": null
   },
   {
-    "id": "089",
+    "id": "caf-089",
     "club_a": {
       "name": "Al Ahly SC",
       "short": "AL ",
@@ -4279,7 +4279,7 @@
     "club_b_strength": null
   },
   {
-    "id": "090",
+    "id": "caf-090",
     "club_a": {
       "name": "Espérance de Tunis",
       "short": "ESP",
@@ -4325,7 +4325,7 @@
     "club_b_strength": null
   },
   {
-    "id": "091",
+    "id": "afc-091",
     "club_a": {
       "name": "Al Hilal SFC",
       "short": "AL ",
@@ -4371,7 +4371,7 @@
     "club_b_strength": null
   },
   {
-    "id": "092",
+    "id": "afc-092",
     "club_a": {
       "name": "Al Hilal SFC",
       "short": "AL ",
@@ -4417,7 +4417,7 @@
     "club_b_strength": null
   },
   {
-    "id": "093",
+    "id": "afc-093",
     "club_a": {
       "name": "Al Ahli SFC",
       "short": "AL ",
@@ -4463,7 +4463,7 @@
     "club_b_strength": null
   },
   {
-    "id": "094",
+    "id": "afc-094",
     "club_a": {
       "name": "Al Nassr FC",
       "short": "AL ",
@@ -4509,7 +4509,7 @@
     "club_b_strength": null
   },
   {
-    "id": "095",
+    "id": "afc-095",
     "club_a": {
       "name": "Persepolis FC",
       "short": "PER",
@@ -4555,7 +4555,7 @@
     "club_b_strength": null
   },
   {
-    "id": "096",
+    "id": "afc-096",
     "club_a": {
       "name": "Sepahan SC",
       "short": "SEP",
