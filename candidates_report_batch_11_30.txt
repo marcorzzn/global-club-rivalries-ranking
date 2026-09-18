@@ -1,11 +1,11 @@
 FOOTBALL RIVALRY INDEX - FIRST OFFICIAL MEETING YEAR CANDIDATES
 Batch: Record 1 - 20
-Data: 2026-09-18 17:04:40
+Data: 2026-09-18 18:26:19
 ======================================================================
 
 Totale record processati: 20
 Candidati trovati: 20
-Record con FLAG: 4
+Record con FLAG: 6
 
 ======================================================================
 DETTAGLI CANDIDATI
@@ -54,9 +54,9 @@ DETTAGLI CANDIDATI
 6. MATCHUP: FC Barcelona vs RCD Espanyol
    ID Record: uef-003
    Rivalry Name: Derbi Barceloní
-   Anno Candidato: 1901
-   Source URL: https://en.wikipedia.org/wiki/CE_Sabadell_FC
-   Snippet: "In 1901, Joan Saus and a group of youngsters from the Sabadell Catalan Centre founded Centre d'Esports Sabadell, which became fully legalized on 5 June 1906. The club's first games were held on a grass field at Prat de Sant Oleguer but, on 3 June of that year, a stadium in the Creu Alta District was"
+   Anno Candidato: 2017 [FLAG: EARLIER PROSE MENTION FOUND]
+   Source URL: https://en.wikipedia.org/wiki/List_of_FC_Barcelona_records_and_statistics
+   Snippet: "36 first games of 2017–18 season."
 ----------------------------------------------------------------------
 
 7. MATCHUP: Sevilla FC vs Real Betis
@@ -70,17 +70,17 @@ DETTAGLI CANDIDATI
 8. MATCHUP: Athletic Club vs Real Sociedad
    ID Record: uef-005
    Rivalry Name: Euskal Derbia (Basque Derby)
-   Anno Candidato: 1903
-   Source URL: https://en.wikipedia.org/wiki/Real_Madrid_CF
-   Snippet: "The club's nearest neighbour is Atlético Madrid, a rivalry being shared between fans of both football teams. Although Atlético was founded by three Basque students in 1903, it was joined in 1904 by dissident members of "Madrid FC". The two teams met for the first time on 2 December 1906 in the regio"
+   Anno Candidato: 1905
+   Source URL: https://en.wikipedia.org/wiki/Basque_derby
+   Snippet: "The first meeting between Athletic Bilbao and a team which evolved into Real Sociedad should have taken place in the 1905 Copa del Rey, which consisted of a mini-league with just three teams: Athletic, hosts Madrid F.C. and San Sebastián Recreation Club. After Madrid defeated both Basque teams, Athl"
 ----------------------------------------------------------------------
 
 9. MATCHUP: Liverpool FC vs Everton FC
    ID Record: uef-007
    Rivalry Name: Merseyside Derby
-   Anno Candidato: 2004
-   Source URL: https://en.wikipedia.org/wiki/Chelsea_F.C.–Liverpool_F.C._rivalry
-   Snippet: "The first meeting between Chelsea and Liverpool after the Abramovich takeover was on the first matchday of the new campaign, at Anfield. Chelsea won 2–1, courtesy of goals from Juan Sebastián Verón and Jimmy Floyd Hasselbaink. Liverpool would get revenge in the reverse fixture at Stamford Bridge in "
+   Anno Candidato: 1892
+   Source URL: https://en.wikipedia.org/wiki/Liverpool_F.C.
+   Snippet: "For much of Liverpool's history, its home colours have been all red. When the club was founded in 1892, blue and white quartered shirts were used until the club adopted the city's colour of red in 1896. The city's symbol of the liver bird is the club's badge (or crest, as it is sometimes known) havi"
 ----------------------------------------------------------------------
 
 10. MATCHUP: Arsenal FC vs Tottenham Hotspur
@@ -126,9 +126,9 @@ DETTAGLI CANDIDATI
 15. MATCHUP: Liverpool FC vs Tottenham Hotspur
    ID Record: uef-013
    Rivalry Name: N/A (Top-flight clash)
-   Anno Candidato: 1907
-   Source URL: https://en.wikipedia.org/wiki/Arsenal_F.C.–Chelsea_F.C._rivalry
-   Snippet: "The first league meeting between the two teams took place on 9 November 1907 at Stamford Bridge. This was the first Football League First Division game played between two London clubs and drew a crowd of 65,000. A match between the clubs at Stamford Bridge in 1935 drew a crowd of 82,905, the second "
+   Anno Candidato: 1888 [FLAG: EARLIER PROSE MENTION FOUND]
+   Source URL: https://en.wikipedia.org/wiki/Tottenham_Hotspur_F.C.
+   Snippet: "The club turned professional on 20 December 1895 and, in the summer of 1896, was admitted to Division One of the Southern League (the third tier at the time). On 2 March 1898, the club also became a limited company, the Tottenham Hotspur Football and Athletic Company. Soon after, Frank Brettell beca"
 ----------------------------------------------------------------------
 
 16. MATCHUP: Newcastle United vs Sunderland AFC

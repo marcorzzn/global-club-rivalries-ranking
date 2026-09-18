@@ -10,20 +10,25 @@ venv/
 .venv/
 .ENV
 .ENV.local
-.env
-.env.local
-.env.*
 
-# Logs
+# Logs and temporary files
 *.log
-
-# Temporary files
 *.tmp
-*.temp
 *.swp
 *.swo
 
 # OS generated files
 .DS_Store
 Thumbs.db
+
+# Coverage reports
+coverage/
+htmlcov/
+.coverage
+*.coverage
+
+# Virtual environments
+.env
+.env.local
+*.env.*
 ```
