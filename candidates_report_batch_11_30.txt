@@ -1,0 +1,188 @@
+FOOTBALL RIVALRY INDEX - FIRST OFFICIAL MEETING YEAR CANDIDATES
+Batch: Record 11 - 30
+Data: 2026-09-18 16:05:15
+======================================================================
+
+Totale record processati: 20
+Candidati trovati: 0
+Record con FLAG: 0
+
+======================================================================
+DETTAGLI CANDIDATI
+======================================================================
+
+1. MATCHUP: Manchester United vs Manchester City
+   ID Record: uef-009
+   Rivalry Name: Manchester Derby
+   Anno Candidato: NON TROVATO
+   Source URL: N/A
+   Snippet: "Nessun dato disponibile"
+----------------------------------------------------------------------
+
+2. MATCHUP: Chelsea FC vs Arsenal FC
+   ID Record: uef-010
+   Rivalry Name: North West London Derby
+   Anno Candidato: NON TROVATO
+   Source URL: N/A
+   Snippet: "Nessun dato disponibile"
+----------------------------------------------------------------------
+
+3. MATCHUP: Manchester United vs Chelsea FC
+   ID Record: uef-011
+   Rivalry Name: N/A (Premier League rivalry)
+   Anno Candidato: NON TROVATO
+   Source URL: N/A
+   Snippet: "Nessun dato disponibile"
+----------------------------------------------------------------------
+
+4. MATCHUP: Chelsea FC vs Manchester City
+   ID Record: uef-012
+   Rivalry Name: N/A (Modern English clash)
+   Anno Candidato: NON TROVATO
+   Source URL: N/A
+   Snippet: "Nessun dato disponibile"
+----------------------------------------------------------------------
+
+5. MATCHUP: Liverpool FC vs Tottenham Hotspur
+   ID Record: uef-013
+   Rivalry Name: N/A (Top-flight clash)
+   Anno Candidato: NON TROVATO
+   Source URL: N/A
+   Snippet: "Nessun dato disponibile"
+----------------------------------------------------------------------
+
+6. MATCHUP: Newcastle United vs Sunderland AFC
+   ID Record: uef-014
+   Rivalry Name: Tyne-Wear Derby
+   Anno Candidato: NON TROVATO
+   Source URL: N/A
+   Snippet: "Nessun dato disponibile"
+----------------------------------------------------------------------
+
+7. MATCHUP: Aston Villa vs Birmingham City
+   ID Record: uef-015
+   Rivalry Name: Second City Derby
+   Anno Candidato: NON TROVATO
+   Source URL: N/A
+   Snippet: "Nessun dato disponibile"
+----------------------------------------------------------------------
+
+8. MATCHUP: Heart of Midlothian vs Hibernian FC
+   ID Record: uef-017
+   Rivalry Name: Edinburgh Derby
+   Anno Candidato: NON TROVATO
+   Source URL: N/A
+   Snippet: "Nessun dato disponibile"
+----------------------------------------------------------------------
+
+9. MATCHUP: Juventus FC vs FC Internazionale Milano
+   ID Record: uef-019
+   Rivalry Name: Derby d'Italia
+   Anno Candidato: NON TROVATO
+   Source URL: N/A
+   Snippet: "Nessun dato disponibile"
+----------------------------------------------------------------------
+
+10. MATCHUP: Juventus FC vs Torino FC
+   ID Record: uef-020
+   Rivalry Name: Derby della Mole
+   Anno Candidato: NON TROVATO
+   Source URL: N/A
+   Snippet: "Nessun dato disponibile"
+----------------------------------------------------------------------
+
+11. MATCHUP: SS Lazio vs AS Roma
+   ID Record: uef-021
+   Rivalry Name: Derby della Capitale
+   Anno Candidato: NON TROVATO
+   Source URL: N/A
+   Snippet: "Nessun dato disponibile"
+----------------------------------------------------------------------
+
+12. MATCHUP: Genoa CFC vs UC Sampdoria
+   ID Record: uef-022
+   Rivalry Name: Derby della Lanterna
+   Anno Candidato: NON TROVATO
+   Source URL: N/A
+   Snippet: "Nessun dato disponibile"
+----------------------------------------------------------------------
+
+13. MATCHUP: AC Milan vs Juventus FC
+   ID Record: uef-023
+   Rivalry Name: N/A (Italian classic)
+   Anno Candidato: NON TROVATO
+   Source URL: N/A
+   Snippet: "Nessun dato disponibile"
+----------------------------------------------------------------------
+
+14. MATCHUP: FC Internazionale Milano vs SS Lazio
+   ID Record: uef-024
+   Rivalry Name: N/A (Top-flight clash)
+   Anno Candidato: NON TROVATO
+   Source URL: N/A
+   Snippet: "Nessun dato disponibile"
+----------------------------------------------------------------------
+
+15. MATCHUP: FC Bayern Munich vs Borussia Dortmund
+   ID Record: uef-025
+   Rivalry Name: Der Klassiker
+   Anno Candidato: NON TROVATO
+   Source URL: N/A
+   Snippet: "Nessun dato disponibile"
+----------------------------------------------------------------------
+
+16. MATCHUP: Borussia Dortmund vs FC Schalke 04
+   ID Record: uef-026
+   Rivalry Name: Revierderby
+   Anno Candidato: NON TROVATO
+   Source URL: N/A
+   Snippet: "Nessun dato disponibile"
+----------------------------------------------------------------------
+
+17. MATCHUP: Hamburger SV vs SV Werder Bremen
+   ID Record: uef-027
+   Rivalry Name: Nordderby
+   Anno Candidato: NON TROVATO
+   Source URL: N/A
+   Snippet: "Nessun dato disponibile"
+----------------------------------------------------------------------
+
+18. MATCHUP: Paris Saint-Germain vs Olympique de Marseille
+   ID Record: uef-028
+   Rivalry Name: Le Classique
+   Anno Candidato: NON TROVATO
+   Source URL: N/A
+   Snippet: "Nessun dato disponibile"
+----------------------------------------------------------------------
+
+19. MATCHUP: Olympique Lyonnais vs AS Saint-Étienne
+   ID Record: uef-029
+   Rivalry Name: Le Derby (Derby Rhône-Alpes)
+   Anno Candidato: NON TROVATO
+   Source URL: N/A
+   Snippet: "Nessun dato disponibile"
+----------------------------------------------------------------------
+
+20. MATCHUP: AFC Ajax vs Feyenoord Rotterdam
+   ID Record: uef-030
+   Rivalry Name: De Klassieker
+   Anno Candidato: NON TROVATO
+   Source URL: N/A
+   Snippet: "Nessun dato disponibile"
+----------------------------------------------------------------------
+
+
+======================================================================
+ISTRUZIONI PER REVISIONE UMANA
+======================================================================
+
+1. Verificare ogni candidato confrontando con la fonte URL
+2. Per i record con FLAG, controllare se esiste un anno precedente valido
+3. Confermare che si tratti di incontri COMPETITIVI/UFFICIALI
+4. ESCLUDERE amichevoli, esibizioni, coppe non ufficiali
+
+Per approvare e inserire nel JSON, eseguire:
+  python3 apply_years.py --batch=1 --confirm
+
+Per scartare tutti i risultati:
+  python3 apply_years.py --batch=1 --discard
