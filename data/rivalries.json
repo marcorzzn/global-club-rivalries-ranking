@@ -1,0 +1,3603 @@
+[
+  {
+    "id": "juv-nap",
+    "club_a": {
+      "name": "Juventus FC",
+      "short": "JUV",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Juventus_FC_-_pictogram.svg",
+      "trophies": 38,
+      "stadium": "Allianz Stadium",
+      "lat": 45.1097,
+      "lon": 7.6413
+    },
+    "club_b": {
+      "name": "SSC Napoli",
+      "short": "NAP",
+      "color": "#1FA4D0",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/SSC_Napoli.svg",
+      "trophies": 3,
+      "stadium": "Stadio Diego Armando Maradona",
+      "lat": 40.8279,
+      "lon": 14.1931
+    },
+    "country": "Italy",
+    "confederation": "UEFA",
+    "rivalry_name": "Rivalità Juventus-Napoli",
+    "city_derby": false,
+    "total_matches": 105,
+    "active_decades": 10,
+    "stadium_capacity_sum": 96233,
+    "social_fracture_score": 1,
+    "documented_name": false,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Juventus_FC",
+      "https://en.wikipedia.org/wiki/Juventus_FC%E2%80%93SSC_Napoli_rivalry"
+    ]
+  },
+  {
+    "id": "lyo-ste",
+    "club_a": {
+      "name": "Olympique Lyonnais",
+      "short": "LYO",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Olympique_Lyonnais_%28logo%29.svg",
+      "trophies": 7,
+      "stadium": "Groupama Stadium",
+      "lat": 45.7653,
+      "lon": 4.9822
+    },
+    "club_b": {
+      "name": "AS Saint-Etienne",
+      "short": "STE",
+      "color": "#008000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_AS_Saint-%C3%89tienne.svg",
+      "trophies": 10,
+      "stadium": "Stade Geoffroy-Guichard",
+      "lat": 45.4608,
+      "lon": 4.3903
+    },
+    "country": "France",
+    "confederation": "UEFA",
+    "rivalry_name": "Derby Rhône-Alpes",
+    "city_derby": false,
+    "total_matches": 92,
+    "active_decades": 10,
+    "stadium_capacity_sum": 101151,
+    "social_fracture_score": 1,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Olympique_Lyonnais"
+    ]
+  },
+  {
+    "id": "fio-juv",
+    "club_a": {
+      "name": "ACF Fiorentina",
+      "short": "FIO",
+      "color": "#4B0082",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/ACF_Fiorentina_2022.svg",
+      "trophies": 2,
+      "stadium": "Stadio Artemio Franchi",
+      "lat": 43.7811,
+      "lon": 11.2822
+    },
+    "club_b": {
+      "name": "Juventus FC",
+      "short": "JUV",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Juventus_FC_-_pictogram.svg",
+      "trophies": 38,
+      "stadium": "Allianz Stadium",
+      "lat": 45.1097,
+      "lon": 7.6413
+    },
+    "country": "Italy",
+    "confederation": "UEFA",
+    "rivalry_name": "Rivalità Fiorentina-Juventus",
+    "city_derby": false,
+    "total_matches": 95,
+    "active_decades": 10,
+    "stadium_capacity_sum": 84654,
+    "social_fracture_score": 1,
+    "documented_name": false,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/ACF_Fiorentina"
+    ]
+  },
+  {
+    "id": "lee-man",
+    "club_a": {
+      "name": "Leeds United",
+      "short": "LEE",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/5/54/Leeds_United_F.C._logo.svg",
+      "trophies": 3,
+      "stadium": "Elland Road",
+      "lat": 53.7778,
+      "lon": -1.5722
+    },
+    "club_b": {
+      "name": "Manchester United",
+      "short": "MAN",
+      "color": "#DA291C",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg",
+      "trophies": 20,
+      "stadium": "Old Trafford",
+      "lat": 53.4631,
+      "lon": -2.2913
+    },
+    "country": "England",
+    "confederation": "UEFA",
+    "rivalry_name": "Roses Rivalry",
+    "city_derby": false,
+    "total_matches": 65,
+    "active_decades": 8,
+    "stadium_capacity_sum": 112102,
+    "social_fracture_score": 1,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Leeds_United"
+    ]
+  },
+  {
+    "id": "uef-001",
+    "club_a": {
+      "name": "Real Madrid",
+      "short": "REA",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+      "trophies": 36,
+      "stadium": "Santiago Bernabéu",
+      "lat": 40.4531,
+      "lon": -3.6883
+    },
+    "club_b": {
+      "name": "FC Barcelona",
+      "short": "FC",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
+      "trophies": 27,
+      "stadium": "Spotify Camp Nou",
+      "lat": 41.3809,
+      "lon": 2.1228
+    },
+    "country": "Spain",
+    "confederation": "UEFA",
+    "rivalry_name": "El Clásico",
+    "city_derby": false,
+    "total_matches": 182,
+    "active_decades": 10,
+    "stadium_capacity_sum": 145838,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Real_Madrid"
+    ]
+  },
+  {
+    "id": "uef-002",
+    "club_a": {
+      "name": "Real Madrid",
+      "short": "REA",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+      "trophies": 36,
+      "stadium": "Santiago Bernabéu",
+      "lat": 40.4531,
+      "lon": -3.6883
+    },
+    "club_b": {
+      "name": "Atlético Madrid",
+      "short": "ATL",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/f/f4/Atletico_Madrid_2017_logo.svg",
+      "trophies": 12,
+      "stadium": "Cívitas Metropolitano",
+      "lat": 40.4362,
+      "lon": -3.5995
+    },
+    "country": "Spain",
+    "confederation": "UEFA",
+    "rivalry_name": "El Derbi Madrileño",
+    "city_derby": true,
+    "total_matches": 146,
+    "active_decades": 10,
+    "stadium_capacity_sum": 153646,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Real_Madrid"
+    ]
+  },
+  {
+    "id": "uef-003",
+    "club_a": {
+      "name": "FC Barcelona",
+      "short": "FC",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
+      "trophies": 27,
+      "stadium": "Spotify Camp Nou",
+      "lat": 41.3809,
+      "lon": 2.1228
+    },
+    "club_b": {
+      "name": "RCD Espanyol",
+      "short": "RCD",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/d/d5/RCD_Espanyol_logo.svg",
+      "trophies": 0,
+      "stadium": "RCDE Stadium",
+      "lat": 41.3481,
+      "lon": 2.0756
+    },
+    "country": "Spain",
+    "confederation": "UEFA",
+    "rivalry_name": "Derbi Barceloní",
+    "city_derby": true,
+    "total_matches": 116,
+    "active_decades": 10,
+    "stadium_capacity_sum": 102652,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/FC_Barcelona"
+    ]
+  },
+  {
+    "id": "uef-004",
+    "club_a": {
+      "name": "Sevilla FC",
+      "short": "SEV",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/3/3b/Sevilla_FC_logo.svg",
+      "trophies": 1,
+      "stadium": "Estadio Ramón Sánchez-Pizjuán",
+      "lat": 37.3841,
+      "lon": -5.9706
+    },
+    "club_b": {
+      "name": "Real Betis",
+      "short": "REA",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/1/13/Real_betis_logo.svg",
+      "trophies": 1,
+      "stadium": "Estadio Benito Villamarín",
+      "lat": 37.3564,
+      "lon": -5.9817
+    },
+    "country": "Spain",
+    "confederation": "UEFA",
+    "rivalry_name": "El Gran Derbi / Derbi Sevillano",
+    "city_derby": true,
+    "total_matches": 92,
+    "active_decades": 10,
+    "stadium_capacity_sum": 104604,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Sevilla_FC"
+    ]
+  },
+  {
+    "id": "uef-005",
+    "club_a": {
+      "name": "Athletic Club",
+      "short": "ATH",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/9/98/Club_Athletic_Bilbao_logo.svg",
+      "trophies": 8,
+      "stadium": "San Mamés",
+      "lat": 43.2641,
+      "lon": -2.9494
+    },
+    "club_b": {
+      "name": "Real Sociedad",
+      "short": "REA",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/f/f1/Real_Sociedad_logo.svg",
+      "trophies": 2,
+      "stadium": "Reale Arena",
+      "lat": 43.3014,
+      "lon": -1.9736
+    },
+    "country": "Spain",
+    "confederation": "UEFA",
+    "rivalry_name": "Euskal Derbia (Basque Derby)",
+    "city_derby": false,
+    "total_matches": 112,
+    "active_decades": 10,
+    "stadium_capacity_sum": 92602,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Athletic_Club"
+    ]
+  },
+  {
+    "id": "uef-006",
+    "club_a": {
+      "name": "Liverpool FC",
+      "short": "LIV",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+      "trophies": 20,
+      "stadium": "Anfield",
+      "lat": 53.4308,
+      "lon": -2.9608
+    },
+    "club_b": {
+      "name": "Manchester United",
+      "short": "MAN",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg",
+      "trophies": 20,
+      "stadium": "Old Trafford",
+      "lat": 53.4631,
+      "lon": -2.2913
+    },
+    "country": "England",
+    "confederation": "UEFA",
+    "rivalry_name": "North West Derby",
+    "city_derby": false,
+    "total_matches": 214,
+    "active_decades": 10,
+    "stadium_capacity_sum": 135586,
+    "social_fracture_score": 2,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Liverpool_FC"
+    ]
+  },
+  {
+    "id": "uef-007",
+    "club_a": {
+      "name": "Liverpool FC",
+      "short": "LIV",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+      "trophies": 20,
+      "stadium": "Anfield",
+      "lat": 53.4308,
+      "lon": -2.9608
+    },
+    "club_b": {
+      "name": "Everton FC",
+      "short": "EVE",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/7/7c/Everton_FC_logo.svg",
+      "trophies": 9,
+      "stadium": "Goodison Park",
+      "lat": 53.4387,
+      "lon": -2.9664
+    },
+    "country": "England",
+    "confederation": "UEFA",
+    "rivalry_name": "Merseyside Derby",
+    "city_derby": true,
+    "total_matches": 126,
+    "active_decades": 10,
+    "stadium_capacity_sum": 114164,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Liverpool_FC"
+    ]
+  },
+  {
+    "id": "uef-008",
+    "club_a": {
+      "name": "Arsenal FC",
+      "short": "ARS",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
+      "trophies": 13,
+      "stadium": "Emirates Stadium",
+      "lat": 51.5549,
+      "lon": -0.1084
+    },
+    "club_b": {
+      "name": "Tottenham Hotspur",
+      "short": "TOT",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tottenham_Hotspur.svg",
+      "trophies": 2,
+      "stadium": "Tottenham Hotspur Stadium",
+      "lat": 51.6042,
+      "lon": -0.0662
+    },
+    "country": "England",
+    "confederation": "UEFA",
+    "rivalry_name": "North London Derby",
+    "city_derby": true,
+    "total_matches": 128,
+    "active_decades": 10,
+    "stadium_capacity_sum": 123554,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Arsenal_FC"
+    ]
+  },
+  {
+    "id": "uef-009",
+    "club_a": {
+      "name": "Manchester United",
+      "short": "MAN",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg",
+      "trophies": 20,
+      "stadium": "Old Trafford",
+      "lat": 53.4631,
+      "lon": -2.2913
+    },
+    "club_b": {
+      "name": "Manchester City",
+      "short": "MAN",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
+      "trophies": 10,
+      "stadium": "Etihad Stadium",
+      "lat": 53.4831,
+      "lon": -2.2004
+    },
+    "country": "England",
+    "confederation": "UEFA",
+    "rivalry_name": "Manchester Derby",
+    "city_derby": true,
+    "total_matches": 106,
+    "active_decades": 10,
+    "stadium_capacity_sum": 114310,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Manchester_United"
+    ]
+  },
+  {
+    "id": "uef-010",
+    "club_a": {
+      "name": "Chelsea FC",
+      "short": "CHE",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
+      "trophies": 6,
+      "stadium": "Stamford Bridge",
+      "lat": 51.4817,
+      "lon": -0.191
+    },
+    "club_b": {
+      "name": "Arsenal FC",
+      "short": "ARS",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
+      "trophies": 13,
+      "stadium": "Emirates Stadium",
+      "lat": 51.5549,
+      "lon": -0.1084
+    },
+    "country": "England",
+    "confederation": "UEFA",
+    "rivalry_name": "North West London Derby",
+    "city_derby": true,
+    "total_matches": 126,
+    "active_decades": 10,
+    "stadium_capacity_sum": 101045,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Chelsea_FC"
+    ]
+  },
+  {
+    "id": "uef-011",
+    "club_a": {
+      "name": "Manchester United",
+      "short": "MAN",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg",
+      "trophies": 20,
+      "stadium": "Old Trafford",
+      "lat": 53.4631,
+      "lon": -2.2913
+    },
+    "club_b": {
+      "name": "Chelsea FC",
+      "short": "CHE",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
+      "trophies": 6,
+      "stadium": "Stamford Bridge",
+      "lat": 51.4817,
+      "lon": -0.191
+    },
+    "country": "England",
+    "confederation": "UEFA",
+    "rivalry_name": "N/A (Premier League rivalry)",
+    "city_derby": false,
+    "total_matches": 126,
+    "active_decades": 10,
+    "stadium_capacity_sum": 114651,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Manchester_United"
+    ]
+  },
+  {
+    "id": "uef-012",
+    "club_a": {
+      "name": "Chelsea FC",
+      "short": "CHE",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
+      "trophies": 6,
+      "stadium": "Stamford Bridge",
+      "lat": 51.4817,
+      "lon": -0.191
+    },
+    "club_b": {
+      "name": "Manchester City",
+      "short": "MAN",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
+      "trophies": 10,
+      "stadium": "Etihad Stadium",
+      "lat": 53.4831,
+      "lon": -2.2004
+    },
+    "country": "England",
+    "confederation": "UEFA",
+    "rivalry_name": "N/A (Modern English clash)",
+    "city_derby": false,
+    "total_matches": 102,
+    "active_decades": 10,
+    "stadium_capacity_sum": 80341,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Chelsea_FC"
+    ]
+  },
+  {
+    "id": "uef-013",
+    "club_a": {
+      "name": "Liverpool FC",
+      "short": "LIV",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+      "trophies": 20,
+      "stadium": "Anfield",
+      "lat": 53.4308,
+      "lon": -2.9608
+    },
+    "club_b": {
+      "name": "Tottenham Hotspur",
+      "short": "TOT",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tottenham_Hotspur.svg",
+      "trophies": 2,
+      "stadium": "Tottenham Hotspur Stadium",
+      "lat": 51.6042,
+      "lon": -0.0662
+    },
+    "country": "England",
+    "confederation": "UEFA",
+    "rivalry_name": "N/A (Top-flight clash)",
+    "city_derby": false,
+    "total_matches": 122,
+    "active_decades": 10,
+    "stadium_capacity_sum": 124126,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Liverpool_FC"
+    ]
+  },
+  {
+    "id": "uef-014",
+    "club_a": {
+      "name": "Newcastle United",
+      "short": "NEW",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/5/56/Newcastle_United_Logo.svg",
+      "trophies": 4,
+      "stadium": "St James' Park",
+      "lat": 54.9756,
+      "lon": -1.6217
+    },
+    "club_b": {
+      "name": "Sunderland AFC",
+      "short": "SUN",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/7/77/Sunderland_AFC.svg",
+      "trophies": 6,
+      "stadium": "Stadium of Light",
+      "lat": 54.9144,
+      "lon": -1.3881
+    },
+    "country": "England",
+    "confederation": "UEFA",
+    "rivalry_name": "Tyne-Wear Derby",
+    "city_derby": false,
+    "total_matches": 60,
+    "active_decades": 10,
+    "stadium_capacity_sum": 101305,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Newcastle_United"
+    ]
+  },
+  {
+    "id": "uef-015",
+    "club_a": {
+      "name": "Aston Villa",
+      "short": "AST",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/f/f9/Aston_Villa_FC_crest_%282016%29.svg",
+      "trophies": 7,
+      "stadium": "Villa Park",
+      "lat": 52.5092,
+      "lon": -1.8847
+    },
+    "club_b": {
+      "name": "Birmingham City",
+      "short": "BIR",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/6/68/Birmingham_City_FC_logo.svg",
+      "trophies": 2,
+      "stadium": "St Andrew's",
+      "lat": 52.4756,
+      "lon": -1.8681
+    },
+    "country": "England",
+    "confederation": "UEFA",
+    "rivalry_name": "Second City Derby",
+    "city_derby": true,
+    "total_matches": 46,
+    "active_decades": 10,
+    "stadium_capacity_sum": 82640,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Aston_Villa"
+    ]
+  },
+  {
+    "id": "uef-016",
+    "club_a": {
+      "name": "Celtic FC",
+      "short": "CEL",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/7/71/Celtic_FC_crest.svg",
+      "trophies": 54,
+      "stadium": "Celtic Park",
+      "lat": 55.8497,
+      "lon": -4.2056
+    },
+    "club_b": {
+      "name": "Rangers FC",
+      "short": "RAN",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/4/43/Rangers_FC.svg",
+      "trophies": 55,
+      "stadium": "Ibrox Stadium",
+      "lat": 55.8533,
+      "lon": -4.3092
+    },
+    "country": "Scotland",
+    "confederation": "UEFA",
+    "rivalry_name": "Old Firm Derby",
+    "city_derby": true,
+    "total_matches": 441,
+    "active_decades": 10,
+    "stadium_capacity_sum": 111228,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Celtic_FC"
+    ]
+  },
+  {
+    "id": "uef-017",
+    "club_a": {
+      "name": "Heart of Midlothian",
+      "short": "HEA",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/e/e4/Heart_of_Midlothian_FC_logo.svg",
+      "trophies": 4,
+      "stadium": "Tynecastle Park",
+      "lat": 55.9386,
+      "lon": -3.2319
+    },
+    "club_b": {
+      "name": "Hibernian FC",
+      "short": "HIB",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/6/6a/Hibernian_FC_logo.svg",
+      "trophies": 4,
+      "stadium": "Easter Road",
+      "lat": 55.9617,
+      "lon": -3.1653
+    },
+    "country": "Scotland",
+    "confederation": "UEFA",
+    "rivalry_name": "Edinburgh Derby",
+    "city_derby": true,
+    "total_matches": 168,
+    "active_decades": 10,
+    "stadium_capacity_sum": 40273,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Heart_of_Midlothian"
+    ]
+  },
+  {
+    "id": "uef-018",
+    "club_a": {
+      "name": "AC Milan",
+      "short": "AC",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg",
+      "trophies": 26,
+      "stadium": "San Siro",
+      "lat": 45.4781,
+      "lon": 9.124
+    },
+    "club_b": {
+      "name": "FC Internazionale Milano",
+      "short": "FC",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/FC_Internazionale_Milano_2021.svg",
+      "trophies": 22,
+      "stadium": "San Siro",
+      "lat": 45.4781,
+      "lon": 9.124
+    },
+    "country": "Italy",
+    "confederation": "UEFA",
+    "rivalry_name": "Derby della Madonnina",
+    "city_derby": true,
+    "total_matches": 239,
+    "active_decades": 10,
+    "stadium_capacity_sum": 115817,
+    "social_fracture_score": 1,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/AC_Milan"
+    ]
+  },
+  {
+    "id": "uef-019",
+    "club_a": {
+      "name": "Juventus FC",
+      "short": "JUV",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Juventus_FC_-_pictogram.svg",
+      "trophies": 38,
+      "stadium": "Allianz Stadium",
+      "lat": 45.1097,
+      "lon": 7.6413
+    },
+    "club_b": {
+      "name": "FC Internazionale Milano",
+      "short": "FC",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/FC_Internazionale_Milano_2021.svg",
+      "trophies": 22,
+      "stadium": "San Siro",
+      "lat": 45.4781,
+      "lon": 9.124
+    },
+    "country": "Italy",
+    "confederation": "UEFA",
+    "rivalry_name": "Derby d'Italia",
+    "city_derby": false,
+    "total_matches": 136,
+    "active_decades": 10,
+    "stadium_capacity_sum": 81507,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Juventus_FC"
+    ]
+  },
+  {
+    "id": "uef-020",
+    "club_a": {
+      "name": "Juventus FC",
+      "short": "JUV",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Juventus_FC_-_pictogram.svg",
+      "trophies": 38,
+      "stadium": "Allianz Stadium",
+      "lat": 45.1097,
+      "lon": 7.6413
+    },
+    "club_b": {
+      "name": "Torino FC",
+      "short": "TOR",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/2/2e/Torino_FC_Logo.svg",
+      "trophies": 7,
+      "stadium": "Stadio Olimpico Grande Torino",
+      "lat": 45.0422,
+      "lon": 7.65
+    },
+    "country": "Italy",
+    "confederation": "UEFA",
+    "rivalry_name": "Derby della Mole",
+    "city_derby": true,
+    "total_matches": 98,
+    "active_decades": 10,
+    "stadium_capacity_sum": 81507,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Juventus_FC"
+    ]
+  },
+  {
+    "id": "uef-021",
+    "club_a": {
+      "name": "SS Lazio",
+      "short": "SS",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/c/ce/S.S._Lazio_badge.svg",
+      "trophies": 2,
+      "stadium": "Stadio Olimpico",
+      "lat": 41.934,
+      "lon": 12.4547
+    },
+    "club_b": {
+      "name": "AS Roma",
+      "short": "AS",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/AS_Roma_logo_%282017%29.svg",
+      "trophies": 3,
+      "stadium": "Stadio Olimpico",
+      "lat": 41.934,
+      "lon": 12.4547
+    },
+    "country": "Italy",
+    "confederation": "UEFA",
+    "rivalry_name": "Derby della Capitale",
+    "city_derby": true,
+    "total_matches": 112,
+    "active_decades": 10,
+    "stadium_capacity_sum": 141268,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/SS_Lazio"
+    ]
+  },
+  {
+    "id": "uef-022",
+    "club_a": {
+      "name": "Genoa CFC",
+      "short": "GEN",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/1/1e/Genoa_CFC_crest.svg",
+      "trophies": 9,
+      "stadium": "Stadio Luigi Ferraris",
+      "lat": 44.4164,
+      "lon": 8.9525
+    },
+    "club_b": {
+      "name": "UC Sampdoria",
+      "short": "UC",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/d/d2/U.C._Sampdoria_logo.svg",
+      "trophies": 1,
+      "stadium": "Stadio Luigi Ferraris",
+      "lat": 44.4164,
+      "lon": 8.9525
+    },
+    "country": "Italy",
+    "confederation": "UEFA",
+    "rivalry_name": "Derby della Lanterna",
+    "city_derby": true,
+    "total_matches": 66,
+    "active_decades": 10,
+    "stadium_capacity_sum": 66410,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Genoa_CFC"
+    ]
+  },
+  {
+    "id": "uef-023",
+    "club_a": {
+      "name": "AC Milan",
+      "short": "AC",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg",
+      "trophies": 26,
+      "stadium": "San Siro",
+      "lat": 45.4781,
+      "lon": 9.124
+    },
+    "club_b": {
+      "name": "Juventus FC",
+      "short": "JUV",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Juventus_FC_-_pictogram.svg",
+      "trophies": 38,
+      "stadium": "Allianz Stadium",
+      "lat": 45.1097,
+      "lon": 7.6413
+    },
+    "country": "Italy",
+    "confederation": "UEFA",
+    "rivalry_name": "N/A (Italian classic)",
+    "city_derby": false,
+    "total_matches": 136,
+    "active_decades": 10,
+    "stadium_capacity_sum": 117324,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/AC_Milan"
+    ]
+  },
+  {
+    "id": "uef-024",
+    "club_a": {
+      "name": "FC Internazionale Milano",
+      "short": "FC",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/FC_Internazionale_Milano_2021.svg",
+      "trophies": 22,
+      "stadium": "San Siro",
+      "lat": 45.4781,
+      "lon": 9.124
+    },
+    "club_b": {
+      "name": "SS Lazio",
+      "short": "SS",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/c/ce/S.S._Lazio_badge.svg",
+      "trophies": 2,
+      "stadium": "Stadio Olimpico",
+      "lat": 41.934,
+      "lon": 12.4547
+    },
+    "country": "Italy",
+    "confederation": "UEFA",
+    "rivalry_name": "N/A (Top-flight clash)",
+    "city_derby": false,
+    "total_matches": 110,
+    "active_decades": 10,
+    "stadium_capacity_sum": 110634,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/FC_Internazionale_Milano"
+    ]
+  },
+  {
+    "id": "uef-025",
+    "club_a": {
+      "name": "FC Bayern Munich",
+      "short": "FC",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg",
+      "trophies": 33,
+      "stadium": "Allianz Arena",
+      "lat": 48.2188,
+      "lon": 11.6247
+    },
+    "club_b": {
+      "name": "Borussia Dortmund",
+      "short": "BOR",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg",
+      "trophies": 8,
+      "stadium": "Signal Iduna Park",
+      "lat": 51.4926,
+      "lon": 7.4519
+    },
+    "country": "Germany",
+    "confederation": "UEFA",
+    "rivalry_name": "Der Klassiker",
+    "city_derby": false,
+    "total_matches": 118,
+    "active_decades": 10,
+    "stadium_capacity_sum": 156389,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/FC_Bayern_Munich"
+    ]
+  },
+  {
+    "id": "uef-026",
+    "club_a": {
+      "name": "Borussia Dortmund",
+      "short": "BOR",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg",
+      "trophies": 8,
+      "stadium": "Signal Iduna Park",
+      "lat": 51.4926,
+      "lon": 7.4519
+    },
+    "club_b": {
+      "name": "FC Schalke 04",
+      "short": "FC",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/FC_Schalke_04_Logo.svg",
+      "trophies": 7,
+      "stadium": "Veltins-Arena",
+      "lat": 51.5544,
+      "lon": 7.0678
+    },
+    "country": "Germany",
+    "confederation": "UEFA",
+    "rivalry_name": "Revierderby",
+    "city_derby": false,
+    "total_matches": 92,
+    "active_decades": 10,
+    "stadium_capacity_sum": 143636,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Borussia_Dortmund"
+    ]
+  },
+  {
+    "id": "uef-027",
+    "club_a": {
+      "name": "Hamburger SV",
+      "short": "HAM",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/HSV-Logo.svg",
+      "trophies": 6,
+      "stadium": "Volksparkstadion",
+      "lat": 53.5872,
+      "lon": 9.8986
+    },
+    "club_b": {
+      "name": "SV Werder Bremen",
+      "short": "SV",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg",
+      "trophies": 4,
+      "stadium": "Weserstadion",
+      "lat": 53.0664,
+      "lon": 8.8378
+    },
+    "country": "Germany",
+    "confederation": "UEFA",
+    "rivalry_name": "Nordderby",
+    "city_derby": false,
+    "total_matches": 96,
+    "active_decades": 10,
+    "stadium_capacity_sum": 99100,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Hamburger_SV"
+    ]
+  },
+  {
+    "id": "uef-028",
+    "club_a": {
+      "name": "Paris Saint-Germain",
+      "short": "PAR",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg",
+      "trophies": 12,
+      "stadium": "Parc des Princes",
+      "lat": 48.8414,
+      "lon": 2.253
+    },
+    "club_b": {
+      "name": "Olympique de Marseille",
+      "short": "OLY",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Olympique_de_Marseille_logo.svg",
+      "trophies": 10,
+      "stadium": "Stade Vélodrome",
+      "lat": 43.2697,
+      "lon": 5.3958
+    },
+    "country": "France",
+    "confederation": "UEFA",
+    "rivalry_name": "Le Classique",
+    "city_derby": false,
+    "total_matches": 108,
+    "active_decades": 10,
+    "stadium_capacity_sum": 115323,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Paris_Saint-Germain"
+    ]
+  },
+  {
+    "id": "uef-029",
+    "club_a": {
+      "name": "Olympique Lyonnais",
+      "short": "OLY",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Olympique_Lyonnais_%28logo%29.svg",
+      "trophies": 7,
+      "stadium": "Groupama Stadium",
+      "lat": 45.7653,
+      "lon": 4.9822
+    },
+    "club_b": {
+      "name": "AS Saint-Étienne",
+      "short": "AS",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_AS_Saint-%C3%89tienne.svg",
+      "trophies": 10,
+      "stadium": "Stade Geoffroy-Guichard",
+      "lat": 45.4608,
+      "lon": 4.3903
+    },
+    "country": "France",
+    "confederation": "UEFA",
+    "rivalry_name": "Le Derby (Derby Rhône-Alpes)",
+    "city_derby": false,
+    "total_matches": 76,
+    "active_decades": 10,
+    "stadium_capacity_sum": 101151,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Olympique_Lyonnais"
+    ]
+  },
+  {
+    "id": "uef-030",
+    "club_a": {
+      "name": "AFC Ajax",
+      "short": "AFC",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ajax_Amsterdam.svg",
+      "trophies": 40,
+      "stadium": "Johan Cruyff Arena",
+      "lat": 52.3142,
+      "lon": 4.9419
+    },
+    "club_b": {
+      "name": "Feyenoord Rotterdam",
+      "short": "FEY",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Feyenoord_logo.svg",
+      "trophies": 16,
+      "stadium": "De Kuip",
+      "lat": 51.8939,
+      "lon": 4.5231
+    },
+    "country": "Netherlands",
+    "confederation": "UEFA",
+    "rivalry_name": "De Klassieker",
+    "city_derby": false,
+    "total_matches": 118,
+    "active_decades": 10,
+    "stadium_capacity_sum": 103365,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/AFC_Ajax"
+    ]
+  },
+  {
+    "id": "uef-031",
+    "club_a": {
+      "name": "AFC Ajax",
+      "short": "AFC",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ajax_Amsterdam.svg",
+      "trophies": 40,
+      "stadium": "Johan Cruyff Arena",
+      "lat": 52.3142,
+      "lon": 4.9419
+    },
+    "club_b": {
+      "name": "PSV Eindhoven",
+      "short": "PSV",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/0/05/PSV_Eindhoven.svg",
+      "trophies": 25,
+      "stadium": "Philips Stadion",
+      "lat": 51.4417,
+      "lon": 5.4681
+    },
+    "country": "Netherlands",
+    "confederation": "UEFA",
+    "rivalry_name": "De Topper",
+    "city_derby": false,
+    "total_matches": 122,
+    "active_decades": 10,
+    "stadium_capacity_sum": 90865,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/AFC_Ajax"
+    ]
+  },
+  {
+    "id": "uef-032",
+    "club_a": {
+      "name": "SL Benfica",
+      "short": "SL",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/a/a2/SL_Benfica_logo.svg",
+      "trophies": 39,
+      "stadium": "Estádio da Luz",
+      "lat": 38.7528,
+      "lon": -9.1847
+    },
+    "club_b": {
+      "name": "FC Porto",
+      "short": "FC",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/f/f1/FC_Porto.svg",
+      "trophies": 30,
+      "stadium": "Estádio do Dragão",
+      "lat": 41.1617,
+      "lon": -8.5839
+    },
+    "country": "Portugal",
+    "confederation": "UEFA",
+    "rivalry_name": "O Clássico",
+    "city_derby": false,
+    "total_matches": 128,
+    "active_decades": 10,
+    "stadium_capacity_sum": 114675,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/SL_Benfica"
+    ]
+  },
+  {
+    "id": "uef-033",
+    "club_a": {
+      "name": "SL Benfica",
+      "short": "SL",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/a/a2/SL_Benfica_logo.svg",
+      "trophies": 39,
+      "stadium": "Estádio da Luz",
+      "lat": 38.7528,
+      "lon": -9.1847
+    },
+    "club_b": {
+      "name": "Sporting CP",
+      "short": "SPO",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/e/e1/Sporting_Clube_de_Portugal_%28Logo%29.svg",
+      "trophies": 19,
+      "stadium": "Estádio José Alvalade",
+      "lat": 38.7614,
+      "lon": -9.1608
+    },
+    "country": "Portugal",
+    "confederation": "UEFA",
+    "rivalry_name": "Dérbi de Lisboa / Dérbi Eterno",
+    "city_derby": true,
+    "total_matches": 132,
+    "active_decades": 10,
+    "stadium_capacity_sum": 114737,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/SL_Benfica"
+    ]
+  },
+  {
+    "id": "uef-034",
+    "club_a": {
+      "name": "Olympiacos FC",
+      "short": "OLY",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/b/b8/Olympiacos_CFP_logo.svg",
+      "trophies": 47,
+      "stadium": "Stadio Georgios Karaiskakis",
+      "lat": 37.9417,
+      "lon": 23.6694
+    },
+    "club_b": {
+      "name": "Panathinaikos FC",
+      "short": "PAN",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/8/8f/Panathinaikos_F.C._logo.svg",
+      "trophies": 20,
+      "stadium": "Apostolos Nikolaidis Stadium",
+      "lat": 37.9833,
+      "lon": 23.7456
+    },
+    "country": "Greece",
+    "confederation": "UEFA",
+    "rivalry_name": "Derby of the Eternal Enemies",
+    "city_derby": true,
+    "total_matches": 134,
+    "active_decades": 10,
+    "stadium_capacity_sum": 48118,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Olympiacos_FC"
+    ]
+  },
+  {
+    "id": "uef-035",
+    "club_a": {
+      "name": "Galatasaray SK",
+      "short": "GAL",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Galatasaray_Sports_Club_Logo.svg",
+      "trophies": 24,
+      "stadium": "Rams Park",
+      "lat": 41.1036,
+      "lon": 28.9914
+    },
+    "club_b": {
+      "name": "Fenerbahçe SK",
+      "short": "FEN",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/0/07/Fenerbah%C3%A7e_SK_crest.svg",
+      "trophies": 19,
+      "stadium": "Ülker Stadyumu",
+      "lat": 40.9878,
+      "lon": 29.0369
+    },
+    "country": "Turkey",
+    "confederation": "UEFA",
+    "rivalry_name": "Kıtalararası Derbi (Intercontinental Derby)",
+    "city_derby": true,
+    "total_matches": 135,
+    "active_decades": 10,
+    "stadium_capacity_sum": 101632,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Galatasaray_SK"
+    ]
+  },
+  {
+    "id": "uef-036",
+    "club_a": {
+      "name": "Real Madrid",
+      "short": "REA",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+      "trophies": 36,
+      "stadium": "Santiago Bernabéu",
+      "lat": 40.4531,
+      "lon": -3.6883
+    },
+    "club_b": {
+      "name": "FC Bayern Munich",
+      "short": "FC",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg",
+      "trophies": 33,
+      "stadium": "Allianz Arena",
+      "lat": 48.2188,
+      "lon": 11.6247
+    },
+    "country": "Spain / Germany",
+    "confederation": "UEFA",
+    "rivalry_name": "European Clásico",
+    "city_derby": false,
+    "total_matches": 28,
+    "active_decades": 10,
+    "stadium_capacity_sum": 158210,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Real_Madrid"
+    ]
+  },
+  {
+    "id": "con-037",
+    "club_a": {
+      "name": "CA Boca Juniors",
+      "short": "CA",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Boca_Juniors_logo18.svg",
+      "trophies": 35,
+      "stadium": "La Bombonera",
+      "lat": -34.6356,
+      "lon": -58.3647
+    },
+    "club_b": {
+      "name": "CA River Plate",
+      "short": "CA",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/River_Plate_logo.svg",
+      "trophies": 40,
+      "stadium": "Estadio Monumental",
+      "lat": -34.5453,
+      "lon": -58.4497
+    },
+    "country": "Argentina",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "Superclásico",
+    "city_derby": true,
+    "total_matches": 262,
+    "active_decades": 10,
+    "stadium_capacity_sum": 142218,
+    "social_fracture_score": 2,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/CA_Boca_Juniors"
+    ]
+  },
+  {
+    "id": "con-038",
+    "club_a": {
+      "name": "CA Independiente",
+      "short": "CA",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/CA_Independiente_logo.svg",
+      "trophies": 18,
+      "stadium": "Estadio Libertadores de América",
+      "lat": -34.6703,
+      "lon": -58.3708
+    },
+    "club_b": {
+      "name": "Racing Club",
+      "short": "RAC",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Racing_Club_logo.svg",
+      "trophies": 18,
+      "stadium": "Estadio Presidente Perón",
+      "lat": -34.6681,
+      "lon": -58.3683
+    },
+    "country": "Argentina",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "Clásico de Avellaneda",
+    "city_derby": true,
+    "total_matches": 105,
+    "active_decades": 10,
+    "stadium_capacity_sum": 93458,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/CA_Independiente"
+    ]
+  },
+  {
+    "id": "con-039",
+    "club_a": {
+      "name": "CA San Lorenzo",
+      "short": "CA",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/CA_San_Lorenzo_de_Almagro.svg",
+      "trophies": 2,
+      "stadium": "Nuevo Gasómetro",
+      "lat": -34.6606,
+      "lon": -58.4306
+    },
+    "club_b": {
+      "name": "CA Huracán",
+      "short": "CA",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Hurac%C3%A1n_escudo.svg",
+      "trophies": 1,
+      "stadium": "Estadio Tomás Adolfo Ducó",
+      "lat": -34.6394,
+      "lon": -58.3975
+    },
+    "country": "Argentina",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "Clásico Porteño",
+    "city_derby": true,
+    "total_matches": 88,
+    "active_decades": 10,
+    "stadium_capacity_sum": 87964,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/CA_San_Lorenzo"
+    ]
+  },
+  {
+    "id": "con-040",
+    "club_a": {
+      "name": "CA Rosario Central",
+      "short": "CA",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Rosario_Central_logo.svg",
+      "trophies": 4,
+      "stadium": "Estadio Gigante de Arroyito",
+      "lat": -32.9208,
+      "lon": -60.6747
+    },
+    "club_b": {
+      "name": "Newell's Old Boys",
+      "short": "NEW",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Newell%27s_Old_Boys_logo.svg",
+      "trophies": 6,
+      "stadium": "Estadio Marcelo Bielsa",
+      "lat": -32.9533,
+      "lon": -60.6506
+    },
+    "country": "Argentina",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "Clásico Rosarino",
+    "city_derby": true,
+    "total_matches": 98,
+    "active_decades": 10,
+    "stadium_capacity_sum": 88955,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/CA_Rosario_Central"
+    ]
+  },
+  {
+    "id": "con-041",
+    "club_a": {
+      "name": "Estudiantes de La Plata",
+      "short": "EST",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Estudiantes_de_La_Plata_logo.svg",
+      "trophies": 6,
+      "stadium": "Estadio Jorge Luis Hirschi",
+      "lat": -34.9106,
+      "lon": -57.9389
+    },
+    "club_b": {
+      "name": "Gimnasia LP",
+      "short": "GIM",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Gimnasia_y_Esgrima_La_Plata_logo.svg",
+      "trophies": 1,
+      "stadium": "Estadio Juan Carmelo Zerillo",
+      "lat": -34.9139,
+      "lon": -57.9322
+    },
+    "country": "Argentina",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "Clásico Platense",
+    "city_derby": true,
+    "total_matches": 86,
+    "active_decades": 10,
+    "stadium_capacity_sum": 80000,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Estudiantes_de_La_Plata"
+    ]
+  },
+  {
+    "id": "con-042",
+    "club_a": {
+      "name": "CA Boca Juniors",
+      "short": "CA",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Boca_Juniors_logo18.svg",
+      "trophies": 35,
+      "stadium": "La Bombonera",
+      "lat": -34.6356,
+      "lon": -58.3647
+    },
+    "club_b": {
+      "name": "CA Independiente",
+      "short": "CA",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/CA_Independiente_logo.svg",
+      "trophies": 18,
+      "stadium": "Estadio Libertadores de América",
+      "lat": -34.6703,
+      "lon": -58.3708
+    },
+    "country": "Argentina",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "Clásico de Grandes",
+    "city_derby": true,
+    "total_matches": 105,
+    "active_decades": 10,
+    "stadium_capacity_sum": 99269,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/CA_Boca_Juniors"
+    ]
+  },
+  {
+    "id": "con-043",
+    "club_a": {
+      "name": "CR Flamengo",
+      "short": "CR",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flamengo_braz_logo.svg",
+      "trophies": 9,
+      "stadium": "Maracanã",
+      "lat": -22.9122,
+      "lon": -43.2303
+    },
+    "club_b": {
+      "name": "Fluminense FC",
+      "short": "FLU",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Fluminense_FC_-_2012_logo.svg",
+      "trophies": 5,
+      "stadium": "Maracanã",
+      "lat": -22.9122,
+      "lon": -43.2303
+    },
+    "country": "Brazil",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "Fla-Flu (Clássico das Multidões)",
+    "city_derby": true,
+    "total_matches": 185,
+    "active_decades": 10,
+    "stadium_capacity_sum": 157676,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/CR_Flamengo"
+    ]
+  },
+  {
+    "id": "con-044",
+    "club_a": {
+      "name": "CR Flamengo",
+      "short": "CR",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flamengo_braz_logo.svg",
+      "trophies": 9,
+      "stadium": "Maracanã",
+      "lat": -22.9122,
+      "lon": -43.2303
+    },
+    "club_b": {
+      "name": "CR Vasco da Gama",
+      "short": "CR",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/CR_Vasco_da_Gama_logo.svg",
+      "trophies": 4,
+      "stadium": "São Januário",
+      "lat": -22.8911,
+      "lon": -43.2281
+    },
+    "country": "Brazil",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "Clássico dos Milhões",
+    "city_derby": true,
+    "total_matches": 175,
+    "active_decades": 10,
+    "stadium_capacity_sum": 100718,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/CR_Flamengo"
+    ]
+  },
+  {
+    "id": "con-045",
+    "club_a": {
+      "name": "CR Flamengo",
+      "short": "CR",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flamengo_braz_logo.svg",
+      "trophies": 9,
+      "stadium": "Maracanã",
+      "lat": -22.9122,
+      "lon": -43.2303
+    },
+    "club_b": {
+      "name": "Botafogo FR",
+      "short": "BOT",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Botafogo_de_Futebol_e_Regatas_logo.svg",
+      "trophies": 3,
+      "stadium": "Estádio Olímpico Nilton Santos",
+      "lat": -22.8917,
+      "lon": -43.2903
+    },
+    "country": "Brazil",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "Clássico da Rivalidade",
+    "city_derby": true,
+    "total_matches": 165,
+    "active_decades": 10,
+    "stadium_capacity_sum": 118838,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/CR_Flamengo"
+    ]
+  },
+  {
+    "id": "con-046",
+    "club_a": {
+      "name": "CR Vasco da Gama",
+      "short": "CR",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/CR_Vasco_da_Gama_logo.svg",
+      "trophies": 4,
+      "stadium": "São Januário",
+      "lat": -22.8911,
+      "lon": -43.2281
+    },
+    "club_b": {
+      "name": "Fluminense FC",
+      "short": "FLU",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Fluminense_FC_-_2012_logo.svg",
+      "trophies": 5,
+      "stadium": "Maracanã",
+      "lat": -22.9122,
+      "lon": -43.2303
+    },
+    "country": "Brazil",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "Clássico dos Gigantes",
+    "city_derby": true,
+    "total_matches": 155,
+    "active_decades": 10,
+    "stadium_capacity_sum": 100718,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/CR_Vasco_da_Gama"
+    ]
+  },
+  {
+    "id": "con-047",
+    "club_a": {
+      "name": "SC Corinthians",
+      "short": "SC",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/3/34/Sport_Club_Corinthians_Paulista_crest.svg",
+      "trophies": 7,
+      "stadium": "Neo Química Arena",
+      "lat": -23.5453,
+      "lon": -46.4744
+    },
+    "club_b": {
+      "name": "SE Palmeiras",
+      "short": "SE",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Palmeiras_logo.svg",
+      "trophies": 12,
+      "stadium": "Allianz Parque",
+      "lat": -23.5275,
+      "lon": -46.6783
+    },
+    "country": "Brazil",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "Derby Paulista",
+    "city_derby": true,
+    "total_matches": 168,
+    "active_decades": 10,
+    "stadium_capacity_sum": 92918,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/SC_Corinthians"
+    ]
+  },
+  {
+    "id": "con-048",
+    "club_a": {
+      "name": "São Paulo FC",
+      "short": "SÃO",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasao_do_Sao_Paulo_Futebol_Clube.svg",
+      "trophies": 6,
+      "stadium": "Estádio do Morumbi",
+      "lat": -23.6,
+      "lon": -46.7194
+    },
+    "club_b": {
+      "name": "SC Corinthians",
+      "short": "SC",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/3/34/Sport_Club_Corinthians_Paulista_crest.svg",
+      "trophies": 7,
+      "stadium": "Neo Química Arena",
+      "lat": -23.5453,
+      "lon": -46.4744
+    },
+    "country": "Brazil",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "Majestoso",
+    "city_derby": true,
+    "total_matches": 162,
+    "active_decades": 10,
+    "stadium_capacity_sum": 116000,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/São_Paulo_FC"
+    ]
+  },
+  {
+    "id": "con-049",
+    "club_a": {
+      "name": "São Paulo FC",
+      "short": "SÃO",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasao_do_Sao_Paulo_Futebol_Clube.svg",
+      "trophies": 6,
+      "stadium": "Estádio do Morumbi",
+      "lat": -23.6,
+      "lon": -46.7194
+    },
+    "club_b": {
+      "name": "SE Palmeiras",
+      "short": "SE",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Palmeiras_logo.svg",
+      "trophies": 12,
+      "stadium": "Allianz Parque",
+      "lat": -23.5275,
+      "lon": -46.6783
+    },
+    "country": "Brazil",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "Choque-Rei",
+    "city_derby": true,
+    "total_matches": 160,
+    "active_decades": 10,
+    "stadium_capacity_sum": 110508,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/São_Paulo_FC"
+    ]
+  },
+  {
+    "id": "con-050",
+    "club_a": {
+      "name": "Santos FC",
+      "short": "SAN",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Santos_Logo.svg",
+      "trophies": 8,
+      "stadium": "Vila Belmiro",
+      "lat": -23.9594,
+      "lon": -46.3372
+    },
+    "club_b": {
+      "name": "SE Palmeiras",
+      "short": "SE",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Palmeiras_logo.svg",
+      "trophies": 12,
+      "stadium": "Allianz Parque",
+      "lat": -23.5275,
+      "lon": -46.6783
+    },
+    "country": "Brazil",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "Clássico da Saudade",
+    "city_derby": false,
+    "total_matches": 142,
+    "active_decades": 10,
+    "stadium_capacity_sum": 59781,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Santos_FC"
+    ]
+  },
+  {
+    "id": "con-051",
+    "club_a": {
+      "name": "Grêmio FBPA",
+      "short": "GRÊ",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Gremio_logo.svg",
+      "trophies": 5,
+      "stadium": "Arena do Grêmio",
+      "lat": -29.9731,
+      "lon": -51.1953
+    },
+    "club_b": {
+      "name": "SC Internacional",
+      "short": "SC",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/SC_Internacional.svg",
+      "trophies": 3,
+      "stadium": "Estádio Beira-Rio",
+      "lat": -30.0653,
+      "lon": -51.2353
+    },
+    "country": "Brazil",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "Grenal",
+    "city_derby": true,
+    "total_matches": 195,
+    "active_decades": 10,
+    "stadium_capacity_sum": 106504,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Grêmio_FBPA"
+    ]
+  },
+  {
+    "id": "con-052",
+    "club_a": {
+      "name": "Clube Atlético Mineiro",
+      "short": "CLU",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Clube_Atl%C3%A9tico_Mineiro_crest.svg",
+      "trophies": 2,
+      "stadium": "Arena MRV",
+      "lat": -19.8667,
+      "lon": -43.9956
+    },
+    "club_b": {
+      "name": "Cruzeiro EC",
+      "short": "CRU",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg",
+      "trophies": 4,
+      "stadium": "Mineirão",
+      "lat": -19.8658,
+      "lon": -43.9706
+    },
+    "country": "Brazil",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "Clássico Mineiro",
+    "city_derby": true,
+    "total_matches": 198,
+    "active_decades": 10,
+    "stadium_capacity_sum": 107846,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Clube_Atlético_Mineiro"
+    ]
+  },
+  {
+    "id": "con-053",
+    "club_a": {
+      "name": "Coritiba FBC",
+      "short": "COR",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Coritiba_FBC_2011.svg",
+      "trophies": 0,
+      "stadium": "Estádio Couto Pereira",
+      "lat": -25.4342,
+      "lon": -49.2689
+    },
+    "club_b": {
+      "name": "Club Athletico Paranaense",
+      "short": "CLU",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/CA_Paranaense.svg",
+      "trophies": 1,
+      "stadium": "Arena da Baixada",
+      "lat": -25.4483,
+      "lon": -49.2769
+    },
+    "country": "Brazil",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "Atle-Tiba",
+    "city_derby": true,
+    "total_matches": 165,
+    "active_decades": 10,
+    "stadium_capacity_sum": 80000,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Coritiba_FBC"
+    ]
+  },
+  {
+    "id": "con-054",
+    "club_a": {
+      "name": "EC Bahia",
+      "short": "EC",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Esporte_Clube_Bahia_logo.svg",
+      "trophies": 2,
+      "stadium": "Arena Fonte Nova",
+      "lat": -12.9786,
+      "lon": -38.5042
+    },
+    "club_b": {
+      "name": "EC Vitória",
+      "short": "EC",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/EC_Vit%C3%B3ria_logo.svg",
+      "trophies": 0,
+      "stadium": "Barradão",
+      "lat": -12.9636,
+      "lon": -38.4614
+    },
+    "country": "Brazil",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "Ba-Vi",
+    "city_derby": true,
+    "total_matches": 205,
+    "active_decades": 10,
+    "stadium_capacity_sum": 80000,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/EC_Bahia"
+    ]
+  },
+  {
+    "id": "con-055",
+    "club_a": {
+      "name": "SE Palmeiras",
+      "short": "SE",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Palmeiras_logo.svg",
+      "trophies": 12,
+      "stadium": "Allianz Parque",
+      "lat": -23.5275,
+      "lon": -46.6783
+    },
+    "club_b": {
+      "name": "CR Flamengo",
+      "short": "CR",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flamengo_braz_logo.svg",
+      "trophies": 9,
+      "stadium": "Maracanã",
+      "lat": -22.9122,
+      "lon": -43.2303
+    },
+    "country": "Brazil",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "Clássico Interestadual / Duelo dos Titãs",
+    "city_derby": false,
+    "total_matches": 95,
+    "active_decades": 10,
+    "stadium_capacity_sum": 122551,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/SE_Palmeiras"
+    ]
+  },
+  {
+    "id": "con-056",
+    "club_a": {
+      "name": "São Paulo FC",
+      "short": "SÃO",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasao_do_Sao_Paulo_Futebol_Clube.svg",
+      "trophies": 6,
+      "stadium": "Estádio do Morumbi",
+      "lat": -23.6,
+      "lon": -46.7194
+    },
+    "club_b": {
+      "name": "Athletico Paranaense",
+      "short": "ATH",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/CA_Paranaense.svg",
+      "trophies": 1,
+      "stadium": "Arena da Baixada",
+      "lat": -25.4483,
+      "lon": -49.2769
+    },
+    "country": "Brazil",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "N/A (National clash)",
+    "city_derby": false,
+    "total_matches": 68,
+    "active_decades": 10,
+    "stadium_capacity_sum": 106795,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/São_Paulo_FC"
+    ]
+  },
+  {
+    "id": "con-057",
+    "club_a": {
+      "name": "SC Internacional",
+      "short": "SC",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/SC_Internacional.svg",
+      "trophies": 3,
+      "stadium": "Estádio Beira-Rio",
+      "lat": -30.0653,
+      "lon": -51.2353
+    },
+    "club_b": {
+      "name": "São Paulo FC",
+      "short": "SÃO",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasao_do_Sao_Paulo_Futebol_Clube.svg",
+      "trophies": 6,
+      "stadium": "Estádio do Morumbi",
+      "lat": -23.6,
+      "lon": -46.7194
+    },
+    "country": "Brazil",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "N/A (National clash)",
+    "city_derby": false,
+    "total_matches": 75,
+    "active_decades": 10,
+    "stadium_capacity_sum": 117637,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/SC_Internacional"
+    ]
+  },
+  {
+    "id": "con-058",
+    "club_a": {
+      "name": "Clube Atlético Mineiro",
+      "short": "CLU",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Clube_Atl%C3%A9tico_Mineiro_crest.svg",
+      "trophies": 2,
+      "stadium": "Arena MRV",
+      "lat": -19.8667,
+      "lon": -43.9956
+    },
+    "club_b": {
+      "name": "Botafogo FR",
+      "short": "BOT",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Botafogo_de_Futebol_e_Regatas_logo.svg",
+      "trophies": 3,
+      "stadium": "Estádio Olímpico Nilton Santos",
+      "lat": -22.8917,
+      "lon": -43.2903
+    },
+    "country": "Brazil",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "N/A (National clash)",
+    "city_derby": false,
+    "total_matches": 85,
+    "active_decades": 10,
+    "stadium_capacity_sum": 86000,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Clube_Atlético_Mineiro"
+    ]
+  },
+  {
+    "id": "con-059",
+    "club_a": {
+      "name": "Club Nacional de Football",
+      "short": "CLU",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Club_Nacional_de_Football_crest.svg",
+      "trophies": 51,
+      "stadium": "Gran Parque Central",
+      "lat": -34.8839,
+      "lon": -56.1592
+    },
+    "club_b": {
+      "name": "CA Peñarol",
+      "short": "CA",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Escudo_del_Club_Atl%C3%A9tico_Pe%C3%B1arol.svg",
+      "trophies": 55,
+      "stadium": "Estadio Campeón del Siglo",
+      "lat": -34.8167,
+      "lon": -56.0667
+    },
+    "country": "Uruguay",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "Clásico Uruguayo",
+    "city_derby": true,
+    "total_matches": 210,
+    "active_decades": 10,
+    "stadium_capacity_sum": 74005,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Club_Nacional_de_Football"
+    ]
+  },
+  {
+    "id": "con-060",
+    "club_a": {
+      "name": "CSD Colo-Colo",
+      "short": "CSD",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Colo-Colo_shield.svg",
+      "trophies": 33,
+      "stadium": "Estadio Monumental David Arellano",
+      "lat": -33.5025,
+      "lon": -70.6064
+    },
+    "club_b": {
+      "name": "Club Universidad de Chile",
+      "short": "CLU",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Universidad_de_Chile_football_logo.svg",
+      "trophies": 18,
+      "stadium": "Estadio Nacional Julio Martínez Prádanos",
+      "lat": -33.465,
+      "lon": -70.6103
+    },
+    "country": "Chile",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "Superclásico Chileno",
+    "city_derby": true,
+    "total_matches": 128,
+    "active_decades": 10,
+    "stadium_capacity_sum": 92332,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/CSD_Colo-Colo"
+    ]
+  },
+  {
+    "id": "con-061",
+    "club_a": {
+      "name": "Universidad Católica",
+      "short": "UNI",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/f/fa/Club_Deportivo_Universidad_Cat%C3%B3lica_crest.svg",
+      "trophies": 16,
+      "stadium": "Estadio San Carlos de Apoquindo",
+      "lat": -33.4333,
+      "lon": -70.5333
+    },
+    "club_b": {
+      "name": "Universidad de Chile",
+      "short": "UNI",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Universidad_de_Chile_football_logo.svg",
+      "trophies": 18,
+      "stadium": "Estadio Nacional Julio Martínez Prádanos",
+      "lat": -33.465,
+      "lon": -70.6103
+    },
+    "country": "Chile",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "Clásico Universitario",
+    "city_derby": true,
+    "total_matches": 126,
+    "active_decades": 10,
+    "stadium_capacity_sum": 68665,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Universidad_Católica"
+    ]
+  },
+  {
+    "id": "con-062",
+    "club_a": {
+      "name": "Atlético Nacional",
+      "short": "ATL",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Escudo_Atl%C3%A9tico_Nacional.svg",
+      "trophies": 17,
+      "stadium": "Estadio Atanasio Girardot",
+      "lat": 6.2569,
+      "lon": -75.5906
+    },
+    "club_b": {
+      "name": "Millonarios FC",
+      "short": "MIL",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Escudo_de_Millonarios_FC.svg",
+      "trophies": 16,
+      "stadium": "Estadio El Campín",
+      "lat": 4.6486,
+      "lon": -74.0775
+    },
+    "country": "Colombia",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "El Superclásico Colombiano",
+    "city_derby": false,
+    "total_matches": 118,
+    "active_decades": 10,
+    "stadium_capacity_sum": 81206,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Atlético_Nacional"
+    ]
+  },
+  {
+    "id": "con-063",
+    "club_a": {
+      "name": "Millonarios FC",
+      "short": "MIL",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Escudo_de_Millonarios_FC.svg",
+      "trophies": 16,
+      "stadium": "Estadio El Campín",
+      "lat": 4.6486,
+      "lon": -74.0775
+    },
+    "club_b": {
+      "name": "Independiente Santa Fe",
+      "short": "IND",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Escudo_de_Independiente_Santa_Fe.svg",
+      "trophies": 9,
+      "stadium": "Estadio El Campín",
+      "lat": 4.6486,
+      "lon": -74.0775
+    },
+    "country": "Colombia",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "Clásico Capitalino",
+    "city_derby": true,
+    "total_matches": 145,
+    "active_decades": 10,
+    "stadium_capacity_sum": 78412,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Millonarios_FC"
+    ]
+  },
+  {
+    "id": "con-064",
+    "club_a": {
+      "name": "Atlético Nacional",
+      "short": "ATL",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Escudo_Atl%C3%A9tico_Nacional.svg",
+      "trophies": 17,
+      "stadium": "Estadio Atanasio Girardot",
+      "lat": 6.2569,
+      "lon": -75.5906
+    },
+    "club_b": {
+      "name": "Independiente Medellín",
+      "short": "IND",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Escudo_de_Independiente_Medell%C3%ADn.svg",
+      "trophies": 6,
+      "stadium": "Estadio Atanasio Girardot",
+      "lat": 6.2569,
+      "lon": -75.5906
+    },
+    "country": "Colombia",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "Clásico Paisa",
+    "city_derby": true,
+    "total_matches": 155,
+    "active_decades": 10,
+    "stadium_capacity_sum": 86932,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Atlético_Nacional"
+    ]
+  },
+  {
+    "id": "con-065",
+    "club_a": {
+      "name": "América de Cali",
+      "short": "AMÉ",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Am%C3%A9rica_de_Cali_Logo.svg",
+      "trophies": 15,
+      "stadium": "Estadio Pascual Guerrero",
+      "lat": 3.4244,
+      "lon": -76.5381
+    },
+    "club_b": {
+      "name": "Deportivo Cali",
+      "short": "DEP",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Escudo_del_Deportivo_Cali.svg",
+      "trophies": 10,
+      "stadium": "Estadio Deportivo Cali",
+      "lat": 3.3736,
+      "lon": -76.525
+    },
+    "country": "Colombia",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "Clásico Vallecaucano",
+    "city_derby": true,
+    "total_matches": 152,
+    "active_decades": 10,
+    "stadium_capacity_sum": 79899,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/América_de_Cali"
+    ]
+  },
+  {
+    "id": "con-066",
+    "club_a": {
+      "name": "Club Universitario",
+      "short": "CLU",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Escudo_de_Universitario_de_Deportes.svg",
+      "trophies": 27,
+      "stadium": "Estadio Monumental U",
+      "lat": -12.0556,
+      "lon": -76.9361
+    },
+    "club_b": {
+      "name": "Club Alianza Lima",
+      "short": "CLU",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Alianza_Lima_logo.svg",
+      "trophies": 25,
+      "stadium": "Estadio Alejandro Villanueva",
+      "lat": -12.0667,
+      "lon": -77.025
+    },
+    "country": "Peru",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "El Clásico Peruano",
+    "city_derby": true,
+    "total_matches": 155,
+    "active_decades": 10,
+    "stadium_capacity_sum": 114031,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Club_Universitario"
+    ]
+  },
+  {
+    "id": "con-067",
+    "club_a": {
+      "name": "Barcelona SC",
+      "short": "BAR",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Barcelona_Sporting_Club_logo.svg",
+      "trophies": 16,
+      "stadium": "Estadio Monumental Banco Pichincha",
+      "lat": -2.1833,
+      "lon": -79.9253
+    },
+    "club_b": {
+      "name": "CS Emelec",
+      "short": "CS",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Club_Sport_Emelec_logo.svg",
+      "trophies": 14,
+      "stadium": "Estadio George Capwell",
+      "lat": -2.1833,
+      "lon": -79.9053
+    },
+    "country": "Ecuador",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "Clásico del Astillero",
+    "city_derby": true,
+    "total_matches": 156,
+    "active_decades": 10,
+    "stadium_capacity_sum": 99283,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Barcelona_SC"
+    ]
+  },
+  {
+    "id": "con-068",
+    "club_a": {
+      "name": "Club Olimpia",
+      "short": "CLU",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Olimpia_Asuncion_logo.svg",
+      "trophies": 46,
+      "stadium": "Estadio Manuel Ferreira",
+      "lat": -25.2894,
+      "lon": -57.6119
+    },
+    "club_b": {
+      "name": "Club Cerro Porteño",
+      "short": "CLU",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Cerro_Porte%C3%B1o_logo.svg",
+      "trophies": 33,
+      "stadium": "Estadio General Pablo Rojas",
+      "lat": -25.2833,
+      "lon": -57.6333
+    },
+    "country": "Paraguay",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "Superclásico Paraguayo",
+    "city_derby": true,
+    "total_matches": 185,
+    "active_decades": 10,
+    "stadium_capacity_sum": 64820,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Club_Olimpia"
+    ]
+  },
+  {
+    "id": "con-069",
+    "club_a": {
+      "name": "Club Bolívar",
+      "short": "CLU",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Club_Bol%C3%ADvar_logo.svg",
+      "trophies": 31,
+      "stadium": "Estadio Hernando Siles",
+      "lat": -16.5,
+      "lon": -68.12
+    },
+    "club_b": {
+      "name": "The Strongest",
+      "short": "THE",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/6/6c/The_Strongest_Bol_logo.svg",
+      "trophies": 16,
+      "stadium": "Estadio Hernando Siles",
+      "lat": -16.5,
+      "lon": -68.12
+    },
+    "country": "Bolivia",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "Clásico Paceño",
+    "city_derby": true,
+    "total_matches": 188,
+    "active_decades": 10,
+    "stadium_capacity_sum": 80000,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Club_Bolívar"
+    ]
+  },
+  {
+    "id": "con-070",
+    "club_a": {
+      "name": "LDU Quito",
+      "short": "LDU",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/LDU_Quito_logo.svg",
+      "trophies": 11,
+      "stadium": "Estadio Liga Deportiva Universitaria",
+      "lat": -0.1167,
+      "lon": -78.4833
+    },
+    "club_b": {
+      "name": "Fluminense FC",
+      "short": "FLU",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Fluminense_FC_-_2012_logo.svg",
+      "trophies": 5,
+      "stadium": "Maracanã",
+      "lat": -22.9122,
+      "lon": -43.2303
+    },
+    "country": "Ecuador / Brazil",
+    "confederation": "CONMEBOL",
+    "rivalry_name": "N/A (Continental rivals)",
+    "city_derby": false,
+    "total_matches": 10,
+    "active_decades": 10,
+    "stadium_capacity_sum": 120413,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/LDU_Quito"
+    ]
+  },
+  {
+    "id": "caf-071",
+    "club_a": {
+      "name": "Al Ahly SC",
+      "short": "AL",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Al_Ahly_SC_logo.svg",
+      "trophies": 44,
+      "stadium": "Al Ahly WE Al Salam Stadium",
+      "lat": 30.115,
+      "lon": 31.405
+    },
+    "club_b": {
+      "name": "Zamalek SC",
+      "short": "ZAM",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/b/b6/Zamalek_SC_logo.svg",
+      "trophies": 14,
+      "stadium": "Cairo International Stadium",
+      "lat": 30.0694,
+      "lon": 31.3139
+    },
+    "country": "Egypt",
+    "confederation": "CAF",
+    "rivalry_name": "Cairo Derby",
+    "city_derby": true,
+    "total_matches": 120,
+    "active_decades": 10,
+    "stadium_capacity_sum": 150000,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Al_Ahly_SC"
+    ]
+  },
+  {
+    "id": "caf-072",
+    "club_a": {
+      "name": "Raja Club Athletic",
+      "short": "RAJ",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Raja_Club_Athletic.svg",
+      "trophies": 12,
+      "stadium": "Stade Mohammed V",
+      "lat": 33.5831,
+      "lon": -7.6331
+    },
+    "club_b": {
+      "name": "Wydad AC",
+      "short": "WYD",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Wydad_AC_%28logo%29.svg",
+      "trophies": 22,
+      "stadium": "Stade Mohammed V",
+      "lat": 33.5831,
+      "lon": -7.6331
+    },
+    "country": "Morocco",
+    "confederation": "CAF",
+    "rivalry_name": "Casablanca Derby",
+    "city_derby": true,
+    "total_matches": 115,
+    "active_decades": 10,
+    "stadium_capacity_sum": 85891,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Raja_Club_Athletic"
+    ]
+  },
+  {
+    "id": "caf-073",
+    "club_a": {
+      "name": "Espérance de Tunis",
+      "short": "ESP",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/ES_Tunis.svg",
+      "trophies": 33,
+      "stadium": "Stade Olympique de Radès",
+      "lat": 36.7444,
+      "lon": 10.2767
+    },
+    "club_b": {
+      "name": "Club Africain",
+      "short": "CLU",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/b/b9/Club_Africain_logo.png",
+      "trophies": 13,
+      "stadium": "Stade Olympique de Radès",
+      "lat": 36.7444,
+      "lon": 10.2767
+    },
+    "country": "Tunisia",
+    "confederation": "CAF",
+    "rivalry_name": "Tunis Derby",
+    "city_derby": true,
+    "total_matches": 115,
+    "active_decades": 10,
+    "stadium_capacity_sum": 120000,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Espérance_de_Tunis"
+    ]
+  },
+  {
+    "id": "caf-074",
+    "club_a": {
+      "name": "Espérance de Tunis",
+      "short": "ESP",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/ES_Tunis.svg",
+      "trophies": 33,
+      "stadium": "Stade Olympique de Radès",
+      "lat": 36.7444,
+      "lon": 10.2767
+    },
+    "club_b": {
+      "name": "Étoile du Sahel",
+      "short": "ÉTO",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/2/2f/ES_Sahel.png",
+      "trophies": 11,
+      "stadium": "Stade Olympique de Sousse",
+      "lat": 35.8256,
+      "lon": 10.5964
+    },
+    "country": "Tunisia",
+    "confederation": "CAF",
+    "rivalry_name": "Classico Tunisien",
+    "city_derby": false,
+    "total_matches": 118,
+    "active_decades": 10,
+    "stadium_capacity_sum": 100000,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Espérance_de_Tunis"
+    ]
+  },
+  {
+    "id": "caf-075",
+    "club_a": {
+      "name": "Kaizer Chiefs",
+      "short": "KAI",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/3/37/Kaizer_Chiefs_logo.svg",
+      "trophies": 4,
+      "stadium": "FNB Stadium",
+      "lat": -26.235,
+      "lon": 28.0425
+    },
+    "club_b": {
+      "name": "Orlando Pirates",
+      "short": "ORL",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/e/e6/Orlando_Pirates_logo.svg",
+      "trophies": 3,
+      "stadium": "Orlando Stadium",
+      "lat": -26.2353,
+      "lon": 27.9756
+    },
+    "country": "South Africa",
+    "confederation": "CAF",
+    "rivalry_name": "Soweto Derby",
+    "city_derby": true,
+    "total_matches": 125,
+    "active_decades": 10,
+    "stadium_capacity_sum": 80000,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Kaizer_Chiefs"
+    ]
+  },
+  {
+    "id": "caf-076",
+    "club_a": {
+      "name": "Mamelodi Sundowns",
+      "short": "MAM",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/7/7f/Mamelodi_Sundowns_logo.svg",
+      "trophies": 14,
+      "stadium": "Loftus Versfeld Stadium",
+      "lat": -25.7519,
+      "lon": 28.2228
+    },
+    "club_b": {
+      "name": "SuperSport United",
+      "short": "SUP",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/4/43/SuperSport_United_FC_logo.svg",
+      "trophies": 3,
+      "stadium": "Lucas Moripe Stadium",
+      "lat": -25.7333,
+      "lon": 28.1667
+    },
+    "country": "South Africa",
+    "confederation": "CAF",
+    "rivalry_name": "Tshwane Derby",
+    "city_derby": true,
+    "total_matches": 70,
+    "active_decades": 10,
+    "stadium_capacity_sum": 80000,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Mamelodi_Sundowns"
+    ]
+  },
+  {
+    "id": "caf-077",
+    "club_a": {
+      "name": "Kaizer Chiefs",
+      "short": "KAI",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/3/37/Kaizer_Chiefs_logo.svg",
+      "trophies": 4,
+      "stadium": "FNB Stadium",
+      "lat": -26.235,
+      "lon": 28.0425
+    },
+    "club_b": {
+      "name": "Mamelodi Sundowns",
+      "short": "MAM",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/7/7f/Mamelodi_Sundowns_logo.svg",
+      "trophies": 14,
+      "stadium": "Loftus Versfeld Stadium",
+      "lat": -25.7519,
+      "lon": 28.2228
+    },
+    "country": "South Africa",
+    "confederation": "CAF",
+    "rivalry_name": "N/A (Gauteng rivalry)",
+    "city_derby": false,
+    "total_matches": 88,
+    "active_decades": 10,
+    "stadium_capacity_sum": 80000,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Kaizer_Chiefs"
+    ]
+  },
+  {
+    "id": "caf-078",
+    "club_a": {
+      "name": "MC Alger",
+      "short": "MC",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/1/13/MC_Alger_logo.png",
+      "trophies": 8,
+      "stadium": "Stade du 5 Juillet 1962",
+      "lat": 36.7439,
+      "lon": 3.0792
+    },
+    "club_b": {
+      "name": "USM Alger",
+      "short": "USM",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/b/bf/USM_Alger_%28logo%29.png",
+      "trophies": 8,
+      "stadium": "Stade du 5 Juillet 1962",
+      "lat": 36.7439,
+      "lon": 3.0792
+    },
+    "country": "Algeria",
+    "confederation": "CAF",
+    "rivalry_name": "Algiers Derby",
+    "city_derby": true,
+    "total_matches": 90,
+    "active_decades": 10,
+    "stadium_capacity_sum": 80000,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/MC_Alger"
+    ]
+  },
+  {
+    "id": "caf-079",
+    "club_a": {
+      "name": "JS Kabylie",
+      "short": "JS",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/f/f5/JS_Kabylie_%28logo%29.png",
+      "trophies": 14,
+      "stadium": "Stade du 1er Novembre",
+      "lat": 36.7167,
+      "lon": 4.05
+    },
+    "club_b": {
+      "name": "MC Alger",
+      "short": "MC",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/1/13/MC_Alger_logo.png",
+      "trophies": 8,
+      "stadium": "Stade du 5 Juillet 1962",
+      "lat": 36.7439,
+      "lon": 3.0792
+    },
+    "country": "Algeria",
+    "confederation": "CAF",
+    "rivalry_name": "Le Classico Algérien",
+    "city_derby": false,
+    "total_matches": 92,
+    "active_decades": 10,
+    "stadium_capacity_sum": 80000,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/JS_Kabylie"
+    ]
+  },
+  {
+    "id": "caf-080",
+    "club_a": {
+      "name": "CR Belouizdad",
+      "short": "CR",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/a/a8/CR_Belouizdad_%28logo%29.png",
+      "trophies": 9,
+      "stadium": "Stade du 20 Août 1955",
+      "lat": 36.7564,
+      "lon": 3.0578
+    },
+    "club_b": {
+      "name": "MC Alger",
+      "short": "MC",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/1/13/MC_Alger_logo.png",
+      "trophies": 8,
+      "stadium": "Stade du 5 Juillet 1962",
+      "lat": 36.7439,
+      "lon": 3.0792
+    },
+    "country": "Algeria",
+    "confederation": "CAF",
+    "rivalry_name": "Grand Derby Algérois",
+    "city_derby": true,
+    "total_matches": 88,
+    "active_decades": 10,
+    "stadium_capacity_sum": 80000,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/CR_Belouizdad"
+    ]
+  },
+  {
+    "id": "caf-081",
+    "club_a": {
+      "name": "Asante Kotoko",
+      "short": "ASA",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/5/5d/Asante_Kotoko_SC_%28logo%29.png",
+      "trophies": 25,
+      "stadium": "Baba Yara Sports Stadium",
+      "lat": 6.6956,
+      "lon": -1.6281
+    },
+    "club_b": {
+      "name": "Hearts of Oak",
+      "short": "HEA",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/0/08/Hearts_of_Oak_SC_logo.png",
+      "trophies": 21,
+      "stadium": "Accra Sports Stadium",
+      "lat": 5.5547,
+      "lon": -0.1833
+    },
+    "country": "Ghana",
+    "confederation": "CAF",
+    "rivalry_name": "Ghana Super Clash",
+    "city_derby": false,
+    "total_matches": 82,
+    "active_decades": 10,
+    "stadium_capacity_sum": 80000,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Asante_Kotoko"
+    ]
+  },
+  {
+    "id": "caf-082",
+    "club_a": {
+      "name": "TP Mazembe",
+      "short": "TP",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/f/f7/TP_Mazembe_logo.svg",
+      "trophies": 7,
+      "stadium": "Stade de la Kenya",
+      "lat": -11.6683,
+      "lon": 27.4833
+    },
+    "club_b": {
+      "name": "AS Vita Club",
+      "short": "AS",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/1/14/AS_Vita_Club_%28logo%29.png",
+      "trophies": 5,
+      "stadium": "Stade des Martyrs",
+      "lat": -4.3317,
+      "lon": 15.3139
+    },
+    "country": "DR Congo",
+    "confederation": "CAF",
+    "rivalry_name": "Clásico Congolais",
+    "city_derby": false,
+    "total_matches": 48,
+    "active_decades": 10,
+    "stadium_capacity_sum": 80000,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/TP_Mazembe"
+    ]
+  },
+  {
+    "id": "caf-083",
+    "club_a": {
+      "name": "DC Motema Pembe",
+      "short": "DC",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/5/5e/DC_Motema_Pembe_%28logo%29.png",
+      "trophies": 6,
+      "stadium": "Stade des Martyrs",
+      "lat": -4.3317,
+      "lon": 15.3139
+    },
+    "club_b": {
+      "name": "AS Vita Club",
+      "short": "AS",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/1/14/AS_Vita_Club_%28logo%29.png",
+      "trophies": 5,
+      "stadium": "Stade des Martyrs",
+      "lat": -4.3317,
+      "lon": 15.3139
+    },
+    "country": "DR Congo",
+    "confederation": "CAF",
+    "rivalry_name": "Derby de Kinshasa",
+    "city_derby": true,
+    "total_matches": 82,
+    "active_decades": 10,
+    "stadium_capacity_sum": 80000,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/DC_Motema_Pembe"
+    ]
+  },
+  {
+    "id": "caf-084",
+    "club_a": {
+      "name": "Al-Hilal Club",
+      "short": "AL-",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/0/0d/Al-Hilal_Club_%28Omdurman%29_logo.png",
+      "trophies": 30,
+      "stadium": "Al-Hilal Stadium",
+      "lat": 15.5833,
+      "lon": 32.5333
+    },
+    "club_b": {
+      "name": "Al-Merrikh SC",
+      "short": "AL-",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/5/54/Al-Merrikh_SC_logo.png",
+      "trophies": 7,
+      "stadium": "Al-Merrikh Stadium",
+      "lat": 15.6,
+      "lon": 32.54
+    },
+    "country": "Sudan",
+    "confederation": "CAF",
+    "rivalry_name": "Omdurman Derby / Sudanese Clásico",
+    "city_derby": true,
+    "total_matches": 112,
+    "active_decades": 10,
+    "stadium_capacity_sum": 80000,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Al-Hilal_Club"
+    ]
+  },
+  {
+    "id": "caf-085",
+    "club_a": {
+      "name": "Simba SC",
+      "short": "SIM",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/0/0e/Simba_Sports_Club_logo.png",
+      "trophies": 22,
+      "stadium": "Benjamin Mkapa Stadium",
+      "lat": -6.81,
+      "lon": 39.2667
+    },
+    "club_b": {
+      "name": "Young Africans SC (Yanga)",
+      "short": "YOU",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/d/da/Young_Africans_SC_%28logo%29.png",
+      "trophies": 29,
+      "stadium": "Benjamin Mkapa Stadium",
+      "lat": -6.81,
+      "lon": 39.2667
+    },
+    "country": "Tanzania",
+    "confederation": "CAF",
+    "rivalry_name": "Kariakoo Derby",
+    "city_derby": true,
+    "total_matches": 85,
+    "active_decades": 10,
+    "stadium_capacity_sum": 80000,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Simba_SC"
+    ]
+  },
+  {
+    "id": "caf-086",
+    "club_a": {
+      "name": "Gor Mahia FC",
+      "short": "GOR",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/2/24/Gor_Mahia_F.C._logo.png",
+      "trophies": 20,
+      "stadium": "Nyayo National Stadium",
+      "lat": -1.3036,
+      "lon": 36.8255
+    },
+    "club_b": {
+      "name": "AFC Leopards",
+      "short": "AFC",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/d/d8/AFC_Leopards_logo.png",
+      "trophies": 13,
+      "stadium": "Nyayo National Stadium",
+      "lat": -1.3036,
+      "lon": 36.8255
+    },
+    "country": "Kenya",
+    "confederation": "CAF",
+    "rivalry_name": "Mashemeji Derby",
+    "city_derby": true,
+    "total_matches": 82,
+    "active_decades": 10,
+    "stadium_capacity_sum": 80000,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Gor_Mahia_FC"
+    ]
+  },
+  {
+    "id": "caf-087",
+    "club_a": {
+      "name": "ASEC Mimosas",
+      "short": "ASE",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/6/62/ASEC_Mimosas_logo.png",
+      "trophies": 27,
+      "stadium": "Stade Félix Houphouët-Boigny",
+      "lat": 5.3167,
+      "lon": -4.0167
+    },
+    "club_b": {
+      "name": "Africa Sports",
+      "short": "AFR",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/7/72/Africa_Sports_National_logo.png",
+      "trophies": 18,
+      "stadium": "Stade Félix Houphouët-Boigny",
+      "lat": 5.3167,
+      "lon": -4.0167
+    },
+    "country": "Ivory Coast",
+    "confederation": "CAF",
+    "rivalry_name": "Derby Abidjanais",
+    "city_derby": true,
+    "total_matches": 95,
+    "active_decades": 10,
+    "stadium_capacity_sum": 80000,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/ASEC_Mimosas"
+    ]
+  },
+  {
+    "id": "caf-088",
+    "club_a": {
+      "name": "Al Ahly SC",
+      "short": "AL",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Al_Ahly_SC_logo.svg",
+      "trophies": 44,
+      "stadium": "Al Ahly WE Al Salam Stadium",
+      "lat": 30.115,
+      "lon": 31.405
+    },
+    "club_b": {
+      "name": "Espérance de Tunis",
+      "short": "ESP",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/ES_Tunis.svg",
+      "trophies": 33,
+      "stadium": "Stade Olympique de Radès",
+      "lat": 36.7444,
+      "lon": 10.2767
+    },
+    "country": "Egypt / Tunisia",
+    "confederation": "CAF",
+    "rivalry_name": "N/A (African continental super-clash)",
+    "city_derby": false,
+    "total_matches": 26,
+    "active_decades": 10,
+    "stadium_capacity_sum": 135000,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Al_Ahly_SC"
+    ]
+  },
+  {
+    "id": "caf-089",
+    "club_a": {
+      "name": "Al Ahly SC",
+      "short": "AL",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Al_Ahly_SC_logo.svg",
+      "trophies": 44,
+      "stadium": "Al Ahly WE Al Salam Stadium",
+      "lat": 30.115,
+      "lon": 31.405
+    },
+    "club_b": {
+      "name": "Wydad AC",
+      "short": "WYD",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Wydad_AC_%28logo%29.svg",
+      "trophies": 22,
+      "stadium": "Stade Mohammed V",
+      "lat": 33.5831,
+      "lon": -7.6331
+    },
+    "country": "Egypt / Morocco",
+    "confederation": "CAF",
+    "rivalry_name": "N/A (Pan-African rivalry)",
+    "city_derby": false,
+    "total_matches": 13,
+    "active_decades": 10,
+    "stadium_capacity_sum": 120891,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Al_Ahly_SC"
+    ]
+  },
+  {
+    "id": "caf-090",
+    "club_a": {
+      "name": "Espérance de Tunis",
+      "short": "ESP",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/ES_Tunis.svg",
+      "trophies": 33,
+      "stadium": "Stade Olympique de Radès",
+      "lat": 36.7444,
+      "lon": 10.2767
+    },
+    "club_b": {
+      "name": "Wydad AC",
+      "short": "WYD",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Wydad_AC_%28logo%29.svg",
+      "trophies": 22,
+      "stadium": "Stade Mohammed V",
+      "lat": 33.5831,
+      "lon": -7.6331
+    },
+    "country": "Tunisia / Morocco",
+    "confederation": "CAF",
+    "rivalry_name": "N/A (North African rivalry)",
+    "city_derby": false,
+    "total_matches": 10,
+    "active_decades": 10,
+    "stadium_capacity_sum": 105891,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Espérance_de_Tunis"
+    ]
+  },
+  {
+    "id": "afc-091",
+    "club_a": {
+      "name": "Al Hilal SFC",
+      "short": "AL",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/3/33/Al-Hilal_SFC_logo.svg",
+      "trophies": 22,
+      "stadium": "Kingdom Arena",
+      "lat": 24.75,
+      "lon": 46.84
+    },
+    "club_b": {
+      "name": "Al Nassr FC",
+      "short": "AL",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/6/60/Al-Nassr_FC_logo.svg",
+      "trophies": 9,
+      "stadium": "Al-Awwal Park",
+      "lat": 24.7125,
+      "lon": 46.6753
+    },
+    "country": "Saudi Arabia",
+    "confederation": "AFC",
+    "rivalry_name": "Riyadh Derby",
+    "city_derby": true,
+    "total_matches": 115,
+    "active_decades": 10,
+    "stadium_capacity_sum": 80000,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Al_Hilal_SFC"
+    ]
+  },
+  {
+    "id": "afc-092",
+    "club_a": {
+      "name": "Al Hilal SFC",
+      "short": "AL",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/3/33/Al-Hilal_SFC_logo.svg",
+      "trophies": 22,
+      "stadium": "Kingdom Arena",
+      "lat": 24.75,
+      "lon": 46.84
+    },
+    "club_b": {
+      "name": "Al Ittihad FC",
+      "short": "AL",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/7/77/Al-Ittihad_Club_Logo.png",
+      "trophies": 9,
+      "stadium": "King Abdullah Sports City",
+      "lat": 21.7128,
+      "lon": 39.1467
+    },
+    "country": "Saudi Arabia",
+    "confederation": "AFC",
+    "rivalry_name": "Saudi El Clásico",
+    "city_derby": false,
+    "total_matches": 118,
+    "active_decades": 10,
+    "stadium_capacity_sum": 80000,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Al_Hilal_SFC"
+    ]
+  },
+  {
+    "id": "afc-093",
+    "club_a": {
+      "name": "Al Ahli SFC",
+      "short": "AL",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/1/1b/Al-Ahli_Saudi_FC_logo.png",
+      "trophies": 3,
+      "stadium": "King Abdullah Sports City",
+      "lat": 21.7128,
+      "lon": 39.1467
+    },
+    "club_b": {
+      "name": "Al Ittihad FC",
+      "short": "AL",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/7/77/Al-Ittihad_Club_Logo.png",
+      "trophies": 9,
+      "stadium": "King Abdullah Sports City",
+      "lat": 21.7128,
+      "lon": 39.1467
+    },
+    "country": "Saudi Arabia",
+    "confederation": "AFC",
+    "rivalry_name": "Jeddah Derby",
+    "city_derby": true,
+    "total_matches": 104,
+    "active_decades": 10,
+    "stadium_capacity_sum": 80000,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Al_Ahli_SFC"
+    ]
+  },
+  {
+    "id": "afc-094",
+    "club_a": {
+      "name": "Al Nassr FC",
+      "short": "AL",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/6/60/Al-Nassr_FC_logo.svg",
+      "trophies": 9,
+      "stadium": "Al-Awwal Park",
+      "lat": 24.7125,
+      "lon": 46.6753
+    },
+    "club_b": {
+      "name": "Al Ittihad FC",
+      "short": "AL",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/7/77/Al-Ittihad_Club_Logo.png",
+      "trophies": 9,
+      "stadium": "King Abdullah Sports City",
+      "lat": 21.7128,
+      "lon": 39.1467
+    },
+    "country": "Saudi Arabia",
+    "confederation": "AFC",
+    "rivalry_name": "Saudi Clásico",
+    "city_derby": false,
+    "total_matches": 92,
+    "active_decades": 10,
+    "stadium_capacity_sum": 80000,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Al_Nassr_FC"
+    ]
+  },
+  {
+    "id": "afc-095",
+    "club_a": {
+      "name": "Persepolis FC",
+      "short": "PER",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/c/c8/Persepolis_FC_logo.svg",
+      "trophies": 15,
+      "stadium": "Azadi Stadium",
+      "lat": 35.7228,
+      "lon": 51.2775
+    },
+    "club_b": {
+      "name": "Esteghlal FC",
+      "short": "EST",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/e/eb/Esteghlal_FC_new_logo.png",
+      "trophies": 10,
+      "stadium": "Azadi Stadium",
+      "lat": 35.7228,
+      "lon": 51.2775
+    },
+    "country": "Iran",
+    "confederation": "AFC",
+    "rivalry_name": "Tehran Derby / Red vs Blue",
+    "city_derby": true,
+    "total_matches": 92,
+    "active_decades": 10,
+    "stadium_capacity_sum": 80000,
+    "social_fracture_score": 3,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Persepolis_FC"
+    ]
+  },
+  {
+    "id": "afc-096",
+    "club_a": {
+      "name": "Sepahan SC",
+      "short": "SEP",
+      "color": "#000000",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/d/df/Sepahan_SC_logo.svg",
+      "trophies": 5,
+      "stadium": "Naghsh-e Jahan Stadium",
+      "lat": 32.6525,
+      "lon": 51.6675
+    },
+    "club_b": {
+      "name": "Persepolis FC",
+      "short": "PER",
+      "color": "#FFFFFF",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/c/c8/Persepolis_FC_logo.svg",
+      "trophies": 15,
+      "stadium": "Azadi Stadium",
+      "lat": 35.7228,
+      "lon": 51.2775
+    },
+    "country": "Iran",
+    "confederation": "AFC",
+    "rivalry_name": "El Guilico / Iranian Derby",
+    "city_derby": false,
+    "total_matches": 64,
+    "active_decades": 10,
+    "stadium_capacity_sum": 80000,
+    "social_fracture_score": 0,
+    "documented_name": true,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_association_football_rivalries",
+      "https://en.wikipedia.org/wiki/Sepahan_SC"
+    ]
+  }
+]

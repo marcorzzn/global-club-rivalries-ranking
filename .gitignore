@@ -1,4 +1,3 @@
-```
 # Python
 __pycache__/
 *.pyc
@@ -8,8 +7,6 @@ __pycache__/
 env/
 venv/
 .venv/
-.ENV
-.ENV.local
 
 # Logs and temporary files
 *.log
@@ -25,10 +22,7 @@ Thumbs.db
 coverage/
 htmlcov/
 .coverage
-*.coverage
 
 # Virtual environments
 .env
 .env.local
-*.env.*
-```
