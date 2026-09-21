@@ -1,0 +1,16 @@
+{
+  "name": "RIVALITÀ",
+  "short_name": "RIVALITÀ",
+  "description": "L'Atlante del Calcio Mondiale — Enciclopedia e ranking scientifico delle rivalità calcistiche",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F5F0E8",
+  "theme_color": "#C8102E",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' fill='%23C8102E'/><text x='50%' y='54%' dominant-baseline='middle' text-anchor='middle' font-family='serif' font-size='320' fill='white'>◆</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

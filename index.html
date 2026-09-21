@@ -1,142 +1,650 @@
 <!DOCTYPE html>
-<html lang="it">
+<html lang="it" data-theme="light">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Global Club Rivalries Ranking | Top 50 Opta Leagues</title>
-    
-    <!-- Google Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-    
-    <!-- Leaflet CSS -->
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin=""/>
-    
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="L'atlante mondiale delle rivalità calcistiche — enciclopedia e classifica scientifica. The world atlas of football rivalries.">
+  <meta property="og:title" content="RIVALITÀ — L'Atlante del Calcio Mondiale">
+  <meta property="og:description" content="Enciclopedia completa e ranking scientifico di tutte le rivalità calcistiche del mondo.">
+  <meta property="og:type" content="website">
+  <title>RIVALITÀ — L'Atlante del Calcio Mondiale</title>
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=DM+Mono:ital,wght@0,400;0,500;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+
+  <!-- Main CSS -->
+  <link rel="stylesheet" href="style.css">
+
+  <!-- PWA -->
+  <link rel="manifest" href="manifest.json">
 </head>
-<body class="dark-mode">
+<body>
 
-    <header class="header">
-        <div class="header-content">
-            <div class="branding">
-                <h1 data-i18n="header.title">Global Club Rivalries Ranking</h1>
-                <p data-i18n="header.subtitle">Le più grandi rivalità calcistiche delle Top 50 Leghe Opta</p>
-            </div>
-            <div class="controls">
-                <button id="lang-toggle" class="btn-icon" aria-label="Toggle Language">IT / EN</button>
-                <button id="theme-toggle" class="btn-icon" aria-label="Toggle Theme">
-                    <svg class="sun-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
-                    <svg class="moon-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
-                </button>
-            </div>
+  <!-- ═══════════════════════════════════════════════
+       HEADER
+  ═══════════════════════════════════════════════ -->
+  <header class="site-header" id="site-header">
+    <div class="header-inner">
+      <!-- Logo / Title -->
+      <a href="#home" class="site-logo" data-nav="home">
+        <span class="logo-accent">◆</span>
+        <span class="logo-text">RIVALITÀ</span>
+        <span class="logo-sub" data-i18n="header.subtitle">Atlante del Calcio Mondiale</span>
+      </a>
+
+      <!-- Nav -->
+      <nav class="main-nav" role="navigation" aria-label="Navigazione principale">
+        <a href="#encyclopaedia" class="nav-link" data-nav="encyclopaedia" data-i18n="nav.encyclopaedia">Enciclopedia</a>
+        <a href="#ranking" class="nav-link" data-nav="ranking" data-i18n="nav.ranking">Classifica</a>
+        <a href="#map" class="nav-link" data-nav="map" data-i18n="nav.map">Mappa</a>
+        <a href="#charts" class="nav-link" data-nav="charts" data-i18n="nav.charts">Grafici</a>
+        <a href="#about" class="nav-link" data-nav="about" data-i18n="nav.about">Metodo</a>
+      </nav>
+
+      <!-- Controls -->
+      <div class="header-controls">
+        <!-- Language toggle -->
+        <button class="ctrl-btn lang-toggle" id="lang-toggle" aria-label="Cambia lingua / Switch language">
+          <span class="lang-it active">IT</span>
+          <span class="lang-sep">/</span>
+          <span class="lang-en">EN</span>
+        </button>
+        <!-- Theme toggle -->
+        <button class="ctrl-btn theme-toggle" id="theme-toggle" aria-label="Modalità chiara/scura">
+          <span class="theme-icon">◑</span>
+        </button>
+        <!-- Mobile menu -->
+        <button class="ctrl-btn mobile-menu-btn" id="mobile-menu-btn" aria-label="Menu">
+          <span class="hamburger"></span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Mobile nav -->
+    <nav class="mobile-nav" id="mobile-nav" aria-hidden="true">
+      <a href="#encyclopaedia" class="mobile-nav-link" data-i18n="nav.encyclopaedia">Enciclopedia</a>
+      <a href="#ranking" class="mobile-nav-link" data-i18n="nav.ranking">Classifica</a>
+      <a href="#map" class="mobile-nav-link" data-i18n="nav.map">Mappa</a>
+      <a href="#charts" class="mobile-nav-link" data-i18n="nav.charts">Grafici</a>
+      <a href="#about" class="mobile-nav-link" data-i18n="nav.about">Metodo</a>
+    </nav>
+  </header>
+
+  <!-- ═══════════════════════════════════════════════
+       MAIN
+  ═══════════════════════════════════════════════ -->
+  <main id="main-content">
+
+    <!-- ─── HOME ─── -->
+    <section id="home" class="page-section active" aria-label="Home">
+      <div class="hero">
+        <div class="hero-bg-lines" aria-hidden="true">
+          <div class="bg-line"></div><div class="bg-line"></div>
+          <div class="bg-line"></div><div class="bg-line"></div>
+          <div class="bg-line"></div>
         </div>
-    </header>
 
-    <main class="container">
-        
-        <section class="sliders-panel card">
-            <div class="panel-header">
-                <h2 data-i18n="sliders.title">Parametri Punteggio (Peso R-Score)</h2>
-                <button id="reset-sliders" class="btn-secondary" data-i18n="settings.reset">Ripristina Default</button>
-            </div>
-            
-            <div class="sliders-grid">
-                <div class="slider-group">
-                    <label>
-                        <span data-i18n="sliders.longevity">Longevità (w_L)</span>
-                        <span id="val-l" class="slider-val">0.30</span>
-                    </label>
-                    <input type="range" id="slider-l" min="0" max="1" step="0.05" value="0.30">
-                </div>
-                <div class="slider-group">
-                    <label>
-                        <span data-i18n="sliders.prestige">Prestigio (w_T)</span>
-                        <span id="val-t" class="slider-val">0.25</span>
-                    </label>
-                    <input type="range" id="slider-t" min="0" max="1" step="0.05" value="0.25">
-                </div>
-                <div class="slider-group">
-                    <label>
-                        <span data-i18n="sliders.intensity">Intensità (w_I)</span>
-                        <span id="val-i" class="slider-val">0.25</span>
-                    </label>
-                    <input type="range" id="slider-i" min="0" max="1" step="0.05" value="0.25">
-                </div>
-                <div class="slider-group">
-                    <label>
-                        <span data-i18n="sliders.scale">Portata (w_S)</span>
-                        <span id="val-s" class="slider-val">0.20</span>
-                    </label>
-                    <input type="range" id="slider-s" min="0" max="1" step="0.05" value="0.20">
-                </div>
-            </div>
-            <p class="sliders-info" data-i18n="sliders.info">La formula calcola il punteggio R normalizzando i pesi (somma = 1). Il bonus Derby cittadino (D) moltiplica il punteggio per 1.15.</p>
-        </section>
+        <div class="hero-content">
+          <div class="hero-eyebrow">
+            <span class="eyebrow-line" aria-hidden="true">━━━━━━</span>
+            <span class="eyebrow-text" data-i18n="hero.eyebrow">Il Grande Atlante</span>
+            <span class="eyebrow-line" aria-hidden="true">━━━━━━</span>
+          </div>
 
-        <section class="ranking-section card">
-            <h2 data-i18n="table.title">Classifica Rivalità</h2>
-            <div class="table-responsive">
-                <table id="ranking-table">
-                    <thead>
-                        <tr>
-                            <th data-i18n="table.rank">#</th>
-                            <th data-i18n="table.match">Incontro</th>
-                            <th data-i18n="table.country">Nazione</th>
-                            <th data-i18n="table.score">R-Score</th>
-                        </tr>
-                    </thead>
-                    <tbody id="ranking-body">
-                        <!-- JS populated -->
-                    </tbody>
-                </table>
-            </div>
-        </section>
+          <h1 class="hero-title">
+            <span class="title-line-1">RIVALITÀ</span>
+            <span class="title-line-2" data-i18n="hero.title2">del Calcio Mondiale</span>
+          </h1>
 
-        <section class="map-section card">
-            <h2 data-i18n="map.title">Mappa Globale degli Stadi</h2>
-            <div id="map"></div>
-        </section>
+          <p class="hero-desc" data-i18n="hero.description">
+            Enciclopedia completa e classifica scientifica di ogni rivalità calcistica documentata nel mondo. Dati trasparenti, fonti verificate, metodologia aperta.
+          </p>
 
-        <section class="methodology-section card">
-            <h2 data-i18n="methodology.title">Metodologia</h2>
-            
-            <h3 data-i18n="methodology.scope">Ambito della Ricerca</h3>
-            <p data-i18n="methodology.scope_text">Le rivalità sono state selezionate esclusivamente tra le squadre appartenenti alle prime 50 leghe del ranking Opta...</p>
-            
-            <h3 data-i18n="methodology.formula">La Formula</h3>
-            <p data-i18n="methodology.formula_desc">Il punteggio della rivalità (R) viene calcolato combinando 4 fattori normalizzati...</p>
-            
-            <div class="formula-box">
-                <code data-i18n="methodology.formula_math">R = (w_L × L + w_T × T + w_I × I + w_S × S) × D</code>
+          <div class="hero-stats" id="hero-stats">
+            <div class="hero-stat">
+              <span class="stat-num" id="stat-rivalries">—</span>
+              <span class="stat-label" data-i18n="hero.stat.rivalries">Rivalità Enciclopedia</span>
             </div>
-            
-            <ul>
-                <li data-i18n="methodology.factor_l"><strong>L (Longevità):</strong> log(Partite Totali) / log(Partite Max)...</li>
-                <li data-i18n="methodology.factor_t"><strong>T (Prestigio):</strong> (Trofei A + Trofei B) / Max Trofei Combinati...</li>
-                <li data-i18n="methodology.factor_i"><strong>I (Intensità):</strong> Basato sul Social Fracture Score...</li>
-                <li data-i18n="methodology.factor_s"><strong>S (Portata):</strong> (Capacità Stadio A + Capacità Stadio B) / Max Capacità...</li>
-                <li data-i18n="methodology.factor_d"><strong>D (Derby Bonus):</strong> Moltiplicatore 1.15 se condividono la città...</li>
+            <div class="hero-stat-sep" aria-hidden="true">◆</div>
+            <div class="hero-stat">
+              <span class="stat-num" id="stat-ranked">—</span>
+              <span class="stat-label" data-i18n="hero.stat.ranked">Nel Ranking</span>
+            </div>
+            <div class="hero-stat-sep" aria-hidden="true">◆</div>
+            <div class="hero-stat">
+              <span class="stat-num" id="stat-leagues">—</span>
+              <span class="stat-label" data-i18n="hero.stat.leagues">Leghe Opta</span>
+            </div>
+            <div class="hero-stat-sep" aria-hidden="true">◆</div>
+            <div class="hero-stat">
+              <span class="stat-num" id="stat-countries">—</span>
+              <span class="stat-label" data-i18n="hero.stat.countries">Paesi</span>
+            </div>
+          </div>
+
+          <div class="hero-cta">
+            <a href="#ranking" class="btn btn-primary" data-i18n="hero.cta.ranking">Vedi la Classifica</a>
+            <a href="#encyclopaedia" class="btn btn-secondary" data-i18n="hero.cta.encyclopaedia">Esplora l'Enciclopedia</a>
+          </div>
+        </div>
+
+        <!-- Data notice -->
+        <div class="hero-notice">
+          <span class="notice-icon" aria-hidden="true">◆</span>
+          <span data-i18n="hero.datanotice">Dati raccolti per 50 stagioni: 1975/76 – 2025/26. Snapshot Opta: settembre 2025. Fonti: Wikipedia, Wikidata, Transfermarkt.</span>
+        </div>
+      </div>
+
+      <!-- Featured rivalries teaser -->
+      <div class="home-featured">
+        <div class="section-header">
+          <h2 class="section-title" data-i18n="home.featured">Le Rivalità Più Grandi</h2>
+          <div class="section-line" aria-hidden="true"></div>
+        </div>
+        <div class="featured-grid" id="featured-grid">
+          <!-- Populated by JS -->
+          <div class="loading-skeleton"></div>
+          <div class="loading-skeleton"></div>
+          <div class="loading-skeleton"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ─── ENCYCLOPAEDIA ─── -->
+    <section id="encyclopaedia" class="page-section" aria-label="Enciclopedia rivalità" hidden>
+      <div class="section-hero">
+        <div class="section-hero-inner">
+          <div class="section-num" aria-hidden="true">I</div>
+          <h2 class="section-main-title" data-i18n="encyclopaedia.title">Enciclopedia</h2>
+          <p class="section-main-desc" data-i18n="encyclopaedia.desc">Tutte le rivalità calcistiche documentate su Wikipedia — organizzate per continente, nazione e tipo.</p>
+        </div>
+      </div>
+
+      <!-- Filters -->
+      <div class="filters-bar sticky-filters" id="enc-filters">
+        <div class="filters-inner">
+          <!-- Search -->
+          <div class="filter-search">
+            <label for="enc-search" class="sr-only" data-i18n="filter.search">Cerca rivalità</label>
+            <input type="search" id="enc-search" class="search-input" data-i18n-placeholder="filter.search.placeholder" placeholder="Cerca rivalità...">
+            <span class="search-icon" aria-hidden="true">⌕</span>
+          </div>
+
+          <!-- Continent -->
+          <div class="filter-group">
+            <label for="enc-continent" class="filter-label" data-i18n="filter.continent">Continente</label>
+            <select id="enc-continent" class="filter-select">
+              <option value="" data-i18n="filter.all">Tutti</option>
+              <option value="Europe">Europa</option>
+              <option value="South America">Sud America</option>
+              <option value="North America">Nord America</option>
+              <option value="Africa">Africa</option>
+              <option value="Asia">Asia</option>
+              <option value="Oceania">Oceania</option>
+            </select>
+          </div>
+
+          <!-- Country -->
+          <div class="filter-group">
+            <label for="enc-country" class="filter-label" data-i18n="filter.country">Nazione</label>
+            <select id="enc-country" class="filter-select">
+              <option value="" data-i18n="filter.all">Tutte</option>
+              <!-- Populated by JS -->
+            </select>
+          </div>
+
+          <!-- Type -->
+          <div class="filter-group">
+            <label for="enc-type" class="filter-label" data-i18n="filter.type">Tipo</label>
+            <select id="enc-type" class="filter-select">
+              <option value="" data-i18n="filter.all">Tutti</option>
+              <option value="city_derby" data-i18n="filter.type.city">Derby Cittadino</option>
+              <option value="regional" data-i18n="filter.type.regional">Rivalità Regionale</option>
+              <option value="national" data-i18n="filter.type.national">Rivalità Nazionale</option>
+              <option value="international" data-i18n="filter.type.international">Rivalità Internazionale</option>
+            </select>
+          </div>
+
+          <!-- Results count -->
+          <div class="filter-count">
+            <span id="enc-count">—</span>
+            <span data-i18n="filter.results">rivalità</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Grid -->
+      <div class="encyclopaedia-grid" id="enc-grid" role="list">
+        <!-- Populated by JS -->
+        <div class="loading-state" id="enc-loading">
+          <div class="loading-spinner" aria-hidden="true"></div>
+          <p data-i18n="loading">Caricamento in corso...</p>
+        </div>
+      </div>
+
+      <!-- Load more -->
+      <div class="load-more-container">
+        <button class="btn btn-ghost" id="enc-load-more" hidden data-i18n="btn.loadmore">Carica altri</button>
+      </div>
+    </section>
+
+    <!-- ─── RANKING ─── -->
+    <section id="ranking" class="page-section" aria-label="Classifica rivalità" hidden>
+      <div class="section-hero">
+        <div class="section-hero-inner">
+          <div class="section-num" aria-hidden="true">II</div>
+          <h2 class="section-main-title" data-i18n="ranking.title">Classifica</h2>
+          <p class="section-main-desc" data-i18n="ranking.desc">Ranking scientifico di tutte le rivalità nelle leghe classificate da Opta. Formula trasparente con parametri regolabili.</p>
+        </div>
+      </div>
+
+      <!-- Formula display -->
+      <div class="formula-banner">
+        <div class="formula-inner">
+          <div class="formula-label" data-i18n="formula.label">La Formula</div>
+          <div class="formula-display">
+            <span class="formula-r">R</span>
+            <span class="formula-eq">=</span>
+            <span class="formula-group">
+              <span class="formula-paren">(</span>
+              <span class="formula-term">
+                <span class="formula-w" id="fw-l">w<sub>L</sub></span>
+                <span class="formula-x">×</span>
+                <span class="formula-var var-l">L</span>
+              </span>
+              <span class="formula-plus">+</span>
+              <span class="formula-term">
+                <span class="formula-w" id="fw-p">w<sub>P</sub></span>
+                <span class="formula-x">×</span>
+                <span class="formula-var var-p">P</span>
+              </span>
+              <span class="formula-plus">+</span>
+              <span class="formula-term">
+                <span class="formula-w" id="fw-m">w<sub>M</sub></span>
+                <span class="formula-x">×</span>
+                <span class="formula-var var-m">M</span>
+              </span>
+              <span class="formula-paren">)</span>
+            </span>
+            <span class="formula-x">×</span>
+            <span class="formula-var var-b">B</span>
+          </div>
+          <div class="formula-legend">
+            <span class="legend-item"><span class="legend-var var-l">L</span> = <span data-i18n="formula.l">Prestigio Lega (Opta)</span></span>
+            <span class="legend-sep" aria-hidden="true">◆</span>
+            <span class="legend-item"><span class="legend-var var-p">P</span> = <span data-i18n="formula.p">Precedenti storici</span></span>
+            <span class="legend-sep" aria-hidden="true">◆</span>
+            <span class="legend-item"><span class="legend-var var-m">M</span> = <span data-i18n="formula.m">Longevità (decenni)</span></span>
+            <span class="legend-sep" aria-hidden="true">◆</span>
+            <span class="legend-item"><span class="legend-var var-b">B</span> = <span data-i18n="formula.b">Bonus Derby</span></span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Parameter sliders -->
+      <div class="sliders-panel">
+        <div class="sliders-inner">
+          <div class="sliders-title" data-i18n="sliders.title">Pesi della Formula</div>
+          <div class="sliders-note" data-i18n="sliders.note">I pesi si normalizzano automaticamente a 1. La classifica si ricalcola in tempo reale.</div>
+
+          <div class="sliders-grid">
+            <!-- wL -->
+            <div class="slider-row">
+              <div class="slider-info">
+                <span class="slider-var var-l">L</span>
+                <span class="slider-name" data-i18n="slider.l.name">Prestigio Lega</span>
+                <span class="slider-val" id="val-wl">0.40</span>
+              </div>
+              <input type="range" id="slider-wl" class="range-slider slider-l" min="0" max="100" value="40" aria-label="Peso L">
+              <div class="slider-desc" data-i18n="slider.l.desc">Posizione nel ranking globale Opta. Le leghe più competitive pesano di più.</div>
+            </div>
+
+            <!-- wP -->
+            <div class="slider-row">
+              <div class="slider-info">
+                <span class="slider-var var-p">P</span>
+                <span class="slider-name" data-i18n="slider.p.name">Precedenti Storici</span>
+                <span class="slider-val" id="val-wp">0.35</span>
+              </div>
+              <input type="range" id="slider-wp" class="range-slider slider-p" min="0" max="100" value="35" aria-label="Peso P">
+              <div class="slider-desc" data-i18n="slider.p.desc">Numero totale di scontri diretti documentati nella storia.</div>
+            </div>
+
+            <!-- wM -->
+            <div class="slider-row">
+              <div class="slider-info">
+                <span class="slider-var var-m">M</span>
+                <span class="slider-name" data-i18n="slider.m.name">Longevità</span>
+                <span class="slider-val" id="val-wm">0.25</span>
+              </div>
+              <input type="range" id="slider-wm" class="range-slider slider-m" min="0" max="100" value="25" aria-label="Peso M">
+              <div class="slider-desc" data-i18n="slider.m.desc">Decenni consecutivi con almeno uno scontro diretto documentato.</div>
+            </div>
+          </div>
+
+          <div class="sliders-actions">
+            <button class="btn btn-ghost btn-sm" id="sliders-reset" data-i18n="btn.reset">Ripristina pesi default</button>
+            <button class="btn btn-ghost btn-sm" id="export-btn" data-i18n="btn.export">↓ Esporta slide PNG</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Ranking table -->
+      <div class="ranking-container">
+        <!-- Sort / filter controls -->
+        <div class="ranking-controls">
+          <div class="ranking-search">
+            <input type="search" id="rank-search" class="search-input search-sm" data-i18n-placeholder="filter.search.ranking" placeholder="Cerca nel ranking...">
+            <span class="search-icon" aria-hidden="true">⌕</span>
+          </div>
+          <div class="filter-group">
+            <label for="rank-continent" class="filter-label" data-i18n="filter.continent">Continente</label>
+            <select id="rank-continent" class="filter-select filter-select-sm">
+              <option value="" data-i18n="filter.all">Tutti</option>
+              <option value="Europe">Europa</option>
+              <option value="South America">Sud America</option>
+              <option value="North America">Nord America</option>
+              <option value="Africa">Africa</option>
+              <option value="Asia">Asia</option>
+            </select>
+          </div>
+          <div class="ranking-count">
+            <span id="rank-count">—</span>
+            <span data-i18n="filter.results">rivalità</span>
+          </div>
+        </div>
+
+        <div class="ranking-table-wrapper" role="region" aria-label="Tabella ranking" tabindex="0">
+          <table class="ranking-table" id="ranking-table">
+            <thead>
+              <tr>
+                <th class="col-rank" data-i18n="table.rank">#</th>
+                <th class="col-rivalry" data-i18n="table.rivalry">Rivalità</th>
+                <th class="col-league" data-i18n="table.league">Lega (Opta)</th>
+                <th class="col-score sort-active" data-sort="score" data-i18n="table.score">Score ▼</th>
+                <th class="col-l" data-sort="l" data-i18n="table.l">L</th>
+                <th class="col-p" data-sort="p" data-i18n="table.p">P</th>
+                <th class="col-m" data-sort="m" data-i18n="table.m">M</th>
+                <th class="col-derby" data-i18n="table.derby">Derby</th>
+                <th class="col-wiki" data-i18n="table.wiki">Wiki</th>
+              </tr>
+            </thead>
+            <tbody id="ranking-tbody">
+              <!-- Populated by JS -->
+            </tbody>
+          </table>
+        </div>
+
+        <div class="loading-state" id="rank-loading">
+          <div class="loading-spinner" aria-hidden="true"></div>
+          <p data-i18n="loading">Caricamento in corso...</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ─── MAP ─── -->
+    <section id="map" class="page-section" aria-label="Mappa degli stadi" hidden>
+      <div class="section-hero">
+        <div class="section-hero-inner">
+          <div class="section-num" aria-hidden="true">III</div>
+          <h2 class="section-main-title" data-i18n="map.title">Mappa</h2>
+          <p class="section-main-desc" data-i18n="map.desc">Stadi di tutte le squadre menzionate nelle rivalità. Clicca un marker per dettagli.</p>
+        </div>
+      </div>
+
+      <div class="map-controls">
+        <button class="btn btn-ghost btn-sm map-filter-btn active" data-filter="all" data-i18n="map.filter.all">Tutti gli stadi</button>
+        <button class="btn btn-ghost btn-sm map-filter-btn" data-filter="top10" data-i18n="map.filter.top10">Top 10 rivalità</button>
+        <button class="btn btn-ghost btn-sm map-filter-btn" data-filter="derby" data-i18n="map.filter.derby">Solo derby</button>
+      </div>
+
+      <div id="leaflet-map" class="leaflet-map-container" role="application" aria-label="Mappa interattiva degli stadi"></div>
+    </section>
+
+    <!-- ─── CHARTS ─── -->
+    <section id="charts" class="page-section" aria-label="Visualizzazioni dati" hidden>
+      <div class="section-hero">
+        <div class="section-hero-inner">
+          <div class="section-num" aria-hidden="true">IV</div>
+          <h2 class="section-main-title" data-i18n="charts.title">Grafici</h2>
+          <p class="section-main-desc" data-i18n="charts.desc">Visualizzazioni originali per leggere i dati in modo nuovo.</p>
+        </div>
+      </div>
+
+      <div class="charts-grid">
+        <!-- Treemap -->
+        <div class="chart-card chart-full">
+          <h3 class="chart-title" data-i18n="chart.treemap.title">Mappa del Peso delle Rivalità</h3>
+          <p class="chart-desc" data-i18n="chart.treemap.desc">Dimensione = score totale. Colore = continente.</p>
+          <div id="chart-treemap" class="chart-container chart-lg"></div>
+        </div>
+
+        <!-- Timeline -->
+        <div class="chart-card chart-half">
+          <h3 class="chart-title" data-i18n="chart.timeline.title">Timeline Storica (Top 20)</h3>
+          <p class="chart-desc" data-i18n="chart.timeline.desc">Decenni attivi per ciascuna rivalità.</p>
+          <div id="chart-timeline" class="chart-container chart-md"></div>
+        </div>
+
+        <!-- Sunburst -->
+        <div class="chart-card chart-half">
+          <h3 class="chart-title" data-i18n="chart.sunburst.title">Gerarchia Leghe</h3>
+          <p class="chart-desc" data-i18n="chart.sunburst.desc">Lega → rivalità contenute.</p>
+          <div id="chart-sunburst" class="chart-container chart-md"></div>
+        </div>
+
+        <!-- Radar / Spider -->
+        <div class="chart-card chart-half">
+          <h3 class="chart-title" data-i18n="chart.radar.title">Confronto Rivalità</h3>
+          <p class="chart-desc" data-i18n="chart.radar.desc">Seleziona due rivalità per confrontarle.</p>
+          <div class="radar-selectors">
+            <select id="radar-a" class="filter-select filter-select-sm">
+              <option value="" data-i18n="chart.radar.select">Seleziona rivalità A</option>
+            </select>
+            <select id="radar-b" class="filter-select filter-select-sm">
+              <option value="" data-i18n="chart.radar.select">Seleziona rivalità B</option>
+            </select>
+          </div>
+          <div id="chart-radar" class="chart-container chart-md"></div>
+        </div>
+
+        <!-- Lega bar chart -->
+        <div class="chart-card chart-half">
+          <h3 class="chart-title" data-i18n="chart.leagues.title">Rivalità per Lega</h3>
+          <p class="chart-desc" data-i18n="chart.leagues.desc">Le leghe con più rivalità nel ranking.</p>
+          <div id="chart-leagues" class="chart-container chart-md"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ─── ABOUT / METHOD ─── -->
+    <section id="about" class="page-section" aria-label="Metodo e fonti" hidden>
+      <div class="section-hero">
+        <div class="section-hero-inner">
+          <div class="section-num" aria-hidden="true">V</div>
+          <h2 class="section-main-title" data-i18n="about.title">Metodo</h2>
+          <p class="section-main-desc" data-i18n="about.desc">Trasparenza totale: ogni dato è verificato, ogni formula è aperta, ogni fonte è citata.</p>
+        </div>
+      </div>
+
+      <div class="about-content">
+        <!-- Data scope -->
+        <div class="about-block">
+          <h3 class="about-block-title" data-i18n="about.scope.title">Copertura Dati</h3>
+          <div class="about-block-body">
+            <div class="data-badge">
+              <span class="badge-num">50</span>
+              <span class="badge-label" data-i18n="about.scope.seasons">Stagioni: 1975/76 – 2025/26</span>
+            </div>
+            <p data-i18n="about.scope.desc">L'enciclopedia raccoglie tutte le rivalità documentate su Wikipedia. Il ranking considera le rivalità tra club di leghe classificate da Opta nella loro classifica globale completa.</p>
+          </div>
+        </div>
+
+        <!-- Formula detail -->
+        <div class="about-block">
+          <h3 class="about-block-title" data-i18n="about.formula.title">La Formula in Dettaglio</h3>
+          <div class="about-block-body">
+            <div class="formula-table">
+              <div class="formula-row">
+                <span class="ft-var var-l">L — Prestigio Lega</span>
+                <span class="ft-formula">score_lega = (N_leghe − rank_lega + 1) / N_leghe × 100</span>
+                <span class="ft-source">Fonte: Opta Power Rankings 2024-25</span>
+              </div>
+              <div class="formula-row">
+                <span class="ft-var var-p">P — Precedenti</span>
+                <span class="ft-formula">score_precedenti = log(n_match + 1) / log(max_match + 1) × 100</span>
+                <span class="ft-source">Fonte: Wikipedia infobox, Transfermarkt</span>
+              </div>
+              <div class="formula-row">
+                <span class="ft-var var-m">M — Longevità</span>
+                <span class="ft-formula">score_longevita = decenni_attivi / max_decenni × 100</span>
+                <span class="ft-source">Fonte: Wikipedia (anno primo/ultimo incontro)</span>
+              </div>
+              <div class="formula-row">
+                <span class="ft-var var-b">B — Derby Bonus</span>
+                <span class="ft-formula">×1.15 (stessa città) | ×1.05 (stessa regione) | ×1.00 (altro)</span>
+                <span class="ft-source">Fonte: Wikipedia (dati geografici)</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Limitations -->
+        <div class="about-block about-warning">
+          <h3 class="about-block-title" data-i18n="about.limits.title">Limitazioni Consapevoli</h3>
+          <div class="about-block-body">
+            <ul class="limitations-list">
+              <li data-i18n="about.limits.fillrate">Il dato di riempimento degli stadi (1976-2026) non è incluso: la copertura globale non è sufficientemente uniforme per garantire rigore scientifico.</li>
+              <li data-i18n="about.limits.opta">Il ranking Opta è dinamico; il sito usa uno snapshot fisso (settembre 2025). Non si aggiorna automaticamente.</li>
+              <li data-i18n="about.limits.headtohead">I dati head-to-head provengono principalmente da Wikipedia: le competizioni storiche meno documentate potrebbero avere conteggi incompleti.</li>
             </ul>
+          </div>
+        </div>
 
-            <h3 data-i18n="methodology.sources">Fonti Dati</h3>
-            <p data-i18n="methodology.sources_text">I dati sugli incontri storici, i trofei e la capacità degli stadi sono stati aggregati...</p>
-        </section>
+        <!-- Sources -->
+        <div class="about-block">
+          <h3 class="about-block-title" data-i18n="about.sources.title">Fonti Complete</h3>
+          <div class="about-block-body">
+            <div class="sources-grid">
+              <div class="source-item">
+                <span class="source-name">Wikipedia</span>
+                <span class="source-url"><a href="https://en.wikipedia.org/wiki/Category:Association_football_rivalries" target="_blank" rel="noopener">Category:Association football rivalries</a></span>
+                <span class="source-what" data-i18n="source.wikipedia.what">Enciclopedia rivalità, head-to-head, storia</span>
+              </div>
+              <div class="source-item">
+                <span class="source-name">Opta / The Analyst</span>
+                <span class="source-url"><a href="https://theanalyst.com" target="_blank" rel="noopener">theanalyst.com</a></span>
+                <span class="source-what" data-i18n="source.opta.what">Ranking globale delle leghe (snapshot set. 2025)</span>
+              </div>
+              <div class="source-item">
+                <span class="source-name">Wikidata</span>
+                <span class="source-url"><a href="https://query.wikidata.org" target="_blank" rel="noopener">query.wikidata.org</a></span>
+                <span class="source-what" data-i18n="source.wikidata.what">Coordinate stadi, capacità</span>
+              </div>
+              <div class="source-item">
+                <span class="source-name">Wikimedia Commons</span>
+                <span class="source-url"><a href="https://commons.wikimedia.org" target="_blank" rel="noopener">commons.wikimedia.org</a></span>
+                <span class="source-what" data-i18n="source.wikimedia.what">Logo ufficiali delle squadre</span>
+              </div>
+            </div>
+          </div>
+        </div>
 
-    </main>
+        <!-- Credits -->
+        <div class="about-block about-credits">
+          <h3 class="about-block-title" data-i18n="about.credits.title">Crediti & Progetto</h3>
+          <div class="about-block-body">
+            <p data-i18n="about.credits.desc">Progetto open source. Design ispirato al Futurismo italiano degli anni '20 (Fortunato Depero, F.T. Marinetti). Tutti i dati provengono da fonti pubbliche e sono riproducibili.</p>
+            <div class="about-links">
+              <a href="https://github.com/marcorzzn/global-club-rivalries-ranking" target="_blank" rel="noopener" class="btn btn-ghost btn-sm">↗ GitHub</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
-    <footer class="footer">
-        <p><span data-i18n="footer.credits">Progetto 'Global Club Rivalries Ranking'</span> &copy; 2026</p>
-        <p>
-            <a href="https://github.com/marcorzzn/global-club-rivalries-ranking" target="_blank" data-i18n="footer.github">Visualizza su GitHub</a> | 
-            <span data-i18n="footer.license">Rilasciato sotto licenza MIT</span>
-        </p>
-    </footer>
+  </main>
 
-    <!-- Leaflet JS -->
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
-    <!-- App JS -->
-    <script src="app.js"></script>
+  <!-- ═══════════════════════════════════════════════
+       RIVALRY MODAL
+  ═══════════════════════════════════════════════ -->
+  <div class="modal-overlay" id="rivalry-modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>
+    <div class="modal-panel">
+      <div class="modal-header">
+        <button class="modal-close" id="modal-close" aria-label="Chiudi">✕</button>
+        <div class="modal-badges" id="modal-badges"></div>
+      </div>
+      <div class="modal-body" id="modal-body">
+        <!-- Populated by JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════
+       EXPORT OVERLAY
+  ═══════════════════════════════════════════════ -->
+  <div class="export-overlay" id="export-overlay" hidden>
+    <div class="export-panel">
+      <div class="export-header">
+        <h3 class="export-title" data-i18n="export.title">Esporta Classifica</h3>
+        <button class="modal-close" id="export-close">✕</button>
+      </div>
+      <div class="export-options">
+        <label class="export-option">
+          <input type="radio" name="export-theme" value="light" checked>
+          <span data-i18n="export.light">Chiaro</span>
+        </label>
+        <label class="export-option">
+          <input type="radio" name="export-theme" value="dark">
+          <span data-i18n="export.dark">Scuro</span>
+        </label>
+      </div>
+      <div class="export-preview" id="export-preview">
+        <!-- 4 slide preview -->
+        <div class="slide-preview" id="slide-1"></div>
+        <div class="slide-preview" id="slide-2"></div>
+        <div class="slide-preview" id="slide-3"></div>
+        <div class="slide-preview" id="slide-4"></div>
+      </div>
+      <button class="btn btn-primary" id="export-download" data-i18n="export.download">↓ Scarica 4 slide PNG</button>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════
+       FOOTER
+  ═══════════════════════════════════════════════ -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-logo">
+        <span class="logo-accent">◆</span>
+        <span class="logo-text">RIVALITÀ</span>
+      </div>
+      <div class="footer-data-notice">
+        <span data-i18n="footer.notice">Dati: 1975/76 – 2025/26 (50 stagioni) · Opta snapshot: settembre 2025 · Fonti: Wikipedia, Wikidata, Wikimedia</span>
+      </div>
+      <div class="footer-links">
+        <a href="https://en.wikipedia.org/wiki/Category:Association_football_rivalries" target="_blank" rel="noopener">Wikipedia</a>
+        <a href="https://theanalyst.com" target="_blank" rel="noopener">Opta</a>
+        <a href="https://github.com/marcorzzn/global-club-rivalries-ranking" target="_blank" rel="noopener">GitHub</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ═══════════════════════════════════════════════
+       SCRIPTS
+  ═══════════════════════════════════════════════ -->
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <!-- D3 -->
+  <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+  <!-- html2canvas for export -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+  <!-- Main app -->
+  <script src="app.js" type="module"></script>
 </body>
 </html>

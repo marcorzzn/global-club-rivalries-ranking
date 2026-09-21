@@ -1,94 +1,106 @@
-# 🏆 Global Club Rivalries Ranking
+# RIVALITÀ — L'Atlante del Calcio Mondiale
 
-**The definitive, data-driven ranking of the world's greatest football club rivalries.**
+**Enciclopedia completa e ranking scientifico di tutte le rivalità calcistiche del mondo.**
 
-🌐 **[Live Website](https://marcorzzn.github.io/global-club-rivalries-ranking/)** | 🇮🇹 Italiano / 🇬🇧 English
-
----
-
-## Overview
-
-This project ranks **100 football rivalries** from clubs belonging to the **Top 50 leagues in the Opta ranking**, using a transparent, fully parameterizable mathematical formula. Every data point is sourced, verified, and traceable — no estimates, no null values, no guesswork.
-
-### Features
-
-- 📊 **Interactive ranking table** with real-time recalculation
-- 🗺️ **Global stadium map** powered by Leaflet.js
-- ⚙️ **Adjustable weights** — tune the 4 formula parameters via sliders
-- 🌙 **Dark / Light mode** toggle
-- 🇮🇹🇬🇧 **Bilingual** — full Italian and English support
-- 📱 **Responsive** — works on desktop, tablet, and mobile
+🌐 **[Sito Live](https://marcorzzn.github.io/global-club-rivalries-ranking/)** · 🇮🇹 Italiano / 🇬🇧 English · ◑ Dark/Light mode
 
 ---
 
-## The Formula
+## Il Progetto
 
-Each rivalry receives a score **R** computed as:
+**RIVALITÀ** è un atlante digitale del calcio mondiale con due anime:
 
-**R = (w<sub>L</sub> × L + w<sub>T</sub> × T + w<sub>I</sub> × I + w<sub>S</sub> × S) × D**
+1. **Enciclopedia** — Tutte le rivalità calcistiche documentate su Wikipedia (~400-600 rivalità), organizzate per continente, nazione e tipo, con storia bilingue e link alle pagine Wikipedia.
 
-| Parameter | Description | Default Weight |
-|-----------|-------------|----------------|
-| **L** (Longevity) | Historical volume: total matches played, active decades | **0.30** |
-| **T** (Prestige) | Combined major trophies (league titles + continental) | **0.25** |
-| **I** (Intensity) | Social fracture score + recognized rivalry name bonus | **0.25** |
-| **S** (Scale) | Combined stadium capacity of both clubs | **0.20** |
-| **D** (Derby Bonus) | ×1.15 multiplier if both clubs share the same city | — |
+2. **Classifica Scientifica** — Ranking di tutte le rivalità nelle leghe classificate da Opta (classifica completa, nessuna esclusione), calcolato con formula trasparente e parametri regolabili in tempo reale.
 
-All 4 weights are **freely adjustable** on the website. They are automatically normalized so their sum equals 1.
+### Design
+Stile ispirato al **Futurismo Italiano degli anni '20** — Fortunato Depero, F.T. Marinetti. Palette: Rosso Carminio · Nero Assoluto · Avorio · Oro. Modernizzato per massima leggibilità.
 
 ---
 
-## Data Sources
-
-| Data Point | Source | Coverage |
-|------------|--------|----------|
-| Rivalry list & match counts | [Wikipedia: List of football rivalries](https://en.wikipedia.org/wiki/List_of_association_football_rivalries) | 100% |
-| Stadium coordinates | [Wikidata](https://www.wikidata.org/) (P625) & Google Maps | 100% |
-| Club logos | [Wikimedia Commons](https://commons.wikimedia.org/) (direct URLs) | 100% |
-| Trophy counts | Wikipedia club pages, verified against Transfermarkt | 100% |
-| Stadium capacity | Wikipedia stadium pages | 100% |
-
-**Zero null values.** Every field in every entry has a verified, sourced value.
-
----
-
-## Scope
-
-Rivalries were selected exclusively from clubs belonging to leagues ranked in the **Top 50 of the Opta Power Rankings**. This covers all major confederations: UEFA, CONMEBOL, CAF, AFC. The dataset spans rivalries from Europe, South America, Africa, the Middle East, and beyond.
-
----
-
-## Project Structure
+## La Formula
 
 ```
-├── index.html          ← Single-page website
-├── style.css           ← Styling (dark/light mode, responsive)
-├── app.js              ← Logic (ranking, map, sliders, i18n)
+R = (wL × L + wP × P + wM × M) × B
+```
+
+| Parametro | Nome | Descrizione | Peso default |
+|-----------|------|-------------|--------------|
+| **L** | Prestigio Lega | Posizione nel ranking Opta completo | 0.40 |
+| **P** | Precedenti | Numero totale di match storici (normalizzato con log) | 0.35 |
+| **M** | Longevità | Decenni consecutivi con almeno una sfida | 0.25 |
+| **B** | Derby Bonus | ×1.15 (stessa città) · ×1.05 (stessa regione) | — |
+
+I pesi sono **liberamente regolabili** via slider. Si normalizzano automaticamente a 1. La classifica si ricalcola in tempo reale.
+
+---
+
+## Fonti Dati
+
+| Dato | Fonte | Copertura |
+|------|-------|-----------|
+| Lista rivalità + storia | [Wikipedia — Category:Association football rivalries](https://en.wikipedia.org/wiki/Category:Association_football_rivalries) | 100% |
+| Ranking globale leghe | [Opta / The Analyst](https://theanalyst.com) | Snapshot settembre 2025 |
+| Coordinate stadi | [Wikidata SPARQL](https://query.wikidata.org) (P625) | Copertura variabile |
+| Logo squadre | [Wikimedia Commons](https://commons.wikimedia.org) | Copertura variabile |
+| Head-to-head count | Wikipedia (infobox rivalità) | Copertura variabile |
+
+**Dati raccolti per 50 stagioni: 1975/76 – 2025/26.**
+
+---
+
+## Feature
+
+- 📖 **Enciclopedia** con filtri per continente, nazione, tipo + ricerca live
+- 🏆 **Ranking scientifico** con formula trasparente e slider regolabili
+- 🗺️ **Mappa globale** degli stadi (Leaflet.js + CartoDB)
+- 📊 **4 visualizzazioni D3**: treemap, timeline storica, sunburst leghe, spider chart
+- 🌍 **Bilingue** completo — IT/EN switcher per ogni contenuto
+- ◑ **Dark/Light mode**
+- 📱 **PWA** — installabile, funziona offline
+- 📤 **Export slide** — 4 PNG in formato 1:2 con le prime 100 rivalità
+
+---
+
+## Struttura
+
+```
+├── index.html          ← SPA principale
+├── style.css           ← Design system futurista
+├── app.js              ← Logica app (routing, formula, mappa, grafici, export)
+├── manifest.json       ← PWA manifest
 ├── data/
-│   └── rivalries.json  ← Definitive dataset (100 entries, 0 nulls)
+│   ├── rivalries_encyclopaedia.json  ← Tutte le rivalità Wikipedia
+│   ├── rivalries_ranking.json        ← Dataset ranking (leghe Opta)
+│   ├── leagues_opta.json             ← Ranking Opta completo
+│   └── stadiums.json                 ← Coordinate stadi
 ├── i18n/
-│   ├── it.json         ← Italian translations
+│   ├── it.json         ← Traduzioni italiano
 │   └── en.json         ← English translations
-├── slides/
-│   └── prompt.md       ← Prompt for generating X.com graphics
-├── build_data.py       ← Script to regenerate rivalries.json
-└── .github/workflows/
-    └── pages.yml       ← GitHub Pages auto-deploy
+├── scripts/
+│   ├── scrape_wikipedia.py    ← Raccolta dati enciclopedia
+│   ├── build_ranking_data.py  ← Dataset ranking
+│   └── build_stadiums.py      ← Coordinate stadi
+└── .github/workflows/pages.yml
 ```
 
 ---
 
-## License
+## Limitazioni Consapevoli
 
-MIT License — see [LICENSE](LICENSE) for details.
+- **Fill rate stadi escluso**: i dati di affluenza per ogni partita (1976-2026) non sono uniformemente disponibili su scala globale. Non inclusi per mantenere il rigore scientifico.
+- **Snapshot Opta**: il ranking delle leghe è uno snapshot fisso (settembre 2025). Il sito non si aggiorna automaticamente.
+- **Head-to-head**: i conteggi provengono da Wikipedia. Le competizioni storicamente meno documentate possono avere dati incompleti.
 
 ---
 
-## 🇮🇹 Panoramica (Italiano)
+## Licenza
 
-Questo progetto classifica le **100 più grandi rivalità calcistiche** tra club appartenenti alle **prime 50 leghe del ranking Opta**. Il punteggio è calcolato con una formula matematica trasparente e completamente parametrizzabile. Ogni dato è verificato e tracciabile: nessuna stima, nessun valore nullo.
+MIT — [LICENSE](LICENSE)
 
-La formula combina 4 fattori: **Longevità** (volume storico), **Prestigio** (trofei), **Intensità** (frattura sociale), **Portata** (capienze stadi), con un bonus del 15% per i derby cittadini. Tutti i pesi sono regolabili liberamente tramite gli slider sul sito.
+---
 
-**[Visita il sito →](https://marcorzzn.github.io/global-club-rivalries-ranking/)**
+## 🇮🇹 In breve
+
+**RIVALITÀ** è un atlante digitale delle rivalità calcistiche mondiali. Enciclopedia (tutte le rivalità Wikipedia) + classifica scientifica (leghe Opta, formula aperta). Design ispirato al Futurismo italiano anni '20.

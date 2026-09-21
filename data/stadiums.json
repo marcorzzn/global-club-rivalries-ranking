@@ -1,0 +1,326 @@
+[
+  {
+    "club": "Real Madrid",
+    "stadium": "Santiago Bernabéu",
+    "lat": 40.453056,
+    "lng": -3.688333,
+    "capacity": 83186,
+    "city": "Madrid",
+    "country": "Spain"
+  },
+  {
+    "club": "Barcelona",
+    "stadium": "Camp Nou",
+    "lat": 41.380898,
+    "lng": 2.12282,
+    "capacity": 99354,
+    "city": "Barcelona",
+    "country": "Spain"
+  },
+  {
+    "club": "Boca Juniors",
+    "stadium": "La Bombonera",
+    "lat": -34.635647,
+    "lng": -58.364761,
+    "capacity": 54000,
+    "city": "Buenos Aires",
+    "country": "Argentina"
+  },
+  {
+    "club": "River Plate",
+    "stadium": "Monumental",
+    "lat": -34.545278,
+    "lng": -58.449722,
+    "capacity": 84567,
+    "city": "Buenos Aires",
+    "country": "Argentina"
+  },
+  {
+    "club": "AC Milan",
+    "stadium": "San Siro",
+    "lat": 45.47808,
+    "lng": 9.124,
+    "capacity": 75923,
+    "city": "Milan",
+    "country": "Italy"
+  },
+  {
+    "club": "Inter Milan",
+    "stadium": "San Siro",
+    "lat": 45.47808,
+    "lng": 9.124,
+    "capacity": 75923,
+    "city": "Milan",
+    "country": "Italy"
+  },
+  {
+    "club": "Juventus",
+    "stadium": "Allianz Stadium",
+    "lat": 45.109444,
+    "lng": 7.641111,
+    "capacity": 41507,
+    "city": "Turin",
+    "country": "Italy"
+  },
+  {
+    "club": "Manchester United",
+    "stadium": "Old Trafford",
+    "lat": 53.463056,
+    "lng": -2.291389,
+    "capacity": 74310,
+    "city": "Manchester",
+    "country": "England"
+  },
+  {
+    "club": "Liverpool",
+    "stadium": "Anfield",
+    "lat": 53.430833,
+    "lng": -2.960833,
+    "capacity": 61276,
+    "city": "Liverpool",
+    "country": "England"
+  },
+  {
+    "club": "Celtic",
+    "stadium": "Celtic Park",
+    "lat": 55.849711,
+    "lng": -4.205589,
+    "capacity": 60411,
+    "city": "Glasgow",
+    "country": "Scotland"
+  },
+  {
+    "club": "Rangers",
+    "stadium": "Ibrox Stadium",
+    "lat": 55.853206,
+    "lng": -4.309258,
+    "capacity": 50817,
+    "city": "Glasgow",
+    "country": "Scotland"
+  },
+  {
+    "club": "Bayern Munich",
+    "stadium": "Allianz Arena",
+    "lat": 48.218775,
+    "lng": 11.624753,
+    "capacity": 75000,
+    "city": "Munich",
+    "country": "Germany"
+  },
+  {
+    "club": "Borussia Dortmund",
+    "stadium": "Signal Iduna Park",
+    "lat": 51.492589,
+    "lng": 7.451842,
+    "capacity": 81365,
+    "city": "Dortmund",
+    "country": "Germany"
+  },
+  {
+    "club": "Corinthians",
+    "stadium": "Neo Química Arena",
+    "lat": -23.545278,
+    "lng": -46.474167,
+    "capacity": 49205,
+    "city": "São Paulo",
+    "country": "Brazil"
+  },
+  {
+    "club": "Palmeiras",
+    "stadium": "Allianz Parque",
+    "lat": -23.5275,
+    "lng": -46.678611,
+    "capacity": 43713,
+    "city": "São Paulo",
+    "country": "Brazil"
+  },
+  {
+    "club": "Flamengo",
+    "stadium": "Maracanã",
+    "lat": -22.912167,
+    "lng": -43.230164,
+    "capacity": 78838,
+    "city": "Rio de Janeiro",
+    "country": "Brazil"
+  },
+  {
+    "club": "Fluminense",
+    "stadium": "Maracanã",
+    "lat": -22.912167,
+    "lng": -43.230164,
+    "capacity": 78838,
+    "city": "Rio de Janeiro",
+    "country": "Brazil"
+  },
+  {
+    "club": "Ajax",
+    "stadium": "Johan Cruyff Arena",
+    "lat": 52.314167,
+    "lng": 4.941944,
+    "capacity": 55600,
+    "city": "Amsterdam",
+    "country": "Netherlands"
+  },
+  {
+    "club": "Feyenoord",
+    "stadium": "De Kuip",
+    "lat": 51.893889,
+    "lng": 4.523056,
+    "capacity": 51117,
+    "city": "Rotterdam",
+    "country": "Netherlands"
+  },
+  {
+    "club": "Arsenal",
+    "stadium": "Emirates Stadium",
+    "lat": 51.554889,
+    "lng": -0.108438,
+    "capacity": 60704,
+    "city": "London",
+    "country": "England"
+  },
+  {
+    "club": "Tottenham Hotspur",
+    "stadium": "Tottenham Hotspur Stadium",
+    "lat": 51.60425,
+    "lng": -0.066156,
+    "capacity": 62850,
+    "city": "London",
+    "country": "England"
+  },
+  {
+    "club": "Roma",
+    "stadium": "Stadio Olimpico",
+    "lat": 41.933889,
+    "lng": 12.454722,
+    "capacity": 70634,
+    "city": "Rome",
+    "country": "Italy"
+  },
+  {
+    "club": "Lazio",
+    "stadium": "Stadio Olimpico",
+    "lat": 41.933889,
+    "lng": 12.454722,
+    "capacity": 70634,
+    "city": "Rome",
+    "country": "Italy"
+  },
+  {
+    "club": "Galatasaray",
+    "stadium": "Rams Park",
+    "lat": 41.103333,
+    "lng": 28.991111,
+    "capacity": 52280,
+    "city": "Istanbul",
+    "country": "Turkey"
+  },
+  {
+    "club": "Fenerbahçe",
+    "stadium": "Şükrü Saracoğlu Stadium",
+    "lat": 40.987778,
+    "lng": 29.036944,
+    "capacity": 47834,
+    "city": "Istanbul",
+    "country": "Turkey"
+  },
+  {
+    "club": "Paris Saint-Germain",
+    "stadium": "Parc des Princes",
+    "lat": 48.841389,
+    "lng": 2.253056,
+    "capacity": 47929,
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "club": "Marseille",
+    "stadium": "Stade Vélodrome",
+    "lat": 43.269722,
+    "lng": 5.395833,
+    "capacity": 67394,
+    "city": "Marseille",
+    "country": "France"
+  },
+  {
+    "club": "Everton",
+    "stadium": "Goodison Park",
+    "lat": 53.438889,
+    "lng": -2.966389,
+    "capacity": 39414,
+    "city": "Liverpool",
+    "country": "England"
+  },
+  {
+    "club": "Vasco da Gama",
+    "stadium": "São Januário",
+    "lat": -22.890833,
+    "lng": -43.228333,
+    "capacity": 21880,
+    "city": "Rio de Janeiro",
+    "country": "Brazil"
+  },
+  {
+    "club": "Sevilla",
+    "stadium": "Ramón Sánchez Pizjuán",
+    "lat": 37.384039,
+    "lng": -5.970583,
+    "capacity": 42714,
+    "city": "Seville",
+    "country": "Spain"
+  },
+  {
+    "club": "Real Betis",
+    "stadium": "Benito Villamarín",
+    "lat": 37.356389,
+    "lng": -5.981389,
+    "capacity": 60721,
+    "city": "Seville",
+    "country": "Spain"
+  },
+  {
+    "club": "Schalke 04",
+    "stadium": "Veltins-Arena",
+    "lat": 51.554444,
+    "lng": 7.0675,
+    "capacity": 62271,
+    "city": "Gelsenkirchen",
+    "country": "Germany"
+  },
+  {
+    "club": "Kaizer Chiefs",
+    "stadium": "FNB Stadium",
+    "lat": -26.234722,
+    "lng": 27.982778,
+    "capacity": 94736,
+    "city": "Johannesburg",
+    "country": "South Africa"
+  },
+  {
+    "club": "Orlando Pirates",
+    "stadium": "Orlando Stadium",
+    "lat": -26.230556,
+    "lng": 27.922778,
+    "capacity": 37139,
+    "city": "Johannesburg",
+    "country": "South Africa"
+  },
+  {
+    "club": "Al Ahly",
+    "stadium": "Cairo International Stadium",
+    "lat": 30.068889,
+    "lng": 31.3125,
+    "capacity": 75000,
+    "city": "Cairo",
+    "country": "Egypt"
+  },
+  {
+    "club": "Zamalek",
+    "stadium": "Cairo International Stadium",
+    "lat": 30.068889,
+    "lng": 31.3125,
+    "capacity": 75000,
+    "city": "Cairo",
+    "country": "Egypt"
+  }
+]
