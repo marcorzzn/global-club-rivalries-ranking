@@ -48,6 +48,8 @@
   "formula.p": "Historical head-to-head",
   "formula.m": "Longevity (decades)",
   "formula.b": "Derby Bonus",
+  "formula.b.detail": "The B bonus is a geographic multiplier. Same-city derby: ×1.15. Same region/metropolitan area: ×1.05. National or international rivalries: ×1.00 (no penalty). This multiplier was not in the original project brief but is an explicit methodological addition: geographically closer rivalries historically tend to carry greater emotional intensity.",
+  "formula.p.detail": "Logarithmic normalisation: log(n+1) / log(max+1) × 100. A deliberate choice: prevents a single derby with thousands of meetings from compressing the entire score distribution.",
 
   "sliders.title": "Formula Weights",
   "sliders.note": "Weights are automatically normalised to 1. The ranking recalculates in real time.",

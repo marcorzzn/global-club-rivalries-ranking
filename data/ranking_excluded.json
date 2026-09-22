@@ -1,0 +1,93 @@
+[
+  {
+    "title": "West Midlands derby",
+    "reason": "p_raw non trovato",
+    "infobox_keys": []
+  },
+  {
+    "title": "El Gran Derbi",
+    "reason": "p_raw non trovato",
+    "infobox_keys": []
+  },
+  {
+    "title": "Derby de Barcelona",
+    "reason": "p_raw non trovato",
+    "infobox_keys": []
+  },
+  {
+    "title": "Intercontinental derby",
+    "reason": "p_raw non trovato",
+    "infobox_keys": []
+  },
+  {
+    "title": "Eternal derby (Greece)",
+    "reason": "p_raw non trovato",
+    "infobox_keys": []
+  },
+  {
+    "title": "Eternal derby (Serbia)",
+    "reason": "lega non in Opta: Serbian SuperLiga"
+  },
+  {
+    "title": "Eternal derby (Croatia)",
+    "reason": "lega non in Opta: Croatian Football League"
+  },
+  {
+    "title": "Spartak Moscow-CSKA Moscow rivalry",
+    "reason": "p_raw non trovato",
+    "infobox_keys": []
+  },
+  {
+    "title": "Algiers Derby",
+    "reason": "p_raw non trovato",
+    "infobox_keys": [
+      "name",
+      "other_names",
+      "image",
+      "location",
+      "stadiums",
+      "first_meeting",
+      "teams",
+      "most_wins",
+      "most_player_appearances",
+      "top_scorer",
+      "latest_meeting",
+      "next_meeting"
+    ]
+  },
+  {
+    "title": "Derby_della_Madonnina",
+    "id": "derby_della_madonnina",
+    "reason": "FALSE POSITIVE detected by audit: W+D+L 31+17+3=51: subset table (Champions League/European only), real total >200",
+    "p_raw_extracted": 51,
+    "p_raw_source_detail": "W+D+L sum from table: 31+17+3=51"
+  },
+  {
+    "title": "Derby_d'Italia",
+    "id": "derby_d_italia",
+    "reason": "FALSE POSITIVE detected by audit: W+D+L 6+15+25=46: subset table, real total >230",
+    "p_raw_extracted": 46,
+    "p_raw_source_detail": "W+D+L sum from table: 6+15+25=46"
+  },
+  {
+    "title": "Paulista_Derby",
+    "id": "paulista_derby",
+    "reason": "FALSE POSITIVE detected by audit: Text match 'unbeaten in 25 games': a player streak, not total meetings",
+    "p_raw_extracted": 25,
+    "p_raw_source_detail": "Wikipedia article body: \"914 and in 1916, Corinthians had been unbeaten in 25 games for three years. That afternoon, at the P\""
+  },
+  {
+    "title": "Avellaneda_derby",
+    "id": "avellaneda_derby",
+    "reason": "FALSE POSITIVE detected by audit: Text match '714 games for the club': Bochini individual appearances, not head-to-head total",
+    "p_raw_extracted": 714,
+    "p_raw_source_detail": "Wikipedia article body: \"k from Ricardo Bochini, the only one he scored in 714 games for the club. * On May 19, 1974, during \""
+  },
+  {
+    "title": "Uruguayan_Clasico",
+    "id": "uruguayan_clasico",
+    "reason": "FALSE POSITIVE detected by audit: W+D+L 25+9+7=41: subset table, real total >1000 (Nacional vs Penarol since 1900)",
+    "p_raw_extracted": 41,
+    "p_raw_source_detail": "W+D+L sum from table: 25+9+7=41"
+  }
+]

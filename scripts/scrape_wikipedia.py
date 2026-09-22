@@ -1,18 +1,44 @@
+"""
+scripts/scrape_wikipedia.py
+Raccolta completa delle rivalità calcistiche da Wikipedia.
+
+Produce: data/rivalries_encyclopaedia.json
+
+Caratteristiche:
+- Traversata COMPLETA dell'albero delle sottocategorie (nessun limite artificiale)
+- Filtro noise via utils.is_noise_page()
+- Id canonici via utils.make_id()
+- Per ogni voce: data_retrieved = timestamp ISO esatto della consultazione di QUELLA pagina
+- summary_it lasciato "" se non esiste pagina italiana (non viene inventato nulla)
+"""
 import json
 import os
-import requests
-import time
 import re
-from datetime import datetime
+import sys
+import time
+from datetime import datetime, timezone
 
-# Headers to be polite to Wikipedia API
+import requests
+
+# Aggiungi la directory scripts al path per importare utils
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from utils import make_id, is_noise_page
+
 HEADERS = {
-    'User-Agent': 'RivalitaDataCollector/1.0 (https://github.com/marcorzzn/global-club-rivalries-ranking)'
+    'User-Agent': 'RivalitaDataCollector/2.0 '
+                  '(https://github.com/marcorzzn/global-club-rivalries-ranking; '
+                  'progetto open source non commerciale)'
 }
+API_EN = "https://en.wikipedia.org/w/api.php"
+API_IT = "https://it.wikipedia.org/w/api.php"
+REST_EN = "https://en.wikipedia.org/api/rest_v1/page/summary/{}"
+REST_IT = "https://it.wikipedia.org/api/rest_v1/page/summary/{}"
 
-def get_category_members(category_name):
-    print(f"Fetching members for {category_name}...")
-    url = "https://en.wikipedia.org/w/api.php"
+
+# ── Traversata categorie ────────────────────────────────────────────────────
+
+def get_category_members(category_name: str):
+    """Restituisce (members, subcats) per una categoria Wikipedia."""
     params = {
         "action": "query",
         "list": "categorymembers",
@@ -21,186 +47,237 @@ def get_category_members(category_name):
         "cmtype": "page|subcat",
         "format": "json"
     }
-    
-    members = []
-    subcats = []
-    
+    members, subcats = [], []
     while True:
         try:
-            response = requests.get(url, params=params, headers=HEADERS)
-            data = response.json()
-            
+            r = requests.get(API_EN, params=params, headers=HEADERS, timeout=20)
+            r.raise_for_status()
+            data = r.json()
             for item in data['query']['categorymembers']:
-                if item['ns'] == 14: # Category
+                if item['ns'] == 14:
                     subcats.append(item['title'])
-                elif item['ns'] == 0: # Page
+                elif item['ns'] == 0:
                     members.append(item['title'])
-                    
             if 'continue' in data:
                 params['cmcontinue'] = data['continue']['cmcontinue']
             else:
                 break
         except Exception as e:
-            print(f"Error fetching category {category_name}: {e}")
+            print(f"  [WARN] Categoria {category_name}: {e}")
             break
-            
-        time.sleep(0.5)
-        
+        time.sleep(0.4)
     return members, subcats
 
-def get_page_summary(title, lang="en"):
-    url = f"https://{lang}.wikipedia.org/api/rest_v1/page/summary/{title}"
-    try:
-        response = requests.get(url, headers=HEADERS)
-        if response.status_code == 200:
-            return response.json().get('extract', '')
-    except:
-        pass
-    return ""
 
-def parse_teams_from_title(title):
-    # Try to extract teams from typical rivalry titles like "A.C. Milan v Juventus F.C. rivalry"
-    title = title.replace(" rivalry", "").replace(" derby", "").replace(" Derby", "")
-    
-    # Common separators
-    separators = [" v ", " vs ", "–", "-", " and "]
-    for sep in separators:
-        if sep in title:
-            parts = title.split(sep)
-            if len(parts) == 2:
-                return parts[0].strip(), parts[1].strip()
+def collect_all_pages(root_category: str):
+    """
+    BFS completo sull'albero delle sottocategorie.
+    Nessun limite di profondità o numero di categorie.
+    Restituisce: { page_title: [path di categorie] }
+    """
+    visited = set()
+    queue = [(root_category, [])]
+    page_to_path = {}
+    cats_done = 0
+
+    while queue:
+        cat, path = queue.pop(0)
+        if cat in visited:
+            continue
+        visited.add(cat)
+        cats_done += 1
+        print(f"  [{cats_done}] {cat}")
+
+        members, subcats = get_category_members(cat)
+        for m in members:
+            if m not in page_to_path:
+                page_to_path[m] = path + [cat]
+        for sub in subcats:
+            queue.append((sub, path + [cat]))
+
+    print(f"Totale categorie visitate: {cats_done}")
+    print(f"Totale pagine trovate (prima del filtro): {len(page_to_path)}")
+    return page_to_path
+
+
+# ── Fetch riassunto ─────────────────────────────────────────────────────────
+
+def get_summary(title: str, lang: str = "en") -> tuple[str, str]:
+    """
+    Restituisce (extract, data_retrieved_iso).
+    data_retrieved è il timestamp ESATTO della chiamata API per questa pagina.
+    Restituisce ("", "") se la pagina non esiste nella lingua richiesta.
+    """
+    url = (REST_EN if lang == "en" else REST_IT).format(
+        requests.utils.quote(title, safe='')
+    )
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=15)
+        if r.status_code == 200:
+            retrieved_at = datetime.now(timezone.utc).isoformat()
+            return r.json().get('extract', ''), retrieved_at
+        return '', ''
+    except Exception:
+        return '', ''
+
+
+# ── Inferenza metadati ──────────────────────────────────────────────────────
+
+def infer_continent(subcats_path: list[str]) -> str:
+    path = ' '.join(subcats_path).lower()
+    if 'europe' in path:                           return 'Europe'
+    if 'south america' in path:                    return 'South America'
+    if 'africa' in path:                           return 'Africa'
+    if 'asia' in path:                             return 'Asia'
+    if 'north america' in path or 'concacaf' in path: return 'North America'
+    if 'oceania' in path or 'australia' in path:   return 'Oceania'
+    return 'Europe'  # default conservativo
+
+
+COUNTRY_PATTERNS = [
+    # Ordine importante: più specifici prima
+    ("England",          ["england", "english"]),
+    ("Scotland",         ["scotland", "scottish"]),
+    ("Italy",            ["italy", "italian", "serie a"]),
+    ("Spain",            ["spain", "spanish", "la liga"]),
+    ("Germany",          ["germany", "german", "bundesliga"]),
+    ("France",           ["france", "french", "ligue"]),
+    ("Brazil",           ["brazil", "brazilian", "brasileir"]),
+    ("Argentina",        ["argentina", "argentine"]),
+    ("Portugal",         ["portugal", "portuguese"]),
+    ("Netherlands",      ["netherlands", "dutch", "eredivisie"]),
+    ("Turkey",           ["turkey", "turkish"]),
+    ("Mexico",           ["mexico", "mexican", "liga mx"]),
+    ("USA",              ["united states", "usa", "mls", "american soccer"]),
+    ("Japan",            ["japan", "japanese", "j1 league"]),
+    ("South Korea",      ["south korea", "korean", "k league"]),
+    ("Australia",        ["australia", "a-league"]),
+    ("Egypt",            ["egypt", "egyptian"]),
+    ("South Africa",     ["south africa", "psl"]),
+    ("Algeria",          ["algeria", "algerian"]),
+    ("Morocco",          ["morocco", "moroccan"]),
+    ("Greece",           ["greece", "greek"]),
+    ("Belgium",          ["belgium", "belgian"]),
+    ("Sweden",           ["sweden", "swedish"]),
+    ("Norway",           ["norway", "norwegian"]),
+    ("Denmark",          ["denmark", "danish"]),
+    ("Poland",           ["poland", "polish"]),
+    ("Russia",           ["russia", "russian"]),
+    ("Ukraine",          ["ukraine", "ukrainian"]),
+    ("Austria",          ["austria", "austrian"]),
+    ("Switzerland",      ["switzerland", "swiss"]),
+    ("Czech Republic",   ["czech"]),
+    ("Serbia",           ["serbia", "serbian"]),
+    ("Croatia",          ["croatia", "croatian"]),
+    ("Albania",          ["albania", "albanian"]),
+    ("Israel",           ["israel", "israeli"]),
+    ("Iran",             ["iran", "iranian"]),
+    ("Saudi Arabia",     ["saudi"]),
+    ("Colombia",         ["colombia", "colombian"]),
+    ("Chile",            ["chile", "chilean"]),
+    ("Uruguay",          ["uruguay", "uruguayan"]),
+    ("Ecuador",          ["ecuador"]),
+    ("Peru",             ["peru", "peruvian"]),
+    ("Bolivia",          ["bolivia"]),
+    ("Costa Rica",       ["costa rica"]),
+    ("Indonesia",        ["indonesia"]),
+    ("Vietnam",          ["vietnam"]),
+    ("Thailand",         ["thailand", "thai"]),
+]
+
+
+def infer_country(title: str, subcats_path: list[str]) -> str:
+    text = (title + ' ' + ' '.join(subcats_path)).lower()
+    for country, keywords in COUNTRY_PATTERNS:
+        if any(kw in text for kw in keywords):
+            return country
+    return 'Unknown'
+
+
+def infer_type(title: str, summary: str) -> str:
+    text = (title + ' ' + summary).lower()
+    if any(w in text for w in ('city derby', 'local derby', 'cross-town', 'intracity', 'stesso comune')):
+        return 'city_derby'
+    if 'regional' in text:
+        return 'regional'
+    if 'international' in text:
+        return 'international'
+    return 'national'
+
+
+def parse_teams_from_title(title: str) -> tuple[str | None, str | None]:
+    """Estrae team1 e team2 da titoli del tipo 'A v B rivalry'."""
+    cleaned = re.sub(
+        r'\b(rivalry|derby|clásico|clasico|classico|klassiker|classieker|classique)\b',
+        '', title, flags=re.IGNORECASE
+    ).strip()
+    for sep in (' v ', ' vs ', ' – ', ' - ', '–', ' and ', ' \u2013 '):
+        if sep in cleaned:
+            parts = [p.strip() for p in cleaned.split(sep, 1)]
+            if len(parts) == 2 and parts[0] and parts[1]:
+                return parts[0], parts[1]
     return None, None
 
-def infer_continent_country(title, subcats_path):
-    # Very basic inference based on categories it belongs to
-    continent = "Europe" # Default
-    country = "Unknown"
-    
-    path_str = " ".join(subcats_path).lower()
-    
-    continents_map = {
-        "europe": "Europe",
-        "south america": "South America",
-        "africa": "Africa",
-        "asia": "Asia",
-        "north america": "North America",
-        "oceania": "Oceania"
-    }
-    
-    for key, val in continents_map.items():
-        if key in path_str:
-            continent = val
-            break
-            
-    # List of some major countries for quick matching
-    countries = ["England", "Italy", "Spain", "Germany", "France", "Brazil", "Argentina", 
-                 "Portugal", "Netherlands", "Turkey", "Scotland", "Mexico", "USA", "Japan"]
-                 
-    for c in countries:
-        if c.lower() in path_str or c.lower() in title.lower():
-            country = c
-            break
-            
-    return continent, country
-    
-def infer_type(title, summary):
-    text = (title + " " + summary).lower()
-    if "city derby" in text or "local derby" in text or "cross-town" in text:
-        return "city_derby"
-    elif "regional" in text:
-        return "regional"
-    elif "international" in text:
-        return "international"
-    else:
-        return "national"
+
+# ── Main ────────────────────────────────────────────────────────────────────
 
 def main():
-    print("Starting Wikipedia scraper...")
-    
-    # Track visited categories to avoid infinite loops
-    visited_cats = set()
-    cats_to_visit = [("Category:Association football rivalries", [])]
-    
-    all_pages = set()
-    page_to_path = {}
-    
-    # Traverse category tree (limit depth to avoid taking too long)
-    max_cats = 20 # Limit for this script to finish in a reasonable time
-    cats_processed = 0
-    
-    while cats_to_visit and cats_processed < max_cats:
-        current_cat, path = cats_to_visit.pop(0)
-        
-        if current_cat in visited_cats:
-            continue
-            
-        visited_cats.add(current_cat)
-        cats_processed += 1
-        
-        members, subcats = get_category_members(current_cat)
-        
-        for member in members:
-            all_pages.add(member)
-            if member not in page_to_path:
-                page_to_path[member] = path + [current_cat]
-                
-        for subcat in subcats:
-            cats_to_visit.append((subcat, path + [current_cat]))
-            
-    print(f"Found {len(all_pages)} rivalry pages.")
-    
+    print("=== scrape_wikipedia.py — avvio ===")
+    print("Raccolta categorie (nessun limite)...")
+
+    page_to_path = collect_all_pages("Category:Association football rivalries")
+
+    # Filtra noise
+    before = len(page_to_path)
+    page_to_path = {t: p for t, p in page_to_path.items() if not is_noise_page(t)}
+    print(f"Pagine dopo filtro noise: {len(page_to_path)} (rimosse: {before - len(page_to_path)})")
+
     rivalries = []
-    
-    # Process a subset to avoid taking too long in this environment
-    # In a real scenario we'd process all of them
-    pages_list = list(all_pages)[:150] 
-    
-    for i, page_title in enumerate(pages_list):
-        print(f"Processing {i+1}/{len(pages_list)}: {page_title}")
-        
-        summary_en = get_page_summary(page_title, "en")
+    titles = sorted(page_to_path.keys())
+
+    for i, title in enumerate(titles, 1):
+        print(f"[{i}/{len(titles)}] {title}")
+
+        summary_en, retrieved_en = get_summary(title, 'en')
         if not summary_en:
+            print(f"  → skip (nessun riassunto EN)")
             continue
-            
-        summary_it = get_page_summary(page_title, "it")
-        
-        team1, team2 = parse_teams_from_title(page_title)
-        
-        if not team1 or not team2:
-            # Fallback if parsing fails, just use the title and "Unknown"
-            team1 = page_title.split()[0]
-            team2 = "Unknown"
-            
-        continent, country = infer_continent_country(page_title, page_to_path.get(page_title, []))
-        rtype = infer_type(page_title, summary_en)
-        
-        slug = page_title.replace(" ", "_").lower()
-        
+
+        summary_it, _ = get_summary(title, 'it')
+
+        team1, team2 = parse_teams_from_title(title)
+
+        path = page_to_path[title]
+        continent = infer_continent(path)
+        country   = infer_country(title, path)
+        rtype     = infer_type(title, summary_en)
+
         rivalry = {
-            "id": slug,
-            "name_en": page_title.replace("_", " "),
-            "name_it": page_title.replace("_", " "), # Ideally we'd translate this
-            "team1": team1,
-            "team2": team2,
-            "continent": continent,
-            "country": country,
-            "league": "Unknown", # Would need more complex parsing
-            "type": rtype,
-            "wikipedia_url": f"https://en.wikipedia.org/wiki/{page_title.replace(' ', '_')}",
-            "summary_en": summary_en,
-            "summary_it": summary_it,
-            "source": "Wikipedia",
-            "data_retrieved": datetime.now().strftime("%Y-%m-%d")
+            "id":           make_id(title),
+            "name_en":      title,
+            "name_it":      title,        # rimane uguale; batch traduzioni in Fix 5
+            "team1":        team1,
+            "team2":        team2,
+            "continent":    continent,
+            "country":      country,
+            "league":       None,         # non inferibile affidabilmente dal titolo
+            "type":         rtype,
+            "wikipedia_url": f"https://en.wikipedia.org/wiki/{title.replace(' ', '_')}",
+            "summary_en":   summary_en,
+            "summary_it":   summary_it,   # "" se non trovato (non inventato)
+            "source":       "Wikipedia",
+            "data_retrieved": retrieved_en   # timestamp ESATTO della consultazione
         }
-        
         rivalries.append(rivalry)
-        time.sleep(0.1) # Be nice to Wikipedia
-        
+        time.sleep(0.15)
+
     os.makedirs('data', exist_ok=True)
-    with open('data/rivalries_encyclopaedia.json', 'w', encoding='utf-8') as f:
+    out = 'data/rivalries_encyclopaedia.json'
+    with open(out, 'w', encoding='utf-8') as f:
         json.dump(rivalries, f, ensure_ascii=False, indent=2)
-        
-    print(f"Generated data/rivalries_encyclopaedia.json with {len(rivalries)} entries.")
+
+    print(f"\n✓ {out}: {len(rivalries)} voci")
+
 
 if __name__ == "__main__":
     main()

@@ -314,15 +314,25 @@ function computeScores() {
   const nwP = wP / sum;
   const nwM = wM / sum;
 
-  // Normalizza i raw scores su 100
+  // L e M: normalizzazione lineare su 100
   const maxL = Math.max(...State.ranking.map(r => r.l_raw || 0)) || 1;
-  const maxP = Math.max(...State.ranking.map(r => r.p_raw || 0)) || 1;
   const maxM = Math.max(...State.ranking.map(r => r.m_raw || 0)) || 1;
+
+  // P: normalizzazione LOGARITMICA — evita che un singolo derby
+  // con migliaia di precedenti schiacci tutto il resto.
+  // Formula: log(p+1) / log(maxP+1) × 100
+  const maxP = Math.max(...State.ranking.map(r => r.p_raw || 0)) || 1;
+  const maxLogP = Math.log(maxP + 1) || 1;
 
   State.ranking.forEach(r => {
     const L = ((r.l_raw || 0) / maxL) * 100;
-    const P = ((r.p_raw || 0) / maxP) * 100;
+    const P = (Math.log((r.p_raw || 0) + 1) / maxLogP) * 100;
     const M = ((r.m_raw || 0) / maxM) * 100;
+
+    // B = Bonus Derby: moltiplicatore per prossimità geografica.
+    // Stessa città   → ×1.15
+    // Stessa regione → ×1.05
+    // Altro          → ×1.00 (nessun malus)
     const B = r.derby_type === 'city' ? 1.15 : r.derby_type === 'regional' ? 1.05 : 1.0;
 
     r.score_l = +L.toFixed(1);

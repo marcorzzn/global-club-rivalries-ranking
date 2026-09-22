@@ -48,6 +48,8 @@
   "formula.p": "Precedenti storici",
   "formula.m": "Longevità (decenni)",
   "formula.b": "Bonus Derby",
+  "formula.b.detail": "Il bonus B è un moltiplicatore geografico. Derby di stessa città: ×1.15. Stessa regione/area metropolitana: ×1.05. Rivalità nazionali o internazionali: ×1.00 (nessun malus). Il bonus non era nel brief originale del progetto ma è un'aggiunta metodologica esplicita: le rivalità geograficamente più intense tendono storicamente ad avere una carica emotiva superiore.",
+  "formula.p.detail": "Normalizzazione logaritmica: log(n+1) / log(max+1) × 100. Scelta deliberata: evita che un singolo derby con migliaia di precedenti schiacci tutti gli altri nella distribuzione del puntaggio.",
 
   "sliders.title": "Pesi della Formula",
   "sliders.note": "I pesi si normalizzano automaticamente a 1. La classifica si ricalcola in tempo reale.",
