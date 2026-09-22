@@ -5402,7 +5402,7 @@
   {
     "id": "fla_flu",
     "name_en": "Fla–Flu",
-    "name_it": "Fla–Flu",
+    "name_it": "Fla-Flu",
     "team1": "Fla",
     "team2": "Flu",
     "continent": "Europe",
@@ -5411,7 +5411,7 @@
     "type": "national",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Fla–Flu",
     "summary_en": "Fla–Flu is an association football derby between Flamengo and Fluminense, considered one of the biggest rivalries in Brazilian football. Their matches usually take place at the famous Maracanã Stadium, located near downtown Rio de Janeiro, in the Maracanã district. The Fla–Flu holds the world's record football match attendance of 194,603 people in a 1963 derby.",
-    "summary_it": "",
+    "summary_it": "Fla-Flu è il nome dato comunemente all'incontro di calcio tra Flamengo e Fluminense. Solitamente la partita si tiene allo stadio Maracanã di Rio de Janeiro; proprio in questa sede si è registrato il record di pubblico per un incontro di calcio, quando nel 1963 194.603 persone assistettero allo 0-0 tra queste due squadre. Il nome Fla-Flu fu ideato dal giornalista Mário Filho.",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:43:20.306944+00:00",
     "logo1": null,
