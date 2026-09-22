@@ -26,7 +26,8 @@ def fetch_batch(titles):
         "action": "query",
         "titles": "|".join(titles),
         "prop": "pageimages",
-        "piprop": "original",
+        "piprop": "thumbnail",   # thumbnail converte SVG→PNG (original non restituisce SVG)
+        "pithumbsize": 300,
         "format": "json",
         "redirects": 1,
     }
@@ -35,16 +36,14 @@ def fetch_batch(titles):
     with urllib.request.urlopen(req, timeout=15) as resp:
         data = json.loads(resp.read().decode("utf-8"))
     pages = data.get("query", {}).get("pages", {})
-    # Mappa i redirect/normalizzazioni per ricollegare il titolo originale al risultato
     norm = {n["from"]: n["to"] for n in data.get("query", {}).get("normalized", [])}
     redir = {r["from"]: r["to"] for r in data.get("query", {}).get("redirects", [])}
     out = {}
     for page in pages.values():
         title = page.get("title")
-        img = page.get("original", {}).get("source")
+        img = page.get("thumbnail", {}).get("source")   # thumbnail invece di original
         if img:
             out[title] = img
-    # ricollega ai titoli richiesti originariamente
     resolved = {}
     for t in titles:
         canon = redir.get(norm.get(t, t), norm.get(t, t))

@@ -20,8 +20,8 @@
     "last_year_source": "Wikipedia infobox",
     "wikipedia_url": "https://en.wikipedia.org/wiki/North_London_derby",
     "data_retrieved": "2026-09-22T08:39:22.999401+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Arsenal_FC.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Tottenham_Hotspur.svg&width=300"
   },
   {
     "id": "merseyside_derby",
@@ -44,8 +44,8 @@
     "last_year_source": "Wikipedia infobox",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Merseyside_derby",
     "data_retrieved": "2026-09-22T08:39:25.500048+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Liverpool_FC.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Everton_FC_logo.svg&width=300"
   },
   {
     "id": "manchester_derby",
@@ -68,8 +68,8 @@
     "last_year_source": "Wikipedia infobox",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Manchester_derby",
     "data_retrieved": "2026-09-22T08:39:27.962493+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Manchester_City_FC_badge.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Manchester_United_FC_crest.svg&width=300"
   },
   {
     "id": "steel_city_derby",
@@ -92,8 +92,8 @@
     "last_year_source": "Wikipedia infobox",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Steel_City_derby",
     "data_retrieved": "2026-09-22T08:39:30.309356+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Sheffield_United_FC_logo.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Sheffield_Wednesday_FC_2026_crest.svg&width=300"
   },
   {
     "id": "south_wales_derby",
@@ -116,8 +116,8 @@
     "last_year_source": "Wikipedia infobox",
     "wikipedia_url": "https://en.wikipedia.org/wiki/South_Wales_derby",
     "data_retrieved": "2026-09-22T08:39:35.259576+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Cardiff_City_crest.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Swansea_City_AFC_logo.svg&width=300"
   },
   {
     "id": "old_firm",
@@ -140,8 +140,8 @@
     "last_year_source": "Wikipedia infobox",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Old_Firm",
     "data_retrieved": "2026-09-22T08:39:42.629840+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Celtic_FC_crest.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Rangers_FC.svg&width=300"
   },
   {
     "id": "edinburgh_derby",
@@ -164,8 +164,8 @@
     "last_year_source": "Wikipedia infobox",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Edinburgh_derby",
     "data_retrieved": "2026-09-22T08:39:45.362207+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Heart_of_Midlothian_FC_logo.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Hibernian_FC_2026_crest.svg&width=300"
   },
   {
     "id": "el_clasico",
@@ -188,7 +188,7 @@
     "last_year_source": "Wikipedia infobox",
     "wikipedia_url": "https://en.wikipedia.org/wiki/El_Clasico",
     "data_retrieved": "2026-09-22T08:39:47.888473+00:00",
-    "logo1": null,
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Real_Madrid_CF.svg&width=300",
     "logo2": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original"
   },
   {
@@ -212,8 +212,8 @@
     "last_year_source": "Wikipedia infobox",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Madrid_derby",
     "data_retrieved": "2026-09-22T08:39:50.603965+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Real_Madrid_CF.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Atletico_Madrid_Logo_2024.svg&width=300"
   },
   {
     "id": "derby_della_capitale",
@@ -236,7 +236,7 @@
     "last_year_source": "Wikipedia infobox",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Derby_della_Capitale",
     "data_retrieved": "2026-09-22T08:40:12.922876+00:00",
-    "logo1": null,
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/AS_Roma_logo_%282017%29.svg&width=300",
     "logo2": "https://upload.wikimedia.org/wikipedia/commons/2/23/Lazio_through_the_ages_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original"
   },
   {
@@ -285,7 +285,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Derby_della_Lanterna",
     "data_retrieved": "2026-09-22T08:40:17.691235+00:00",
     "logo1": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Genoa_through_the_ages_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-    "logo2": null
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/U.C._Sampdoria_logo.svg&width=300"
   },
   {
     "id": "der_klassiker",
@@ -404,8 +404,8 @@
     "last_year_source": "Wikipedia infobox",
     "wikipedia_url": "https://en.wikipedia.org/wiki/O_Classico",
     "data_retrieved": "2026-09-22T08:40:29.455689+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/SL_Benfica_logo.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/FC_Porto.svg&width=300"
   },
   {
     "id": "de_klassieker",
@@ -452,7 +452,7 @@
     "last_year_source": "Wikipedia infobox",
     "wikipedia_url": "https://en.wikipedia.org/wiki/RSC_Anderlecht-Club_Brugge_KV_rivalry",
     "data_retrieved": "2026-09-22T08:40:38.217398+00:00",
-    "logo1": null,
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/R.S.C._Anderlecht.svg&width=300",
     "logo2": "https://upload.wikimedia.org/wikipedia/commons/9/97/Club_brugge.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original"
   },
   {
@@ -501,7 +501,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Superclasico",
     "data_retrieved": "2026-09-22T08:41:00.922529+00:00",
     "logo1": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Boca_Juniors_logo18.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-    "logo2": null
+    "logo2": "https://upload.wikimedia.org/wikipedia/commons/4/43/Club_Atl%C3%A9tico_River_Plate_logo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original"
   },
   {
     "id": "fla_flu",
@@ -548,8 +548,8 @@
     "last_year_source": "Wikipedia infobox",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cairo_Derby",
     "data_retrieved": "2026-09-22T08:41:18.770939+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Al_Ahly_SC_logo.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Zamalek_SC_logo.svg&width=300"
   },
   {
     "id": "soweto_derby",
@@ -572,8 +572,8 @@
     "last_year_source": "Wikipedia infobox",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Soweto_derby",
     "data_retrieved": "2026-09-22T08:41:21.126312+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Kaizer_Chiefs_logo.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Orlando_Pirates_FC_logo.svg&width=300"
   },
   {
     "id": "osaka_derby",
@@ -597,7 +597,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Osaka_Derby",
     "data_retrieved": "2026-09-22T08:41:27.965870+00:00",
     "logo1": "https://upload.wikimedia.org/wikipedia/commons/7/75/Gamba_Osaka_logo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-    "logo2": null
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Cerezo_Osaka_logo.svg&width=300"
   },
   {
     "id": "hudson_river_derby",
@@ -621,6 +621,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Hudson_River_Derby",
     "data_retrieved": "2026-09-22T08:41:32.222236+00:00",
     "logo1": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_New_York_City_FC_2025.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-    "logo2": null
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/New_York_Red_Bulls_logo.svg&width=300"
   }
 ]
