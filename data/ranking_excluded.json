@@ -89,5 +89,2481 @@
     "reason": "FALSE POSITIVE detected by audit: W+D+L 25+9+7=41: subset table, real total >1000 (Nacional vs Penarol since 1900)",
     "p_raw_extracted": 41,
     "p_raw_source_detail": "W+D+L sum from table: 25+9+7=41"
+  },
+  {
+    "title": "A.E.K.–Olympiacos rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "A420 derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "A49 derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 1216
+  },
+  {
+    "title": "ACF Fiorentina–Juventus FC rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 312
+  },
+  {
+    "title": "AFC Ajax–PSV Eindhoven rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 189
+  },
+  {
+    "title": "AFC Wimbledon–Milton Keynes Dons F.C. rivalry",
+    "reason": "first_year non trovato",
+    "p_raw": 19
+  },
+  {
+    "title": "AIK Fotboll–Hammarby Fotboll rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "AIK–IFK Göteborg rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 199
+  },
+  {
+    "title": "Aberdeen F.C.–Rangers F.C. rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 366
+  },
+  {
+    "title": "Abu Dhabi City derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 83
+  },
+  {
+    "title": "Abu Dhabi Classico",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Adana football derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Adelaide derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Adriatic derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Aizawl Derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Al Duhail SC–Al Sadd SC rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Al-Araqa derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Al-Quds Derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Albania–Serbia football rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Algerian Clasico",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Algeria–Egypt football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 29
+  },
+  {
+    "title": "Algeria–Morocco football rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Algeria–Tunisia football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 48
+  },
+  {
+    "title": "Altay–Göztepe derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 79
+  },
+  {
+    "title": "Amsterdam derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "América–Atlético Mineiro rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 431
+  },
+  {
+    "title": "Andalas derby",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Angus derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Aragonese derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Messi–Ronaldo rivalry",
+    "reason": "Non-club rivalry (player)"
+  },
+  {
+    "title": "Ararat derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Ararat-Armenia – Noah rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 58
+  },
+  {
+    "title": "Arema F.C.–Persib Bandung rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 54
+  },
+  {
+    "title": "Argentina–Brazil football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 106
+  },
+  {
+    "title": "Argentina–England football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 16
+  },
+  {
+    "title": "Argentina–Mexico football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 32
+  },
+  {
+    "title": "Argentina–Netherlands football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 10
+  },
+  {
+    "title": "Argentina–Uruguay football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 92
+  },
+  {
+    "title": "Arsenal F.C.–Chelsea F.C. rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 216
+  },
+  {
+    "title": "Ashdod derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Aston Villa F.C.–West Bromwich Albion F.C. rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 150
+  },
+  {
+    "title": "Asturian derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Athenian derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Athletiba",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 46
+  },
+  {
+    "title": "Athletic–Barcelona clásico",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 247
+  },
+  {
+    "title": "Atlético Mineiro–Flamengo rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 136
+  },
+  {
+    "title": "Atlético Nacional–Millonarios F.C. rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 302
+  },
+  {
+    "title": "Auckland derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Augsburg derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Australia–Japan football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 29
+  },
+  {
+    "title": "Australia–New Zealand soccer rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 69
+  },
+  {
+    "title": "Australia–South Korea football rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Australia–Uruguay football rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Austria–Hungary football rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Avellaneda derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 714
+  },
+  {
+    "title": "Ayrshire derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 143
+  },
+  {
+    "title": "Backyard Brawl",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 100
+  },
+  {
+    "title": "Baghdad derbies",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Basque derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Basque football derbies",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Basra derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Battle for Thrace",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Battle of Brooklyn (college rivalry)",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Battle of Jutland (football)",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Battle of Oslo (football)",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Battle of the Bronx",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Battle of the Buffet",
+    "reason": "first_year non trovato",
+    "p_raw": 49
+  },
+  {
+    "title": "Bavarian football derbies",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Bayern Munich–Real Madrid rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 30
+  },
+  {
+    "title": "Beijing derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Beirut derby (football)",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Belgium–France football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 78
+  },
+  {
+    "title": "Berlin derby",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Beşiktaş–Galatasaray rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Big Four (Mexico)",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Big Three (Italy)",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Big Three (Spain)",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Big Three (Turkey)",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Big Two derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Black Country derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Black Gold Derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Blue–Green rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Bohemians–Shamrock Rovers rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 85
+  },
+  {
+    "title": "Bradford derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Brazil–Italy football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 104
+  },
+  {
+    "title": "Brazil–Uruguay football rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Brighton & Hove Albion F.C.–Crystal Palace F.C. rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 145
+  },
+  {
+    "title": "Brimstone Cup",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Bristol Rovers F.C.–Swindon Town F.C. rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 147
+  },
+  {
+    "title": "Bristol derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 152
+  },
+  {
+    "title": "Brotherly derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Bruges derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Budapest derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Bur Dubai derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Buriram United F.C.–Muangthong United F.C. rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Böyük Oyun",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 43
+  },
+  {
+    "title": "CONCACAF Cup",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "CR Belouizdad–USM Alger rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 16
+  },
+  {
+    "title": "Cambridgeshire derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Campeones Cup",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Canada–United States soccer rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 46
+  },
+  {
+    "title": "Canadian Classique",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 66
+  },
+  {
+    "title": "Canal derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Canary Islands derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Casablanca derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Cascadia Cup",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Cavalry FC–FC Edmonton rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 39
+  },
+  {
+    "title": "Cavalry FC–Forge FC rivalry",
+    "reason": "first_year non trovato",
+    "p_raw": 40
+  },
+  {
+    "title": "Central Coast Mariners FC–Western Sydney Wanderers FC rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 39
+  },
+  {
+    "title": "Chelsea F.C.–Leeds United F.C. rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 113
+  },
+  {
+    "title": "Chelsea F.C.–Liverpool F.C. rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 201
+  },
+  {
+    "title": "Chelsea F.C.–Tottenham Hotspur F.C. rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 181
+  },
+  {
+    "title": "Chilean Superclásico",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Chile–Peru football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 88
+  },
+  {
+    "title": "China–Hong Kong football rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "China–Japan football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 44
+  },
+  {
+    "title": "China–South Korea football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 39
+  },
+  {
+    "title": "Choc des Olympiques",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 127
+  },
+  {
+    "title": "Choque-Rei",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 356
+  },
+  {
+    "title": "Cielo de un solo color",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Clasico kabylo-algérois",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Classico algérien",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Club Universitario de Deportes–Sporting Cristal rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 203
+  },
+  {
+    "title": "Cluj derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Clásico Capitalino",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 59
+  },
+  {
+    "title": "Clásico Cruceño",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Clásico Joven",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 206
+  },
+  {
+    "title": "Clásico Moderno (Honduras)",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Clásico Nacional Hondureño",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Clásico Paceño",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Clásico Regiomontano",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Clásico Regiomontano (women's football)",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Clásico Sampedrano",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Clásico Tapatío",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Clásico Universitario",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Clásico Vallecaucano",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Clásico centroamericano",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Clásico cordobés",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 406
+  },
+  {
+    "title": "Clásico del Astillero",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Clássico Alvinegro",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Clássico Majestoso",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Clássico Mineiro",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 65
+  },
+  {
+    "title": "Clássico Vovô",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Clássico da Saudade",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 350
+  },
+  {
+    "title": "Clássico das Colônias",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 268
+  },
+  {
+    "title": "Clássico das Emoções",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 534
+  },
+  {
+    "title": "Clássico do Vale do Paraíba",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 89
+  },
+  {
+    "title": "Clássico dos Clássicos",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 950
+  },
+  {
+    "title": "Clássico dos Milhões",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 431
+  },
+  {
+    "title": "Coastal Cup",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Colo Colo–Cobreloa rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Colo Colo–Universidad Católica rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 324
+  },
+  {
+    "title": "Commonwealth Cup (soccer rivalry)",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Cong An Hanoi FC–The Cong-Viettel FC rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 40
+  },
+  {
+    "title": "Copa Aldao",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Copa Campeonato del Río de la Plata",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Copa Escobar-Gerona",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Copa Héctor Rivadavia Gómez",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Copa Juan Mignaburu",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Copa Lipton",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Copa Newton",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Copa Premier Honor Argentino",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Copa Premier Honor Uruguayo",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Copa Roberto Chery",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Copa Río Branco",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Copa Tejas",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Copa de Honor Cousenier",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Copenhagen derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Costa Rica–Mexico football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 57
+  },
+  {
+    "title": "Cretan derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 25
+  },
+  {
+    "title": "Croatia–Serbia football rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Cross-border derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Croydon derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Czech Republic–Slovakia football rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Daan Mogot derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 35
+  },
+  {
+    "title": "Dalian derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Dalmatian derby (Hajduk Split–Šibenik)",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 112
+  },
+  {
+    "title": "Denmark–Sweden football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 49
+  },
+  {
+    "title": "Derbi Barceloní",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Derbi Femení",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Derbi de la Comunitat",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Derbies in the League of Ireland",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Derby Breton",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Derby Campineiro",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 213
+  },
+  {
+    "title": "Derby Corse",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 42
+  },
+  {
+    "title": "Derby County F.C.–Leicester City F.C. rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 110
+  },
+  {
+    "title": "Derby County F.C.–Nottingham Forest F.C. rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 109
+  },
+  {
+    "title": "Derby Lorrain",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Derby Paulista",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Derby d'Italia",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 46
+  },
+  {
+    "title": "Derby da Madeira",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Derby de Lisboa",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Derby de la Côte d'Azur",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Derby de la Garonne",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Derby de la Mediterranée",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Derby del Sole",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 273
+  },
+  {
+    "title": "Derby dell'Appennino",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 152
+  },
+  {
+    "title": "Derby dell'Emilia",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 36
+  },
+  {
+    "title": "Derby dell'Enza",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Derby della Madonnina",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 51
+  },
+  {
+    "title": "Derby della Mole",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 214
+  },
+  {
+    "title": "Derby della Scala",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 19
+  },
+  {
+    "title": "Derby delle Due Sicilie",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Derby delle Isole",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Derby dello Stretto",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Derby di Sicilia",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 85
+  },
+  {
+    "title": "Derby do Minho",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Derby du Languedoc",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Derby du Nord",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Derby of Jordan",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Derby of Serbia",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Derby of Thessaloniki",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Derby of eastern Andalusia",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Derby of the Eternal Enemies",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Derby of the North",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Dhaka derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Dinamo Tirana–KF Tirana rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 187
+  },
+  {
+    "title": "Dinamo–Rijeka derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 192
+  },
+  {
+    "title": "Djurgårdens IF Fotboll–Hammarby Fotboll rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Dodge Street Derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Don't Mention the World Cup",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Donetsk derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Donghaean derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Double-headed eagles derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Dundee derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "ES Sétif–USM Alger rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "East Anglian derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 27
+  },
+  {
+    "title": "East Bengal 4–1 Mohun Bagan",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 15
+  },
+  {
+    "title": "East Coast Derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "East Germany–West Germany football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 39
+  },
+  {
+    "title": "East Lancashire derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 108
+  },
+  {
+    "title": "East London derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "East Stirlingshire F.C.–Falkirk F.C. rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 51
+  },
+  {
+    "title": "Eastern Slovak derby",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Ecuador–Peru football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 54
+  },
+  {
+    "title": "Egypt–Tunisia football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 35
+  },
+  {
+    "title": "El Clásico (basketball)",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "El Clásico Del Sur",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "El Clásico Paisa",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "El Mahalla derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "El Otro Clásico",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "El Salvador–Honduras football rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "El Viejo Clásico",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Enfield derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "England–Germany football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 21
+  },
+  {
+    "title": "England–Republic of Ireland football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 18
+  },
+  {
+    "title": "England–Scotland football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 116
+  },
+  {
+    "title": "Espérance de Tunis–Étoile du Sahel rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Essex derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 82
+  },
+  {
+    "title": "Esteghlal F.C.–Sepahan S.C. rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 85
+  },
+  {
+    "title": "Eternal derby (North Macedonia)",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Eternal derby (Romania)",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 194
+  },
+  {
+    "title": "Eternal derby (Slovenia)",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Eternal derby of Bulgarian football",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Eternal derby of Slovenian football (1962–2004)",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 83
+  },
+  {
+    "title": "Eternal derby of Slovenian football (2007)",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "F3 Derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "FC Arsenal Kyiv–FC Dynamo Kyiv rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "FC Barcelona–AC Milan rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 49
+  },
+  {
+    "title": "FC Bayern Munich 1–2 Norwich City F.C.",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Famagusta derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Ferencvárosi TC–Újpest FC rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 119
+  },
+  {
+    "title": "Fewing Cup",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Fife derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 625
+  },
+  {
+    "title": "Floriana–Valletta rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Fordham–St. John's rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 91
+  },
+  {
+    "title": "Former Ploiești derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Fort Lauderdale–Tampa Bay rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 13
+  },
+  {
+    "title": "France–Germany football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 35
+  },
+  {
+    "title": "France–Italy football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 41
+  },
+  {
+    "title": "France–Spain football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 18
+  },
+  {
+    "title": "Fylde Coast derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Gabès derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Galatasaray S.K.–Leeds United F.C. rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Galician derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "George Mason–VCU rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 258
+  },
+  {
+    "title": "Germany–Italy football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 39
+  },
+  {
+    "title": "Germany–Netherlands football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 48
+  },
+  {
+    "title": "Gilan derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Gjilan derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Good Rivals",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Gothenburg derbies",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Governor's Cup (Wisconsin)",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Green Line Rivalry",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Grenal",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 454
+  },
+  {
+    "title": "Guangzhou derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Gurian derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Haifa derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Hamburg derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 113
+  },
+  {
+    "title": "Hanoi FC–Song Lam Nghe An FC rivalry",
+    "reason": "first_year non trovato",
+    "p_raw": 33
+  },
+  {
+    "title": "Hanoi derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Harrow derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Harvard–Yale soccer rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 109
+  },
+  {
+    "title": "Heritage Cup (MLS)",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Highland derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 62
+  },
+  {
+    "title": "Holy War (Kraków)",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Honduran Superclásico",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Humber derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Hungary–Poland football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 34
+  },
+  {
+    "title": "Hungary–Romania football rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Huracán–San Lorenzo derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 193
+  },
+  {
+    "title": "I-94 Cup",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "I-95 derbies",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "IFK Göteborg–Malmö FF rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 191
+  },
+  {
+    "title": "IFK Göteborg–Örgryte IS rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 149
+  },
+  {
+    "title": "IFK Malmö–Malmö FF rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "IJsselderby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 110
+  },
+  {
+    "title": "Imphal Derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Indiana–Kentucky rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Indiana–Notre Dame men's soccer rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 50
+  },
+  {
+    "title": "Indonesian El Clásico",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Indonesia–Malaysia football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 78
+  },
+  {
+    "title": "Indonesia–Vietnam football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 12
+  },
+  {
+    "title": "Inter Miami CF–Orlando City SC rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Iran–Iraq football rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Iran–Saudi Arabia football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 15
+  },
+  {
+    "title": "Iraq–Kuwait football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 43
+  },
+  {
+    "title": "Iraq–Saudi Arabia football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 44
+  },
+  {
+    "title": "Irish derby (football)",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Istra 1961–Rijeka rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 20
+  },
+  {
+    "title": "Italy–Spain football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 41
+  },
+  {
+    "title": "JOMO Cup",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "James River Cup",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Japan–South Korea football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 82
+  },
+  {
+    "title": "Japan–United States women's soccer rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 40
+  },
+  {
+    "title": "Jeddah Derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 35
+  },
+  {
+    "title": "Jerusalem derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Johor Darul Ta'zim F.C. – Sri Pahang FC rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 55
+  },
+  {
+    "title": "Johor Darul Ta'zim F.C.–Melaka United FC rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 31
+  },
+  {
+    "title": "Johor Darul Ta'zim F.C.–Negeri Sembilan FC rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 39
+  },
+  {
+    "title": "Jollof derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Juan de Fuca Plate (soccer)",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Juventus FC–AC Milan rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 247
+  },
+  {
+    "title": "Juventus FC–Real Madrid CF rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 92
+  },
+  {
+    "title": "Juventus FC–SSC Napoli rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 281
+  },
+  {
+    "title": "KF Tirana–Partizani Tirana rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Kentucky–Louisville rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 37
+  },
+  {
+    "title": "Kitwe Derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Klang Valley derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Klasychne derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Kolkata Derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Korea University–Yonsei University rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Kuwaiti El Clásico",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Kyungsung FC–Pyongyang FC rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "La Plata derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Lamar Hunt Pioneer Cup",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Lanarkshire derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Le Classique (women)",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Leagues Cup",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Leeds United F.C.–Manchester United F.C. rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 115
+  },
+  {
+    "title": "Leicester City F.C.–Nottingham Forest F.C. rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 111
+  },
+  {
+    "title": "Lillestrøm SK–Vålerenga Fotball rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 1000
+  },
+  {
+    "title": "Limassol derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Lincolnshire derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Little capital derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Liverpool F.C.–Manchester City F.C. rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 201
+  },
+  {
+    "title": "Liverpool F.C.–Manchester United F.C. rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 218
+  },
+  {
+    "title": "London derbies",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Louisville–Memphis rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 91
+  },
+  {
+    "title": "Louth Derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Low Countries derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Lower Saxony derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Luton Town F.C.–Watford F.C. rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 124
+  },
+  {
+    "title": "M69 derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "MC Oran–USM Alger rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 13
+  },
+  {
+    "title": "MLS rivalry cups",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Macarthur FC–Western Sydney Wanderers FC rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 17
+  },
+  {
+    "title": "Main Moscow derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 201
+  },
+  {
+    "title": "Malmö derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Maryland–Virginia men's soccer rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 85
+  },
+  {
+    "title": "Mashemeji derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Mashhad derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Melbourne Derby (A-Leagues)",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Melbourne Victory FC–Western United FC rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 62
+  },
+  {
+    "title": "Mexico–United States soccer rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 79
+  },
+  {
+    "title": "Michigan–Michigan State men's soccer rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Millwall F.C.–West Ham United F.C. rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 33
+  },
+  {
+    "title": "Milwaukee Cup",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Miners' strike derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 78
+  },
+  {
+    "title": "Mini Kolkata Derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Molde FK–Rosenborg BK rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 104
+  },
+  {
+    "title": "Montenegrin derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Moroccan Classico",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Mostar derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Motagua–Real España football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 232
+  },
+  {
+    "title": "Mountain State derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 31
+  },
+  {
+    "title": "Munich derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 205
+  },
+  {
+    "title": "Munster Derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "NC State–Wake Forest rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 119
+  },
+  {
+    "title": "Naghsh-e-Jahan Derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Nene derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "New Firm (Scotland)",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "New Zealand Derby (football)",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Nicosia derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Nordderby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 158
+  },
+  {
+    "title": "North American SuperLiga",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "North Belfast derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "North Korea–South Korea football rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "North-west Derby (Ireland)",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Northeast Derby (India)",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Nottingham derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Nottinghamshire derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Old Dominion–William & Mary rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Oldest Russian derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Oldest capital derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Olympiacos–PAOK rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 208
+  },
+  {
+    "title": "Olympique Lyonnais–AS Saint-Étienne rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 126
+  },
+  {
+    "title": "Original Glasgow derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Palma derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Panathinaikos–PAOK rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 214
+  },
+  {
+    "title": "Papadaan derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Paraguayan football derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 10
+  },
+  {
+    "title": "Paris derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Paris derby (women)",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Pasundan derby",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Persepolis F.C.–Sepahan S.C. rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 88
+  },
+  {
+    "title": "Persepolis F.C.–Tractor S.C. rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 60
+  },
+  {
+    "title": "Peruvian Clásico",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 375
+  },
+  {
+    "title": "Piraeus derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Pla de Barcelona derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Plovdiv derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Poland–Russia football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 19
+  },
+  {
+    "title": "Politisches derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 24
+  },
+  {
+    "title": "Portugal–Spain football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 42
+  },
+  {
+    "title": "Potteries derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Prague derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 312
+  },
+  {
+    "title": "Pride of Anglia",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Primvs derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 133
+  },
+  {
+    "title": "Qatar–United Arab Emirates football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 16
+  },
+  {
+    "title": "Qingdao derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Railroaders derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Re-Pa",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 783
+  },
+  {
+    "title": "Renfrewshire derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Rijeka city derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Rio de Janeiro–São Paulo football rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Riyadh derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 176
+  },
+  {
+    "title": "Roca Cup",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Rocky Mountain Cup",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 68
+  },
+  {
+    "title": "Rosario derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 1943
+  },
+  {
+    "title": "Rotterdam derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Rous Cup",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Rowdies Cup",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Royal Rivalry",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Rules derby",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Rust Belt Derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "SEC Derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Saint Louis–SIU Edwardsville men's soccer rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Saint Petersburg derby",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Saitama derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Santa Fe derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 164
+  },
+  {
+    "title": "San–São",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 328
+  },
+  {
+    "title": "Sarajevo derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Saudi El Clasico",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Scanian derbies",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Second City derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Selangor–Singapore rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Seongnam FC–Suwon Samsung Bluewings rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 100
+  },
+  {
+    "title": "Severnside derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 104
+  },
+  {
+    "title": "Seville derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Shanghai derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Shizuoka derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Sir Thomas Lipton Trophy",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Slavonian derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Somerset derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "South Coast derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "South London derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "South Madrid derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "South Texas Derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Southern Derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Southern Derby (Malaysia)",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Southwestern Showdown",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Spartak Moscow–Dynamo Kyiv rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 133
+  },
+  {
+    "title": "Split city derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Sporting–Boavista rivalry of Praia",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 100
+  },
+  {
+    "title": "Stadin derby",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Stuttgart derby",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Summer of '92",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Super East Java derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Super Match",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Superclásico de Quito",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Superclásico de las Américas",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Suramadu derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Sutton derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Sydney Derby (A-Leagues)",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "TSW Pegasus FC–South China AA rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Tallinn derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Tayside derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 2472
+  },
+  {
+    "title": "Tees–Wear derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 155
+  },
+  {
+    "title": "Tehran Derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Ten German Bombers",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Texas Derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 57
+  },
+  {
+    "title": "Thailand–Vietnam football rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 61
+  },
+  {
+    "title": "The Big Blue (A-Leagues)",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "The Distance Derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "The Intercontinental Derby (football)",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 406
+  },
+  {
+    "title": "The Intercontinental Derby (women's football)",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "The Original Rivalry",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Thuringia derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 93
+  },
+  {
+    "title": "Tianjin derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Tie Cup",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Tirana derbies",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Tohoku derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 18
+  },
+  {
+    "title": "Tokyo derby (football)",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Torneo Internacional Nocturno Rioplatense",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Tottenham Hotspur F.C.–West Ham United F.C. rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 226
+  },
+  {
+    "title": "Traditional derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Tricity Derby",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Tvillingderbyt",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Twentse derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Two World Wars and One World Cup",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Tyne–Tees derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 129
+  },
+  {
+    "title": "Tyne–Wear derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 159
+  },
+  {
+    "title": "UCLA–UC Santa Barbara men's soccer rivalry",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 46
+  },
+  {
+    "title": "Uniformed derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Uzbek El Clasico",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Valencia derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Vallès derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Varna derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Volos derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Volunteer Shield",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Voyageurs Cup",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Waasland derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Wembley Wizards",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "West Country derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "West London derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "West Ukrainian football derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "West Yorkshire derbies",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "West derby (Romania)",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Western Norway derbies",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Women's Clásico",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Yadanarbon F.C.–Yangon United F.C. rivalry",
+    "reason": "p_raw non trovato",
+    "p_raw": null
+  },
+  {
+    "title": "Yokohama derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Zurich derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Örökrangadó",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Östgötaderbyt",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Østfold derbies",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "İzmir derby",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Ōu Honsen",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 17
+  },
+  {
+    "title": "Seville derby",
+    "reason": "lega non in Opta o sconosciuta",
+    "p_raw": 144
+  },
+  {
+    "title": "Derby Paulista",
+    "reason": "team1 or team2 missing or national team"
+  },
+  {
+    "title": "Manchester United F.C. 1–6 Manchester City F.C.",
+    "reason": "False positive: specific match"
+  },
+  {
+    "title": "Manchester United F.C. 8–2 Arsenal F.C.",
+    "reason": "False positive: specific match"
+  },
+  {
+    "title": "Army–Navy Cup",
+    "reason": "False positive: Cup/Trophy page instead of rivalry"
+  },
+  {
+    "title": "Arsenal F.C.–West Ham United F.C. rivalry",
+    "reason": "False positive: Generic 200 pattern for London derbies"
+  },
+  {
+    "title": "Barnet F.C.–Wealdstone F.C. rivalry",
+    "reason": "False positive: Generic 200 pattern for London derbies"
+  },
+  {
+    "title": "Chelsea F.C.–Crystal Palace F.C. rivalry",
+    "reason": "False positive: Generic 200 pattern for London derbies"
+  },
+  {
+    "title": "Chelsea F.C.–Millwall F.C. rivalry",
+    "reason": "False positive: Generic 200 pattern for London derbies"
+  },
+  {
+    "title": "Chelsea F.C.–West Ham United F.C. rivalry",
+    "reason": "False positive: Generic 200 pattern for London derbies"
+  },
+  {
+    "title": "D.C. United–Philadelphia Union rivalry",
+    "reason": "False positive: p_raw unrealistically high (>2000)"
+  },
+  {
+    "title": "Dulwich Hamlet F.C.–Tooting & Mitcham F.C. rivalry",
+    "reason": "False positive: Generic 200 pattern for London derbies"
+  },
+  {
+    "title": "Gdańsk Derby",
+    "reason": "False positive: HTML/Wiki markup in team name"
+  },
+  {
+    "title": "Jing–Hu rivalry",
+    "reason": "False positive: City names instead of clubs"
+  },
+  {
+    "title": "Kings' Cup (United States)",
+    "reason": "False positive: HTML/Wiki markup in team name"
+  },
+  {
+    "title": "LIPAFC",
+    "reason": "False positive: HTML comment in team name"
+  },
+  {
+    "title": "RSC Anderlecht–Club Brugge KV rivalry",
+    "reason": "Duplicate team pairing"
   }
 ]

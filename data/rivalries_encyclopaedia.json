@@ -159,7 +159,7 @@
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:21:25.993841+00:00",
     "logo1": null,
-    "logo2": null
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/IFK_Goteborg_logo.svg&width=300"
   },
   {
     "id": "aberdeen_f_c_rangers_f_c_rivalry",
@@ -734,8 +734,8 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:23:52.990142+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Arsenal_FC.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Chelsea_FC.svg&width=300"
   },
   {
     "id": "arsenal_f_c_manchester_city_f_c_rivalry",
@@ -752,8 +752,8 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:23:56.418488+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Arsenal_FC.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Manchester_City_FC_badge.svg&width=300"
   },
   {
     "id": "arsenal_f_c_manchester_united_f_c_rivalry",
@@ -770,8 +770,8 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:24:01.439679+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Arsenal_FC.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Manchester_United_FC_crest.svg&width=300"
   },
   {
     "id": "arsenal_f_c_west_ham_united_f_c_rivalry",
@@ -788,8 +788,8 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:24:05.691435+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Arsenal_FC.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/West_Ham_United_FC_logo.svg&width=300"
   },
   {
     "id": "ashdod_derby",
@@ -1166,8 +1166,8 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:25:41.446171+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Barnet_FC.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Wealdstone_FC_crest.svg&width=300"
   },
   {
     "id": "basque_derby",
@@ -1400,8 +1400,8 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:26:39.334165+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Beijing_Guoan_F.C.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Shandong_Taishan_Football_Club.svg&width=300"
   },
   {
     "id": "beijing_derby",
@@ -1454,8 +1454,8 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:26:50.148689+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Beitar_Jerusalem.png&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Hapoel_Tel_Aviv_F.C.png&width=300"
   },
   {
     "id": "belgium_france_football_rivalry",
@@ -1509,7 +1509,7 @@
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:27:04.624093+00:00",
     "logo1": null,
-    "logo2": null
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Fenerbah%C3%A7e.svg&width=300"
   },
   {
     "id": "besiktas_galatasaray_rivalry",
@@ -1761,7 +1761,7 @@
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:28:06.312193+00:00",
     "logo1": null,
-    "logo2": null
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Crystal_Palace_FC_logo_%282022%29.svg&width=300"
   },
   {
     "id": "brimstone_cup",
@@ -1940,8 +1940,8 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:28:52.577440+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Logo_of_CF_Montreal_2023.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Vancouver_Whitecaps_logo.svg&width=300"
   },
   {
     "id": "concacaf_cup",
@@ -2193,7 +2193,7 @@
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:30:05.680585+00:00",
     "logo1": null,
-    "logo2": null
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Forge_FC_logo.svg&width=300"
   },
   {
     "id": "central_coast_mariners_fc_western_sydney_wanderers_fc_rivalry",
@@ -2228,8 +2228,8 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:30:13.660681+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Chelsea_FC.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Crystal_Palace_FC_logo_%282022%29.svg&width=300"
   },
   {
     "id": "chelsea_f_c_leeds_united_f_c_rivalry",
@@ -2246,8 +2246,8 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:30:17.393600+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Chelsea_FC.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Leeds_United_F.C._logo.svg&width=300"
   },
   {
     "id": "chelsea_f_c_liverpool_f_c_rivalry",
@@ -2264,7 +2264,7 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:30:20.847603+00:00",
-    "logo1": null,
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Chelsea_FC.svg&width=300",
     "logo2": null
   },
   {
@@ -2282,8 +2282,8 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:30:25.681012+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Chelsea_FC.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Millwall_FC_crest.svg&width=300"
   },
   {
     "id": "chelsea_f_c_tottenham_hotspur_f_c_rivalry",
@@ -2300,7 +2300,7 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:30:29.384453+00:00",
-    "logo1": null,
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Chelsea_FC.svg&width=300",
     "logo2": null
   },
   {
@@ -2318,8 +2318,8 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:30:32.943318+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Chelsea_FC.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/West_Ham_United_FC_logo.svg&width=300"
   },
   {
     "id": "chilean_superclasico",
@@ -3074,7 +3074,7 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:33:50.784167+00:00",
-    "logo1": null,
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/CAHN_FC_logo.svg&width=300",
     "logo2": null
   },
   {
@@ -3092,7 +3092,7 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:33:55.891651+00:00",
-    "logo1": null,
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/CAHN_FC_logo.svg&width=300",
     "logo2": null
   },
   {
@@ -3470,8 +3470,8 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:35:42.074041+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/D.C._United_logo_%282016%29.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Logo_of_New_England_Revolution_%282021%29.svg&width=300"
   },
   {
     "id": "d_c_united_philadelphia_union_rivalry",
@@ -3488,8 +3488,8 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:35:47.363414+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/D.C._United_logo_%282016%29.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Philadelphia_Union_2018_logo.svg&width=300"
   },
   {
     "id": "daan_mogot_derby",
@@ -4371,7 +4371,7 @@
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:39:06.967857+00:00",
     "logo1": null,
-    "logo2": null
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/HNK_Rijeka.svg&width=300"
   },
   {
     "id": "dirty_river_derby",
@@ -4514,8 +4514,8 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:39:46.204519+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Dulwich_Hamlet_F.C._logo.png&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Tooting%26Mitcham.png&width=300"
   },
   {
     "id": "dundee_derby",
@@ -5036,7 +5036,7 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:41:52.591619+00:00",
-    "logo1": null,
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Esp%C3%A9rance_Sportive_de_Tunis_logo.png&width=300",
     "logo2": null
   },
   {
@@ -5270,8 +5270,8 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:42:43.773228+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/FC_Augsburg_logo.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/TSV_1860_M%C3%BCnchen.svg&width=300"
   },
   {
     "id": "fc_barcelona_ac_milan_rivalry",
@@ -5325,7 +5325,7 @@
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:42:58.888515+00:00",
     "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/FC_Porto.svg&width=300",
-    "logo2": null
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Sporting_Clube_de_Portugal_logo_%282026%29.svg&width=300"
   },
   {
     "id": "famagusta_derby",
@@ -5576,8 +5576,8 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:43:57.594285+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/GAIS_logo.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/IFK_Goteborg_logo.svg&width=300"
   },
   {
     "id": "gabes_derby",
@@ -5613,7 +5613,7 @@
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:44:05.938445+00:00",
     "logo1": null,
-    "logo2": null
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Leeds_United_F.C._logo.svg&width=300"
   },
   {
     "id": "galician_derby",
@@ -6008,8 +6008,8 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:45:34.388641+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Helsingborgs_IF_logo.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Malmo_FF_logo.svg&width=300"
   },
   {
     "id": "heritage_cup_mls",
@@ -6224,8 +6224,8 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:46:24.749119+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/IFK_Goteborg_logo.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Malmo_FF_logo.svg&width=300"
   },
   {
     "id": "ifk_goteborg_orgryte_is_rivalry",
@@ -6242,7 +6242,7 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:46:30.134582+00:00",
-    "logo1": null,
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/IFK_Goteborg_logo.svg&width=300",
     "logo2": null
   },
   {
@@ -6261,7 +6261,7 @@
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:46:33.600283+00:00",
     "logo1": null,
-    "logo2": null
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Malmo_FF_logo.svg&width=300"
   },
   {
     "id": "ijsselderby",
@@ -6513,7 +6513,7 @@
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:47:30.905475+00:00",
     "logo1": null,
-    "logo2": null
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/HNK_Rijeka.svg&width=300"
   },
   {
     "id": "italy_spain_football_rivalry",
@@ -7124,8 +7124,8 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:49:40.352006+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Leeds_United_F.C._logo.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Manchester_United_FC_crest.svg&width=300"
   },
   {
     "id": "leeds_united_f_c_millwall_f_c_rivalry",
@@ -7142,8 +7142,8 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:49:43.959736+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Leeds_United_F.C._logo.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Millwall_FC_crest.svg&width=300"
   },
   {
     "id": "leicester_city_f_c_nottingham_forest_f_c_rivalry",
@@ -7251,7 +7251,7 @@
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:50:07.324257+00:00",
     "logo1": null,
-    "logo2": null
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Manchester_City_FC_badge.svg&width=300"
   },
   {
     "id": "liverpool_f_c_manchester_united_f_c_rivalry",
@@ -7269,7 +7269,7 @@
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:50:10.650293+00:00",
     "logo1": null,
-    "logo2": null
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Manchester_United_FC_crest.svg&width=300"
   },
   {
     "id": "london_derbies",
@@ -7736,8 +7736,8 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:51:51.624167+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Millwall_FC_crest.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/West_Ham_United_FC_logo.svg&width=300"
   },
   {
     "id": "milwaukee_cup",
@@ -8420,8 +8420,8 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:54:23.447471+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/NK_Osijek_logo.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/HNK_Rijeka.svg&width=300"
   },
   {
     "id": "pacific_fc_vancouver_fc_rivalry",
@@ -8438,8 +8438,8 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:54:27.107829+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Pacific_FC_logo.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Vancouver_FC_logo.svg&width=300"
   },
   {
     "id": "palma_derby",
@@ -8726,8 +8726,8 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:55:30.461392+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Portland_Timbers_logo.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Seattle_Sounders_logo.svg&width=300"
   },
   {
     "id": "portland_timbers_vancouver_whitecaps_rivalry",
@@ -8744,8 +8744,8 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:55:43.803470+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Portland_Timbers_logo.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Vancouver_Whitecaps_logo.svg&width=300"
   },
   {
     "id": "portugal_spain_football_rivalry",
@@ -9374,8 +9374,8 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:57:57.930841+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Seattle_Sounders_logo.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Vancouver_Whitecaps_logo.svg&width=300"
   },
   {
     "id": "second_city_derby",
@@ -9770,8 +9770,8 @@
     "summary_it": "",
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T08:59:26.128351+00:00",
-    "logo1": null,
-    "logo2": null
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Sporting_Kansas_City_logo.svg&width=300",
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Logo_of_St._Louis_City_SC.svg&width=300"
   },
   {
     "id": "sporting_boavista_rivalry_of_praia",
@@ -10419,7 +10419,7 @@
     "source": "Wikipedia",
     "data_retrieved": "2026-09-22T09:01:56.081471+00:00",
     "logo1": null,
-    "logo2": null
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/West_Ham_United_FC_logo.svg&width=300"
   },
   {
     "id": "traditional_derby",
