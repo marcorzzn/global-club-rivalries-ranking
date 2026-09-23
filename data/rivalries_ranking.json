@@ -237,7 +237,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Derby_della_Capitale",
     "data_retrieved": "2026-09-22T08:40:12.922876+00:00",
     "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/AS_Roma_logo_%282017%29.svg&width=300",
-    "logo2": "https://upload.wikimedia.org/wikipedia/commons/2/23/Lazio_through_the_ages_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original"
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/S.S._Lazio_badge.svg&width=300"
   },
   {
     "id": "derby_di_torino",
@@ -261,7 +261,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Derby_di_Torino",
     "data_retrieved": "2026-09-22T08:40:15.412165+00:00",
     "logo1": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-    "logo2": "https://upload.wikimedia.org/wikipedia/commons/2/22/Stadio_Olimpico_in_Turin%2C_2007%2C_Torino_v_Pe%C3%B1arol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original"
+    "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Torino_FC_Logo.svg&width=300"
   },
   {
     "id": "derby_della_lanterna",
@@ -284,7 +284,7 @@
     "last_year_source": "Wikipedia infobox",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Derby_della_Lanterna",
     "data_retrieved": "2026-09-22T08:40:17.691235+00:00",
-    "logo1": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Genoa_through_the_ages_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "logo1": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/Genoa_CFC_crest.svg&width=300",
     "logo2": "https://en.wikipedia.org/w/index.php?title=Special:Redirect/file/U.C._Sampdoria_logo.svg&width=300"
   },
   {
